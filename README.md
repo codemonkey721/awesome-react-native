@@ -29,7 +29,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [React Native: Initial Thoughts (opinion)](http://unredacted.redalemeden.com/2015/initial-thoughts-about-react-native/)
 - [A Dynamic Crazy Native Mobile Future Powered by Javascript](https://medium.com/@clayallsopp/a-dynamic-crazy-native-mobile-future-powered-by-javascript-70f2d56b1987)
 - [ReactNative NES & More](http://moduscreate.com/react-native-has-landed/)
-
+- [React Native Installation and Setup](https://github.com/checkraiser/beginning-react-native/blob/master/1.Installation_and_setup.md)
 
 ## Components
 
@@ -38,6 +38,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [react-canvas](https://github.com/Flipboard/react-canvas)
 - [react-native-icons](https://github.com/corymsmith/react-native-icons), [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
 - [react-active-community](https://github.com/ericvicenti/react-native-community) A list of community-built React Native contributions
+- [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel) Create looped carousel of views or images
 
 ## Utilities
 
