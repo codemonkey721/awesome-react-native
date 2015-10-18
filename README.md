@@ -131,7 +131,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-global-event-emitter](https://github.com/paramaggarwal/react-native-global-event-emitter/) - Shared event emitter between native and JS for React Native.
 - [react-native-globalize](https://github.com/joshswan/react-native-globalize/) - Globalization helper for React Native
 - [react-native-google-analytics](https://github.com/lwansbrough/react-native-google-analytics/) - Google Analytics for React Native!
-- [react-native-google-places-autocomplete](https://github.com/FaridSafi/react-native-google-places-autocomplete) - Customizable Google Places autocomplete component for iOS and Android React-Native apps
 - [react-native-google-signin](https://github.com/apptailor/react-native-google-signin/) - Google Signin for your react native applications
 - [react-native-grid-view](https://github.com/lucholaf/react-native-grid-view/) - React Native Grid/Collection View component
 - [react-native-html-render](https://github.com/soliury/react-native-html-render/) - A html render for react-native
@@ -337,6 +336,7 @@ Get a head start on development with an existing seed.
 ## Releases
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
+- [0.13.0-rc](https://github.com/facebook/react-native/releases/tag/v0.13.0-rc)
 - [0.12.0](https://github.com/facebook/react-native/releases/tag/v0.12.0)
 - [0.11.0-rc](https://github.com/facebook/react-native/releases/tag/v0.11.0-rc)
 - [0.10.0-rc](https://github.com/facebook/react-native/releases/tag/v0.10.0-rc)
