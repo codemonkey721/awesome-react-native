@@ -50,7 +50,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 
 - [apsl-react-native-button](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
-- [firebase-react-native](https://github.com/sjmueller/firebase-react-native) - firebase client api hacked to get working with react-native
 - [gl-react-native](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
 - [k-react-native-swipe-unlocker](https://github.com/leowang721/k-react-native-swipe-unlocker) - A simple swipe unlock for React Native
 - [markdown-react-native](https://github.com/lwansbrough/react-native-markdown) - A Markdown Component For React Native
@@ -303,6 +302,7 @@ Get a head start on development with an existing seed.
 - [Kakapo -  ambient sound mixer](https://github.com/bluedaniel/Kakapo-native), [iTunes](https://itunes.apple.com/us/app/kakapo/id1046673139)
 - [Finance React Native](https://github.com/7kfpun/FinanceReactNative) - iOS's stocks app clone written in React Native for demo purpose.
 - [Redux Demo](https://github.com/chentsulin/react-native-counter-ios-android) - Minimal implement of redux counter example on ReactNative iOS and Android
+- [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - A mobile, desktop and website App with the same code
 
 ## Tutorials
 
@@ -353,4 +353,3 @@ Get a head start on development with an existing seed.
 - [0.6.0-rc](https://github.com/facebook/react-native/releases/tag/v0.6.0-rc)
 - [0.5.0-rc](https://github.com/facebook/react-native/releases/tag/v0.5.0-rc)
 - [0.4](http://facebook.github.io/react/blog/2015/04/17/react-native-v0.4.html)
-
