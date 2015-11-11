@@ -255,7 +255,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-xmpp](https://github.com/aksonov/react-native-xmpp/) - XMPP Library for React Native
 - [react-native-youtube](https://github.com/paramaggarwal/react-native-youtube/) - A  component for React Native.
 - [react-native-fabric-digits](https://github.com/JeanLebrument/react-native-fabric-digits) Fabric Digits wrapper for React-Native
-- [react-native-android-speech](https://github.com/mihirsoni/react-native-android-speech/) - A text-to-speech library for Android React Native.
 
 ## Tooling
 
@@ -285,6 +284,7 @@ Get a head start on development with an existing seed.
 - [Github repo examples](https://github.com/facebook/react-native/tree/master/Examples)
 - [Hacker News iOS](https://github.com/iSimar/HackerNews-React-Native)
 - [ReactNativeHackerNews](https://github.com/jsdf/ReactNativeHackerNews)
+- [ReactNativeRedditReader](https://github.com/akveo/react-native-reddit-reader)
 - [Premier League](https://github.com/ennioma/react-native-premier-league)
 - [Buyscreen sample](https://github.com/appintheair/react-native-buyscreen)
 - [NewsWatch video viewer](https://github.com/bradoyler/newswatch-react-native)
