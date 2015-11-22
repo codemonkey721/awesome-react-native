@@ -38,7 +38,7 @@ Content published on the Web.
 - [React-Native layout examples](http://browniefed.com/blog/2015/06/07/react-native-layout-examples/)
 - [React Native in Production](https://medium.com/@clayallsopp/react-native-in-production-2b3c6e6078ad) - notes from Clay Allsop
 - [React Native for Android](https://code.facebook.com/posts/1189117404435352/) and [issues](http://facebook.github.io/react-native/docs/known-issues.html)
-- [React May Have Just Ended The Native Vs. Web Debate](http://readwrite.com/2015/09/25/react-native-mobile-apps-web-apps-marc-shilling)
+- [An iOS Developer on React Native](https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0)
 - [React Native and WebRTC](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/)
 - [React Native Debugger Internals](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691)
 
@@ -307,7 +307,6 @@ Get a head start on development with an existing seed.
 - [Finance React Native](https://github.com/7kfpun/FinanceReactNative) - iOS's stocks app clone written in React Native for demo purpose.
 - [Redux Demo](https://github.com/chentsulin/react-native-counter-ios-android) - Minimal implement of redux counter example on ReactNative iOS and Android
 - [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - A mobile, desktop and website App with the same code
-- [Posters_Galore_Android](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
 
 ## Tutorials
 
