@@ -38,7 +38,7 @@ Content published on the Web.
 - [React-Native layout examples](http://browniefed.com/blog/2015/06/07/react-native-layout-examples/)
 - [React Native in Production](https://medium.com/@clayallsopp/react-native-in-production-2b3c6e6078ad) - notes from Clay Allsop
 - [React Native for Android](https://code.facebook.com/posts/1189117404435352/) and [issues](http://facebook.github.io/react-native/docs/known-issues.html)
-- [An iOS Developer on React Native](https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0)
+- [React May Have Just Ended The Native Vs. Web Debate](http://readwrite.com/2015/09/25/react-native-mobile-apps-web-apps-marc-shilling)
 - [React Native and WebRTC](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/)
 - [React Native Debugger Internals](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691)
 
@@ -257,6 +257,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-android-speech](https://github.com/mihirsoni/react-native-android-speech/) - A text-to-speech library for Android React Native.
 - [react-native-HsvToRgb](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 - [react-native-gcm-android](https://github.com/oney/react-native-gcm-android) - GCM for Android
+- [react-native-zip-archive](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
 
 ## Tooling
 
