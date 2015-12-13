@@ -14,6 +14,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Articles](#articles)
 - [Components](#components)
 - [Utilities] (#utilities)
+- [Seeds] (#seeds)
 - [Libraries] (#libraries)
 - [Examples](#examples)
 - [Tutorials](#tutorials)
@@ -337,7 +338,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-xmpp](https://github.com/aksonov/react-native-xmpp/) - XMPP Library for React Native
 - [react-native-youtube](https://github.com/paramaggarwal/react-native-youtube/) - A  component for React Native.
 - [react-native-zip-archive](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
-
+- [react-native-selectme](https://github.com/gs-akhan/react-native-select) - Dropdown for Android and IOS React Native.
 
 ## Tooling
 
@@ -357,6 +358,7 @@ Get a head start on development with an existing seed.
 - [react-native-es6-reflux](https://github.com/filp/react-native-es6-reflux)
 - [react-native-tabbed](https://github.com/rxb/react-native-tabbed)
 - [ReactNativeTS](https://github.com/mrpatiwi/ReactNativeTS) - Typescript with [alt](http://alt.js.org/) and router
+- [Snowflake](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
 
 ## Libraries
 
