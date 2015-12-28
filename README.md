@@ -14,9 +14,9 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Articles](#articles)
 - [Internals](#internals)
 - [Components](#components)
-- [Utilities] (#utilities)
-- [Seeds] (#seeds)
-- [Libraries] (#libraries)
+- [Utilities](#utilities)
+- [Seeds](#seeds)
+- [Libraries](#libraries)
 - [Examples](#examples)
 - [Tutorials](#tutorials)
 - [Books](#books)
@@ -392,15 +392,17 @@ Useful React Native tooling.
 - [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
 - [AppHub](https://apphub.io/) - Update React Native apps, instantly
 - [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
+- [rnpm](https://github.com/rnpm/rnpm) - react native package manager
 
 ## Seeds
 
 Get a head start on development with an existing seed.
 
-- [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel](https://github.com/roman01la/react-native-babel)
 - [react-native-es6-reflux](https://github.com/filp/react-native-es6-reflux)
+- [react-native-hot-redux-starter](https://github.com/adampash/react-native-hot-redux-starter)
 - [react-native-tabbed](https://github.com/rxb/react-native-tabbed)
+- [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [ReactNativeTS](https://github.com/mrpatiwi/ReactNativeTS) - Typescript with [alt](http://alt.js.org/) and router
 - [Snowflake](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
 
@@ -439,30 +441,30 @@ Fully working app examples and open source apps.
 - [Redux Demo](https://github.com/chentsulin/react-native-counter-ios-android) - Minimal implement of redux counter example on ReactNative iOS and Android
 - [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - A mobile, desktop and website App with the same code
 - [Posters_Galore_Android](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
+- [uestc-bbs-react-native](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux
 
 ## Tutorials
 
 Walkthroughs and tutorials that help you learn React Native.
 
-- [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
-- [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
+- [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
+- [Introducing React Native (on Ray Wenderlich's)](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
+- [Facebook Login With React Native](http://brentvatne.ca/facebook-login-with-react-native)
+- [Enabling Live Reload](https://www.reddit.com/r/reactnative/comments/30hbg3/enabling_live_reload/)
 - [Building Custom React Native Components From Scratch](http://moduscreate.com/react_native_custom_components_ios/)
 - [Custom Native iOS Views with React Native](http://almostobsolete.net/react-native/custom-ios-views-with-react-native.html)
-- [Enabling Live Reload](https://www.reddit.com/r/reactnative/comments/30hbg3/enabling_live_reload/)
-- [Facebook Login With React Native](http://brentvatne.ca/facebook-login-with-react-native)
 - [Integrating Parse and React Native for iOS](http://www.raywenderlich.com/106369/integrating-parse-react-native-ios)
-- [Introducing React Native (on Ray Wenderlich's)](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
-- [Navigator Demo](https://github.com/h87kg/NavigatorDemo)
-- [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
-- [React Native Example App: Navigation](http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/)
 - [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
 - [React Native Youtube Animated Video Slide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/)
-- [React Native and Socket.io](http://browniefed.com/blog/2015/05/16/react-native-and-socket-dot-io/)
 - [React-Native Animated with React-Art - Firework Tap To Shoot](http://browniefed.com/blog/2015/08/29/react-native-animated-with-react-art-firework-show/)
-- [React-native Animated API Basic Example](http://browniefed.com/blog/2015/07/26/react-native-animated-api-basic-example/)
+- [React-native press and hold button actions](http://browniefed.com/blog/2015/08/22/react-native-press-and-hold-button-actions/)
 - [React-native Animated API with PanResponder](http://browniefed.com/blog/2015/08/15/react-native-animated-api-with-panresponder/)
 - [React-native Animated ScrollView Row Swipe Actions](http://browniefed.com/blog/2015/08/01/react-native-animated-listview-row-swipe/)
-- [React-native press and hold button actions](http://browniefed.com/blog/2015/08/22/react-native-press-and-hold-button-actions/)
+- [React-native Animated API Basic Example](http://browniefed.com/blog/2015/07/26/react-native-animated-api-basic-example/)
+- [React Native and Socket.io](http://browniefed.com/blog/2015/05/16/react-native-and-socket-dot-io/)
+- [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
+- [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
+- [React Native Example App: Navigation](http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/)
 - [Simple FaceMash clone in React Native](http://ryanclark.me/going-native-with-react/)
 
 
@@ -494,6 +496,3 @@ Assortment of conference and training videos.
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Current: 0.17](https://github.com/facebook/react-native/releases/tag/v0.17.0-rc)
-
-
-
