@@ -104,6 +104,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-custom-actsheet ★19](https://github.com/guodong000/react-native-custom-actsheet) - A custom ActionSheet for react-native
 - [react-native-dashed-border ★15](https://github.com/chirag04/react-native-dashed-border) - A  element for react-native
 - [react-native-date ★21](https://github.com/nucleartux/react-native-date) - React Native date and time pickers for Android
+- [react-native-timepicker](https://github.com/milasevicius/react-native-timepicker) - React Native timepicker for iOS
 - [react-native-device-display ★43](https://github.com/kkjdaniel/react-native-display-view) - A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.
 - [react-native-dialogs ★64](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for https://github.com/afollestad/material-dialogs
 - [react-native-double-buffer ★1](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
@@ -408,7 +409,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 ### Integrations
 
 - [react-native-android-vitamio ★24](https://github.com/sejoker/react-native-android-vitamio) - React-native component for android Vitamio video player
-- [react-native-braintree ★23](https://github.com/alawong/react-native-braintree) - A react native interface for integrating payments using Braintree's v.zero SDK (currently iOS only)
 - [react-native-braintree-android ★5](https://github.com/surialabs/react-native-braintree-android) - Braintree's native Drop-in Payment UI for Android
 - [react-native-card-io ★19](https://github.com/kayla-tech/react-native-card-io) - React Native component for card.io
 - [react-native-conekta ★0](https://github.com/zo0r/react-native-conekta) - Conekta SDK for React Native
