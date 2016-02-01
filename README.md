@@ -143,7 +143,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-link ★2](https://github.com/650Industries/react-native-link) - A link component, similar to <A href from HTML
 - [react-native-looped-carousel ★184](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images
 - [react-native-mapbox-gl ★305](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
-- [react-native-maps ★393](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
 - [react-native-marquee-label ★6](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 - [react-native-masked-view ★19](https://github.com/gilbox/react-native-masked-view) - A  element for react-native
 - [react-native-material-kit ★498](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
@@ -409,6 +408,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 ### Integrations
 
 - [react-native-android-vitamio ★24](https://github.com/sejoker/react-native-android-vitamio) - React-native component for android Vitamio video player
+- [react-native-braintree ★23](https://github.com/alawong/react-native-braintree) - A react native interface for integrating payments using Braintree's v.zero SDK (currently iOS only)
 - [react-native-braintree-android ★5](https://github.com/surialabs/react-native-braintree-android) - Braintree's native Drop-in Payment UI for Android
 - [react-native-card-io ★19](https://github.com/kayla-tech/react-native-card-io) - React Native component for card.io
 - [react-native-conekta ★0](https://github.com/zo0r/react-native-conekta) - Conekta SDK for React Native
