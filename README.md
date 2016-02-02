@@ -144,6 +144,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-link ★2](https://github.com/650Industries/react-native-link) - A link component, similar to <A href from HTML
 - [react-native-looped-carousel ★184](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images
 - [react-native-mapbox-gl ★305](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
+- [react-native-maps ★393](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
 - [react-native-marquee-label ★6](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 - [react-native-masked-view ★19](https://github.com/gilbox/react-native-masked-view) - A  element for react-native
 - [react-native-material-kit ★498](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
@@ -243,7 +244,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-html ★7](https://github.com/turingou/react-native-html) - render html as react native custom elements
 - [react-native-htmltext ★40](https://github.com/siuying/react-native-htmltext) - Use HTML like markup to create stylized text in react-native.
 - [react-native-hypertext ★11](https://github.com/agentcooper/react-native-hypertext) - React Native module to render hypertext (text with links)
-
+- [react-native-universal-modal ★0](https://github.com/bokuweb/react-native-universal-modal) - Universal simple modal component for React Native
 
 ### Analytics
 
@@ -284,6 +285,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 ### Styling
 - [cairn](https://github.com/adamterlson/cairn) - Simple, string-based style selector engine with support for basic inheritance.
 - [react-native-css](https://github.com/sabeurthabti/react-native-css) - Style React-Native components with css and built in support for SASS.
+- [react-native-extended-stylesheet](https://github.com/vitalets/react-native-extended-stylesheet) - Extend React Native stylesheet with variables, relative units, percents, math operations, scaling and other stuff.
 
 
 ### System
@@ -312,6 +314,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-device-info ★82](https://github.com/rebeccahughes/react-native-device-info) - Get device information using react-native
 - [react-native-device-motion ★15](https://github.com/paramaggarwal/react-native-device-motion) - iOS device motion wrapper for React Native.
 - [react-native-device ★86](https://github.com/GertjanReynaert/react-native-device) - UIDevice wrapper for React Native
+- [react-native-discovery ★1](https://github.com/joshblour/react-native-discovery) - Discover nearby devics using BLE. Turn iOS and Android devices into beacons
 - [react-native-fs ★135](https://github.com/johanneslumpe/react-native-fs) - Native filesystem access for react-native
 - [react-native-gcm-android ★42](https://github.com/oney/react-native-gcm-android) - GCM for Android
 - [react-native-gcm ★37](https://github.com/bh5-pods/react-native-gcm) - Google Cloud Messaging for React Native
@@ -409,6 +412,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 ### Integrations
 
 - [react-native-android-vitamio ★24](https://github.com/sejoker/react-native-android-vitamio) - React-native component for android Vitamio video player
+- [react-native-braintree ★23](https://github.com/alawong/react-native-braintree) - A react native interface for integrating payments using Braintree's v.zero SDK (currently iOS only)
 - [react-native-braintree-android ★5](https://github.com/surialabs/react-native-braintree-android) - Braintree's native Drop-in Payment UI for Android
 - [react-native-card-io ★19](https://github.com/kayla-tech/react-native-card-io) - React Native component for card.io
 - [react-native-conekta ★0](https://github.com/zo0r/react-native-conekta) - Conekta SDK for React Native
