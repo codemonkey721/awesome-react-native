@@ -150,9 +150,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-material-kit ★623](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
 - [react-native-message-composer ★15](https://github.com/anarchicknight/react-native-message-composer) - React Native module bridge to iOS MFMessageComposeViewController
 - [react-native-modalbox ★206](https://github.com/maxs15/react-native-modalbox) - A  component for react-native
-- [react-native-mswiper](https://github.com/manandmoon/react-native-swiper/) - Swiper component for React Native.
-<!-- error fetching stars for manandmoon/react-native-swiper: 404 Not Found -->
-<!-- error fetching stars for manandmoon/react-native-swiper: 404 Not Found -->
 - [react-native-multi-slider ★25](https://github.com/JackDanielsAndCode/react-native-multi-slider) - Pure JS slider component with multiple markers for React Native
 - [react-native-navbar ★543](https://github.com/Kureev/react-native-navbar) - Simple customizable navbar component for react-native
 - [react-native-navigation-bar ★17](https://github.com/beefe/react-native-navigation-bar) - react-native-navigation-bar
@@ -203,6 +200,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-selectme ★22](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native
 - [react-native-showdown ★1](https://github.com/jerolimov/react-native-showdown) - React-native component which renders markdown into a webview!
 - [react-native-simple-button ★3](https://github.com/remobile/react-native-simple-button) - A simple react-native button
+- [react-native-simple-router ★21](https://github.com/react-native-simple-router-community/react-native-simple-router) - A community maintained router component for React Native
 - [react-native-simpledialog-android ★13](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
 - [react-native-slidable-tab-bar ★10](https://github.com/pwbrown/react-native-slidable-tab-bar) - Slidable tab bar for instant view rendering(react-native)
 - [react-native-slider ★103](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript  component for react-native
@@ -273,7 +271,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 
 ### Build & Development
 
-- [babel-preset-react-native ★8](https://github.com/exponentjs/babel-preset-react-native) - Preset Babel plugins for React Native applications
 - [react-native-assets ★15](https://github.com/llanox/react-native-assests) - Module to manage assets. It allows you download assests from a network and store into a specific local folder on iOS
 - [react-native-build-cli ★0](https://github.com/adonpro/react-native-build-cli) - a cli tool for react-native build
 - [react-native-code-push ★617](https://github.com/Microsoft/react-native-code-push) - React Native plugin for the CodePush service
@@ -446,6 +443,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 ### Other Platforms
 
 - [react-native-watchkit ★0](https://github.com/MystK/react-native-watchkit) - react native for WatchKit
+- [react-native-desktop](https://github.com/ptmt/react-native-desktop) - React Native for OS X
 
 ## Tooling
 
@@ -562,4 +560,5 @@ Assortment of conference and training videos.
 ## Releases
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
-- [Current: 0.17](https://github.com/facebook/react-native/releases/tag/v0.17.0-rc)
+- [Stable: 0.19](https://github.com/facebook/react-native/releases/tag/v0.19.0)
+- [Next: 0.20 RC 1](https://github.com/facebook/react-native/releases/tag/v0.20.0-rc1)
