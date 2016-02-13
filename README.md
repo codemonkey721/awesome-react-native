@@ -200,7 +200,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-selectme ★22](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native
 - [react-native-showdown ★1](https://github.com/jerolimov/react-native-showdown) - React-native component which renders markdown into a webview!
 - [react-native-simple-button ★3](https://github.com/remobile/react-native-simple-button) - A simple react-native button
-- [react-native-simple-router ★21](https://github.com/react-native-simple-router-community/react-native-simple-router) - A community maintained router component for React Native
 - [react-native-simpledialog-android ★13](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
 - [react-native-slidable-tab-bar ★10](https://github.com/pwbrown/react-native-slidable-tab-bar) - Slidable tab bar for instant view rendering(react-native)
 - [react-native-slider ★103](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript  component for react-native
@@ -506,6 +505,7 @@ Fully working app examples and open source apps.
 - [react-native-nw-react-calculator ★2264](https://github.com/benoitvallon/react-native-nw-react-calculator) - A mobile, desktop and website App with the same code
 - [Posters_Galore_Android ★7](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
 - [uestc-bbs-react-native ★23](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux
+- [Text Blast](https://github.com/SeshApp/text-blast-react-native) - iOS client for MMS text blasting app with analogous [ionic version](https://github.com/SeshApp/text-blast-ionic) for comparison
 
 ## Tutorials
 
@@ -562,3 +562,4 @@ Assortment of conference and training videos.
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Stable: 0.19](https://github.com/facebook/react-native/releases/tag/v0.19.0)
 - [Next: 0.20 RC 1](https://github.com/facebook/react-native/releases/tag/v0.20.0-rc1)
+
