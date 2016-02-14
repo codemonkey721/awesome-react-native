@@ -200,6 +200,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-selectme ★22](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native
 - [react-native-showdown ★1](https://github.com/jerolimov/react-native-showdown) - React-native component which renders markdown into a webview!
 - [react-native-simple-button ★3](https://github.com/remobile/react-native-simple-button) - A simple react-native button
+- [react-native-simple-router ★21](https://github.com/react-native-simple-router-community/react-native-simple-router) - A community maintained router component for React Native
 - [react-native-simpledialog-android ★13](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
 - [react-native-slidable-tab-bar ★10](https://github.com/pwbrown/react-native-slidable-tab-bar) - Slidable tab bar for instant view rendering(react-native)
 - [react-native-slider ★103](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript  component for react-native
@@ -253,6 +254,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 ### Utils & Infra
 
 - [react-native-HsvToRgb ★1](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
+- [react-native-aws-signature](https://github.com/leimd/react-native-aws-signature) - help generate signature required for using AWS API. Necessary to use S3, ec2, or other services.
 - [react-native-bhutils ★0](https://github.com/bh5-pods/react-native-bhutils) - React native utils
 - [react-native-des ★2](https://github.com/remobile/react-native-des) - A des crypto for react-native
 - [react-native-eval ★17](https://github.com/artemyarulin/react-native-eval) - Call any JS functions from your native code
@@ -562,4 +564,3 @@ Assortment of conference and training videos.
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Stable: 0.19](https://github.com/facebook/react-native/releases/tag/v0.19.0)
 - [Next: 0.20 RC 1](https://github.com/facebook/react-native/releases/tag/v0.20.0-rc1)
-
