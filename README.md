@@ -509,7 +509,6 @@ Fully working app examples and open source apps.
 - [Posters_Galore_Android ★7](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
 - [uestc-bbs-react-native ★23](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux
 - [Text Blast](https://github.com/SeshApp/text-blast-react-native) - iOS client for MMS text blasting app with analogous [ionic version](https://github.com/SeshApp/text-blast-ionic) for comparison
-- [iTunesConnect ★4](https://github.com/oney/iTunesConnect) - Unofficial iTunes Connect App
 
 ## Tutorials
 
@@ -564,5 +563,5 @@ Assortment of conference and training videos.
 ## Releases
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
-- [Stable: 0.19](https://github.com/facebook/react-native/releases/tag/v0.19.0)
-- [Next: 0.20 RC 1](https://github.com/facebook/react-native/releases/tag/v0.20.0-rc1)
+- [Stable: 0.20](https://github.com/facebook/react-native/releases/tag/v0.20.0)
+- [Next: latest](https://github.com/facebook/react-native/releases/tag/latest)
