@@ -300,7 +300,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-app-info ★14](https://github.com/Iragne/react-native-app-info) - React Native app info and version
 - [react-native-barcode-scanner ★29](https://github.com/lifuzu/ReactNativeBarcodeScanner) - Barcode scanner for React Native
 - [react-native-barcodescanner ★29](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native
-- [react-native-battery-status ★1](https://github.com/remobile/react-native-battery-status) - A battery-status for react-nativen
+- [react-native-battery-status ★1](https://github.com/remobile/react-native-battery-status) - A battery-status for react-native
 - [react-native-battery ★3](https://github.com/oojr/react-native-battery) - A React Native module that returns the battery level/status of a device
 - [react-native-ble ★23](https://github.com/jacobrosenthal/react-native-ble) - React Native BLE using noble api surface
 - [react-native-bluetooth-state ★8](https://github.com/frostney/react-native-bluetooth-state) - Answering the question of "Is my bluetooth on?" in React Native
@@ -510,6 +510,7 @@ Fully working app examples and open source apps.
 - [Posters_Galore_Android ★7](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
 - [uestc-bbs-react-native ★23](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux
 - [Text Blast](https://github.com/SeshApp/text-blast-react-native) - iOS client for MMS text blasting app with analogous [ionic version](https://github.com/SeshApp/text-blast-ionic) for comparison
+- [iTunesConnect ★4](https://github.com/oney/iTunesConnect) - Unofficial iTunes Connect App
 
 ## Tutorials
 
