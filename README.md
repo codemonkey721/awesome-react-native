@@ -202,6 +202,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-root-modal](https://github.com/magicismight/react-native-root-modal/) - react native modal component
 - [react-native-route-navigator ★17](https://github.com/Andr3wHur5t/react-native-route-navigator) - React-Native page navigation using URIs.
 - [react-native-router ★831](https://github.com/t4t5/react-native-router) - Awesome navigation for your native app.
+- [react-native-controllers ★7](https://github.com/wix/react-native-controllers) - Truly native no-compromise iOS navigation for React Native.
 - [react-native-scene-manager ★1](https://github.com/alinz/react-native-scene-manager) - Simple Scene Manager for React-Native
 - [react-native-scrollable-decorator ★15](https://github.com/exponentjs/react-native-scrollable-decorator) - A standard interface for your scrollable React Native components, making it easier to compose components
 - [react-native-scrollable-mixin ★43](https://github.com/exponentjs/react-native-scrollable-mixin) - A standard interface for your scrollable React Native components, making it easier to compose components.
@@ -236,7 +237,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-textinput-utils ★12](https://github.com/DickyT/react-native-textinput-utils) - A react native extension which allows you to control TextInput better.
 - [react-native-timeago ★61](https://github.com/TylerLH/react-native-timeago) - Auto-updating timeago component for React Native
 - [react-native-timer-mixin ★57](https://github.com/reactjs/react-timer-mixin) - TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.
-- [react-native-tinder-swipe-cards](https://github.com/meteor-factory/react-native-tinder-swipe-cards) - Tinder card style swiping.
 - [react-native-toast ★40](https://github.com/remobile/react-native-toast) - A android like toast for react-native support for ios and android
 - [react-native-toolkit ★20](https://github.com/marty-wang/react-native-toolkit) - A collection of common UI components for react native mobile apps.
 - [react-native-tooltip ★62](https://github.com/chirag04/react-native-tooltip) - A react-native wrapper for showing tooltips
