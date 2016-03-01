@@ -208,6 +208,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-scrollable-mixin ★43](https://github.com/exponentjs/react-native-scrollable-mixin) - A standard interface for your scrollable React Native components, making it easier to compose components.
 - [react-native-scrollable-tab-view ★780](https://github.com/brentvatne/react-native-scrollable-tab-view) - This is probably my favorite navigation pattern on Android, I wish it were more common on iOS! This is a very simple JavaScript-only implementation of it for React Native. For more information about how the animations behind this work, check out the Rebou
 - [react-native-scrollview-lazyload ★20](https://github.com/IskenHuang/react-native-scrollview-lazyload) - react-native scrollview with image lazy load
+- [react-native-infinite-scrollview ★1](https://github.com/baspellis/react-native-infinite-scrollview) - ScrollView with infinte paged scrolling (no looping)
 - [react-native-search-bar ★143](https://github.com/umhan35/react-native-search-bar) - The native search bar for react native.
 - [react-native-search ★3](https://github.com/StevenIseki/react-native-search) - Native Search component for react native.
 - [react-native-seekbar-android ★5](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
@@ -278,6 +279,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-bhutils ★0](https://github.com/bh5-pods/react-native-bhutils) - React native utils
 - [react-native-crypto](https://github.com/mvayngrib/react-native-crypto/) - implementation of crypto for React Native
 - [react-native-des ★2](https://github.com/remobile/react-native-des) - A des crypto for react-native
+- [react-native-device-log](https://github.com/olofd/react-native-device-log) - A UI and service for displaying dev-logs on devices.
 - [react-native-eval ★17](https://github.com/artemyarulin/react-native-eval) - Call any JS functions from your native code
 - [react-native-fluxbone ★4](https://github.com/jgable/react-native-fluxbone) - A group of libraries that help with the FluxBone pattern in React Native
 - [react-native-global-event-emitter ★21](https://github.com/paramaggarwal/react-native-global-event-emitter) - Shared event emitter between native and JS for React Native.
@@ -479,6 +481,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-whirlyglobe](https://github.com/jhen0409/react-native-whirlyglobe/) - A React Native component for building Globe/Map with the WhirlyGlobe Maply.
 - [react-native-woopra ★6](https://github.com/isair/react-native-woopra) - Promise based Woopra library for react-native
 - [react-native-axmall-alipay ★1](https://github.com/szq4119/react-native-alipay) - react-native alipay
+- [react-native-signalr ★12](https://github.com/olofd/react-native-signalr) - SignalR-client for react-native
 - [react-native-sumup ★0](https://github.com/APSL/react-native-sumup) - A React Native implementation of SumupSDK.
 
 ### Other Platforms
