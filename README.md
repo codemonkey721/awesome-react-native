@@ -30,7 +30,6 @@ Content published on the Web.
 
 - [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 - [First impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
-- [Wrapping Cocoapods for React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995#.wzp2qq1hn)
 - [60 fps on the mobile web](http://engineering.flipboard.com/2015/02/mobile-web/)
 - [Parse and React (incl. Native)](http://blog.parse.com/2015/03/25/parse-and-react-shared-chemistry/)
 - [React Native: Initial Thoughts (opinion)](http://unredacted.redalemeden.com/2015/initial-thoughts-about-react-native/)
@@ -516,6 +515,7 @@ Useful React Native tooling.
 
 Get a head start on development with an existing seed.
 
+- [react-native-base](https://github.com/infinitered/react_native_base) - Opinionated Android & iOS (optional XDE), ES2015, Mocha Tests, Redux, Sagas, Networking Code, StandardJS compliant
 - [react-native-webpack-starter-kit ★391](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel ★229](https://github.com/roman01la/react-native-babel)
 - [react-native-es6-reflux ★124](https://github.com/filp/react-native-es6-reflux)
