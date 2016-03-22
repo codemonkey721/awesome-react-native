@@ -30,6 +30,7 @@ Content published on the Web.
 
 - [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 - [First impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
+- [Wrapping Cocoapods for React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995#.wzp2qq1hn)
 - [60 fps on the mobile web](http://engineering.flipboard.com/2015/02/mobile-web/)
 - [Parse and React (incl. Native)](http://blog.parse.com/2015/03/25/parse-and-react-shared-chemistry/)
 - [React Native: Initial Thoughts (opinion)](http://unredacted.redalemeden.com/2015/initial-thoughts-about-react-native/)
@@ -442,7 +443,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-file-upload ★39](https://github.com/booxood/react-native-file-upload) - A file upload plugin for react-native
 - [react-native-http ★3](https://github.com/iktw/react-native-jwt) - React native http
 - [react-native-lazyload ★7](https://github.com/magicismight/react-native-lazyload) - lazyload for react native
-- [react-native-meteor ★53](https://github.com/inProgress-team/react-native-meteor) - DDP React-native Client
+- [react-native-meteor ★76](https://github.com/inProgress-team/react-native-meteor) - Full Meteor Client
 - [react-native-multipeer ★43](https://github.com/lwansbrough/react-native-multipeer) - Communicate over ad hoc wifi using Multipeer Connectivity
 - [react-native-networking ★40](https://github.com/eduedix/react-native-networking) - react-native module to download and upload files with AFNetworking
 - [react-native-rest-kit ★25](https://github.com/peter4k/react-native-rest-kit) - A React Native RESTful API kit that use the fetch method
