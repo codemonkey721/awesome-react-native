@@ -28,10 +28,8 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 Content published on the Web.
 
-- [Avoiding the Keyboard](https://shift.infinite.red/avoiding-the-keyboard-in-react-native-56d05b9a1e81#.g1lwixck6)
 - [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 - [First impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
-- [Wrapping Cocoapods for React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995#.wzp2qq1hn)
 - [60 fps on the mobile web](http://engineering.flipboard.com/2015/02/mobile-web/)
 - [Parse and React (incl. Native)](http://blog.parse.com/2015/03/25/parse-and-react-shared-chemistry/)
 - [React Native: Initial Thoughts (opinion)](http://unredacted.redalemeden.com/2015/initial-thoughts-about-react-native/)
@@ -368,6 +366,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-lock-ios ★33](https://github.com/auth0/react-native-lock-ios) - Auth0 Lock for React Native (iOS)
 - [react-native-motion-manager ★73](https://github.com/pwmckenna/react-native-motion-manager) - A react-native interface for using the Gyroscope, Accelerometer and Magnetometer
 - [react-native-passcode-auth](https://github.com/naoufal/react-native-passcode-auth/) - React Native authentication with iOS Passcode.
+- [react-native-permissions ★1](https://github.com/joshblour/react-native-permissions) - From React Native, check if the user has granted access to geolocation, camera, contacts, etc... (iOS only)
 - [react-native-push-notification ★73](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [react-native-reverse-geo ★8](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
 - [react-native-sensor-manager ★2](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
@@ -444,7 +443,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-file-upload ★39](https://github.com/booxood/react-native-file-upload) - A file upload plugin for react-native
 - [react-native-http ★3](https://github.com/iktw/react-native-jwt) - React native http
 - [react-native-lazyload ★7](https://github.com/magicismight/react-native-lazyload) - lazyload for react native
-- [react-native-meteor ★76](https://github.com/inProgress-team/react-native-meteor) - Full Meteor Client
+- [react-native-meteor ★53](https://github.com/inProgress-team/react-native-meteor) - DDP React-native Client
 - [react-native-multipeer ★43](https://github.com/lwansbrough/react-native-multipeer) - Communicate over ad hoc wifi using Multipeer Connectivity
 - [react-native-networking ★40](https://github.com/eduedix/react-native-networking) - react-native module to download and upload files with AFNetworking
 - [react-native-rest-kit ★25](https://github.com/peter4k/react-native-rest-kit) - A React Native RESTful API kit that use the fetch method
@@ -517,7 +516,6 @@ Useful React Native tooling.
 
 Get a head start on development with an existing seed.
 
-- [react-native-base](https://github.com/infinitered/react_native_base) - Opinionated Android & iOS (optional XDE), ES2015, Mocha Tests, Redux, Sagas, Networking Code, StandardJS compliant
 - [react-native-webpack-starter-kit ★391](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel ★229](https://github.com/roman01la/react-native-babel)
 - [react-native-es6-reflux ★124](https://github.com/filp/react-native-es6-reflux)
@@ -567,8 +565,6 @@ Fully working app examples and open source apps.
 - [react-native-gitfeed ★171](https://github.com/xiekw2010/react-native-gitfeed) - Yet another Github client written with react-native(iOS & android)
 - [SendBirdReactNativeSample](https://github.com/smilefam/SendBird-JavaScript/tree/master/basic-react-native-sample/SendBirdReactNativeSample) - Messaging Platform 'SendBird' React Native version Sample Code.
 - [rndrawer-implemented-rnrouter](https://github.com/efkan/rndrawer-implemented-rnrouter) - A react-native-drawer implemented example and scaffolding for react-native-router-flux
-- [GitterMobile](https://github.com/terrysahaidak/GitterMobile) - Gitter client for mobile devices (currently only for android)
-- [Hello Bemans](https://github.com/rapportyou/HelloBemans) - Health Trainer Connection App (Android Version)
 
 ## Frameworks
 - [Awesome React Native Meteor](github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
