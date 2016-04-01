@@ -600,6 +600,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React-native press and hold button actions](http://browniefed.com/blog/2015/08/22/react-native-press-and-hold-button-actions/)
 - [Droppable Components with Animated and PanResponder](http://www.yoniweisbrod.com/droppable-items-with-react-native-animated/)
 - [Easily Connect React Native and Meteor](http://blog.differential.com/easily-connect-react-native-to-a-meteor-server/)
+- [Leverage Existing iOS Views In Your React Native App](http://moduscreate.com/leverage-existing-ios-views-react-native-app/)
 
 ## Problem & Solution
 
@@ -625,7 +626,6 @@ Assortment of conference and training videos.
 - Egghead.io: [React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)
 - Pluralsight.com: [Build iOS Apps with React Native](http://www.pluralsight.com/courses/build-ios-apps-react-native)
 - Pluralsight.com: [Build Cross Platform React Native Apps with Exponent and Redux](https://www.pluralsight.com/courses/build-react-native-exponent-redux-apps)
-- Udemy.com: [Build apps with React Native](https://www.udemy.com/reactnative/learn/v4/overview)
 
 ## Releases
 
