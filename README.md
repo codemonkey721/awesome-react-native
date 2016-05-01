@@ -103,7 +103,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-android-iconify ★26](https://github.com/lwhiteley/react-native-android-iconify) - icons for react native android using android-iconify
 - [react-native-android-kit ★15](https://github.com/ayoubdev/react-native-android-kit) - A set of native Android UI components and modules for React Native framework (Android Design Support Library, TabLayout, Floating Action Button and more...).
 - [react-native-android-statusbar ★65](https://github.com/NishanthShankar/react-native-android-statusbar) - A react native android package to control the status bar.
-- [react-native-app-intro](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
+- [react-native-app-intro ★126](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
 - [react-native-awesome-button ★56](https://github.com/larsvinter/react-native-awesome-button) - A React Native component rendering a button supporting showing different appearances and functionality given the passed props
 - [react-native-autolink ★16](https://github.com/joshswan/react-native-autolink) - Autolinking component for React Native
 - [react-native-autocomplete ★73](https://github.com/nulrich/RCTAutoComplete) - React Native Component for MLPAutoCompleteTextField
@@ -346,6 +346,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-webpackager-server ★2](https://github.com/changfuguo/react-native-webpackager-server) - react native webpackager server
 - [react-native-zip-archive ★13](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
 - [react-native-html-parser ★0](https://github.com/g6ling/react-native-html-parser) - parse html in react-native
+- [react-native-slowlog](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
 
 ### Build & Development
 
