@@ -147,7 +147,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-effects-view ★159](https://github.com/voronianski/react-native-effects-view) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
 - [react-native-emoji ★32](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native
 - [react-native-fading-slides ★12](https://github.com/chagasaway/react-native-fading-slides) - Simple looped fading slides carousel for React Native
-- [react-native-fit-image ★3](https://github.com/huiseoul/react-native-fit-image) - Responsive image component to fit perfectly itself.
+- [react-native-fit-image ★15](https://github.com/huiseoul/react-native-fit-image) - Responsive image component to fit perfectly itself.
 - [react-native-flex-label ★4](https://github.com/eccolabs/react-native-flex-label) - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.
 - [react-native-floating-labels ★43](https://github.com/mayank-patel/react-native-floating-labels) - Reusabe floating lable component for react native
 - [react-native-fm-form ★7](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes
@@ -346,7 +346,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-webpackager-server ★2](https://github.com/changfuguo/react-native-webpackager-server) - react native webpackager server
 - [react-native-zip-archive ★13](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
 - [react-native-html-parser ★0](https://github.com/g6ling/react-native-html-parser) - parse html in react-native
-- [react-native-slowlog](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
 
 ### Build & Development
 
