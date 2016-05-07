@@ -109,6 +109,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-autocomplete ★73](https://github.com/nulrich/RCTAutoComplete) - React Native Component for MLPAutoCompleteTextField
 - [react-native-autocomplete-input ★11](https://github.com/l-urence/react-native-autocomplete-input) - Pure javascript autocomplete input for react-native
 - [react-native-avatar-gravatar ★1](https://github.com/niborb/react-native-gravatar) - React Native Gravatar component
+- [react-native-bar-collapsible ★0](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.
 - [react-native-better-mapview ★3](https://github.com/ModusCreateOrg/react-native-better-mapview) - A better React Native implementation for iOS MapKit MapView
 - [react-native-blur ★407](https://github.com/Kureev/react-native-blur) - React Native Blur component
 - [react-native-button ★228](https://github.com/ide/react-native-button)
@@ -154,7 +155,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-form-flux ★1](https://github.com/aksonov/react-native-form-flux) - React Native Form management using Flux architecture
 - [react-native-form ★53](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!
 - [react-native-form-generator ★25](https://github.com/MichaelCereda/react-native-form-generator) - Generate amazing React Native forms in a breeze
-- [react-native-fontbase ★1](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
+- [react-native-fontbase ★1](https://github.com/frostney/react-intl-native) - Defining font sizes in React Native
 - [react-native-fs-modal ★28](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
 - [react-native-full-screen ★1](https://github.com/Anthonyzou/react-native-full-screen) - React Native FullScreen api and element
 - [react-native-gesture-password ★89](https://github.com/spikef/react-native-gesture-password) - A gesture password component for React Native
