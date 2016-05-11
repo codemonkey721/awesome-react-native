@@ -36,6 +36,7 @@ Content published on the Web.
 ### Howtos
 
 - [ListView and Immutable.js](https://medium.com/front-end-hacking/react-native-immutable-listview-example-78662fa64a15)
+- [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)
 
 ### Assorted
 
@@ -351,6 +352,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-zip-archive ★13](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
 - [react-native-html-parser ★0](https://github.com/g6ling/react-native-html-parser) - parse html in react-native
 - [react-native-slowlog](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
+- [codemod-RN24-to-RN25](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
 
 ### Build & Development
 
@@ -418,6 +420,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-passcode-auth ★14](https://github.com/naoufal/react-native-passcode-auth) - React Native authentication with iOS Passcode.
 - [react-native-permissions ★6](https://github.com/joshblour/react-native-permissions) - From React Native, check if the user has granted access to geolocation, camera, contacts, etc... (iOS only)
 - [react-native-push-notification ★139](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
+- [react-native-push-with-gcm](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)
 - [react-native-reverse-geo ★9](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
 - [react-native-sensor-manager ★14](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
 - [react-native-sms-android ★0](https://github.com/rhaker/react-native-sms-android) - A react-native module for sending a sms message to a phone number.
@@ -489,7 +492,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 - [feathers](http://docs.feathersjs.com/clients/feathers.html) - Feathers client that works in the React Native, the browser, or NodeJS.
 - [react-native-ajax ★1](https://github.com/spikef/react-native-ajax) - Ajax module for react native.
-- [react-native-aws-s3 ★3](https://github.com/watzak/react-native-aws-s3) - react-native aws amazon s3 storage
 - [react-native-async-http ★2](https://github.com/szq4119/react-native-async-http) - React Native component for async-http
 - [react-native-bonjour ★1](https://github.com/Apercu/react-native-bonjour) - A Bonjour discovery utility for react-native
 - [react-native-cognito ★20](https://github.com/morcmarc/react-native-cognito) - AWS Cognito-based authentication module for React Native.
@@ -508,6 +510,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-udp ★31](https://github.com/tradle/react-native-udp) - node's dgram API for react-native
 - [react-native-uploader ★44](https://github.com/aroth/react-native-uploader) - A React Native module to upload files and camera roll assets. Supports progress notification.
 - [react-native-xmpp ★42](https://github.com/aksonov/react-native-xmpp) - XMPP Library for React Native
+- [react-native-s3 ★10](https://github.com/mybigday/react-native-s3) - A React Native wrapper for AWS iOS/Android S3 SDK (TransferUtility)
+- [react-native-aws3 ★14](https://github.com/benjreinhart/react-native-aws3) - Pure JavaScript React Native library for uploading to AWS S3
 
 
 ### Integrations
@@ -545,11 +549,11 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-voximplant ★34](https://github.com/voximplant/react-native-voximplant) - VoxImplant Mobile SDK for embedding voice and video communication into React Native apps.
 - [react-native-wechat-ios ★78](https://github.com/beefe/react-native-wechat-ios) - Wechat SDK for React Native(iOS).
 - [react-native-wechat ★180](https://github.com/weflex/react-native-wechat) - react-native library for wechat app
-- [react-native-whirlyglobe](https://github.com/jhen0409/react-native-whirlyglobe/) - A React Native component for building Globe/Map with the WhirlyGlobe Maply.
 - [react-native-woopra ★6](https://github.com/isair/react-native-woopra) - Promise based Woopra library for react-native
 - [react-native-axmall-alipay ★1](https://github.com/szq4119/react-native-alipay) - react-native alipay
 - [react-native-signalr ★16](https://github.com/olofd/react-native-signalr) - SignalR-client for react-native
 - [react-native-sumup ★0](https://github.com/APSL/react-native-sumup) - A React Native implementation of SumupSDK.
+- [react-native-new-relic ★3](https://github.com/wix/react-native-newrelic) - New Relic event reporting for react-native.
 
 ### Other Platforms
 
