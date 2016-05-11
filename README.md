@@ -36,7 +36,6 @@ Content published on the Web.
 ### Howtos
 
 - [ListView and Immutable.js](https://medium.com/front-end-hacking/react-native-immutable-listview-example-78662fa64a15)
-- [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)
 
 ### Assorted
 
@@ -110,7 +109,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-autocomplete ★73](https://github.com/nulrich/RCTAutoComplete) - React Native Component for MLPAutoCompleteTextField
 - [react-native-autocomplete-input ★11](https://github.com/l-urence/react-native-autocomplete-input) - Pure javascript autocomplete input for react-native
 - [react-native-avatar-gravatar ★1](https://github.com/niborb/react-native-gravatar) - React Native Gravatar component
-- [react-native-bar-collapsible ★0](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.
+- [react-native-bar-collapsible ★1](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.
 - [react-native-better-mapview ★3](https://github.com/ModusCreateOrg/react-native-better-mapview) - A better React Native implementation for iOS MapKit MapView
 - [react-native-blur ★407](https://github.com/Kureev/react-native-blur) - React Native Blur component
 - [react-native-button ★228](https://github.com/ide/react-native-button)
@@ -133,6 +132,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-country-picker ★2](https://github.com/tofugear/react-native-country-picker) - React Native Country Picker
 - [react-native-create-new-file-ios ★0](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
 - [react-native-custom-actsheet ★24](https://github.com/guodong000/react-native-custom-actsheet) - A custom ActionSheet for react-native
+- [react-native-custom-checkbox ★1](https://github.com/caroaguilar/react-native-custom-checkbox) - React Native checkbox that can be customize. Works for both Android and iOS.
 - [react-native-dashed-border ★18](https://github.com/chirag04/react-native-dashed-border) - A  element for react-native
 - [react-native-date ★35](https://github.com/nucleartux/react-native-date) - React Native date and time pickers for Android
 - [react-native-timepicker ★6](https://github.com/milasevicius/react-native-timepicker) - React Native timepicker for iOS
@@ -418,7 +418,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-passcode-auth ★14](https://github.com/naoufal/react-native-passcode-auth) - React Native authentication with iOS Passcode.
 - [react-native-permissions ★6](https://github.com/joshblour/react-native-permissions) - From React Native, check if the user has granted access to geolocation, camera, contacts, etc... (iOS only)
 - [react-native-push-notification ★139](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
-- [react-native-push-with-gcm](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)
 - [react-native-reverse-geo ★9](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
 - [react-native-sensor-manager ★14](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
 - [react-native-sms-android ★0](https://github.com/rhaker/react-native-sms-android) - A react-native module for sending a sms message to a phone number.
@@ -490,6 +489,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 - [feathers](http://docs.feathersjs.com/clients/feathers.html) - Feathers client that works in the React Native, the browser, or NodeJS.
 - [react-native-ajax ★1](https://github.com/spikef/react-native-ajax) - Ajax module for react native.
+- [react-native-aws-s3 ★3](https://github.com/watzak/react-native-aws-s3) - react-native aws amazon s3 storage
 - [react-native-async-http ★2](https://github.com/szq4119/react-native-async-http) - React Native component for async-http
 - [react-native-bonjour ★1](https://github.com/Apercu/react-native-bonjour) - A Bonjour discovery utility for react-native
 - [react-native-cognito ★20](https://github.com/morcmarc/react-native-cognito) - AWS Cognito-based authentication module for React Native.
@@ -508,8 +508,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-udp ★31](https://github.com/tradle/react-native-udp) - node's dgram API for react-native
 - [react-native-uploader ★44](https://github.com/aroth/react-native-uploader) - A React Native module to upload files and camera roll assets. Supports progress notification.
 - [react-native-xmpp ★42](https://github.com/aksonov/react-native-xmpp) - XMPP Library for React Native
-- [react-native-s3 ★10](https://github.com/mybigday/react-native-s3) - A React Native wrapper for AWS iOS/Android S3 SDK (TransferUtility)
-- [react-native-aws3 ★14](https://github.com/benjreinhart/react-native-aws3) - Pure JavaScript React Native library for uploading to AWS S3
 
 
 ### Integrations
@@ -552,7 +550,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-axmall-alipay ★1](https://github.com/szq4119/react-native-alipay) - react-native alipay
 - [react-native-signalr ★16](https://github.com/olofd/react-native-signalr) - SignalR-client for react-native
 - [react-native-sumup ★0](https://github.com/APSL/react-native-sumup) - A React Native implementation of SumupSDK.
-- [react-native-new-relic ★3](https://github.com/wix/react-native-newrelic) - New Relic event reporting for react-native.
 
 ### Other Platforms
 
