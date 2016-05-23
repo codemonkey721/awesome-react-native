@@ -255,7 +255,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-search-bar ★183](https://github.com/umhan35/react-native-search-bar) - The native search bar for react native.
 - [react-native-search ★5](https://github.com/StevenIseki/react-native-search) - Native Search component for react native.
 - [react-native-seekbar-android ★5](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
-- [react-native-custom-segmented-control](https://github.com/wix/react-native-custom-segmented-control) - Native UI iOS component for Segmented Control with custom style
 - [react-native-segmented-view ★77](https://github.com/lelandrichardson/react-native-segmented-view) - Segmented View for React Native (with animation)
 - [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box
 - [react-native-selectable](https://github.com/vitalets/react-native-extended-selectable/) - Customizable checkbox and radio buttons in one component for React Native
@@ -326,7 +325,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 - [react-native-ab ★66](https://github.com/lwansbrough/react-native-ab) - A component for rendering A/B tests in React Native
 - [react-native-google-analytics ★121](https://github.com/lwansbrough/react-native-google-analytics) - Google Analytics for React Native!
-- [react-native-fabric ★124](https://github.com/corymsmith/react-native-fabric) - A React Native library for Fabric, Crashlytics and Answers 
+- [react-native-fabric ★124](https://github.com/corymsmith/react-native-fabric) - A React Native library for Fabric, Crashlytics and Answers
 - [react-native-mixpanel ★45](https://github.com/davodesign84/react-native-mixpanel) - A React Native wrapper for Mixpanel tracking
 - [react-native-segment-io-analytics ★16](https://github.com/smore-inc/react-native-segment-io-analytics) - A React Native Segment wrapper!
 
@@ -637,6 +636,7 @@ Fully working app examples and open source apps.
 - [Insta Snap  ★20](https://github.com/iZaL/insta-snap) - Image Sharing App
 - [30-days-of-react-native  ★19](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native examples (inspired by 30DaysofSwift)
 - [Ziliun React Native  ★141](https://github.com/sonnylazuardi/ziliun-react-native) - Wordpress based article reader built with react native
+- [Vocab React Native](https://github.com/thaiinhk/VocabReactNative) - Thai Vocabulary Learning App
 
 ## Frameworks
 
