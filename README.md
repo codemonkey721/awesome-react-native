@@ -168,6 +168,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-gifted-listview ★293](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrents features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
 - [react-native-gifted-messenger ★637](https://github.com/FaridSafi/react-native-gifted-messenger) - Ready-to-use chat interface for iOS and Android React-Native apps
 - [react-native-gmaps ★59](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
+- [react-native-geo-fencing](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
 - [react-native-gravatar ★1](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
 - [react-native-grid-view ★129](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
 - [react-native-grid ★7](https://github.com/thewei/react-native-grid) - The 24-column grid component for react-native
@@ -577,6 +578,7 @@ Useful React Native tooling.
 - [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
 - [rnpm ★1018](https://github.com/rnpm/rnpm) - react native package manager
 - [rn-nodeify ★24](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
+- [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
 
 ## Seeds
 
