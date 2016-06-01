@@ -113,6 +113,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-bar-collapsible ★1](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.
 - [react-native-better-mapview ★3](https://github.com/ModusCreateOrg/react-native-better-mapview) - A better React Native implementation for iOS MapKit MapView
 - [react-native-blur ★407](https://github.com/Kureev/react-native-blur) - React Native Blur component
+- [react-native-fxblurview ★407](https://github.com/magus/react-native-fxblurview) - React Native wrapper for popular FXBlurView library for realtime, fine-tuned blur effects
 - [react-native-button ★228](https://github.com/ide/react-native-button)
 - [react-native-cache-image ★30](https://github.com/remobile/react-native-cache-image) - A cache-image for react-native
 - [react-native-cacheable-image ★5](https://github.com/jayesbe/react-native-cacheable-image) - A filesystem cacheable image component for react-native
@@ -158,7 +159,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-form-flux ★1](https://github.com/aksonov/react-native-form-flux) - React Native Form management using Flux architecture
 - [react-native-form ★53](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!
 - [react-native-form-generator ★25](https://github.com/MichaelCereda/react-native-form-generator) - Generate amazing React Native forms in a breeze
-- [react-native-fontbase ★1](https://github.com/frostney/react-intl-native) - Defining font sizes in React Native
+- [react-native-fontbase ★1](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
 - [react-native-fs-modal ★28](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
 - [react-native-full-screen ★1](https://github.com/Anthonyzou/react-native-full-screen) - React Native FullScreen api and element
 - [react-native-gesture-password ★89](https://github.com/spikef/react-native-gesture-password) - A gesture password component for React Native
@@ -211,6 +212,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-navigator ★49](https://github.com/thewei/react-native-navigator) - A simple router for react native
 - [react-native-nested-stylesheet ★37](https://github.com/pjjanak/react-native-nested-stylesheets) - Nestable stylesheets for react-native.
 - [react-native-newsticker ★8](https://github.com/moschan/react-native-newsticker) - The News Ticker component for React Native
+- [react-native-nmrangeslider-ios ★11] (https://github.com/Enrise/react-native-nmrangeslider-ios) - The NMRangeSlider component for React Native
 - [react-native-orientation-controller ★7](https://github.com/inProgress-team/react-native-orientation-controller) - A react-native library for obtaining and controlling the current device and application orientation
 - [react-native-orientation-listener ★82](https://github.com/walmartreact/react-native-orientation-listener) - A react-native library for obtaining current device orientation
 - [react-native-orientation ★130](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
@@ -422,6 +424,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-location ★91](https://github.com/timfpark/react-native-location) - Native GPS location support for React Native.
 - [react-native-lock-android ★7](https://github.com/auth0/react-native-lock-android) - Auth0 Lock for React Native (Android)
 - [react-native-lock-ios ★53](https://github.com/auth0/react-native-lock-ios) - Auth0 Lock for React Native (iOS)
+- [react-native-mipush ★0](https://github.com/cpunion/react-native-mipush) - MiPush for React Native
 - [react-native-motion-manager ★82](https://github.com/pwmckenna/react-native-motion-manager) - A react-native interface for using the Gyroscope, Accelerometer and Magnetometer
 - [react-native-passcode-auth ★14](https://github.com/naoufal/react-native-passcode-auth) - React Native authentication with iOS Passcode.
 - [react-native-permissions ★6](https://github.com/joshblour/react-native-permissions) - From React Native, check if the user has granted access to geolocation, camera, contacts, etc... (iOS only)
@@ -433,6 +436,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-social-share ★126](https://github.com/doefler/react-native-social-share) - Use the iOS native Twitter and Facebook share view from react native
 - [react-native-system-notification ★95](https://github.com/Neson/react-native-system-notification) - Notification for React Native
 - [react-native-touch-id ★144](https://github.com/naoufal/react-native-touch-id) - React Native authentication with the native Touch ID popup.
+- [react-native-voip-push-notification ★6](https://github.com/ianlin/react-native-voip-push-notification) - iOS prioritized VoIP Push Notification
 - [react-native-wifi-manager ★4](https://github.com/skierkowski/react-native-wifi-manager) - Wifi Connection Manager for React Native on Android
 
 
