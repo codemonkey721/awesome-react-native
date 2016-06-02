@@ -436,6 +436,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-social-share ★126](https://github.com/doefler/react-native-social-share) - Use the iOS native Twitter and Facebook share view from react native
 - [react-native-system-notification ★95](https://github.com/Neson/react-native-system-notification) - Notification for React Native
 - [react-native-touch-id ★144](https://github.com/naoufal/react-native-touch-id) - React Native authentication with the native Touch ID popup.
+- [react-native-voip-push-notification ★6](https://github.com/ianlin/react-native-voip-push-notification) - iOS prioritized VoIP Push Notification
 - [react-native-wifi-manager ★4](https://github.com/skierkowski/react-native-wifi-manager) - Wifi Connection Manager for React Native on Android
 
 
@@ -540,6 +541,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-google-places-autocomplete ★109](https://github.com/FaridSafi/react-native-google-places-autocomplete) - Customizable Google Places autocomplete component for iOS and Android React-Native apps
 - [react-native-google-signin ★114](https://github.com/apptailor/react-native-google-signin) - Google Signin for your react native applications
 - [react-native-hawk ★2](https://github.com/andyscott/react-native-hawk) - Hawk wrapper for react-native
+- [react-native-heyzap](https://github.com/react-native-contrib/react-native-heyzap)- Heyzap plugin for React Native
 - [react-native-instagram-oauth ★9](https://github.com/watzak/react-native-instagram-oauth) - react-native instagram login
 - [react-native-instagram-share ★6](https://github.com/watzak/react-native-instagram-share) - A react-native interface to share images and videos within instagram (iOS)
 - [react-native-instagram ★0](https://github.com/watzak/react-native-instagram) - react-native instagram wrapper api (iOS)
@@ -581,7 +583,7 @@ Useful React Native tooling.
 - [AppHub](https://apphub.io/) - Update React Native apps, instantly
 - [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
 - [rnpm ★1018](https://github.com/rnpm/rnpm) - react native package manager
-- [rsx *25](https://github.com/react-native-contrib/rsx/) - An alternative to the `react-native` CLI tool
+- [rsx ★25](https://github.com/react-native-contrib/rsx/) - An alternative to the `react-native` CLI tool
 - [rn-nodeify ★24](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
 - [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
 - [react-native-debugger](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
