@@ -567,6 +567,9 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-sumup ★0](https://github.com/APSL/react-native-sumup) - A React Native implementation of SumupSDK.
 - [react-native-new-relic ★3](https://github.com/wix/react-native-newrelic) - New Relic event reporting for react-native.
 
+### Monetization
+- [react-native-revmob ★4](https://github.com/RevMob/react-native-revmob) - RevMob wrapper for React Native.
+
 ### Other Platforms
 
 - [react-native-watchkit ★0](https://github.com/MystK/react-native-watchkit) - react native for WatchKit
@@ -648,7 +651,6 @@ Fully working app examples and open source apps.
 - [30-days-of-react-native  ★19](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native examples (inspired by 30DaysofSwift)
 - [Ziliun React Native  ★141](https://github.com/sonnylazuardi/ziliun-react-native) - Wordpress based article reader built with react native
 - [Vocab React Native](https://github.com/thaiinhk/VocabReactNative) - Thai Vocabulary Learning App
-- [React Weather](https://github.com/stage88/react-weather) - A simple weather app built with React Native
 - [react-native-hiapp](https://github.com/BelinChung/react-native-hiapp) - A simple and Twitter like demo app written in react-native
 
 ## Frameworks
