@@ -411,7 +411,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-device ★116](https://github.com/GertjanReynaert/react-native-device) - UIDevice wrapper for React Native
 - [react-native-discovery ★18](https://github.com/joshblour/react-native-discovery) - Discover nearby devics using BLE. Turn iOS and Android devices into beacons
 - [react-native-fs ★267](https://github.com/johanneslumpe/react-native-fs) - Native filesystem access for react-native
-- [react-native-onesignal ★61](https://github.com/geektimecoil/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service [iOS + Android]
 - [react-native-gcm-android ★96](https://github.com/oney/react-native-gcm-android) - GCM for Android
 - [react-native-gcm ★43](https://github.com/bh5-pods/react-native-gcm) - Google Cloud Messaging for React Native
 - [react-native-geocoder ★57](https://github.com/devfd/react-native-geocoder) - react native geocoding and reverse geocoding
@@ -660,6 +659,7 @@ Fully working app examples and open source apps.
 
 - [Awesome React Native Meteor](github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
+- [ignite](github.com/infinitered/ignite) - A starter seed and a framework for quickly generating apps, screens, components and more...
 
 ## Tutorials
 
