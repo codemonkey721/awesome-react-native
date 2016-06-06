@@ -213,6 +213,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-nested-stylesheet ★37](https://github.com/pjjanak/react-native-nested-stylesheets) - Nestable stylesheets for react-native.
 - [react-native-newsticker ★8](https://github.com/moschan/react-native-newsticker) - The News Ticker component for React Native
 - [react-native-nmrangeslider-ios ★11] (https://github.com/Enrise/react-native-nmrangeslider-ios) - The NMRangeSlider component for React Native
+- [react-native-offline-mode] (https://github.com/rauchy/react-native-offline-mode) - Swap your app with an offline version while there's no connectivity
 - [react-native-orientation-controller ★7](https://github.com/inProgress-team/react-native-orientation-controller) - A react-native library for obtaining and controlling the current device and application orientation
 - [react-native-orientation-listener ★82](https://github.com/walmartreact/react-native-orientation-listener) - A react-native library for obtaining current device orientation
 - [react-native-orientation ★130](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
@@ -411,6 +412,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-device ★116](https://github.com/GertjanReynaert/react-native-device) - UIDevice wrapper for React Native
 - [react-native-discovery ★18](https://github.com/joshblour/react-native-discovery) - Discover nearby devics using BLE. Turn iOS and Android devices into beacons
 - [react-native-fs ★267](https://github.com/johanneslumpe/react-native-fs) - Native filesystem access for react-native
+- [react-native-onesignal ★61](https://github.com/geektimecoil/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service [iOS + Android]
 - [react-native-gcm-android ★96](https://github.com/oney/react-native-gcm-android) - GCM for Android
 - [react-native-gcm ★43](https://github.com/bh5-pods/react-native-gcm) - Google Cloud Messaging for React Native
 - [react-native-geocoder ★57](https://github.com/devfd/react-native-geocoder) - react native geocoding and reverse geocoding
@@ -596,7 +598,7 @@ Useful React Native tooling.
 
 Get a head start on development with an existing seed.
 
-- [react-native-base ★70](https://github.com/infinitered/react_native_base) - Opinionated Android & iOS (optional XDE), ES2015, Mocha Tests, Redux, Sagas, Networking Code, StandardJS compliant
+- [🔥 Ignite ★243](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
 - [react-native-webpack-starter-kit ★547](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel ★228](https://github.com/roman01la/react-native-babel)
 - [react-native-es6-reflux ★129](https://github.com/filp/react-native-es6-reflux)
