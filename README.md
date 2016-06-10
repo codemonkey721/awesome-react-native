@@ -312,7 +312,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-wheel ★12](https://github.com/shexiaoheng/react-native-wheel) - android wheel view for react-native
 - [react-native-yynavigator ★0](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 - [react-native-message-bar ★65](https://github.com/KBLNY/react-native-message-bar) - A module for presenting notifications via an animated message bar at the top/bottom of the screen, highly customizable, for React Native (Android and iOS) projects.
-- [react-native-sglistview ★220] (https://github.com/sghiassy/react-native-sglistview) - A memory minded implementation of React Native's ListView
 
 
 ### Text & Rich Content
@@ -661,11 +660,13 @@ Fully working app examples and open source apps.
 - [Vocab React Native ★3](https://github.com/thaiinhk/VocabReactNative) - Thai Vocabulary Learning App
 - [React Weather ★65](https://github.com/stage88/react-weather) - A simple weather app built with React Native
 - [react-native-hiapp ★21](https://github.com/BelinChung/react-native-hiapp) - A simple and Twitter like demo app written in react-native
+- [NewYorkTimesTopStories](https://github.com/vidyuthd/NYTimesTopStories-React-Native) - Get Topstories of NewYorkTimes using its api written for android in react-native
 
 ## Frameworks
 
 - [Awesome React Native Meteor](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 - [NativeBase ★965](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
+- [ignite](https://github.com/infinitered/ignite) - A starter seed and a framework for quickly generating apps, screens, components and more...
 
 ## Tutorials
 
