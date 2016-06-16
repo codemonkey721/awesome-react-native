@@ -229,6 +229,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-photo-grid ★1](https://github.com/christopherabouabdo/react-native-photo-grid) - React Native component that handles the complexities of building a grid of photos with a flexible number of photos per row.
 - [react-native-picker-android ★40](https://github.com/beefe/react-native-picker-android) - react-native-picker-android
 - [react-native-picker ★106](https://github.com/beefe/react-native-picker) - react-native-picker
+- [react-native-picker-xg ★6](https://github.com/xgfe/react-native-picker-xg) - A picker component for both Android and iOS based on pure JavaScript
 - [react-native-piechart ★9](https://github.com/frostney/react-native-piechart) - A  component for React Native
 - [react-native-popover-haobtc ★144](https://github.com/jeanregisser/react-native-popover) - A  component for react-native
 - [react-native-popup ★39](https://github.com/beefe/react-native-popup) - popup for react-native
@@ -576,7 +577,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Monetization
 
-- [react-native-admob](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners.
 - [react-native-revmob ★7](https://github.com/RevMob/react-native-revmob) - RevMob wrapper for React Native.
 
 ### Other Platforms
@@ -619,7 +619,7 @@ Get a head start on development with an existing seed.
 Libraries / SDK type additions for React Native development.
 
 - [tcomb-form-native ★1038](https://github.com/gcanti/tcomb-form-native) - Generate React Native forms
-- [Panza ★21](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
+- [Panza ★21](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native 
 
 ## Examples
 
