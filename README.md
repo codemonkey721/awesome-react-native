@@ -153,6 +153,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-dropdown ★150](https://github.com/alinz/react-native-dropdown) - A better Select dropdown menu for react-native
 - [react-native-effects-view ★176](https://github.com/voronianski/react-native-effects-view) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
 - [react-native-emoji ★45](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native
+- [react-native-emoji-picker ★1](https://github.com/yonahforst/react-native-emoji-picker) - Simple Emoji picker for react-native with optional modal-like component
 - [react-native-fading-slides ★15](https://github.com/chagasaway/react-native-fading-slides) - Simple looped fading slides carousel for React Native
 - [react-native-fit-image ★27](https://github.com/huiseoul/react-native-fit-image) - Responsive image component to fit perfectly itself.
 - [react-native-flex-label ★4](https://github.com/eccolabs/react-native-flex-label) - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.
@@ -577,6 +578,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Monetization
 
+- [react-native-admob](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners.
 - [react-native-revmob ★7](https://github.com/RevMob/react-native-revmob) - RevMob wrapper for React Native.
 
 ### Other Platforms
@@ -712,6 +714,7 @@ Quick solutions to typical problems.
 
 Books - free and commercial (but only good ones).
 
+- [Programming React Native](https://leanpub.com/programming-react-native) - (Free) An in-depth React Native book that you should read after a you've done a couple tutorials of the many out there.
 - [React Native Animation Book](http://browniefed.com/react-native-animation-book/) - (Free) React Native Animation
 
 ## Videos
