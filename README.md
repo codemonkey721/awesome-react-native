@@ -318,7 +318,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-message-bar ★65](https://github.com/KBLNY/react-native-message-bar) - A module for presenting notifications via an animated message bar at the top/bottom of the screen, highly customizable, for React Native (Android and iOS) projects.
 - [react-native-sglistview ★220](https://github.com/sghiassy/react-native-sglistview) - A memory minded implementation of React Native's ListView
 - [react-router-native ★59](https://github.com/jmurzy/react-router-native) - A routing library for React Native that strives for sensible API parity with [React Router](https://github.com/reactjs/react-router)
-
+- [react-native-telephone-input ★7](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input
 
 ### Text & Rich Content
 
@@ -541,6 +541,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-android-vitamio ★41](https://github.com/sejoker/react-native-android-vitamio) - React-native component for android Vitamio video player
 - [react-native-braintree ★46](https://github.com/alawong/react-native-braintree) - A react native interface for integrating payments using Braintree's v.zero SDK (currently iOS only)
 - [react-native-braintree-android ★12](https://github.com/surialabs/react-native-braintree-android) - Braintree's native Drop-in Payment UI for Android
+- [react-native-braintree-xplat ★2](https://github.com/kraffslol/react-native-braintree-xplat) - Cross-platform Braintree v.zero module.
 - [react-native-card-io ★51](https://github.com/kayla-tech/react-native-card-io) - React Native component for card.io
 - [react-native-conekta ★0](https://github.com/zo0r/react-native-conekta) - Conekta SDK for React Native
 - [react-native-digits ★43](https://github.com/fixt/react-native-digits) - Digits wrapper to use in React Native
@@ -670,6 +671,7 @@ Fully working app examples and open source apps.
 - [React Weather ★65](https://github.com/stage88/react-weather) - A simple weather app built with React Native
 - [react-native-hiapp ★21](https://github.com/BelinChung/react-native-hiapp) - A simple and Twitter like demo app written in react-native
 - [NewYorkTimesTopStories](https://github.com/vidyuthd/NYTimesTopStories-React-Native) - Read Topstories of NewYorkTimes using its api written for android in react-native.
+- [react-native-redux-facebook](https://github.com/bkspace/react-native-redux-facebook) - A simple React Redux Facebook authentication demo app.
 
 ## Frameworks
 
@@ -743,4 +745,3 @@ Assortment of conference and training videos.
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Stable: 0.27](https://github.com/facebook/react-native/releases/tag/v0.27.0)
 - [Next: latest](https://github.com/facebook/react-native/releases/latest)
-
