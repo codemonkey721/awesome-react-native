@@ -150,6 +150,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-dropbox-chooser ★10](https://github.com/tinycreative/react-native-dropbox-chooser) - React Native dropbox chooser module
 - [react-native-dropdown-android ★50](https://github.com/chymtt/ReactNativeDropdownAndroid) - Simple wrapper for Android's Spinner to use with react-native
 - [react-native-drop-refresh ★7](https://github.com/Obooman/RCTRefreshControl) - A pull down to refresh control for react native.
+- [react-native-dropdownalert *5](https://github.com/devBrian/react-native-dropdownalert) A dropdown alert that allows you to display bits of information to your user.
 - [react-native-dropdown ★150](https://github.com/alinz/react-native-dropdown) - A better Select dropdown menu for react-native
 - [react-native-effects-view ★176](https://github.com/voronianski/react-native-effects-view) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
 - [react-native-emoji ★45](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native
@@ -318,7 +319,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-message-bar ★65](https://github.com/KBLNY/react-native-message-bar) - A module for presenting notifications via an animated message bar at the top/bottom of the screen, highly customizable, for React Native (Android and iOS) projects.
 - [react-native-sglistview ★220](https://github.com/sghiassy/react-native-sglistview) - A memory minded implementation of React Native's ListView
 - [react-router-native ★59](https://github.com/jmurzy/react-router-native) - A routing library for React Native that strives for sensible API parity with [React Router](https://github.com/reactjs/react-router)
-- [react-native-telephone-input ★7](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input
+
 
 ### Text & Rich Content
 
