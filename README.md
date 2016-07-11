@@ -412,6 +412,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-communications ★122](https://github.com/anarchicknight/react-native-communications) - Easily call, email, text or iMessage someone in React Native
 - [react-native-contacts-rx ★4](https://github.com/JeanLebrument/react-native-contacts-rx) - react-native-contacts counterpart that include the support of RxJS.
 - [react-native-contacts ★133](https://github.com/rt2zz/react-native-contacts) - React Native Contacts (android & ios)
+- [react-native-unified-contacts ★28](https://github.com/joshuapinter/react-native-unified-contacts) - React Native iOS 9+ Contacts (ios)
 - [react-native-detect-device ★8](https://github.com/peachmeco/react-native-detect-device) - Detect a device on iOS or android in react-native.
 - [react-native-device-battery ★8](https://github.com/robinpowered/react-native-device-battery) - Observe battery state changes in your react native application
 - [react-native-device-info-pod ★0](https://github.com/mchinyakov/react-native-device-info) - Get device information using react-native
@@ -534,7 +535,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-xmpp ★58](https://github.com/aksonov/react-native-xmpp) - XMPP Library for React Native
 - [react-native-s3 ★14](https://github.com/mybigday/react-native-s3) - A React Native wrapper for AWS iOS/Android S3 SDK (TransferUtility)
 - [react-native-aws3 ★18](https://github.com/benjreinhart/react-native-aws3) - Pure JavaScript React Native library for uploading to AWS S3
-- [react-native-fetch-blob ★43](https://github.com/wkh237/react-native-fetch-blob) - A module integrates network and file system. Supports file stream.
 
 
 ### Integrations
