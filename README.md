@@ -636,6 +636,7 @@ Libraries / SDK type additions for React Native development.
 
 Fully working app examples and open source apps.
 
+- [NBAreact](https://github.com/jbkuczma/NBAreact)
 - [Reddit made with React Native and Redux ★5](https://github.com/KevinOfNeu/xReddit)
 - [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 - [Github repo examples](https://github.com/facebook/react-native/tree/master/Examples)
@@ -714,7 +715,6 @@ Walkthroughs and tutorials that help you learn React Native.
 - [Facebook's F8 App Walkthrough Tutorial: React Native, Redux, Relay, Flow, Jest](http://makeitopen.com/)
 - [React Native Express](http://www.reactnativeexpress.com/)
 - [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
-- [React Native with Django backend ★1](https://github.com/shunpochang/connect_love_mobile_demo)
 
 ## Problem & Solution
 
