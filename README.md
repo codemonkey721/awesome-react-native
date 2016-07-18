@@ -152,7 +152,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-dropbox-chooser ★10](https://github.com/tinycreative/react-native-dropbox-chooser) - React Native dropbox chooser module
 - [react-native-dropdown-android ★50](https://github.com/chymtt/ReactNativeDropdownAndroid) - Simple wrapper for Android's Spinner to use with react-native
 - [react-native-drop-refresh ★7](https://github.com/Obooman/RCTRefreshControl) - A pull down to refresh control for react native.
-- [react-native-dropdownalert *5](https://github.com/devBrian/react-native-dropdownalert) - A dropdown alert that allows you to display bits of information to your user.
+- [react-native-dropdownalert ★27](https://github.com/devBrian/react-native-dropdownalert) - A dropdown alert that allows you to display bits of information to your user.
 - [react-native-dropdown ★150](https://github.com/alinz/react-native-dropdown) - A better Select dropdown menu for react-native
 - [react-native-effects-view ★176](https://github.com/voronianski/react-native-effects-view) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
 - [react-native-emoji ★45](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native
@@ -164,6 +164,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-fm-form ★8](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes
 - [react-native-form-flux ★1](https://github.com/aksonov/react-native-form-flux) - React Native Form management using Flux architecture
 - [react-native-form ★62](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!
+- [react-native-forms ★5](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms in React Native.
 - [react-native-form-generator ★39](https://github.com/MichaelCereda/react-native-form-generator) - Generate amazing React Native forms in a breeze
 - [react-native-fontbase ★0](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
 - [react-native-fs-modal ★33](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
@@ -276,6 +277,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-simple-button ★4](https://github.com/remobile/react-native-simple-button) - A simple react-native button
 - [react-native-simple-picker ★3](https://github.com/puredazzle/react-native-simple-picker) - A simple react-native select picker
 - [react-native-simple-router ★122](https://github.com/react-native-simple-router-community/react-native-simple-router) - A community maintained router component for React Native
+- [react-native-simple-stepper ★3](https://github.com/devBrian/react-native-simple-stepper) - A super simple react-native implementation of the classic UIStepper from iOS.
 - [react-native-simpledialog-android ★23](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
 - [react-native-sketch ★12](https://github.com/jgrancher/react-native-sketch) - A react-native &lt;Sketch /> component to draw with touch events.
 - [react-native-slack-webhook ★15](https://github.com/xcarpentier/react-native-slack-webhook) - Follow some activities (new user, payment, ...) from your app via Slack and this webhook lib.
@@ -636,6 +638,7 @@ Libraries / SDK type additions for React Native development.
 
 Fully working app examples and open source apps.
 
+- [NBAreact](https://github.com/jbkuczma/NBAreact)
 - [Reddit made with React Native and Redux ★5](https://github.com/KevinOfNeu/xReddit)
 - [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 - [Github repo examples](https://github.com/facebook/react-native/tree/master/Examples)
@@ -715,6 +718,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [Facebook's F8 App Walkthrough Tutorial: React Native, Redux, Relay, Flow, Jest](http://makeitopen.com/)
 - [React Native Express](http://www.reactnativeexpress.com/)
 - [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
+- [React Native with Django backend ★1](https://github.com/shunpochang/connect_love_mobile_demo)
 
 ## Problem & Solution
 
