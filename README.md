@@ -164,7 +164,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-fm-form ★8](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes
 - [react-native-form-flux ★1](https://github.com/aksonov/react-native-form-flux) - React Native Form management using Flux architecture
 - [react-native-form ★62](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!
-- [react-native-forms ★9](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms.
 - [react-native-form-generator ★39](https://github.com/MichaelCereda/react-native-form-generator) - Generate amazing React Native forms in a breeze
 - [react-native-fontbase ★0](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
 - [react-native-fs-modal ★33](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
@@ -719,6 +718,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React Native Express](http://www.reactnativeexpress.com/)
 - [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
 - [React Native with Django backend ★1](https://github.com/shunpochang/connect_love_mobile_demo)
+- [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
 
 ## Problem & Solution
 
