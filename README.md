@@ -681,6 +681,7 @@ Fully working app examples and open source apps.
 - [NewYorkTimesTopStories](https://github.com/vidyuthd/NYTimesTopStories-React-Native) - Read Topstories of NewYorkTimes using its api written for android in react-native.
 - [react-native-redux-facebook](https://github.com/bkspace/react-native-redux-facebook) - A simple React Redux Facebook authentication demo app.
 - [reading ★646](https://github.com/attentiveness/reading) - Reading App Write In React-Native.
+- [HackerWeb](https://github.com/cheeaun/hackerweb-native) - A simply readable Hacker News web app for iOS & Android.
 
 ## Frameworks
 
@@ -718,7 +719,6 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React Native Express](http://www.reactnativeexpress.com/)
 - [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
 - [React Native with Django backend ★1](https://github.com/shunpochang/connect_love_mobile_demo)
-- [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
 
 ## Problem & Solution
 
