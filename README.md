@@ -1,4 +1,4 @@
-# Awesome React Native
+# Awesom React Native
 
 <img src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master" alt="Build Status" />
 
@@ -17,7 +17,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Utilities](#utilities)
 - [Seeds](#seeds)
 - [Libraries](#libraries)
-- [Examples](#examples)
+- [Open Source Apps](#open-source-apps)
 - [Frameworks](#frameworks)
 - [Tutorials](#tutorials)
 - [Books](#books)
@@ -164,6 +164,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-fm-form ★8](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes
 - [react-native-form-flux ★1](https://github.com/aksonov/react-native-form-flux) - React Native Form management using Flux architecture
 - [react-native-form ★62](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!
+- [react-native-forms ★9](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms.
 - [react-native-form-generator ★39](https://github.com/MichaelCereda/react-native-form-generator) - Generate amazing React Native forms in a breeze
 - [react-native-fontbase ★0](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
 - [react-native-fs-modal ★33](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
@@ -292,6 +293,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-stylesheet-xg ★2](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
 - [react-native-svg ★322](https://github.com/brentvatne/react-native-svg) - A  element for react-native that renders Svg images using SVGKit
 - [react-native-swipeout ★502](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
+- [react-native-swipe-a-lot ★29](https://github.com/nickjanssen/react-native-swipe-a-lot) - A swipe component for React Native that works on iOS and Android. 
 - [react-native-swiper2 ★54](https://github.com/sunnylqm/react-native-swiper2) - Swiper component for React Native. Supersede react-native-swiper
 - [react-native-swiper ★1462](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
 - [react-native-tab ★47](https://github.com/vczero/react-native-tab) - react-native-tab is a simple module for add a "Tab Menu" to your React Native app.
@@ -378,7 +380,9 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### Build & Development
 
 - [react-native-assets ★21](https://github.com/llanox/react-native-assests) - Module to manage assets. It allows you download assests from a network and store into a specific local folder on iOS
+- [babel-preset-react-native-stage-0](https://github.com/skevy/babel-preset-react-native-stage-0) - a Babel preset with latest Javascript goodies
 - [react-native-build-cli ★1](https://github.com/adonpro/react-native-build-cli) - a cli tool for react-native build
+
 - [react-native-code-push ★1127](https://github.com/Microsoft/react-native-code-push) - React Native plugin for the CodePush service
 - [react-native-console-panel ★39](https://github.com/sospartan/react-native-console-panel) - react native component for display console messages.
 - [react-native-cosmos ★13](https://github.com/jerolimov/react-native-cosmos) - DX tool to test react-native components with defined props/state fixtures.
@@ -633,9 +637,9 @@ Libraries / SDK type additions for React Native development.
 - [tcomb-form-native ★1038](https://github.com/gcanti/tcomb-form-native) - Generate React Native forms
 - [Panza ★21](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
 
-## Examples
+## Open Source Apps
 
-Fully working app examples and open source apps.
+Open source React Native apps and other examples.
 
 - [NBAreact](https://github.com/jbkuczma/NBAreact)
 - [Reddit made with React Native and Redux ★5](https://github.com/KevinOfNeu/xReddit)
@@ -682,6 +686,16 @@ Fully working app examples and open source apps.
 - [react-native-redux-facebook](https://github.com/bkspace/react-native-redux-facebook) - A simple React Redux Facebook authentication demo app.
 - [reading ★646](https://github.com/attentiveness/reading) - Reading App Write In React-Native.
 - [HackerWeb](https://github.com/cheeaun/hackerweb-native) - A simply readable Hacker News web app for iOS & Android.
+- [Luno](https://github.com/alwx/luno-react-native) - A ClojureScript React Native app demonstration
+- [BBC News (Unofficial)](https://github.com/joeltrew/BBCNews-React-Native) - a BBC news app
+- [Assemblies](https://github.com/buildreactnative/assemblies) - a Meetup clone
+- [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone
+- [TaskRabbit's Sample App](https://github.com/taskrabbit/ReactNativeSampleApp) - a testing ground for Task Rabbit's app making
+
+
+
+
+
 
 ## Frameworks
 
@@ -719,6 +733,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React Native Express](http://www.reactnativeexpress.com/)
 - [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
 - [React Native with Django backend ★1](https://github.com/shunpochang/connect_love_mobile_demo)
+- [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
 
 ## Problem & Solution
 
