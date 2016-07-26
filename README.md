@@ -39,7 +39,6 @@ Content published on the Web.
 - [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)
 - [Blueprint to becoming a React Native Developer](https://medium.com/@spencer_carli/blueprint-to-becoming-a-react-native-developer-6cad2b894887#.t3uw4j4u8)
 - [How to Use the ListView Component](https://medium.com/@spencer_carli/react-native-basics-how-to-use-the-listview-component-a0ec44cf1fe8#.ur0hyi3h9)
-- [How to add Firebase Auth with react native](https://github.com/g6ling/How-to-add-Firebase-Auth-with-react-native)
 
 ### Assorted
 
@@ -428,7 +427,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-device-info ★269](https://github.com/rebeccahughes/react-native-device-info) - Get device information using react-native
 - [react-native-device-motion ★20](https://github.com/paramaggarwal/react-native-device-motion) - iOS device motion wrapper for React Native.
 - [react-native-device ★133](https://github.com/GertjanReynaert/react-native-device) - UIDevice wrapper for React Native
-- [react-native-discovery ★19](https://github.com/joshblour/react-native-discovery) - Discover nearby devics using BLE. Turn iOS and Android devices into beacons
+- [react-native-discovery ★20](https://github.com/yonahforst/react-native-discovery) - Discover nearby devics using BLE. Turn iOS and Android devices into beacons
 - [react-native-fs ★369](https://github.com/johanneslumpe/react-native-fs) - Native filesystem access for react-native
 - [react-native-onesignal ★64](https://github.com/geektimecoil/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service [iOS + Android]
 - [react-native-gcm-android ★114](https://github.com/oney/react-native-gcm-android) - GCM for Android
@@ -436,7 +435,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-geocoder ★73](https://github.com/devfd/react-native-geocoder) - react native geocoding and reverse geocoding
 - [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
 - [react-native-geolocation ★1](https://github.com/remobile/react-native-geolocation) - A geolocation for react-native
-- [react-native-heading ★2](https://github.com/joshblour/react-native-heading) - Get device heading (compass) information on iOS or Android
+- [react-native-heading ★2](https://github.com/yonahforst/react-native-heading) - Get device heading (compass) information on iOS or Android
 - [react-native-ibeacon ★135](https://github.com/geniuxconsulting/react-native-ibeacon) - iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don't work in the iOS simulator.
 - [react-native-icloud-sync ★17](https://github.com/chirag04/react-native-icloud-sync) - A react-native wrapper for syncing with icloud
 - [react-native-in-app-utils ★111](https://github.com/chirag04/react-native-in-app-utils) - A react-native wrapper for handling in-app payments.
@@ -448,7 +447,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-mipush ★0](https://github.com/cpunion/react-native-mipush) - MiPush for React Native
 - [react-native-motion-manager ★96](https://github.com/pwmckenna/react-native-motion-manager) - A react-native interface for using the Gyroscope, Accelerometer and Magnetometer
 - [react-native-passcode-auth ★15](https://github.com/naoufal/react-native-passcode-auth) - React Native authentication with iOS Passcode.
-- [react-native-permissions ★16](https://github.com/joshblour/react-native-permissions) - From React Native, check if the user has granted access to geolocation, camera, contacts, etc... (iOS only)
+- [react-native-permissions ★35](https://github.com/yonahforst/react-native-permissions) - From React Native, check if the user has granted access to geolocation, camera, contacts, etc... (iOS + Android)
 - [react-native-push-notification ★283](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [react-native-push-with-gcm ★1](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)
 - [react-native-reverse-geo ★12](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
