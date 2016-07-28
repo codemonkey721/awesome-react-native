@@ -396,7 +396,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [cairn ★62](https://github.com/adamterlson/cairn) - Simple, string-based style selector engine with support for basic inheritance.
 - [react-native-css ★332](https://github.com/sabeurthabti/react-native-css) - Style React-Native components with css and built in support for SASS.
 - [react-native-extended-stylesheet ★140](https://github.com/vitalets/react-native-extended-stylesheet) - Extend React Native stylesheet with variables, relative units, percents, math operations, scaling and other stuff.
-- [react-native-responsive ★1](https://github.com/ayoubdev/react-native-responsive) - The power of Media Queries now in your React Native project (ios and android) ! Responsive Design can now be easily managed !
 - [react-native-theme ★1](https://github.com/apentle/react-native-theme) - Theme manager for react native project!
 
 
@@ -504,7 +503,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-volume-slider ★8](https://github.com/IFours/react-native-volume-slider) - React Native VolumeView component
 - [react-native-vlc-player ★7](https://github.com/ghondar/react-native-vlc-player) - VLC Player for react-native
 - [react-native-camera-roll-picker ★7](https://github.com/jeanpan/react-native-camera-roll-picker) - A React Native component providing images selection from camera roll
-
+- [react-native-android-audio-streaming ★35](https://github.com/tlenclos/react-native-audio-streaming) - iOS & Android module to play an audio stream, with background support and media controls
 
 ### Storage
 
