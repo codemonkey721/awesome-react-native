@@ -418,7 +418,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-carrier-info ★6](https://github.com/anarchicknight/react-native-carrier-info) - React Native module bridge to obtain information about the user’s home cellular service provider.
 - [react-native-clipboard ★43](https://github.com/silentcloud/react-native-clipboard) - React Native component for getting or setting clipboard content
 - [react-native-communications ★122](https://github.com/anarchicknight/react-native-communications) - Easily call, email, text or iMessage someone in React Native
-- [react-native-config ★76](https://github.com/luggit/react-native-config) - Config variables for React Native apps
 - [react-native-contacts-rx ★4](https://github.com/JeanLebrument/react-native-contacts-rx) - react-native-contacts counterpart that include the support of RxJS.
 - [react-native-contacts ★133](https://github.com/rt2zz/react-native-contacts) - React Native Contacts (android & ios)
 - [react-native-unified-contacts ★28](https://github.com/joshuapinter/react-native-unified-contacts) - React Native iOS 9+ Contacts (ios)
@@ -691,6 +690,7 @@ Open source React Native apps and other examples.
 - [Assemblies](https://github.com/buildreactnative/assemblies) - a Meetup clone
 - [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone
 - [TaskRabbit's Sample App](https://github.com/taskrabbit/ReactNativeSampleApp) - a testing ground for Task Rabbit's app making
+- [react-native-sudoku](https://github.com/nihgwu/react-native-sudoku) - a sudoku game written in React Native
 
 
 
