@@ -733,7 +733,6 @@ Walkthroughs and tutorials that help you learn React Native.
 - [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
 - [React Native with Django backend ★1](https://github.com/shunpochang/connect_love_mobile_demo)
 - [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
-- [Building a Calculator for Android and iOS with React Native](https://kylewbanks.com/blog/react-native-tutorial-part-1-hello-react)
 
 ## Problem & Solution
 
@@ -765,6 +764,7 @@ Assortment of conference and training videos.
 - [Using Redux, Jonas Ohlsson, State](https://www.youtube.com/watch?v=Ola8U-SpL6U)
 - [Native Testing](https://www.youtube.com/watch?v=6aVDe2Y-co4)
 - [React Native In The Wild - Bonnie Eisenman](https://www.youtube.com/watch?v=KWEhFWm0SL8)
+- [React Native training ★238](https://www.gitbook.com/book/unbug/react-native-training/details)
 
 ## Releases
 
