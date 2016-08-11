@@ -91,6 +91,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [apsl-react-native-button ★173](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native ★56](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
 - [ex-navigator ★415](https://github.com/exponentjs/ex-navigator) - Route-centric navigation built on top of React Native's Navigator
+- [react-native-router-sinux ★](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation. 
 - [react-native-router-flux ★1603](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API
 - [react-native-mobx ★19](https://github.com/aksonov/react-native-mobx) - Make your app reactive with MobX and react-native-router-flux
 - [react-native-ya-navigator ★31](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
@@ -764,7 +765,6 @@ Assortment of conference and training videos.
 - [Using Redux, Jonas Ohlsson, State](https://www.youtube.com/watch?v=Ola8U-SpL6U)
 - [Native Testing](https://www.youtube.com/watch?v=6aVDe2Y-co4)
 - [React Native In The Wild - Bonnie Eisenman](https://www.youtube.com/watch?v=KWEhFWm0SL8)
-- [React Native training ★238](https://www.gitbook.com/book/unbug/react-native-training/details)
 
 ## Releases
 
