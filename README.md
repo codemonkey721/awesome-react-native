@@ -91,7 +91,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [apsl-react-native-button ★173](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native ★56](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
 - [ex-navigator ★415](https://github.com/exponentjs/ex-navigator) - Route-centric navigation built on top of React Native's Navigator
-- [react-native-router-sinux ★](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation. 
 - [react-native-router-flux ★1603](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API
 - [react-native-mobx ★19](https://github.com/aksonov/react-native-mobx) - Make your app reactive with MobX and react-native-router-flux
 - [react-native-ya-navigator ★31](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
@@ -629,6 +628,7 @@ Get a head start on development with an existing seed.
 - [ReactNativeTS ★55](https://github.com/mrpatiwi/ReactNativeTS) - Typescript with [alt](http://alt.js.org/) and router
 - [Snowflake ★1766](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
 - [React Native Meteor Boilerplate ★179](https://github.com/spencercarli/react-native-meteor-boilerplate)
+- [Pepperoni](https://github.com/futurice/pepperoni-app-kit) - Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state, login and signup
 
 ## Libraries
 
