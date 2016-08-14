@@ -91,6 +91,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [apsl-react-native-button ★173](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native ★56](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
 - [ex-navigator ★415](https://github.com/exponentjs/ex-navigator) - Route-centric navigation built on top of React Native's Navigator
+- [react-native-router-sinux ★](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation. 
 - [react-native-router-flux ★1603](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API
 - [react-native-mobx ★19](https://github.com/aksonov/react-native-mobx) - Make your app reactive with MobX and react-native-router-flux
 - [react-native-ya-navigator ★31](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
@@ -418,6 +419,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-carrier-info ★6](https://github.com/anarchicknight/react-native-carrier-info) - React Native module bridge to obtain information about the user’s home cellular service provider.
 - [react-native-clipboard ★43](https://github.com/silentcloud/react-native-clipboard) - React Native component for getting or setting clipboard content
 - [react-native-communications ★122](https://github.com/anarchicknight/react-native-communications) - Easily call, email, text or iMessage someone in React Native
+- [react-native-config ★76](https://github.com/luggit/react-native-config) - Config variables for React Native apps
 - [react-native-contacts-rx ★4](https://github.com/JeanLebrument/react-native-contacts-rx) - react-native-contacts counterpart that include the support of RxJS.
 - [react-native-contacts ★133](https://github.com/rt2zz/react-native-contacts) - React Native Contacts (android & ios)
 - [react-native-unified-contacts ★28](https://github.com/joshuapinter/react-native-unified-contacts) - React Native iOS 9+ Contacts (ios)
@@ -522,7 +524,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### Backend
 
 - [feathers](http://docs.feathersjs.com/clients/feathers.html) - Feathers client that works in the React Native, the browser, or NodeJS.
-- [react-native-ajax ★1](https://github.com/spikef/react-native-ajax) - Ajax module for react native.
 - [react-native-async-http ★2](https://github.com/szq4119/react-native-async-http) - React Native component for async-http
 - [react-native-cognito ★26](https://github.com/morcmarc/react-native-cognito) - AWS Cognito-based authentication module for React Native.
 - [react-native-file-download ★27](https://github.com/plrthink/react-native-file-download) - A simple file download module for react-native
@@ -691,6 +692,7 @@ Open source React Native apps and other examples.
 - [Assemblies](https://github.com/buildreactnative/assemblies) - a Meetup clone
 - [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone
 - [TaskRabbit's Sample App](https://github.com/taskrabbit/ReactNativeSampleApp) - a testing ground for Task Rabbit's app making
+- [react-native-sudoku](https://github.com/nihgwu/react-native-sudoku) - a sudoku game written in React Native
 
 
 
@@ -734,6 +736,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
 - [React Native with Django backend ★1](https://github.com/shunpochang/connect_love_mobile_demo)
 - [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
+- [Building a Calculator for Android and iOS with React Native](https://kylewbanks.com/blog/react-native-tutorial-part-1-hello-react)
 
 ## Problem & Solution
 
@@ -765,6 +768,7 @@ Assortment of conference and training videos.
 - [Using Redux, Jonas Ohlsson, State](https://www.youtube.com/watch?v=Ola8U-SpL6U)
 - [Native Testing](https://www.youtube.com/watch?v=6aVDe2Y-co4)
 - [React Native In The Wild - Bonnie Eisenman](https://www.youtube.com/watch?v=KWEhFWm0SL8)
+- [React Native training ★238](https://www.gitbook.com/book/unbug/react-native-training/details)
 
 ## Releases
 
