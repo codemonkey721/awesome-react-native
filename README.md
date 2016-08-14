@@ -173,9 +173,9 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-gesture-password ★103](https://github.com/spikef/react-native-gesture-password) - A gesture password component for React Native
 - [react-native-gesture-recognizers ★96](https://github.com/johanneslumpe/react-native-gesture-recognizers) - Gesture recognizer decorators for react-native
 - [react-native-gestures ★69](https://github.com/kiddkai/react-native-gestures) - composable gesture system in react native
-- [react-native-gifted-form ★334](https://github.com/FaridSafi/react-native-gifted-form) - Form component for react-native
-- [react-native-gifted-listview ★402](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrents features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
-- [react-native-gifted-messenger ★978](https://github.com/FaridSafi/react-native-gifted-messenger) - Ready-to-use chat interface for iOS and Android React-Native apps
+- [react-native-gifted-chat ★1313](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
+- [react-native-gifted-form ★454](https://github.com/FaridSafi/react-native-gifted-form) - Form component for react-native
+- [react-native-gifted-listview ★550](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrents features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
 - [react-native-gmaps ★64](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
 - [react-native-geo-fencing ★7](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
 - [react-native-gravatar ★1](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
@@ -290,7 +290,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-starrating ★14](https://github.com/bluesky0109/react-native-starRating) - a react-native component for display interactive star ratings
 - [react-native-store-view ★0](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects
 - [react-native-stylesheet-xg ★2](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
-- [react-native-svg ★322](https://github.com/magicismight/react-native-svg) - SVG library that works on both iOS & Android
+- [react-native-svg ★322](https://github.com/brentvatne/react-native-svg) - A  element for react-native that renders Svg images using SVGKit
 - [react-native-swipeout ★502](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
 - [react-native-swipe-a-lot ★29](https://github.com/nickjanssen/react-native-swipe-a-lot) - A swipe component for React Native that works on iOS and Android.
 - [react-native-swiper2 ★54](https://github.com/sunnylqm/react-native-swiper2) - Swiper component for React Native. Supersede react-native-swiper
