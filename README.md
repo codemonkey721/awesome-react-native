@@ -661,7 +661,7 @@ Libraries / SDK type additions for React Native development.
 ## Open Source Apps
 
 Open source React Native apps and other examples.
-
+- [Appointments ](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
 - [NBAreact ★8](https://github.com/jbkuczma/NBAreact)
 - [Reddit made with React Native and Redux ★32](https://github.com/KevinOfNeu/xReddit)
 - [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
@@ -684,7 +684,7 @@ Open source React Native apps and other examples.
 - [React Native Chromecast App ★35](https://github.com/holoed/ChromeCast_ReactNative)
 - [React Native Example, Geo and Location ★97](https://github.com/bgryszko/react-native-example)
 - [MagicMirror ★195](https://github.com/ajwhite/MagicMirror)
-- [Kakapo -  ambient sound mixer](https://github.com/bluedaniel/Kakapo-native), [iTunes](https://itunes.apple.com/us/app/kakapo/id1046673139)
+- [Kakapo -  ambient sound mixer](https://github.com/bluedaniel/Kakapo-native)
 - [Finance React Native ★724](https://github.com/7kfpun/FinanceReactNative) - iOS's stocks app clone written in React Native for demo purpose.
 - [Redux Demo ★156](https://github.com/chentsulin/react-native-counter-ios-android) - Minimal implement of redux counter example on ReactNative iOS and Android
 - [react-native-nw-react-calculator ★3017](https://github.com/benoitvallon/react-native-nw-react-calculator) - A mobile, desktop and website App with the same code
