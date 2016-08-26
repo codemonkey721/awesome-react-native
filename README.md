@@ -134,6 +134,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-cache-image ★67](https://github.com/remobile/react-native-cache-image) - A cache-image for react-native
 - [react-native-cacheable-image ★10](https://github.com/jayesbe/react-native-cacheable-image) - A filesystem cacheable image component for react-native
 - [react-native-calendar-android ★31](https://github.com/chymtt/ReactNativeCalendarAndroid) - A simple material-themed calendar for react native android
+- [react-native-calendar-datepicker ★1](https://github.com/vlad-doru/react-native-calendar-datepicker) - A cross-platform calendar datepicker
 - [react-native-calendar ★164](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
 - [react-native-canvas ★74](https://github.com/lwansbrough/react-native-canvas) - A Canvas element for React Native
 - [react-native-carousel ★227](https://github.com/nick/react-native-carousel) - Simple carousel component for react-native
@@ -660,7 +661,7 @@ Libraries / SDK type additions for React Native development.
 ## Open Source Apps
 
 Open source React Native apps and other examples.
-- [Appointments ](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
+
 - [NBAreact ★8](https://github.com/jbkuczma/NBAreact)
 - [Reddit made with React Native and Redux ★32](https://github.com/KevinOfNeu/xReddit)
 - [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
