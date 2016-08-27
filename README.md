@@ -405,6 +405,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-cosmos ★14](https://github.com/jerolimov/react-native-cosmos) - DX tool to test react-native components with defined props/state fixtures.
 - [react-native-css-loader ★13](https://github.com/thewei/react-native-css-loader) - You can use react-native-css-loader with react-native-webpack-server, which can use webpack to built react-native app better.
 - [react-native-debug-stylesheet ★51](https://github.com/brentvatne/react-native-debug-stylesheet) - Add coloured borders or backgrounds to all views to make it easier to debug layout issues
+- [react-native-kill-packager ★1](https://github.com/livioso/react-native-kill-packager) - kill running react native packager.
 - [react-native-webpack-server ★795](https://github.com/mjohnston/react-native-webpack-server) - Build React Native apps with Webpack
 - [reactotron ★2166](https://github.com/skellock/reactotron) - Control, monitor, and instrument your React Native apps from the comfort of your terminal.
 
@@ -646,7 +647,7 @@ Get a head start on development with an existing seed.
 - [react-native-es6-reflux ★141](https://github.com/filp/react-native-es6-reflux)
 - [react-native-tabbed ★21](https://github.com/rxb/react-native-tabbed)
 - [react-native-hot-redux-starter ★130](https://github.com/adampash/react-native-hot-redux-starter)
-- [ReactNativeTS ★73](https://github.com/mrpatiwi/ReactNativeTS) - Boilerplate of a React Native project in Typescript.
+- [ReactNativeTS ★73](https://github.com/mrpatiwi/ReactNativeTS) - Typescript with [alt](http://alt.js.org/) and router
 - [Snowflake ★2181](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
 - [React Native Meteor Boilerplate ★264](https://github.com/spencercarli/react-native-meteor-boilerplate)
 - [Pepperoni ★2273](https://github.com/futurice/pepperoni-app-kit) - Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state, login and signup
