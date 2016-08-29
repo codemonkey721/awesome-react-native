@@ -405,7 +405,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-cosmos ★14](https://github.com/jerolimov/react-native-cosmos) - DX tool to test react-native components with defined props/state fixtures.
 - [react-native-css-loader ★13](https://github.com/thewei/react-native-css-loader) - You can use react-native-css-loader with react-native-webpack-server, which can use webpack to built react-native app better.
 - [react-native-debug-stylesheet ★51](https://github.com/brentvatne/react-native-debug-stylesheet) - Add coloured borders or backgrounds to all views to make it easier to debug layout issues
-- [react-native-kill-packager ★1](https://github.com/livioso/react-native-kill-packager) - kill running react native packager.
 - [react-native-webpack-server ★795](https://github.com/mjohnston/react-native-webpack-server) - Build React Native apps with Webpack
 - [reactotron ★2166](https://github.com/skellock/reactotron) - Control, monitor, and instrument your React Native apps from the comfort of your terminal.
 
@@ -459,6 +458,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-ibeacon ★155](https://github.com/geniuxconsulting/react-native-ibeacon) - iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don't work in the iOS simulator.
 - [react-native-icloud-sync ★18](https://github.com/chirag04/react-native-icloud-sync) - A react-native wrapper for syncing with icloud
 - [react-native-in-app-utils ★143](https://github.com/chirag04/react-native-in-app-utils) - A react-native wrapper for handling in-app payments.
+- [react-native-image-resizer ★55](https://github.com/bamlab/react-native-image-resizer) - Rescale local image files with React Native.
 - [react-native-keychain ★122](https://github.com/oblador/react-native-keychain) - Keychain Access for React Native
 - [react-native-localsearch ★12](https://github.com/wmcmahan/React-Native-LocalSearch) - React Native Module for MapKit Local Search
 - [react-native-location ★151](https://github.com/timfpark/react-native-location) - Native GPS location support for React Native.
