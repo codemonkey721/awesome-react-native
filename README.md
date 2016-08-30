@@ -458,7 +458,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-ibeacon ★155](https://github.com/geniuxconsulting/react-native-ibeacon) - iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don't work in the iOS simulator.
 - [react-native-icloud-sync ★18](https://github.com/chirag04/react-native-icloud-sync) - A react-native wrapper for syncing with icloud
 - [react-native-in-app-utils ★143](https://github.com/chirag04/react-native-in-app-utils) - A react-native wrapper for handling in-app payments.
-- [react-native-image-resizer ★55](https://github.com/bamlab/react-native-image-resizer) - Rescale local image files with React Native.
 - [react-native-keychain ★122](https://github.com/oblador/react-native-keychain) - Keychain Access for React Native
 - [react-native-localsearch ★12](https://github.com/wmcmahan/React-Native-LocalSearch) - React Native Module for MapKit Local Search
 - [react-native-location ★151](https://github.com/timfpark/react-native-location) - Native GPS location support for React Native.
@@ -651,6 +650,7 @@ Get a head start on development with an existing seed.
 - [Snowflake ★2181](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
 - [React Native Meteor Boilerplate ★264](https://github.com/spencercarli/react-native-meteor-boilerplate)
 - [Pepperoni ★2273](https://github.com/futurice/pepperoni-app-kit) - Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state, login and signup
+- [rn-mobx-template ★0](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
 
 ## Libraries
 
