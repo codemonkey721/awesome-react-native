@@ -405,6 +405,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-cosmos ★14](https://github.com/jerolimov/react-native-cosmos) - DX tool to test react-native components with defined props/state fixtures.
 - [react-native-css-loader ★13](https://github.com/thewei/react-native-css-loader) - You can use react-native-css-loader with react-native-webpack-server, which can use webpack to built react-native app better.
 - [react-native-debug-stylesheet ★51](https://github.com/brentvatne/react-native-debug-stylesheet) - Add coloured borders or backgrounds to all views to make it easier to debug layout issues
+- [react-native-kill-packager ★1](https://github.com/livioso/react-native-kill-packager) - kill running react native packager.
 - [react-native-webpack-server ★795](https://github.com/mjohnston/react-native-webpack-server) - Build React Native apps with Webpack
 - [reactotron ★2166](https://github.com/skellock/reactotron) - Control, monitor, and instrument your React Native apps from the comfort of your terminal.
 
@@ -458,6 +459,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-ibeacon ★155](https://github.com/geniuxconsulting/react-native-ibeacon) - iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don't work in the iOS simulator.
 - [react-native-icloud-sync ★18](https://github.com/chirag04/react-native-icloud-sync) - A react-native wrapper for syncing with icloud
 - [react-native-in-app-utils ★143](https://github.com/chirag04/react-native-in-app-utils) - A react-native wrapper for handling in-app payments.
+- [react-native-image-resizer ★55](https://github.com/bamlab/react-native-image-resizer) - Rescale local image files with React Native.
 - [react-native-keychain ★122](https://github.com/oblador/react-native-keychain) - Keychain Access for React Native
 - [react-native-localsearch ★12](https://github.com/wmcmahan/React-Native-LocalSearch) - React Native Module for MapKit Local Search
 - [react-native-location ★151](https://github.com/timfpark/react-native-location) - Native GPS location support for React Native.
@@ -646,7 +648,7 @@ Get a head start on development with an existing seed.
 - [react-native-es6-reflux ★141](https://github.com/filp/react-native-es6-reflux)
 - [react-native-tabbed ★21](https://github.com/rxb/react-native-tabbed)
 - [react-native-hot-redux-starter ★130](https://github.com/adampash/react-native-hot-redux-starter)
-- [ReactNativeTS ★73](https://github.com/mrpatiwi/ReactNativeTS) - Typescript with [alt](http://alt.js.org/) and router
+- [ReactNativeTS ★73](https://github.com/mrpatiwi/ReactNativeTS) - Boilerplate of a React Native project in Typescript.
 - [Snowflake ★2181](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
 - [React Native Meteor Boilerplate ★264](https://github.com/spencercarli/react-native-meteor-boilerplate)
 - [Pepperoni ★2273](https://github.com/futurice/pepperoni-app-kit) - Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state, login and signup
@@ -789,5 +791,5 @@ Assortment of conference and training videos.
 ## Releases
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
-- [Stable: 0.31](https://github.com/facebook/react-native/releases/tag/v0.31.0)
+- [Stable: 0.32.0](https://github.com/facebook/react-native/releases/tag/v0.32.0)
 - [Next: latest](https://github.com/facebook/react-native/releases/latest)
