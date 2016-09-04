@@ -134,7 +134,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-cache-image ★67](https://github.com/remobile/react-native-cache-image) - A cache-image for react-native
 - [react-native-cacheable-image ★10](https://github.com/jayesbe/react-native-cacheable-image) - A filesystem cacheable image component for react-native
 - [react-native-calendar-android ★31](https://github.com/chymtt/ReactNativeCalendarAndroid) - A simple material-themed calendar for react native android
-- [react-native-calendar-datepicker ★1](https://github.com/vlad-doru/react-native-calendar-datepicker) - A cross-platform calendar datepicker
+- [react-native-calendar-datepicker ★5](https://github.com/vlad-doru/react-native-calendar-datepicker) - A cross-platform calendar datepicker
 - [react-native-calendar ★164](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
 - [react-native-canvas ★74](https://github.com/lwansbrough/react-native-canvas) - A Canvas element for React Native
 - [react-native-carousel ★227](https://github.com/nick/react-native-carousel) - Simple carousel component for react-native
@@ -755,7 +755,6 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React Native with Django backend ★1](https://github.com/shunpochang/connect_love_mobile_demo)
 - [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
 - [Building a Calculator for Android and iOS with React Native](https://kylewbanks.com/blog/react-native-tutorial-part-1-hello-react)
-- [Fully-immersive, hands-on, and fun learning experience for React Native](https://github.com/jondot/ReactNativeKatas)
 
 ## Problem & Solution
 
