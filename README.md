@@ -143,7 +143,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-charts ★42](https://github.com/PrazAs/react-native-charts) - Delightfully-animated data visualization.
 - [react-native-checkbox ★41](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
 - [react-native-circle-checkbox ★11](https://github.com/ParamoshkinAndrew/ReactNativeCircleCheckbox) - Circle checkbox component for React Native
-- [react-native-circle-progress ★22](https://github.com/guodong000/react-native-circle-progress) - A custom Circle Progress Indocator for React Native
+- [react-native-circle-progress ★22](https://github.com/guodong000/react-native-circle-progress) - A custom Circle Progress Indicator for React Native
 - [react-native-circle-view ★28](https://github.com/nucleartux/react-native-circle-view) - circle progress for react native android using CircleView
 - [react-native-circular-progress ★205](https://github.com/bgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
 - [react-native-collapsible ★211](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
@@ -719,7 +719,6 @@ Open source React Native apps and other examples.
 - [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone
 - [TaskRabbit's Sample App ★342](https://github.com/taskrabbit/ReactNativeSampleApp) - a testing ground for Task Rabbit's app making
 - [react-native-sudoku ★205](https://github.com/nihgwu/react-native-sudoku) - a sudoku game written in React Native
-- [react-native-otello ★0](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
 
 
 ## Frameworks
