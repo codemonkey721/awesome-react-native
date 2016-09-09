@@ -143,7 +143,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-charts ★42](https://github.com/PrazAs/react-native-charts) - Delightfully-animated data visualization.
 - [react-native-checkbox ★41](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
 - [react-native-circle-checkbox ★11](https://github.com/ParamoshkinAndrew/ReactNativeCircleCheckbox) - Circle checkbox component for React Native
-- [react-native-circle-progress ★22](https://github.com/guodong000/react-native-circle-progress) - A custom Circle Progress Indocator for React Native
+- [react-native-circle-progress ★22](https://github.com/guodong000/react-native-circle-progress) - A custom Circle Progress Indicator for React Native
 - [react-native-circle-view ★28](https://github.com/nucleartux/react-native-circle-view) - circle progress for react native android using CircleView
 - [react-native-circular-progress ★205](https://github.com/bgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
 - [react-native-collapsible ★211](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
@@ -170,6 +170,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-dropdown ★193](https://github.com/alinz/react-native-dropdown) - A better Select dropdown menu for react-native
 - [react-native-effects-view ★189](https://github.com/voronianski/react-native-effects-view) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
 - [react-native-egg ★46](https://github.com/FuYaoDe/react-native-egg) - A easter egg component implementation simple gestures detection achieve trigger can make your react native app infinitely more fun.
+- [react-native-elements ★6](https://github.com/dabit3/React-Native-Elements) - React Native Elements UI Toolkit
 - [react-native-emoji ★58](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native
 - [react-native-emoji-picker ★4](https://github.com/yonahforst/react-native-emoji-picker) - Simple Emoji picker for react-native with optional modal-like component
 - [react-native-fading-slides ★19](https://github.com/chagasaway/react-native-fading-slides) - Simple looped fading slides carousel for React Native
@@ -720,6 +721,7 @@ Open source React Native apps and other examples.
 - [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone
 - [TaskRabbit's Sample App ★342](https://github.com/taskrabbit/ReactNativeSampleApp) - a testing ground for Task Rabbit's app making
 - [react-native-sudoku ★205](https://github.com/nihgwu/react-native-sudoku) - a sudoku game written in React Native
+- [react-native-otello ★0](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
 
 
 ## Frameworks
