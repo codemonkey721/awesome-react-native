@@ -217,7 +217,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-looped-carousel ★350](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images
 - [react-native-mapbox-gl ★512](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
 - [react-native-maps ★1338](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
-- [react-native-google-place-picker](https://github.com/q6112345/react-native-google-place-picker) - React Native Wrapper of Google Place Picker for both Android and iOS.
 - [react-native-marquee-label ★15](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 - [react-native-masked-view ★27](https://github.com/gilbox/react-native-masked-view) - A  element for react-native
 - [react-native-material-design ★1009](https://github.com/react-native-material-design/react-native-material-design) - React Native Material Design Components
@@ -659,6 +658,7 @@ Get a head start on development with an existing seed.
 - [Pepperoni ★2273](https://github.com/futurice/pepperoni-app-kit) - Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state, login and signup
 - [rn-mobx-template ★0](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
 - [rn-relay-drawer-template ★0](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
+- [React Native Hackathon Starter](https://github.com/dabit3/react-native-hackathon-starter) - React Native Starter Project, great for hackathons or rapid prototyping. Includes tabs, navigation, Redux, React Native Vector Icons, & React Native Elements
 
 ## Libraries
 
@@ -666,6 +666,7 @@ Libraries / SDK type additions for React Native development.
 
 - [tcomb-form-native ★1196](https://github.com/gcanti/tcomb-form-native) - Generate React Native forms
 - [Panza ★96](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
+- [React Native Elements](https://github.com/dabit3/React-Native-Elements) - a collection of React Native UI Elements and components.
 
 ## Open Source Apps
 
