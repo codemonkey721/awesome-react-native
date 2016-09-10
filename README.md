@@ -170,7 +170,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-dropdown ★193](https://github.com/alinz/react-native-dropdown) - A better Select dropdown menu for react-native
 - [react-native-effects-view ★189](https://github.com/voronianski/react-native-effects-view) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
 - [react-native-egg ★46](https://github.com/FuYaoDe/react-native-egg) - A easter egg component implementation simple gestures detection achieve trigger can make your react native app infinitely more fun.
-- [react-native-elements ★6](https://github.com/dabit3/React-Native-Elements) - React Native Elements UI Toolkit
 - [react-native-emoji ★58](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native
 - [react-native-emoji-picker ★4](https://github.com/yonahforst/react-native-emoji-picker) - Simple Emoji picker for react-native with optional modal-like component
 - [react-native-fading-slides ★19](https://github.com/chagasaway/react-native-fading-slides) - Simple looped fading slides carousel for React Native
@@ -218,6 +217,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-looped-carousel ★350](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images
 - [react-native-mapbox-gl ★512](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
 - [react-native-maps ★1338](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
+- [react-native-google-place-picker](https://github.com/q6112345/react-native-google-place-picker) - React Native Wrapper of Google Place Picker for both Android and iOS.
 - [react-native-marquee-label ★15](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 - [react-native-masked-view ★27](https://github.com/gilbox/react-native-masked-view) - A  element for react-native
 - [react-native-material-design ★1009](https://github.com/react-native-material-design/react-native-material-design) - React Native Material Design Components
