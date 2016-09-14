@@ -58,7 +58,6 @@ Content published on the Web.
 - [60 fps on the mobile web](http://engineering.flipboard.com/2015/02/mobile-web/)
 - [Parse and React (incl. Native)](http://blog.parse.com/2015/03/25/parse-and-react-shared-chemistry/)
 - [React Native: Initial Thoughts (opinion)](http://unredacted.redalemeden.com/2015/initial-thoughts-about-react-native/)
-- [How React Native Dies: A Pre-Mortem (opinion)](codecookbook.co/text/how-react-native-dies)
 - [A Dynamic Crazy Native Mobile Future Powered by Javascript](https://medium.com/@clayallsopp/a-dynamic-crazy-native-mobile-future-powered-by-javascript-70f2d56b1987)
 - [ReactNative NES & More](http://moduscreate.com/react-native-has-landed/)
 - [React Native Installation and Setup](https://github.com/checkraiser/beginning-react-native/blob/master/1.Installation_and_setup.md)
@@ -224,6 +223,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-marquee-label ★15](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 - [react-native-masked-view ★27](https://github.com/gilbox/react-native-masked-view) - A  element for react-native
 - [react-native-material-design ★1009](https://github.com/react-native-material-design/react-native-material-design) - React Native Material Design Components
+- [react-native-material-ui ★34](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native
 - [react-native-material-kit ★1620](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
 - [react-native-match-media ★2](https://github.com/tuckerconnelly/match-media-mocks) - window.matchMedia mock for React Native
 - [react-native-message-composer ★32](https://github.com/anarchicknight/react-native-message-composer) - React Native module bridge to iOS MFMessageComposeViewController
