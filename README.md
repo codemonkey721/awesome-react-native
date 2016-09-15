@@ -568,7 +568,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-udp ★41](https://github.com/tradle/react-native-udp) - node's dgram API for react-native
 - [react-native-uploader ★89](https://github.com/aroth/react-native-uploader) - A React Native module to upload files and camera roll assets. Supports progress notification.
 - [react-native-xmpp ★80](https://github.com/aksonov/react-native-xmpp) - XMPP Library for React Native
-- [aws-sdk-react-native ★188](https://github.com/awslabs/aws-sdk-react-native) - AWS SDK for React Native (Official developer preview)
 - [react-native-s3 ★22](https://github.com/mybigday/react-native-s3) - A React Native wrapper for AWS iOS/Android S3 SDK (TransferUtility)
 - [react-native-aws3 ★38](https://github.com/benjreinhart/react-native-aws3) - Pure JavaScript React Native library for uploading to AWS S3
 - [react-native-fetch-blob ★121](https://github.com/wkh237/react-native-fetch-blob) - A module integrates network and file system. Supports file stream.
@@ -738,6 +737,9 @@ Open source React Native apps and other examples.
 
 Walkthroughs and tutorials that help you learn React Native.
 
+- [Making Network Requests](http://codecookbook.co/post/post/how-to-make-network-requests-in-react-native/)
+- [Sharing Text using the new Share API](http://codecookbook.co/post/how-to-share-text-from-your-react-native-app)
+- [How to Build a React Native Login Form with Redux Pt1](post/http://codecookbook.co/post/how-to-build-a-react-native-login-form-with-redux-pt1/)
 - [Deploying React Native using Fastlane](https://shift.infinite.red/simple-react-native-ios-releases-4c28bb53a97b#.bjifers3r)
 - [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
 - [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
