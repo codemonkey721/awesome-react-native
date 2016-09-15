@@ -103,7 +103,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [apsl-react-native-button ★240](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native ★68](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
 - [ex-navigator ★464](https://github.com/exponentjs/ex-navigator) - Route-centric navigation built on top of React Native's Navigator
-- [navbar-native ★1](https://github.com/redbaron76/navbar-native) - A new, fully customizable Navbar component for React-Native
 - [react-native-router-sinux ★ ★1](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation.
 - [react-native-router-flux ★2018](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API
 - [react-native-mobx ★47](https://github.com/aksonov/react-native-mobx) - Make your app reactive with MobX and react-native-router-flux
@@ -153,7 +152,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-country-picker ★3](https://github.com/tofugear/react-native-country-picker) - React Native Country Picker
 - [react-native-country-picker-modal ★73](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
 - [react-native-create-new-file-ios ★0](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
-- [react-native-credit-card-input](https://github.com/sbycrosz/react-native-credit-card-input) - 💳 💳 Easy (and good looking) credit-card input for your React Native Project
+- [react-native-credit-card-input](https://github.com/sbycrosz/react-native-credit-card-input) - 💳 💳 Easy (and good looking) credit-card input for your React Native Project 
 - [react-native-custom-actsheet ★26](https://github.com/guodong000/react-native-custom-actsheet) - A custom ActionSheet for react-native
 - - [react-native-multi-select](https://github.com/hasangilak/react-native-multi-select) - you know select2 on web ? now you have it in react native at your command :)
 - [react-native-custom-checkbox ★3](https://github.com/caroaguilar/react-native-custom-checkbox) - React Native checkbox that can be customize. Works for both Android and iOS.
@@ -569,6 +568,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-udp ★41](https://github.com/tradle/react-native-udp) - node's dgram API for react-native
 - [react-native-uploader ★89](https://github.com/aroth/react-native-uploader) - A React Native module to upload files and camera roll assets. Supports progress notification.
 - [react-native-xmpp ★80](https://github.com/aksonov/react-native-xmpp) - XMPP Library for React Native
+- [aws-sdk-react-native ★188](https://github.com/awslabs/aws-sdk-react-native) - AWS SDK for React Native (Official developer preview)
 - [react-native-s3 ★22](https://github.com/mybigday/react-native-s3) - A React Native wrapper for AWS iOS/Android S3 SDK (TransferUtility)
 - [react-native-aws3 ★38](https://github.com/benjreinhart/react-native-aws3) - Pure JavaScript React Native library for uploading to AWS S3
 - [react-native-fetch-blob ★121](https://github.com/wkh237/react-native-fetch-blob) - A module integrates network and file system. Supports file stream.
