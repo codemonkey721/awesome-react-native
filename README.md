@@ -100,9 +100,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
-- [react-native-button-component ★45](https://github.com/jacklam718/react-native-button-component) - A Beautiful, Customizable React Native Button component for iOS & Android
-- [react-native-popup-dialog ★16](https://github.com/jacklam718/react-native-popup-dialog) - A React Native Popup Dialog Easy Use & Support Use Custom Animation. For IOS & Android
-- [react-native-card-view ★20](https://github.com/jacklam718/react-native-card-view) - A react native card component
 - [apsl-react-native-button ★240](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native ★68](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
 - [ex-navigator ★464](https://github.com/exponentjs/ex-navigator) - Route-centric navigation built on top of React Native's Navigator
@@ -224,11 +221,9 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-looped-carousel ★350](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images
 - [react-native-mapbox-gl ★512](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
 - [react-native-maps ★1338](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
-- [react-native-google-place-picker](https://github.com/q6112345/react-native-google-place-picker) - React Native Wrapper of Google Place Picker for both Android and iOS.
 - [react-native-marquee-label ★15](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 - [react-native-masked-view ★27](https://github.com/gilbox/react-native-masked-view) - A  element for react-native
 - [react-native-material-design ★1009](https://github.com/react-native-material-design/react-native-material-design) - React Native Material Design Components
-- [react-native-material-ui ★34](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native
 - [react-native-material-kit ★1620](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
 - [react-native-match-media ★2](https://github.com/tuckerconnelly/match-media-mocks) - window.matchMedia mock for React Native
 - [react-native-message-composer ★32](https://github.com/anarchicknight/react-native-message-composer) - React Native module bridge to iOS MFMessageComposeViewController
@@ -325,7 +320,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-tableview-simple ★81](https://github.com/Purii/react-native-tableview-simple) - React Native component for TableView made with pure CSS
 - [react-native-tableview ★459](https://github.com/aksonov/react-native-tableview) - Native iOS TableView wrapper for React Native
 - [react-native-tabs ★288](https://github.com/aksonov/react-native-tabs) - React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)
-- [react-native-textinput-effects ★524](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and android. Built by react native and inspired by Codrops.
 - [react-native-textinput-utils ★31](https://github.com/DickyT/react-native-textinput-utils) - A react native extension which allows you to control TextInput better.
 - [react-native-timeago ★104](https://github.com/TylerLH/react-native-timeago) - Auto-updating timeago component for React Native
 - [react-native-timer-mixin ★116](https://github.com/reactjs/react-timer-mixin) - TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.
@@ -575,7 +569,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-udp ★41](https://github.com/tradle/react-native-udp) - node's dgram API for react-native
 - [react-native-uploader ★89](https://github.com/aroth/react-native-uploader) - A React Native module to upload files and camera roll assets. Supports progress notification.
 - [react-native-xmpp ★80](https://github.com/aksonov/react-native-xmpp) - XMPP Library for React Native
-- [aws-sdk-react-native ★188](https://github.com/awslabs/aws-sdk-react-native) - AWS SDK for React Native (Official developer preview)
 - [react-native-s3 ★22](https://github.com/mybigday/react-native-s3) - A React Native wrapper for AWS iOS/Android S3 SDK (TransferUtility)
 - [react-native-aws3 ★38](https://github.com/benjreinhart/react-native-aws3) - Pure JavaScript React Native library for uploading to AWS S3
 - [react-native-fetch-blob ★121](https://github.com/wkh237/react-native-fetch-blob) - A module integrates network and file system. Supports file stream.
@@ -666,6 +659,7 @@ Get a head start on development with an existing seed.
 - [ReactNativeTS ★73](https://github.com/mrpatiwi/ReactNativeTS) - Boilerplate of a React Native project in Typescript.
 - [Snowflake ★2181](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
 - [React Native Meteor Boilerplate ★264](https://github.com/spencercarli/react-native-meteor-boilerplate)
+- [MeteorNative Boilerplate ★1](https://github.com/redbaron76/MeteorNative) - a React Native and Meteor boilerplate with Redux.
 - [Pepperoni ★2273](https://github.com/futurice/pepperoni-app-kit) - Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state, login and signup
 - [rn-mobx-template ★0](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
 - [rn-relay-drawer-template ★0](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
@@ -745,9 +739,6 @@ Open source React Native apps and other examples.
 
 Walkthroughs and tutorials that help you learn React Native.
 
-- [Making Network Requests](http://codecookbook.co/post/how-to-make-network-requests-in-react-native/)
-- [Sharing Text using the new Share API](http://codecookbook.co/post/how-to-share-text-from-your-react-native-app)
-- [How to Build a React Native Login Form with Redux Pt1](http://codecookbook.co/post/how-to-build-a-react-native-login-form-with-redux-pt1/)
 - [Deploying React Native using Fastlane](https://shift.infinite.red/simple-react-native-ios-releases-4c28bb53a97b#.bjifers3r)
 - [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
 - [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
@@ -777,7 +768,6 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React Native with Django backend ★1](https://github.com/shunpochang/connect_love_mobile_demo)
 - [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
 - [Building a Calculator for Android and iOS with React Native](https://kylewbanks.com/blog/react-native-tutorial-part-1-hello-react)
-- [Fully-immersive, hands-on, and fun learning experience for React Native](https://github.com/jondot/ReactNativeKatas)
 
 ## Problem & Solution
 
