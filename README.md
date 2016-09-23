@@ -38,7 +38,6 @@ Content published on the Web.
 
 - [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/)
 - [What's up with NavigatorIOS, Navigator, and ExperimentalNavigator?](https://github.com/facebook/react-native/issues/6184), and [this](https://github.com/ericvicenti/navigation-rfc/blob/master/Docs/NavigationOverview.md), and [this](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer/js/NavigationExperimental)
-- [Basics of using react-native-router-flux](https://medium.com/@spencer_carli/react-native-basics-using-react-native-router-flux-f11e5128aff9#.di5mvrbdr)
 
 ### Howtos
 
@@ -736,6 +735,7 @@ Open source React Native apps and other examples.
 - [TaskRabbit's Sample App ★342](https://github.com/taskrabbit/ReactNativeSampleApp) - a testing ground for Task Rabbit's app making
 - [react-native-sudoku ★205](https://github.com/nihgwu/react-native-sudoku) - a sudoku game written in React Native
 - [react-native-otello ★0](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
+- [Look Lock ★2](https://github.com/7kfpun/PhotosReactNative) - An app for showing photos without worries.
 
 
 ## Frameworks
