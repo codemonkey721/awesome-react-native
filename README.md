@@ -658,6 +658,7 @@ Useful React Native tooling.
 Get a head start on development with an existing seed.
 
 - [🔥 Ignite ★2152](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
+- [React-Native-Starter-Pack ★5](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
 - [react-native-webpack-starter-kit ★749](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel ★237](https://github.com/roman01la/react-native-babel)
 - [react-native-es6-reflux ★141](https://github.com/filp/react-native-es6-reflux)
@@ -735,7 +736,6 @@ Open source React Native apps and other examples.
 - [TaskRabbit's Sample App ★342](https://github.com/taskrabbit/ReactNativeSampleApp) - a testing ground for Task Rabbit's app making
 - [react-native-sudoku ★205](https://github.com/nihgwu/react-native-sudoku) - a sudoku game written in React Native
 - [react-native-otello ★0](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
-- [Look Lock ★2](https://github.com/7kfpun/PhotosReactNative) - An app for showing photos without worries.
 
 
 ## Frameworks
