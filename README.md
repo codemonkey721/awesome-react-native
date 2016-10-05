@@ -401,6 +401,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-html-parser ★7](https://github.com/g6ling/react-native-html-parser) - parse html in react-native
 - [react-native-slowlog ★8](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
 - [codemod-RN24-to-RN25 ★80](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
+- [react-native-workers ★97](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
 
 ### Internationalization
 
@@ -659,6 +660,7 @@ Useful React Native tooling.
 Get a head start on development with an existing seed.
 
 - [🔥 Ignite ★2152](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
+- [React-Native-Starter-Pack ★5](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
 - [react-native-webpack-starter-kit ★749](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel ★237](https://github.com/roman01la/react-native-babel)
 - [react-native-es6-reflux ★141](https://github.com/filp/react-native-es6-reflux)
@@ -819,5 +821,5 @@ Assortment of conference and training videos.
 ## Releases
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
-- [Stable: 0.32.0](https://github.com/facebook/react-native/releases/tag/v0.32.0)
+- [Stable: 0.34.0](https://github.com/facebook/react-native/releases/tag/v0.34.0)
 - [Next: latest](https://github.com/facebook/react-native/releases/latest)
