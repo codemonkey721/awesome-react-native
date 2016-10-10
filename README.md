@@ -38,7 +38,6 @@ Content published on the Web.
 
 - [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/)
 - [What's up with NavigatorIOS, Navigator, and ExperimentalNavigator?](https://github.com/facebook/react-native/issues/6184), and [this](https://github.com/ericvicenti/navigation-rfc/blob/master/Docs/NavigationOverview.md), and [this](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer/js/NavigationExperimental)
-- [Basics of using react-native-router-flux](https://medium.com/@spencer_carli/react-native-basics-using-react-native-router-flux-f11e5128aff9#.di5mvrbdr)
 
 ### Howtos
 
@@ -159,7 +158,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-create-new-file-ios ★0](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
 - [react-native-credit-card-input](https://github.com/sbycrosz/react-native-credit-card-input) - 💳 💳 Easy (and good looking) credit-card input for your React Native Project
 - [react-native-custom-actsheet ★26](https://github.com/guodong000/react-native-custom-actsheet) - A custom ActionSheet for react-native
-- [react-native-multi-select](https://github.com/hasangilak/react-native-multi-select) - you know select2 on web ? now you have it in react native at your command :)
+- - [react-native-multi-select](https://github.com/hasangilak/react-native-multi-select) - you know select2 on web ? now you have it in react native at your command :)
 - [react-native-custom-checkbox ★3](https://github.com/caroaguilar/react-native-custom-checkbox) - React Native checkbox that can be customize. Works for both Android and iOS.
 - [react-native-dashed-border ★18](https://github.com/chirag04/react-native-dashed-border) - A  element for react-native
 - [react-native-date ★40](https://github.com/nucleartux/react-native-date) - React Native date and time pickers for Android
@@ -184,6 +183,11 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-flanimatedimage](https://github.com/nihgwu/react-native-flanimatedimage) - FLAnimatedImage for React Native.
 - [react-native-flex-label ★5](https://github.com/eccolabs/react-native-flex-label) - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.
 - [react-native-floating-labels ★54](https://github.com/mayank-patel/react-native-floating-labels) - Reusabe floating lable component for react native
+- [react-native-fm-form ★8](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes
+- [react-native-form-flux ★2](https://github.com/aksonov/react-native-form-flux) - React Native Form management using Flux architecture
+- [react-native-form ★74](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!
+- [react-native-forms ★33](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms.
+- [react-native-form-generator ★97](https://github.com/MichaelCereda/react-native-form-generator) - Generate amazing React Native forms in a breeze
 - [react-native-fontbase ★0](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
 - [react-native-fs-modal ★35](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
 - [react-native-full-screen ★5](https://github.com/Anthonyzou/react-native-full-screen) - React Native FullScreen api and element
@@ -191,6 +195,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-gesture-recognizers ★117](https://github.com/johanneslumpe/react-native-gesture-recognizers) - Gesture recognizer decorators for react-native
 - [react-native-gestures ★81](https://github.com/kiddkai/react-native-gestures) - composable gesture system in react native
 - [react-native-gifted-chat ★1343](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
+- [react-native-gifted-form ★455](https://github.com/FaridSafi/react-native-gifted-form) - Form component for react-native
 - [react-native-gifted-listview ★555](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrents features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
 - [react-native-gmaps ★70](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
 - [react-native-geo-fencing ★15](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
@@ -229,7 +234,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-message-composer ★32](https://github.com/anarchicknight/react-native-message-composer) - React Native module bridge to iOS MFMessageComposeViewController
 - [react-native-md-textinput ★65](https://github.com/evblurbs/react-native-md-textinput) - React Native TextInput styled with Material Design.
 - [react-native-modalbox ★469](https://github.com/maxs15/react-native-modalbox) - A  component for react-native
-- [react-native-modal-dropdown ★15](https://github.com/sohobloo/react-native-modal-dropdown) - A react-native dropdown/picker/selector component for both Android & iOS.
 - [react-native-modal-picker ★52](https://github.com/d-a-n/react-native-modal-picker) - A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections.
 - [react-native-multi-slider ★47](https://github.com/JackDanielsAndCode/react-native-multi-slider) - Pure JS slider component with multiple markers for React Native
 - [react-native-multiple-choice ★17](https://github.com/d-a-n/react-native-multiple-choice) - A cross-platform (iOS / Android) single and multiple-choice React Native component.
@@ -347,6 +351,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-router-native ★102](https://github.com/jmurzy/react-router-native) - A routing library for React Native that strives for sensible API parity with [React Router](https://github.com/reactjs/react-router)
 - [react-native-telephone-input ★11](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input
 - [react-native-off-canvas-menu ★47](https://github.com/shoumma/react-native-off-canvas-menu) - Beautifully crafted off canvas menu components for react native applications.
+- [react-native-progressive-input ★9](https://github.com/khaiql/react-native-progressive-input) - TextInput with clear button and activity indicator, used as part of autocomplete list.
 
 ### Text & Rich Content
 
@@ -396,18 +401,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-html-parser ★7](https://github.com/g6ling/react-native-html-parser) - parse html in react-native
 - [react-native-slowlog ★8](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
 - [codemod-RN24-to-RN25 ★80](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
-- [react-native-workers ★97](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
-
-### Forms
-
-- [react-native-fm-form ★8](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes
-- [react-native-form-flux ★2](https://github.com/aksonov/react-native-form-flux) - React Native Form management using Flux architecture
-- [react-native-form ★74](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!
-- [react-native-forms ★33](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms.
-- [react-native-form-generator ★97](https://github.com/MichaelCereda/react-native-form-generator) - Generate amazing React Native forms in a breeze
-- [react-native-gifted-form ★455](https://github.com/FaridSafi/react-native-gifted-form) - Form component for react-native
-- [redux-form](http://redux-form.com) - Redux form state management (Web and Native)
-- [tcomb-form-native ★1196](https://github.com/gcanti/tcomb-form-native) - Generate React Native forms
 
 ### Internationalization
 
@@ -685,6 +678,7 @@ Get a head start on development with an existing seed.
 
 Libraries / SDK type additions for React Native development.
 
+- [tcomb-form-native ★1196](https://github.com/gcanti/tcomb-form-native) - Generate React Native forms
 - [Panza ★96](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
 - [React Native Elements](https://github.com/dabit3/React-Native-Elements) - a collection of React Native UI Elements and components.
 
@@ -743,8 +737,6 @@ Open source React Native apps and other examples.
 - [TaskRabbit's Sample App ★342](https://github.com/taskrabbit/ReactNativeSampleApp) - a testing ground for Task Rabbit's app making
 - [react-native-sudoku ★205](https://github.com/nihgwu/react-native-sudoku) - a sudoku game written in React Native
 - [react-native-otello ★0](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
-- [Look Lock ★2](https://github.com/7kfpun/PhotosReactNative) - An app for showing photos without worries.
-- [react-native-basketball ★178](https://github.com/FaridSafi/react-native-basketball) - a clone of the Facebook Basketball game
 
 
 ## Frameworks
@@ -810,25 +802,19 @@ Books - for sale.
 
 Assortment of conference and training videos.
 
-### Talks
-
-- [awesome-react-native-talks ★132](https://github.com/mightyCrow/awesome-react-native-talks) - A curated list of talks about React Native or topics related to React Native.
 - React Conf 2015: [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4)
 - React Conf 2015: [A Deep Dive into React Native](https://youtu.be/7rDsRXj9-cU)
 - F8 2015: [React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU)
-- [Actually Building Things In React Native , Jani Eväkallio, Futurice](https://www.youtube.com/watch?v=ZqKYk0aTaYk)
-- [Using Redux, Jonas Ohlsson, State](https://www.youtube.com/watch?v=Ola8U-SpL6U)
-- [Native Testing](https://www.youtube.com/watch?v=6aVDe2Y-co4)
-- [React Native In The Wild - Bonnie Eisenman](https://www.youtube.com/watch?v=KWEhFWm0SL8)
-
-### Training & tutorials
-
 - [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`
 - [Let's build a React Native app in 20 minutes](https://www.youtube.com/watch?v=9ArhJiMGVDc) and [Gist](https://gist.github.com/peterjmag/2ef39ba5d25f3f1e0008)
 - Egghead.io: [React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)
 - Pluralsight.com: [Build iOS Apps with React Native](http://www.pluralsight.com/courses/build-ios-apps-react-native)
 - Pluralsight.com: [Build Cross Platform React Native Apps with Exponent and Redux](https://www.pluralsight.com/courses/build-react-native-exponent-redux-apps)
 - Udemy.com: [Build apps with React Native](https://www.udemy.com/reactnative/learn/v4/overview)
+- [Actually Building Things In React Native , Jani Eväkallio, Futurice](https://www.youtube.com/watch?v=ZqKYk0aTaYk)
+- [Using Redux, Jonas Ohlsson, State](https://www.youtube.com/watch?v=Ola8U-SpL6U)
+- [Native Testing](https://www.youtube.com/watch?v=6aVDe2Y-co4)
+- [React Native In The Wild - Bonnie Eisenman](https://www.youtube.com/watch?v=KWEhFWm0SL8)
 - [React Native training ★238](https://www.gitbook.com/book/unbug/react-native-training/details)
 
 ## Releases
