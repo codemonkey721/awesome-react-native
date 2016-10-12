@@ -196,6 +196,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-gmaps ★70](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
 - [react-native-geo-fencing ★15](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
 - [react-native-gravatar ★3](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
+- [react-native-grid-component ★5](https://github.com/phil-r/react-native-grid-component) - Easy to use grid component for your react-native project. Supports iOS and Android.
 - [react-native-grid-view ★175](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
 - [react-native-grid ★11](https://github.com/thewei/react-native-grid) - The 24-column grid component for react-native
 - [react-native-ichart ★14](https://github.com/AdonRain/react-native-ichart) - ichart for react-native
@@ -348,6 +349,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-router-native ★102](https://github.com/jmurzy/react-router-native) - A routing library for React Native that strives for sensible API parity with [React Router](https://github.com/reactjs/react-router)
 - [react-native-telephone-input ★11](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input
 - [react-native-off-canvas-menu ★47](https://github.com/shoumma/react-native-off-canvas-menu) - Beautifully crafted off canvas menu components for react native applications.
+- [react-native-progressive-input ★9](https://github.com/khaiql/react-native-progressive-input) - TextInput with clear button and activity indicator, used as part of autocomplete list.
 
 ### Text & Rich Content
 
@@ -811,19 +813,25 @@ Books - for sale.
 
 Assortment of conference and training videos.
 
+### Talks
+
+- [awesome-react-native-talks ★132](https://github.com/mightyCrow/awesome-react-native-talks) - A curated list of talks about React Native or topics related to React Native.
 - React Conf 2015: [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4)
 - React Conf 2015: [A Deep Dive into React Native](https://youtu.be/7rDsRXj9-cU)
 - F8 2015: [React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU)
+- [Actually Building Things In React Native , Jani Eväkallio, Futurice](https://www.youtube.com/watch?v=ZqKYk0aTaYk)
+- [Using Redux, Jonas Ohlsson, State](https://www.youtube.com/watch?v=Ola8U-SpL6U)
+- [Native Testing](https://www.youtube.com/watch?v=6aVDe2Y-co4)
+- [React Native In The Wild - Bonnie Eisenman](https://www.youtube.com/watch?v=KWEhFWm0SL8)
+
+### Training & tutorials
+
 - [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`
 - [Let's build a React Native app in 20 minutes](https://www.youtube.com/watch?v=9ArhJiMGVDc) and [Gist](https://gist.github.com/peterjmag/2ef39ba5d25f3f1e0008)
 - Egghead.io: [React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)
 - Pluralsight.com: [Build iOS Apps with React Native](http://www.pluralsight.com/courses/build-ios-apps-react-native)
 - Pluralsight.com: [Build Cross Platform React Native Apps with Exponent and Redux](https://www.pluralsight.com/courses/build-react-native-exponent-redux-apps)
 - Udemy.com: [Build apps with React Native](https://www.udemy.com/reactnative/learn/v4/overview)
-- [Actually Building Things In React Native , Jani Eväkallio, Futurice](https://www.youtube.com/watch?v=ZqKYk0aTaYk)
-- [Using Redux, Jonas Ohlsson, State](https://www.youtube.com/watch?v=Ola8U-SpL6U)
-- [Native Testing](https://www.youtube.com/watch?v=6aVDe2Y-co4)
-- [React Native In The Wild - Bonnie Eisenman](https://www.youtube.com/watch?v=KWEhFWm0SL8)
 - [React Native training ★238](https://www.gitbook.com/book/unbug/react-native-training/details)
 
 ## Releases
