@@ -196,7 +196,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-gmaps ★70](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
 - [react-native-geo-fencing ★15](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
 - [react-native-gravatar ★3](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
-- [react-native-grid-component ★5](https://github.com/phil-r/react-native-grid-component) - Easy to use grid component for your react-native project. Supports iOS and Android.
 - [react-native-grid-view ★175](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
 - [react-native-grid ★11](https://github.com/thewei/react-native-grid) - The 24-column grid component for react-native
 - [react-native-ichart ★14](https://github.com/AdonRain/react-native-ichart) - ichart for react-native
@@ -727,7 +726,7 @@ Open source React Native apps and other examples.
 - [iTunesConnect ★32](https://github.com/oney/iTunesConnect) - Unofficial iTunes Connect App
 - [react-native-gitfeed ★1290](https://github.com/xiekw2010/react-native-gitfeed) - Yet another Github client written with react-native(iOS & android)
 - [rndrawer-implemented-rnrouter ★29](https://github.com/efkan/rndrawer-implemented-rnrouter) - A react-native-drawer implemented example and scaffolding for react-native-router-flux
-- [GitterMobile ★76](https://github.com/terrysahaidak/GitterMobile) - Gitter client for mobile devices (currently only for android)
+- [GitterMobile ★76](https://github.com/terrysahaidak/GitterMobile) - Gitter (chat for github) client for iOS and Anroid
 - [Hello Bemans ★3](https://github.com/rapportyou/HelloBemans) - Health Trainer Connection App (Android Version)
 - [Insta Snap  ★42](https://github.com/iZaL/insta-snap) - Image Sharing App
 - [30-days-of-react-native  ★1049](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native examples (inspired by 30DaysofSwift)
