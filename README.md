@@ -371,7 +371,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-fabric ★243](https://github.com/corymsmith/react-native-fabric) - A React Native library for Fabric, Crashlytics and Answers
 - [react-native-mixpanel ★69](https://github.com/davodesign84/react-native-mixpanel) - A React Native wrapper for Mixpanel tracking
 - [react-native-segment-io-analytics ★34](https://github.com/smore-inc/react-native-segment-io-analytics) - A React Native Segment wrapper!
-- [react-native-google-analytics-bridge ★219](https://github.com/idehub/react-native-google-analytics-bridge) - A native Google Analytics bridge for React Native. Uses the official libraries on both iOS and Android.
 
 ### Utils & Infra
 
@@ -505,7 +504,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-touch-id ★199](https://github.com/naoufal/react-native-touch-id) - React Native authentication with the native Touch ID popup.
 - [react-native-voip-push-notification ★8](https://github.com/ianlin/react-native-voip-push-notification) - iOS prioritized VoIP Push Notification
 - [react-native-wifi-manager ★8](https://github.com/skierkowski/react-native-wifi-manager) - Wifi Connection Manager for React Native on Android
-
+- [react-native-billing ★105](https://github.com/idehub/react-native-billing) - In-app purchase implementation for React Native on Android.
 
 ### Web
 
