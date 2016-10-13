@@ -196,6 +196,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-gmaps ★70](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
 - [react-native-geo-fencing ★15](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
 - [react-native-gravatar ★3](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
+- [react-native-grid-component ★5](https://github.com/phil-r/react-native-grid-component) - Easy to use grid component for your react-native project. Supports iOS and Android.
 - [react-native-grid-view ★175](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
 - [react-native-grid ★11](https://github.com/thewei/react-native-grid) - The 24-column grid component for react-native
 - [react-native-ichart ★14](https://github.com/AdonRain/react-native-ichart) - ichart for react-native
@@ -370,6 +371,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-fabric ★243](https://github.com/corymsmith/react-native-fabric) - A React Native library for Fabric, Crashlytics and Answers
 - [react-native-mixpanel ★69](https://github.com/davodesign84/react-native-mixpanel) - A React Native wrapper for Mixpanel tracking
 - [react-native-segment-io-analytics ★34](https://github.com/smore-inc/react-native-segment-io-analytics) - A React Native Segment wrapper!
+- [react-native-google-analytics-bridge ★219](https://github.com/idehub/react-native-google-analytics-bridge) - A native Google Analytics bridge for React Native. Uses the official libraries on both iOS and Android.
 
 ### Utils & Infra
 
