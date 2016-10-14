@@ -371,6 +371,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-fabric ★243](https://github.com/corymsmith/react-native-fabric) - A React Native library for Fabric, Crashlytics and Answers
 - [react-native-mixpanel ★69](https://github.com/davodesign84/react-native-mixpanel) - A React Native wrapper for Mixpanel tracking
 - [react-native-segment-io-analytics ★34](https://github.com/smore-inc/react-native-segment-io-analytics) - A React Native Segment wrapper!
+- [react-native-google-analytics-bridge ★219](https://github.com/idehub/react-native-google-analytics-bridge) - A native Google Analytics bridge for React Native. Uses the official libraries on both iOS and Android.
 
 ### Utils & Infra
 
@@ -683,6 +684,7 @@ Get a head start on development with an existing seed.
 - [rn-mobx-template ★0](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
 - [rn-relay-drawer-template ★0](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
 - [React Native Hackathon Starter](https://github.com/dabit3/react-native-hackathon-starter) - React Native Starter Project, great for hackathons or rapid prototyping. Includes tabs, navigation, Redux, React Native Vector Icons, & React Native Elements
+- [🍞 Baker ★46](http://baker.thebakery.io/) - An opinionated MVP toolkit that helps you build mobile apps crazy fast using React Native and Parse Server
 
 ## Libraries
 
