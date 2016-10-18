@@ -11,6 +11,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 # Content
 
+- [Conferences](#conferences)
 - [Articles](#articles)
 - [Internals](#internals)
 - [Components](#components)
@@ -23,6 +24,21 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Books](#books)
 - [Videos](#videos)
 - [Releases](#releases)
+
+## Conferences
+
+Conferences dedicated to React Native specifically. A listing of React general conferences can be found on the [ReactJS site](https://facebook.github.io/react/docs/conferences.html).
+
+### Chain React Conf - USA
+
+Summer 2017 - https://infinite.red/ChainReactConf
+Twitter: https://twitter.com/chainreactconf
+Email: conf@infinite.red
+
+### React Native EU - Poland
+
+Fall 2017 - http://react-native.eu/
+Email: team@reactnative.eu
 
 ## Articles
 
@@ -350,7 +366,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-telephone-input ★11](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input
 - [react-native-off-canvas-menu ★47](https://github.com/shoumma/react-native-off-canvas-menu) - Beautifully crafted off canvas menu components for react native applications.
 - [react-native-progressive-input ★9](https://github.com/khaiql/react-native-progressive-input) - TextInput with clear button and activity indicator, used as part of autocomplete list.
-- [react-native-image-carousel ★4](https://github.com/anvilabs/react-native-image-carousel) - Image carousel with support for fullscreen mode, image swiping and pinch-to-zoom in fullscreen mode.
 
 ### Text & Rich Content
 
