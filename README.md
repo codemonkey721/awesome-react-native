@@ -118,11 +118,15 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
+- [react-native-splash-screen ★28](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
+- [react-native-check-box ★24](https://github.com/crazycodeboy/react-native-check-box) - Checkbox component for react native, it works on iOS and Android.
+- [react-native-easy-toast ★18](https://github.com/crazycodeboy/react-native-easy-toast) - A react native module to show toast like android, it works on iOS and Android.
 - [react-native-button-component ★45](https://github.com/jacklam718/react-native-button-component) - A Beautiful, Customizable React Native Button component for iOS & Android
 - [react-native-popup-dialog ★16](https://github.com/jacklam718/react-native-popup-dialog) - A React Native Popup Dialog Easy Use & Support Use Custom Animation. For IOS & Android
 - [react-native-card-view ★20](https://github.com/jacklam718/react-native-card-view) - A react native card component
 - [apsl-react-native-button ★240](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native ★68](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
+- [ex-navigation ★361](https://github.com/exponentjs/ex-navigation) - A route-centric, batteries-included navigation library for Exponent and React Native that works seamlessly on Android and iOS.
 - [ex-navigator ★464](https://github.com/exponentjs/ex-navigator) - Route-centric navigation built on top of React Native's Navigator
 - [navbar-native ★1](https://github.com/redbaron76/navbar-native) - A new, fully customizable Navbar component for React-Native
 - [react-native-router-sinux ★ ★1](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation.
@@ -221,7 +225,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-image-button ★3](https://github.com/remobile/react-native-image-button) - A image-button for react-native
 - [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native
 - [react-native-image-picker ★1052](https://github.com/marcshilling/react-native-image-picker) - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.
-- [react-native-image-crop-picker ★135](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for multiple images and cropping
+- [react-native-image-crop-picker ★331](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for multiple images and cropping
 - [react-native-imagewand ★3](https://github.com/NorthFoxz/react-native-imagewand) - image wand for react native
 - [react-native-invertible-scroll-view ★157](https://github.com/exponentjs/react-native-invertible-scroll-view) - An invertible ScrollView for React Native
 - [react-native-item-cell ★34](https://github.com/APSL/react-native-item-cell) - React Native default style iOS item cell
@@ -366,6 +370,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-telephone-input ★11](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input
 - [react-native-off-canvas-menu ★47](https://github.com/shoumma/react-native-off-canvas-menu) - Beautifully crafted off canvas menu components for react native applications.
 - [react-native-progressive-input ★9](https://github.com/khaiql/react-native-progressive-input) - TextInput with clear button and activity indicator, used as part of autocomplete list.
+- [react-native-image-carousel ★4](https://github.com/anvilabs/react-native-image-carousel) - Image carousel with support for fullscreen mode, image swiping and pinch-to-zoom in fullscreen mode.
 
 ### Text & Rich Content
 
@@ -712,7 +717,9 @@ Libraries / SDK type additions for React Native development.
 ## Open Source Apps
 
 Open source React Native apps and other examples.
+
 - [Appointments ](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
+- [GitHub Popular ★56](https://github.com/crazycodeboy/GitHubPopular) - This is a GitHub most popular repositories viewer with React Native.
 - [NBAreact ★8](https://github.com/jbkuczma/NBAreact)
 - [Reddit made with React Native and Redux ★32](https://github.com/KevinOfNeu/xReddit)
 - [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
