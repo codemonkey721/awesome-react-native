@@ -65,6 +65,7 @@ Content published on the Web.
 - [How to add Firebase Auth with react native ★4](https://github.com/g6ling/How-to-add-Firebase-Auth-with-react-native)
 - [Preview your Android & iOS React Native apps on your Github Pull Request](http://tech.m6web.fr/preview-android-ios-react-native-on-github-pull-request/)
 - [Change splash screen in React Native Android app](https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99ac1ebd1#.pgjimxpgg)
+- [Remote Push Notifications with OneSignal](https://medium.com/differential/react-native-push-notifications-with-onesignal-9db6a7d75e1e#.d0zob0pdw)
 
 
 ### Assorted
@@ -205,6 +206,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-flanimatedimage](https://github.com/nihgwu/react-native-flanimatedimage) - FLAnimatedImage for React Native.
 - [react-native-flex-label ★5](https://github.com/eccolabs/react-native-flex-label) - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.
 - [react-native-floating-labels ★54](https://github.com/mayank-patel/react-native-floating-labels) - Reusabe floating lable component for react native
+- [react-native-foldview ★1](https://github.com/jmurzy/react-native-foldview) - Animated FoldingCell implementation in React Native
 - [react-native-fontbase ★0](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
 - [react-native-fs-modal ★35](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
 - [react-native-full-screen ★5](https://github.com/Anthonyzou/react-native-full-screen) - React Native FullScreen api and element
