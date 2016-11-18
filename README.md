@@ -712,6 +712,10 @@ Get a head start on development with an existing seed.
 - [rn-relay-drawer-template ★0](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
 - [React Native Hackathon Starter](https://github.com/dabit3/react-native-hackathon-starter) - React Native Starter Project, great for hackathons or rapid prototyping. Includes tabs, navigation, Redux, React Native Vector Icons, & React Native Elements
 - [🍞 Baker ★46](http://baker.thebakery.io/) - An opinionated MVP toolkit that helps you build mobile apps crazy fast using React Native and Parse Server
+- [ExNavRelay](https://github.com/sibelius/ExNavRelay) - React Native + Ex-navigation + Relay integration template
+- [react-native-relay-example](https://github.com/sibelius/react-native-relay-example) - React Native working with Relay
+- [react-native-redux](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
+
 
 ## Libraries
 
@@ -781,6 +785,7 @@ Open source React Native apps and other examples.
 - [Look Lock ★2](https://github.com/7kfpun/PhotosReactNative) - An app for showing photos without worries.
 - [react-native-basketball ★178](https://github.com/FaridSafi/react-native-basketball) - a clone of the Facebook Basketball game
 - [Finance MacOS React Native ★18](https://github.com/7kfpun/FinanceMacOSReactNative) - iOS's Stocks App clone written for MacOS with Touch Bar support. Data is pulled from Yahoo Finance.
+- [YouTrack Mobile ★14](https://github.com/JetBrains/youtrack-mobile) – a client for YouTrack – issue tracker from JetBrains.
 
 
 ## Frameworks
@@ -792,18 +797,24 @@ Open source React Native apps and other examples.
 
 Walkthroughs and tutorials that help you learn React Native.
 
-- [Making Network Requests](http://codecookbook.co/post/how-to-make-network-requests-in-react-native/)
-- [Sharing Text using the new Share API](http://codecookbook.co/post/how-to-share-text-from-your-react-native-app)
-- [How to Build a React Native Login Form with Redux Pt1](http://codecookbook.co/post/how-to-build-a-react-native-login-form-with-redux-pt1/)
-- [Deploying React Native using Fastlane](https://shift.infinite.red/simple-react-native-ios-releases-4c28bb53a97b#.bjifers3r)
+- [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
 - [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
+- [Animate React Native UI Elements](https://egghead.io/courses/animate-react-native-ui-elements)
 - [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
+- [Building a Calculator for Android and iOS with React Native](https://kylewbanks.com/blog/react-native-tutorial-part-1-hello-react)
 - [Building Custom React Native Components From Scratch](http://moduscreate.com/react_native_custom_components_ios/)
 - [Custom Native iOS Views with React Native](http://almostobsolete.net/react-native/custom-ios-views-with-react-native.html)
+- [Deploying React Native using Fastlane](https://shift.infinite.red/simple-react-native-ios-releases-4c28bb53a97b#.bjifers3r)
+- [Easily Connect React Native and Meteor](http://blog.differential.com/easily-connect-react-native-to-a-meteor-server/)
 - [Enabling Live Reload](https://www.reddit.com/r/reactnative/comments/30hbg3/enabling_live_reload/)
+- [Facebook's F8 App Walkthrough Tutorial: React Native, Redux, Relay, Flow, Jest](http://makeitopen.com/)
 - [Facebook Login With React Native](http://brentvatne.ca/facebook-login-with-react-native)
+- [Fully-immersive, hands-on, and fun learning experience for React Native](https://github.com/jondot/ReactNativeKatas)
+- [How to Build a React Native Login Form with Redux Pt1](http://codecookbook.co/post/how-to-build-a-react-native-login-form-with-redux-pt1/)
 - [Integrating Parse and React Native for iOS](http://www.raywenderlich.com/106369/integrating-parse-react-native-ios)
 - [Introducing React Native (on Ray Wenderlich's)](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
+- [Leverage Existing iOS Views In Your React Native App](http://moduscreate.com/leverage-existing-ios-views-react-native-app/)
+- [Making Network Requests](http://codecookbook.co/post/how-to-make-network-requests-in-react-native/)
 - [Navigator Demo ★115](https://github.com/h87kg/NavigatorDemo)
 - [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
 - [React Native Example App: Navigation](http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/)
@@ -815,16 +826,10 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React-native Animated API with PanResponder](http://browniefed.com/blog/2015/08/15/react-native-animated-api-with-panresponder/)
 - [React-native Animated ScrollView Row Swipe Actions](http://browniefed.com/blog/2015/08/01/react-native-animated-listview-row-swipe/)
 - [React-native press and hold button actions](http://browniefed.com/blog/2015/08/22/react-native-press-and-hold-button-actions/)
-- [Droppable Components with Animated and PanResponder](http://www.yoniweisbrod.com/droppable-items-with-react-native-animated/)
-- [Easily Connect React Native and Meteor](http://blog.differential.com/easily-connect-react-native-to-a-meteor-server/)
-- [Leverage Existing iOS Views In Your React Native App](http://moduscreate.com/leverage-existing-ios-views-react-native-app/)
-- [Facebook's F8 App Walkthrough Tutorial: React Native, Redux, Relay, Flow, Jest](http://makeitopen.com/)
 - [React Native Express](http://www.reactnativeexpress.com/)
-- [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
 - [React Native with Django backend ★1](https://github.com/shunpochang/connect_love_mobile_demo)
+- [Sharing Text using the new Share API](http://codecookbook.co/post/how-to-share-text-from-your-react-native-app)
 - [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
-- [Building a Calculator for Android and iOS with React Native](https://kylewbanks.com/blog/react-native-tutorial-part-1-hello-react)
-- [Fully-immersive, hands-on, and fun learning experience for React Native](https://github.com/jondot/ReactNativeKatas)
 
 ## Problem & Solution
 
