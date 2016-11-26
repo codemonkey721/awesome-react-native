@@ -31,7 +31,7 @@ Conferences dedicated to React Native specifically. A listing of React general c
 
 ### Chain React Conf - USA
 
-Summer 2017 - https://infinite.red/ChainReactConf
+July 10-11, 2017 in Portland, OR - https://infinite.red/ChainReactConf
 Twitter: https://twitter.com/chainreactconf
 Email: conf@infinite.red
 
@@ -62,7 +62,8 @@ Content published on the Web.
 - [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)
 - [Blueprint to becoming a React Native Developer](https://medium.com/@spencer_carli/blueprint-to-becoming-a-react-native-developer-6cad2b894887#.t3uw4j4u8)
 - [How to Use the ListView Component](https://medium.com/@spencer_carli/react-native-basics-how-to-use-the-listview-component-a0ec44cf1fe8#.ur0hyi3h9)
-- [How to add Firebase Auth with react native ★4](https://github.com/g6ling/How-to-add-Firebase-Auth-with-react-native)
+- [How to add Firebase Auth with react native ★4](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_add_Firebase_Auth_with_react_native)
+- [How to upload photo/file in react-native](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_upload_photo%2Cfile_in%20react-native)
 - [Preview your Android & iOS React Native apps on your Github Pull Request](http://tech.m6web.fr/preview-android-ios-react-native-on-github-pull-request/)
 - [Change splash screen in React Native Android app](https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99ac1ebd1#.pgjimxpgg)
 - [Remote Push Notifications with OneSignal](https://medium.com/differential/react-native-push-notifications-with-onesignal-9db6a7d75e1e#.d0zob0pdw)
@@ -787,6 +788,7 @@ Open source React Native apps and other examples.
 - [react-native-basketball ★178](https://github.com/FaridSafi/react-native-basketball) - a clone of the Facebook Basketball game
 - [Finance MacOS React Native ★18](https://github.com/7kfpun/FinanceMacOSReactNative) - iOS's Stocks App clone written for MacOS with Touch Bar support. Data is pulled from Yahoo Finance.
 - [YouTrack Mobile ★14](https://github.com/JetBrains/youtrack-mobile) – a client for YouTrack – issue tracker from JetBrains.
+- [movieapp ★91](https://github.com/JuneDomingo/movieapp) – Discover Movies and TV shows - it uses redux and wix/react-native-navigation
 
 
 ## Frameworks
@@ -872,6 +874,7 @@ Assortment of conference and training videos.
 - Pluralsight.com: [Build Cross Platform React Native Apps with Exponent and Redux](https://www.pluralsight.com/courses/build-react-native-exponent-redux-apps)
 - Udemy.com: [Build apps with React Native](https://www.udemy.com/reactnative/learn/v4/overview)
 - [React Native training ★238](https://www.gitbook.com/book/unbug/react-native-training/details)
+- [Awesome React Native Education](https://github.com/hsavit1/Awesome-React-Native-Education)
 
 ## Releases
 
