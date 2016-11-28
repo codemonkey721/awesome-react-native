@@ -623,6 +623,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Integrations
 
+- [react-native-facebook-account-kit ★55](https://github.com/underscopeio/react-native-facebook-account-kit) - A Facebook Account Kit SDK wrapper for React Native.
 - [react-native-amap ★14](https://github.com/laoqiu/react-native-amap) - A React Native component for building maps with the AMap Android SDK
 - [react-native-android-vitamio ★45](https://github.com/sejoker/react-native-android-vitamio) - React-native component for android Vitamio video player
 - [react-native-braintree ★50](https://github.com/alawong/react-native-braintree) - A react native interface for integrating payments using Braintree's v.zero SDK (currently iOS only)
@@ -832,7 +833,6 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React Native with Django backend ★1](https://github.com/shunpochang/connect_love_mobile_demo)
 - [Sharing Text using the new Share API](http://codecookbook.co/post/how-to-share-text-from-your-react-native-app)
 - [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
-- [The beauty of react-native -Build a stunning wallpaper app](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
 
 ## Problem & Solution
 
