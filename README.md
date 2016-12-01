@@ -23,6 +23,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Videos](#videos)
+- [Blogs](#blogs)
 - [Releases](#releases)
 
 ## Conferences
@@ -248,7 +249,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-google-place-picker](https://github.com/q6112345/react-native-google-place-picker) - React Native Wrapper of Google Place Picker for both Android and iOS.
 - [react-native-marquee-label ★15](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 - [react-native-masked-view ★27](https://github.com/gilbox/react-native-masked-view) - A  element for react-native
-- [react-native-masked-text](https://github.com/benhurott/react-native-masked-text) - A simple masked text and input text component for React-Native.
 - [react-native-material-design ★1009](https://github.com/react-native-material-design/react-native-material-design) - React Native Material Design Components
 - [react-native-material-ui ★34](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native
 - [react-native-material-kit ★1620](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
@@ -875,6 +875,15 @@ Assortment of conference and training videos.
 - Udemy.com: [Build apps with React Native](https://www.udemy.com/reactnative/learn/v4/overview)
 - [React Native training ★238](https://www.gitbook.com/book/unbug/react-native-training/details)
 - [Awesome React Native Education](https://github.com/hsavit1/Awesome-React-Native-Education)
+
+## Blogs
+
+- [Official React Native Blog](http://facebook.github.io/react-native/blog/)
+- [ReactJS Blog](http://reactjs.ninja/) - Posts on ReactJS and React Native.
+- [The Bakery](http://blog.thebakery.io/) - JavaScript, React, React Native posts.
+- [Christopher Chedeau aka Vjeux](http://blog.vjeux.com/)
+- [Brent Vatne](http://brentvatne.ca/)
+- [Kyle Corbitt](https://corbt.com/posts/) - Cofounder at Emberall.
 
 ## Releases
 
