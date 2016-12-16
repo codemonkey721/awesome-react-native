@@ -527,6 +527,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-permissions ★53](https://github.com/yonahforst/react-native-permissions) - Check and request user permissions in ReactNative (iOS and Android)
 - [react-native-push-notification ★510](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [react-native-notifications ★106](https://github.com/wix/react-native-notifications) - React native notifications
+- [react-native-fcm ★292](https://github.com/evollu/react-native-fcm) - react native module for firebase cloud messaging and local notification
 - [react-native-push-with-gcm ★2](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)
 - [react-native-reverse-geo ★13](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
 - [react-native-sensor-manager ★40](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
@@ -654,6 +655,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-linkedin-login ★20](https://github.com/jodybrewster/react-native-linkedin-login) - Linkedin Login for your react native applications
 - [react-native-onepassword ★10](https://github.com/DriveWealth/react-native-onepassword) - React Native integration with the OnePassword extension.
 - [react-native-qq ★85](https://github.com/reactnativecn/react-native-qq) - QQ Login&Share support in React Native.
+- [react-native-qqsdk ★0](https://github.com/iVanPan/react-native-qqsdk) - A React Native wrapper around the Tencent QQ SDK for Android and iOS. Provides access to QQ ssoLogin, QQ Sharing, QQ Zone Sharing etc.
 - [react-native-realtimemessaging-android ★40](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid) - The Realtime Framework Cloud Messaging Pub/Sub client for React-Native Android
 - [react-native-realtimemessaging-ios ★7](https://github.com/realtime-framework/RCTRealtimeMessaging) - The Realtime Framework Cloud Messaging Pub/Sub client for React-Native
 - [react-native-realtime-pusher ★0](https://github.com/gijoehosaphat/react-native-realtime-pusher) - React Native module implementing the Pusher Realtime API
