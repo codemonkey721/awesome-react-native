@@ -564,6 +564,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-audio-manager ★11](https://github.com/Tricy/react-native-audio-manager) - Audio player library for react native Android
 - [react-native-audio-player ★8](https://github.com/sh3rawi/react-native-audio-player) - A React Native module to play audio on Android
 - [react-native-audioplayer ★62](https://github.com/andreaskeller/react-native-audioplayer) - Small audio player library for react native
+- [react-native-audio ★246] (https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps.
 - [react-native-bhcamera ★2](https://github.com/bh5-pods/react-native-bhcamera) - React Native Barcode Scanner and Camera Utils.
 - [react-native-camera ★1522](https://github.com/lwansbrough/react-native-camera) - Camera component
 - [react-native-color-grabber ★23](https://github.com/bsudekum/react-native-color-grabber) - React native component for finding dominant colors in an image
@@ -653,7 +654,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-linkedin-login ★20](https://github.com/jodybrewster/react-native-linkedin-login) - Linkedin Login for your react native applications
 - [react-native-onepassword ★10](https://github.com/DriveWealth/react-native-onepassword) - React Native integration with the OnePassword extension.
 - [react-native-qq ★85](https://github.com/reactnativecn/react-native-qq) - QQ Login&Share support in React Native.
-- [react-native-qqsdk ★0](https://github.com/iVanPan/react-native-qqsdk) - A React Native wrapper around the Tencent QQ SDK for Android and iOS. Provides access to QQ ssoLogin, QQ Sharing, QQ Zone Sharing etc.
 - [react-native-realtimemessaging-android ★40](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid) - The Realtime Framework Cloud Messaging Pub/Sub client for React-Native Android
 - [react-native-realtimemessaging-ios ★7](https://github.com/realtime-framework/RCTRealtimeMessaging) - The Realtime Framework Cloud Messaging Pub/Sub client for React-Native
 - [react-native-realtime-pusher ★0](https://github.com/gijoehosaphat/react-native-realtime-pusher) - React Native module implementing the Pusher Realtime API
