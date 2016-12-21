@@ -379,7 +379,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-progressive-input ★9](https://github.com/khaiql/react-native-progressive-input) - TextInput with clear button and activity indicator, used as part of autocomplete list.
 - [react-native-image-carousel ★4](https://github.com/anvilabs/react-native-image-carousel) - Image carousel with support for fullscreen mode, image swiping and pinch-to-zoom in fullscreen mode.
 - [react-native-popup-menu ★61](https://github.com/instea/react-native-popup-menu) - Extensible popup menu component for React Native.
-- [react-native-color-picker ★31](https://github.com/instea/react-native-color-picker) - React Native implementation of color picker for both Android and iOS.
 
 ### Text & Rich Content
 
@@ -690,6 +689,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 Useful React Native tooling.
 
+- [ADB Auto Restarter ★2](https://github.com/mahanhaz/adb-auto-restarter) - Restart ADB service Automatically in case of crashing while debugging app with device
 - [react-native-snippets ★117](https://github.com/Shrugs/react-native-snippets) - A collection of Sublime Text Snippets for react-native
 - [exponent](https://getexponent.com/) - Use React Native without XCode (a previewer app + local server infrastructure)
 - [Ruby React Native (via Opal) ★364](https://github.com/zetachang/opal-native) - Use Ruby for building React Native apps
