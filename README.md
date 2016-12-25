@@ -139,7 +139,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-ya-navigator ★43](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
 - [gl-react-native ★856](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
 - [k-react-native-swipe-unlocker ★19](https://github.com/leowang721/k-react-native-swipe-unlocker) - A simple swipe unlock for React Native
-- [metpro-react-native-progress ★19](https://github.com/imartingraham/react-native-progress) - Progress indicators and spinners for React Native using ReactART.
+- [react-native-progress ★462](https://github.com/oblador/react-native-progress) - Progress indicators and spinners for React Native using ReactART.
 - [react-native-accordion ★167](https://github.com/naoufal/react-native-accordion) - An Accordion Component for React Native
 - [react-native-action-button ★383](https://github.com/mastermoo/react-native-action-button) - A customizable Float Button Component for React Native
 - [react-native-actionsheet-native ★6](https://github.com/slowpath/react-native-actionsheet) - Android ActionSheet support for React Native
@@ -379,6 +379,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-progressive-input ★9](https://github.com/khaiql/react-native-progressive-input) - TextInput with clear button and activity indicator, used as part of autocomplete list.
 - [react-native-image-carousel ★4](https://github.com/anvilabs/react-native-image-carousel) - Image carousel with support for fullscreen mode, image swiping and pinch-to-zoom in fullscreen mode.
 - [react-native-popup-menu ★61](https://github.com/instea/react-native-popup-menu) - Extensible popup menu component for React Native.
+- [react-native-color-picker ★31](https://github.com/instea/react-native-color-picker) - React Native implementation of color picker for both Android and iOS.
 
 ### Text & Rich Content
 
@@ -416,7 +417,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-fluxbone ★4](https://github.com/jgable/react-native-fluxbone) - A group of libraries that help with the FluxBone pattern in React Native
 - [react-native-global-event-emitter ★30](https://github.com/paramaggarwal/react-native-global-event-emitter) - Shared event emitter between native and JS for React Native.
 - [react-native-immutable ★9](https://github.com/thewei/react-native-immutable) - using immutable.js library with react-native
-- [react-native-mock ★191](https://github.com/lelandrichardson/react-native-mock) - A fully mocked and test-friendly version of react native
+- [react-native-mock ★191](https://github.com/RealOrangeOne/react-native-mock) - A fully mocked and test-friendly version of react native
 - [react-native-rsa ★6](https://github.com/z-hao-wang/react-native-rsa) - RSA crypto lib for react native
 - [react-native-tools ★0](https://github.com/kkennis/react-native-tools) - Tools for react native project development
 - [react-native-url-handler ★27](https://github.com/exponentjs/react-native-url-handler) - Navigate to external URLs, handle in-app URLs, and access system URLs
@@ -526,6 +527,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-permissions ★53](https://github.com/yonahforst/react-native-permissions) - Check and request user permissions in ReactNative (iOS and Android)
 - [react-native-push-notification ★510](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [react-native-notifications ★106](https://github.com/wix/react-native-notifications) - React native notifications
+- [react-native-fcm ★292](https://github.com/evollu/react-native-fcm) - react native module for firebase cloud messaging and local notification
 - [react-native-push-with-gcm ★2](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)
 - [react-native-reverse-geo ★13](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
 - [react-native-sensor-manager ★40](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
