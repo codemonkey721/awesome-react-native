@@ -360,6 +360,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-tooltip ★87](https://github.com/chirag04/react-native-tooltip) - A react-native wrapper for showing tooltips
 - [react-native-touchable-bounce ★13](https://github.com/grabbou/react-native-touchable-bounce) - React Native Touchable Bounce
 - [react-native-touchable-set-active ★23](https://github.com/jmstout/react-native-TouchableSetActive) - Touchable component for React Native that enables more advanced styling by setting an active state. Most useful for building your own touchable/button components on top of.
+- [react-native-touch-visualizer ★0](https://github.com/zachgibson/react-native-touch-visualizer) - Visualize touches and drags on React Native apps for iOS.
 - [react-native-transparent-bar ★11](https://github.com/23c/react-native-transparent-bar) - react native navigator transparent bar
 - [react-native-triangle ★13](https://github.com/Jpoliachik/react-native-triangle) - draw triangle views in react native
 - [react-native-tween-animation ★29](https://github.com/kirkness/react-native-tween-animation) - A simple react native state tween animation module.
@@ -719,7 +720,6 @@ Get a head start on development with an existing seed.
 - [React Native Meteor Boilerplate ★264](https://github.com/spencercarli/react-native-meteor-boilerplate)
 - [MeteorNative Boilerplate ★1](https://github.com/redbaron76/MeteorNative) - a React Native and Meteor boilerplate with Redux.
 - [Pepperoni ★2273](https://github.com/futurice/pepperoni-app-kit) - Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state, login and signup
-- [Rhinos-app ★25](https://github.com/rhinos-app/rhinos-app-dev) - Cross-platform React Native boilerplate (iOS, Android, Web) built on react-native-web.
 - [rn-mobx-template ★0](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
 - [rn-relay-drawer-template ★0](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
 - [React Native Hackathon Starter](https://github.com/dabit3/react-native-hackathon-starter) - React Native Starter Project, great for hackathons or rapid prototyping. Includes tabs, navigation, Redux, React Native Vector Icons, & React Native Elements
