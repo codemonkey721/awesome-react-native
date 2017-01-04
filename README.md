@@ -418,7 +418,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-fluxbone ★4](https://github.com/jgable/react-native-fluxbone) - A group of libraries that help with the FluxBone pattern in React Native
 - [react-native-global-event-emitter ★30](https://github.com/paramaggarwal/react-native-global-event-emitter) - Shared event emitter between native and JS for React Native.
 - [react-native-immutable ★9](https://github.com/thewei/react-native-immutable) - using immutable.js library with react-native
-- [react-native-mock ★191](https://github.com/lelandrichardson/react-native-mock) - A fully mocked and test-friendly version of react native
+- [react-native-mock ★191](https://github.com/RealOrangeOne/react-native-mock) - A fully mocked and test-friendly version of react native
 - [react-native-rsa ★6](https://github.com/z-hao-wang/react-native-rsa) - RSA crypto lib for react native
 - [react-native-tools ★0](https://github.com/kkennis/react-native-tools) - Tools for react native project development
 - [react-native-url-handler ★27](https://github.com/exponentjs/react-native-url-handler) - Navigate to external URLs, handle in-app URLs, and access system URLs
@@ -720,6 +720,7 @@ Get a head start on development with an existing seed.
 - [React Native Meteor Boilerplate ★264](https://github.com/spencercarli/react-native-meteor-boilerplate)
 - [MeteorNative Boilerplate ★1](https://github.com/redbaron76/MeteorNative) - a React Native and Meteor boilerplate with Redux.
 - [Pepperoni ★2273](https://github.com/futurice/pepperoni-app-kit) - Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state, login and signup
+- [Rhinos-app ★25](https://github.com/rhinos-app/rhinos-app-dev) - Cross-platform React Native boilerplate (iOS, Android, Web) built on react-native-web.
 - [rn-mobx-template ★0](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
 - [rn-relay-drawer-template ★0](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
 - [React Native Hackathon Starter](https://github.com/dabit3/react-native-hackathon-starter) - React Native Starter Project, great for hackathons or rapid prototyping. Includes tabs, navigation, Redux, React Native Vector Icons, & React Native Elements
@@ -800,7 +801,7 @@ Open source React Native apps and other examples.
 - [YouTrack Mobile ★14](https://github.com/JetBrains/youtrack-mobile) – a client for YouTrack – issue tracker from JetBrains.
 - [movieapp ★91](https://github.com/JuneDomingo/movieapp) – Discover Movies and TV shows - it uses redux and wix/react-native-navigation
 - [QRCode App](https://github.com/insiderdev/react-native-qrcode-app) - application for scanning and generating QR codes.
-
+- [Sequent](https://github.com/sobstel/sequent) - short-term memory training game (W/ Redux).
 
 ## Frameworks
 
