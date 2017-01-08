@@ -411,7 +411,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-aes ★11](https://github.com/mvayngrib/react-native-aes) - AES in react-native
 - [react-native-aws-signature ★30](https://github.com/leimd/react-native-aws-signature) - help generate signature required for using AWS API. Necessary to use S3, ec2, or other services.
 - [react-native-babel-jest ★5](https://github.com/apentle/react-native-babel-jest) - Simple testing configuration for React Native with Jest
-- [react-native-bhutils ★0](https://github.com/bh5-pods/react-native-bhutils) - React native utils
 - [react-native-crypto ★25](https://github.com/mvayngrib/react-native-crypto) - implementation of crypto for React Native
 - [react-native-des ★6](https://github.com/remobile/react-native-des) - A des crypto for react-native
 - [react-native-device-log ★13](https://github.com/olofd/react-native-device-log) - A UI and service for displaying dev-logs on devices.
@@ -436,13 +435,14 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Forms
 
+- [react-native-clean-form ★24](https://github.com/esbenp/react-native-clean-form) - Good looking form elements with redux-form integration. Stylable with styled-components.
 - [react-native-fm-form ★8](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes
 - [react-native-form-flux ★2](https://github.com/aksonov/react-native-form-flux) - React Native Form management using Flux architecture
 - [react-native-form ★74](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!
 - [react-native-forms ★33](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms.
 - [react-native-form-generator ★97](https://github.com/MichaelCereda/react-native-form-generator) - Generate amazing React Native forms in a breeze
 - [react-native-gifted-form ★455](https://github.com/FaridSafi/react-native-gifted-form) - Form component for react-native
-- [redux-form](http://redux-form.com) - Redux form state management (Web and Native)
+- [redux-form ★4829](http://redux-form.com) - Redux form state management (Web and Native)
 - [tcomb-form-native ★1196](https://github.com/gcanti/tcomb-form-native) - Generate React Native forms
 
 ### Internationalization
@@ -568,7 +568,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-audio-player ★8](https://github.com/sh3rawi/react-native-audio-player) - A React Native module to play audio on Android
 - [react-native-audioplayer ★62](https://github.com/andreaskeller/react-native-audioplayer) - Small audio player library for react native
 - [react-native-audio ★246] (https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps.
-- [react-native-bhcamera ★2](https://github.com/bh5-pods/react-native-bhcamera) - React Native Barcode Scanner and Camera Utils.
 - [react-native-camera ★1522](https://github.com/lwansbrough/react-native-camera) - Camera component
 - [react-native-color-grabber ★23](https://github.com/bsudekum/react-native-color-grabber) - React native component for finding dominant colors in an image
 - [react-native-incall-manager ★31](https://github.com/zxcpoiu/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat like webrtc
@@ -844,6 +843,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React-native press and hold button actions](http://browniefed.com/blog/2015/08/22/react-native-press-and-hold-button-actions/)
 - [React Native Express](http://www.reactnativeexpress.com/)
 - [React Native with Django backend ★1](https://github.com/shunpochang/connect_love_mobile_demo)
+- [Simple React Native forms with redux-form, immutable.js and styled-components](http://esbenp.github.io/2017/01/06/react-native-redux-form-immutable-styled-components/)
 - [Sharing Text using the new Share API](http://codecookbook.co/post/how-to-share-text-from-your-react-native-app)
 - [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
 - [The beauty of react-native -Build a stunning wallpaper app](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
