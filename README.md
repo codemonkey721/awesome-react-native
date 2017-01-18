@@ -61,7 +61,6 @@ Content published on the Web.
 
 - [ListView and Immutable.js](https://medium.com/front-end-hacking/react-native-immutable-listview-example-78662fa64a15)
 - [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)
-- [Getting Started with React Native Development for Windows](https://shift.infinite.red/getting-started-with-react-native-development-for-windows-ba23a4be90b6#.n6vtqtikh)
 - [Blueprint to becoming a React Native Developer](https://medium.com/@spencer_carli/blueprint-to-becoming-a-react-native-developer-6cad2b894887#.t3uw4j4u8)
 - [How to Use the ListView Component](https://medium.com/@spencer_carli/react-native-basics-how-to-use-the-listview-component-a0ec44cf1fe8#.ur0hyi3h9)
 - [How to add Firebase Auth with react native ★4](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_add_Firebase_Auth_with_react_native)
@@ -264,6 +263,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-modal-dropdown ★15](https://github.com/sohobloo/react-native-modal-dropdown) - A react-native dropdown/picker/selector component for both Android & iOS.
 - [react-native-modal-picker ★52](https://github.com/d-a-n/react-native-modal-picker) - A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections.
 - [react-native-multi-slider ★47](https://github.com/JackDanielsAndCode/react-native-multi-slider) - Pure JS slider component with multiple markers for React Native
+- [react-native-multiselect ★1](https://github.com/robcalcroft/react-native-multiselect) - A simple multi select component with events and a flexible API.
 - [react-native-multiple-choice ★17](https://github.com/d-a-n/react-native-multiple-choice) - A cross-platform (iOS / Android) single and multiple-choice React Native component.
 - [react-native-nav ★134](https://github.com/jineshshah36/react-native-nav) - A cross-platform (iOS / Android), fully customizable, React Native Navigation Bar component
 - [react-native-navbar ★1014](https://github.com/Kureev/react-native-navbar) - Simple customizable navbar component for react-native
