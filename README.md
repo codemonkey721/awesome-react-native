@@ -222,7 +222,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-gifted-listview ★555](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrent features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
 - [react-native-gmaps ★70](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
 - [react-native-geo-fencing ★15](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
-- [react-native-grading](https://github.com/Tinysymphony/react-native-grading) - RN Component for grading scores using ReactART.
 - [react-native-gravatar ★3](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
 - [react-native-grid-component ★5](https://github.com/phil-r/react-native-grid-component) - Easy to use grid component for your react-native project. Supports iOS and Android.
 - [react-native-grid-view ★175](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
@@ -818,6 +817,7 @@ Open source React Native apps and other examples.
 Walkthroughs and tutorials that help you learn React Native.
 
 - [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
+- [Adding and removing custom fonts in React Native IOS Android](https://medium.com/@danielskripnik/how-to-add-and-remove-custom-fonts-in-react-native-b2830084b0e4#.s73pqh4ez)
 - [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
 - [Animate React Native UI Elements](https://egghead.io/courses/animate-react-native-ui-elements)
 - [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
