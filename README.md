@@ -222,6 +222,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-gifted-listview ★555](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrent features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
 - [react-native-gmaps ★70](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
 - [react-native-geo-fencing ★15](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
+- [react-native-grading](https://github.com/Tinysymphony/react-native-grading) - RN Component for grading scores using ReactART.
 - [react-native-gravatar ★3](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
 - [react-native-grid-component ★5](https://github.com/phil-r/react-native-grid-component) - Easy to use grid component for your react-native project. Supports iOS and Android.
 - [react-native-grid-view ★175](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
@@ -263,7 +264,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-modal-dropdown ★15](https://github.com/sohobloo/react-native-modal-dropdown) - A react-native dropdown/picker/selector component for both Android & iOS.
 - [react-native-modal-picker ★52](https://github.com/d-a-n/react-native-modal-picker) - A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections.
 - [react-native-multi-slider ★47](https://github.com/JackDanielsAndCode/react-native-multi-slider) - Pure JS slider component with multiple markers for React Native
-- [react-native-multiselect ★1](https://github.com/robcalcroft/react-native-multiselect) - A simple multi select component with events and a flexible API.
 - [react-native-multiple-choice ★17](https://github.com/d-a-n/react-native-multiple-choice) - A cross-platform (iOS / Android) single and multiple-choice React Native component.
 - [react-native-nav ★134](https://github.com/jineshshah36/react-native-nav) - A cross-platform (iOS / Android), fully customizable, React Native Navigation Bar component
 - [react-native-navbar ★1014](https://github.com/Kureev/react-native-navbar) - Simple customizable navbar component for react-native
