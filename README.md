@@ -677,7 +677,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-signalr ★20](https://github.com/olofd/react-native-signalr) - SignalR-client for react-native
 - [react-native-sumup ★0](https://github.com/APSL/react-native-sumup) - A React Native implementation of SumupSDK.
 - [react-native-new-relic ★10](https://github.com/wix/react-native-newrelic) - New Relic event reporting for react-native.
-
+- [instabug-reactnative ★8](https://github.com/Instabug/instabug-reactnative) - A React Native wrapper for Bug reporting Instabug SDK.
 ### Monetization
 
 - [react-native-admob ★94](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners.
@@ -817,7 +817,6 @@ Open source React Native apps and other examples.
 Walkthroughs and tutorials that help you learn React Native.
 
 - [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
-- [Adding and removing custom fonts in React Native IOS Android](https://medium.com/@danielskripnik/how-to-add-and-remove-custom-fonts-in-react-native-b2830084b0e4#.s73pqh4ez)
 - [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
 - [Animate React Native UI Elements](https://egghead.io/courses/animate-react-native-ui-elements)
 - [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
