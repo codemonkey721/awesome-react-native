@@ -123,6 +123,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### UI
 
 - [react-native-splash-screen ★28](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
+- [react-native-display ★2](https://github.com/sundayhd/react-native-display) - This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations.
 - [react-native-check-box ★24](https://github.com/crazycodeboy/react-native-check-box) - Checkbox component for react native, it works on iOS and Android.
 - [react-native-easy-toast ★18](https://github.com/crazycodeboy/react-native-easy-toast) - A react native module to show toast like android, it works on iOS and Android.
 - [react-native-button-component ★45](https://github.com/jacklam718/react-native-button-component) - A Beautiful, Customizable React Native Button component for iOS & Android
@@ -677,7 +678,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-signalr ★20](https://github.com/olofd/react-native-signalr) - SignalR-client for react-native
 - [react-native-sumup ★0](https://github.com/APSL/react-native-sumup) - A React Native implementation of SumupSDK.
 - [react-native-new-relic ★10](https://github.com/wix/react-native-newrelic) - New Relic event reporting for react-native.
-- [instabug-reactnative ★8](https://github.com/Instabug/instabug-reactnative) - A React Native wrapper for Bug reporting Instabug SDK.
+
 ### Monetization
 
 - [react-native-admob ★94](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners.
