@@ -69,7 +69,6 @@ Content published on the Web.
 - [Preview your Android & iOS React Native apps on your Github Pull Request](http://tech.m6web.fr/preview-android-ios-react-native-on-github-pull-request/)
 - [Change splash screen in React Native Android app](https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99ac1ebd1#.pgjimxpgg)
 - [Remote Push Notifications with OneSignal](https://medium.com/differential/react-native-push-notifications-with-onesignal-9db6a7d75e1e#.d0zob0pdw)
-- [React Native & Apple TV today](https://medium.com/@7ynk3r/react-native-apple-tv-today-48beb398a1ab#.5pp5drlyy)
 
 
 ### Assorted
@@ -286,6 +285,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-page-swiper ★57](https://github.com/fixt/react-native-page-swiper) - Page Swiper component for React Native.
 - [react-native-parallax ★205](https://github.com/oblador/react-native-parallax) - Parallax effects for React Native using Animated API
 - [react-native-parsed-text ★160](https://github.com/taskrabbit/react-native-parsed-text) - Parse text and make them into multiple React Native Text elements
+- [react-native-pathjs-charts ★144](https://github.com/capitalone/react-native-pathjs-charts) - Android and iOS charts based on react-native-svg and paths-js
 - [react-native-pdf-view ★57](https://github.com/cnjon/react-native-pdf-view) - view pdf file using react-native
 - [react-native-phone-picker ★16](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
 - [react-native-photo-browser ★160](https://github.com/halilb/react-native-photo-browser) - Local and remote photo browser with captions, selections and grid view support.
@@ -688,14 +688,13 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 - [react-native-admob ★94](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners.
 - [react-native-revmob ★6](https://github.com/RevMob/react-native-revmob) - RevMob wrapper for React Native.
-- [react-native-stripe-api ★15](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for Stripe Rest API
+-  [react-native-stripe-api ★15](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for Stripe Rest API
 
 ### Other Platforms
 
 - [react-native-watchkit ★0](https://github.com/MystK/react-native-watchkit) - react native for WatchKit
 - [react-native-desktop ★7558](https://github.com/ptmt/react-native-desktop) - React Native for OS X
 - [react-native-windows ★887](https://github.com/ReactWindows/react-native-windows) - React Native for Universal Windows Platform
-- [react-native-tvos-controller ★0](https://github.com/ycinfinity/react-native-tvos-controller) - TvOS remote controller module for react native.
 
 ## Utilities
 
