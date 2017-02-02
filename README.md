@@ -389,6 +389,9 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-popup-menu ★61](https://github.com/instea/react-native-popup-menu) - Extensible popup menu component for React Native.
 - [react-native-color-picker ★31](https://github.com/instea/react-native-color-picker) - React Native implementation of color picker for both Android and iOS.
 - [react-native-step-indicator ★31](https://github.com/24ark/react-native-step-indicator) - A simple react-native implementation of step indicator widget compatible with the ViewPager and ListView.
+- [nachos-ui ★475](https://github.com/avocode/nachos-ui) - NACHOS 
+UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for your next kick-ass app in JavaScript or React.
+- [lottie-react-native ★1086](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
 
 ### Text & Rich Content
 
@@ -815,7 +818,7 @@ Open source React Native apps and other examples.
 ## Frameworks
 
 - [Awesome React Native Meteor ★82](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
-- [NativeBase ★3080](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
+- [NativeBase ★1549](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
 
 ## Tutorials
 
