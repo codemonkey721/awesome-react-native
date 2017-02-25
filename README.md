@@ -511,7 +511,7 @@ UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for y
 - [react-native-android-sqlite ★24](https://github.com/jbrodriguez/react-native-android-sqlite) - A react native android wrapper for SQLite
 - [react-native-app-info ★21](https://github.com/Iragne/react-native-app-info) - React Native app info and version
 - [react-native-barcode-scanner ★40](https://github.com/lifuzu/ReactNativeBarcodeScanner) - Barcode scanner for React Native
-- [react-native-barcodescanner ★162](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native
+- [react-native-barcodescanner ★162](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native - not maintained anymore - use react-native-camera.
 - [react-native-battery-status ★1](https://github.com/remobile/react-native-battery-status) - A battery-status for react-native
 - [react-native-battery ★4](https://github.com/oojr/react-native-battery) - A React Native module that returns the battery level/status of a device
 - [react-native-ble ★68](https://github.com/jacobrosenthal/react-native-ble) - React Native BLE using noble api surface
@@ -611,7 +611,6 @@ UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for y
 - [react-native-vlc-player ★12](https://github.com/ghondar/react-native-vlc-player) - VLC Player for react-native
 - [react-native-camera-roll-picker ★39](https://github.com/jeanpan/react-native-camera-roll-picker) - A React Native component providing images selection from camera roll
 - [react-native-audio-streaming ★76](https://github.com/tlenclos/react-native-audio-streaming) - iOS & Android module to play an audio stream, with background support and media controls :speaker:
-- [react-native-video-processing ★103](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/filtering library for React-Native
 
 ### Storage
 
