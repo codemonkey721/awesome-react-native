@@ -511,7 +511,7 @@ UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for y
 - [react-native-android-sqlite ★24](https://github.com/jbrodriguez/react-native-android-sqlite) - A react native android wrapper for SQLite
 - [react-native-app-info ★21](https://github.com/Iragne/react-native-app-info) - React Native app info and version
 - [react-native-barcode-scanner ★40](https://github.com/lifuzu/ReactNativeBarcodeScanner) - Barcode scanner for React Native
-- [react-native-barcodescanner ★162](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native - not maintained anymore - use react-native-camera.
+- [react-native-barcodescanner ★162](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native
 - [react-native-battery-status ★1](https://github.com/remobile/react-native-battery-status) - A battery-status for react-native
 - [react-native-battery ★4](https://github.com/oojr/react-native-battery) - A React Native module that returns the battery level/status of a device
 - [react-native-ble ★68](https://github.com/jacobrosenthal/react-native-ble) - React Native BLE using noble api surface
@@ -829,6 +829,7 @@ Open source React Native apps and other examples.
 - [QRCode App](https://github.com/insiderdev/react-native-qrcode-app) - application for scanning and generating QR codes.
 - [Sequent](https://github.com/sobstel/sequent) - short-term memory training game (W/ Redux).
 - [RNV2ex](https://github.com/dyygtfx/RNV2ex) - react-native for v2ex
+- [Paramap](https://github.com/twist900/paramap) - Accessability map. React-native with Redux and Firebase. iOS and Android.
 
 ## Frameworks
 
