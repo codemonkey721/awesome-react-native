@@ -272,7 +272,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-parsed-text ★160](https://github.com/taskrabbit/react-native-parsed-text) - Parse text and make them into multiple React Native Text elements
 - [react-native-pathjs-charts ★144](https://github.com/capitalone/react-native-pathjs-charts) - Android and iOS charts based on react-native-svg and paths-js
 - [react-native-pdf-view ★57](https://github.com/cnjon/react-native-pdf-view) - view pdf file using react-native
-- [react-native-phone-input ★1](https://github.com/thegamenicorus/react-native-phone-input) - Phone input box for React Native
 - [react-native-phone-picker ★16](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
 - [react-native-photo-browser ★160](https://github.com/halilb/react-native-photo-browser) - Local and remote photo browser with captions, selections and grid view support.
 - [react-native-photo-grid ★4](https://github.com/christopherabouabdo/react-native-photo-grid) - React Native component that handles the complexities of building a grid of photos with a flexible number of photos per row.
@@ -491,6 +490,7 @@ UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for y
 - [react-native-kill-packager ★1](https://github.com/livioso/react-native-kill-packager) - kill running react native packager.
 - [react-native-webpack-server ★795](https://github.com/mjohnston/react-native-webpack-server) - Build React Native apps with Webpack
 - [reactotron ★2166](https://github.com/skellock/reactotron) - Control, monitor, and instrument your React Native apps from the comfort of your terminal.
+- [generator-rn-toolbox ★94](https://github.com/bamlab/generator-rn-toolbox) - Yeoman generators to kickstart your project and setup continuous deployment
 
 ### Styling
 
