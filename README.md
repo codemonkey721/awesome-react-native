@@ -254,7 +254,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-message-composer ★32](https://github.com/anarchicknight/react-native-message-composer) - React Native module bridge to iOS MFMessageComposeViewController
 - [react-native-md-textinput ★65](https://github.com/evblurbs/react-native-md-textinput) - React Native TextInput styled with Material Design.
 - [react-native-modalbox ★469](https://github.com/maxs15/react-native-modalbox) - A  component for react-native
-- [react-native-modal-dropdown ★15](https://github.com/sohobloo/react-native-modal-dropdown) - A react-native dropdown/picker/selector component for both Android & iOS.
+- [react-native-modal-dropdown ★102](https://github.com/sohobloo/react-native-modal-dropdown) - A react-native dropdown/picker/selector component for both Android & iOS.
 - [react-native-modal-picker ★52](https://github.com/d-a-n/react-native-modal-picker) - A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections.
 - [react-native-multi-slider ★47](https://github.com/JackDanielsAndCode/react-native-multi-slider) - Pure JS slider component with multiple markers for React Native
 - [react-native-multiselect ★1](https://github.com/robcalcroft/react-native-multiselect) - A simple multi select component with events and a flexible API.
@@ -373,7 +373,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [nachos-ui ★475](https://github.com/avocode/nachos-ui) - NACHOS 
 UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for your next kick-ass app in JavaScript or React.
 - [lottie-react-native ★1086](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
-- [react-native-animatable ★2066](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native (built on react-native Animated
 
 ### Navigation
 - [react-navigation ★1,621](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
