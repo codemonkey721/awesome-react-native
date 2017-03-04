@@ -373,6 +373,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [nachos-ui ★475](https://github.com/avocode/nachos-ui) - NACHOS 
 UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for your next kick-ass app in JavaScript or React.
 - [lottie-react-native ★1086](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
+- [react-native-animatable ★2066](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native (built on react-native Animated
 
 ### Navigation
 - [react-navigation ★1,621](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
@@ -490,7 +491,6 @@ UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for y
 - [react-native-kill-packager ★1](https://github.com/livioso/react-native-kill-packager) - kill running react native packager.
 - [react-native-webpack-server ★795](https://github.com/mjohnston/react-native-webpack-server) - Build React Native apps with Webpack
 - [reactotron ★2166](https://github.com/skellock/reactotron) - Control, monitor, and instrument your React Native apps from the comfort of your terminal.
-- [generator-rn-toolbox ★94](https://github.com/bamlab/generator-rn-toolbox) - Yeoman generators to kickstart your project and setup continuous deployment.
 
 ### Styling
 
