@@ -772,7 +772,7 @@ Libraries / SDK type additions for React Native development.
 ## Open Source Apps
 
 Open source React Native apps and other examples.
-
+- [Urban Dictionary ★1](https://github.com/edwinbosire/Urbandict) - Mobile implementation of the popular Urban Dictionary website.
 - [Appointments  ★58](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
 - [GitHub Popular ★1085](https://github.com/crazycodeboy/GitHubPopular) - This is a GitHub most popular repositories viewer with React Native.
 - [NBAreact ★31](https://github.com/jbkuczma/NBAreact)
@@ -839,7 +839,6 @@ Open source React Native apps and other examples.
 
 - [Awesome React Native Meteor ★115](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 - [NativeBase ★3679](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
-- [Teaset](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS components, focusing on content display and action control.
 
 ## Tutorials
 
