@@ -568,7 +568,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-wifi-manager ★14](https://github.com/skierkowski/react-native-wifi-manager) - Wifi Connection Manager for React Native on Android
 - [react-native-billing ★171](https://github.com/idehub/react-native-billing) - In-app purchase implementation for React Native on Android.
 - [react-native-haptic ★29](https://github.com/charlesvinette/react-native-haptic) - iOS 10 + haptic feedback for React Native applications
-- [react-native-quick-actions ★287](https://github.com/madriska/react-native-quick-actions) - A react-native interface for 3D Touch home screen quick actions
 
 ### Web
 
@@ -843,7 +842,7 @@ Open source React Native apps and other examples.
 
 - [Awesome React Native Meteor ★115](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 - [NativeBase ★3679](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
-- [Teaset](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS components, focusing on content display and action control.
+- [Teaset ★21](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS components, focusing on content display and action control.
 
 ## Tutorials
 
