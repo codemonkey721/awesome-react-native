@@ -376,6 +376,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-snackbar-component ★0](https://github.com/SiDevesh/React-Native-SnackBar-Component) - A snackbar component for Android and iOS, customizable and simple.
 
 ### Navigation
+- [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
 - [react-navigation,621 ★2586](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
 - [react-native-ya-navigator ★66](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
 - [react-native-route-navigator ★26](https://github.com/Andr3wHur5t/react-native-route-navigator) - React-Native page navigation using URIs.
@@ -842,7 +843,7 @@ Open source React Native apps and other examples.
 
 - [Awesome React Native Meteor ★115](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 - [NativeBase ★3679](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
-- [Teaset ★21](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS components, focusing on content display and action control.
+- [Teaset](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS components, focusing on content display and action control.
 
 ## Tutorials
 
