@@ -2,14 +2,38 @@
 
 <img src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master" alt="Build Status" />
 
-A curated list of awesome articles, tutorials and resources dealing
-with React Native.
+## Buzzing
 
-Inspired by [awesome-go](https://github.com/avelino/awesome-go), which was in turn inspired by [awesome-python](https://github.com/vinta/awesome-python).
+<div style="text-align: center"><table><tr>
+    <td style="text-align: center">
+        <a href="https://www.youtube.com/watch?v=UPrKMGPDbtY">
+        <img src="https://img.youtube.com/vi/UPrKMGPDbtY/0.jpg" width="120"/>
+        <br/>
+        Joel on Performance
+        </a>
+    </td>
+    <td style="text-align: center">
+        <a href="https://www.youtube.com/watch?v=9baaVjGdBqs">
+        <img src="https://img.youtube.com/vi/9baaVjGdBqs/0.jpg" width="120"/>
+        <br/>
+        Create React Native App
+        </a>
+    </td>
+    <td style="text-align: center">
+        <a href="https://facebook.github.io/react-native/blog/2017/03/13/better-list-views.html">
+        <img src="icon.svg" width="120" height="90" style="
+            background: #d0d0d0;
+            padding: 10px;
+        ">
+        <br/>
+            Better List Views
+        </a>
+    </td>
+</tr></table></div>
 
-Many thanks to everyone on the [contributor list](https://github.com/jondot/awesome-react-native/graphs/contributors) :)
+Have something that belongs here? [drop me a line!](mailto:dotan@paracode.com)
 
-# Content
+## Sections
 
 - [Conferences](#conferences)
 - [Articles](#articles)
@@ -26,6 +50,8 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Videos](#videos)
 - [Blogs](#blogs)
 - [Releases](#releases)
+
+Many thanks to everyone on the [contributor list](https://github.com/jondot/awesome-react-native/graphs/contributors) :)
 
 ## Conferences
 
@@ -159,7 +185,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-canvas ★109](https://github.com/lwansbrough/react-native-canvas) - A Canvas element for React Native
 - [react-native-carousel ★302](https://github.com/nick/react-native-carousel) - Simple carousel component for react-native
 - [react-native-carousel-control ★110](https://github.com/machadogj/react-native-carousel-control) - React Native Carousel control with support for iOS and Android.
-- [react-native-cell-components ★1](https://github.com/lodev09/react-native-cell-components) - Awesome react-native cell components! From a Cell to more complex & awesome components.
 - [react-native-chart ★825](https://github.com/onefold/react-native-chart) - react-native-chart is a simple module for adding line charts, area charts, or bar charts to your React Native app.
 - [react-native-charts ★58](https://github.com/PrazAs/react-native-charts) - Delightfully-animated data visualization.
 - [react-native-checkbox ★74](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
@@ -373,10 +398,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [nachos-ui ★996](https://github.com/avocode/nachos-ui) - NACHOS UI kit for React Native. Pick from a bunch of pre-coded UI components ready for your next kick-ass app in JavaScript or React.
 - [lottie-react-native ★4537](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
 - [react-native-animatable ★2069](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native (built on react-native Animated
-- [react-native-snackbar-component ★0](https://github.com/SiDevesh/React-Native-SnackBar-Component) - A snackbar component for Android and iOS, customizable and simple.
 
 ### Navigation
-- [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
 - [react-navigation,621 ★2586](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
 - [react-native-ya-navigator ★66](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
 - [react-native-route-navigator ★26](https://github.com/Andr3wHur5t/react-native-route-navigator) - React-Native page navigation using URIs.
@@ -457,7 +480,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-slowlog ★55](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
 - [codemod-RN24-to-RN25 ★94](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
 - [react-native-workers ★291](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
-- [react-native-console-time-polyfill ★2](https://github.com/MaxGraey/react-native-console-time-polyfill) - console.time and console.timeEnd polyfill for react-native
 
 ### Forms
 
@@ -776,7 +798,7 @@ Libraries / SDK type additions for React Native development.
 ## Open Source Apps
 
 Open source React Native apps and other examples.
-- [Urban Dictionary ★1](https://github.com/edwinbosire/Urbandict) - Mobile implementation of the popular Urban Dictionary website.
+
 - [Appointments  ★58](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
 - [GitHub Popular ★1085](https://github.com/crazycodeboy/GitHubPopular) - This is a GitHub most popular repositories viewer with React Native.
 - [NBAreact ★31](https://github.com/jbkuczma/NBAreact)
@@ -843,7 +865,6 @@ Open source React Native apps and other examples.
 
 - [Awesome React Native Meteor ★115](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 - [NativeBase ★3679](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
-- [Teaset](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS components, focusing on content display and action control.
 
 ## Tutorials
 
