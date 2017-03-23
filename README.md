@@ -402,6 +402,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-snackbar-component ★0](https://github.com/SiDevesh/React-Native-SnackBar-Component) - A snackbar component for Android and iOS, customizable and simple.
 
 ### Navigation
+- [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
 - [react-navigation,621 ★2586](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
 - [react-native-ya-navigator ★66](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
 - [react-native-route-navigator ★26](https://github.com/Andr3wHur5t/react-native-route-navigator) - React-Native page navigation using URIs.
@@ -438,6 +439,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 - [markdown-react-native ★190](https://github.com/lwansbrough/react-native-markdown) - A Markdown Component For React Native
 - [react-native-asciimage ★16](https://github.com/turley/react-native-asciimage) - An ASCIImage component for React Native
+- [react-native-draftjs-render ★6](https://github.com/globocom/react-native-draftjs-render) - A React Native render for Draft.js model
 - [react-native-html-render ★74](https://github.com/soliury/react-native-html-render) - A html render for react-native
 - [react-native-html-to-pdf ★65](https://github.com/christopherdro/react-native-html-to-pdf) - Convert html strings to PDF documents using React Native
 - [react-native-html-webview ★90](https://github.com/almost/react-native-html-webview) - Display (possibly untrusted) HTML using a UIWebView in React Native.
@@ -594,6 +596,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-wifi-manager ★14](https://github.com/skierkowski/react-native-wifi-manager) - Wifi Connection Manager for React Native on Android
 - [react-native-billing ★171](https://github.com/idehub/react-native-billing) - In-app purchase implementation for React Native on Android.
 - [react-native-haptic ★29](https://github.com/charlesvinette/react-native-haptic) - iOS 10 + haptic feedback for React Native applications
+- [react-native-quick-actions ★287](https://github.com/madriska/react-native-quick-actions) - A react-native interface for 3D Touch home screen quick actions
 
 ### Web
 
@@ -868,7 +871,7 @@ Open source React Native apps and other examples.
 
 - [Awesome React Native Meteor ★115](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 - [NativeBase ★3679](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
-- [Teaset](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS components, focusing on content display and action control.
+- [Teaset ★21](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS components, focusing on content display and action control.
 
 ## Tutorials
 
