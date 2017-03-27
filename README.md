@@ -372,6 +372,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-textinput-effects ★841](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and android. Built by react native and inspired by Codrops.
 - [react-native-textinput-utils ★42](https://github.com/DickyT/react-native-textinput-utils) - A react native extension which allows you to control TextInput better.
 - [react-native-timeago ★148](https://github.com/TylerLH/react-native-timeago) - Auto-updating timeago component for React Native
+- [react-native-timeline-listview ★3](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App
 - [react-native-timer-mixin ★158](https://github.com/reactjs/react-timer-mixin) - TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.
 - [react-native-tinder-swipe-cards ★400](https://github.com/meteor-factory/react-native-tinder-swipe-cards) - Tinder card style swiping.
 - [react-native-toast ★196](https://github.com/remobile/react-native-toast) - A android like toast for react-native support for ios and android
@@ -403,6 +404,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [lottie-react-native ★4537](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
 - [react-native-animatable ★2069](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native (built on react-native Animated
 - [react-native-snackbar-component ★0](https://github.com/SiDevesh/React-Native-SnackBar-Component) - A snackbar component for Android and iOS, customizable and simple.
+- [react-native-expand ★3](https://github.com/hejiaji/react-native-expand) - A react-native expandable component for both Android and iOS
 
 ### Navigation
 - [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
@@ -975,5 +977,5 @@ Assortment of conference and training videos.
 ## Releases
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
-- [Stable: 0.34.0](https://github.com/facebook/react-native/releases/tag/v0.34.0)
+- [Stable: 0.42.2](https://github.com/facebook/react-native/tree/v0.42.3)
 - [Next: latest](https://github.com/facebook/react-native/releases/latest)
