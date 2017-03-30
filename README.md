@@ -151,6 +151,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-easy-toast ★69](https://github.com/crazycodeboy/react-native-easy-toast) - A react native module to show toast like android, it works on iOS and Android.
 - [react-native-button-component ★165](https://github.com/jacklam718/react-native-button-component) - A Beautiful, Customizable React Native Button component for iOS & Android
 - [react-native-popup-dialog ★203](https://github.com/jacklam718/react-native-popup-dialog) - A React Native Popup Dialog Easy Use & Support Use Custom Animation. For IOS & Android
+- [react-native-card-media ★2](https://github.com/dondoko-susumu/react-native-card-media) - Card media component & Support multiple image layout
 - [react-native-card-view ★54](https://github.com/jacklam718/react-native-card-view) - A react native card component
 - [apsl-react-native-button ★372](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native ★99](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
@@ -978,5 +979,5 @@ Assortment of conference and training videos.
 ## Releases
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
-- [Stable: 0.34.0](https://github.com/facebook/react-native/releases/tag/v0.34.0)
+- [Stable: 0.42.2](https://github.com/facebook/react-native/releases/tag/v0.42.3)
 - [Next: latest](https://github.com/facebook/react-native/releases/latest)
