@@ -246,6 +246,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-geo-fencing ★40](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
 - [react-native-grading ★9](https://github.com/Tinysymphony/react-native-grading) - RN Component for grading scores using ReactART.
 - [react-native-gravatar ★5](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
+- [react-native-super-grid ★0](https://github.com/saleel97/react-native-super-grid) - Responsive Grid View for React Native.
 - [react-native-grid-component ★83](https://github.com/phil-r/react-native-grid-component) - Easy to use grid component for your react-native project. Supports iOS and Android.
 - [react-native-grid-view ★220](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
 - [react-native-grid ★14](https://github.com/thewei/react-native-grid) - The 24-column grid component for react-native
@@ -873,7 +874,6 @@ Open source React Native apps and other examples.
 - [Sequent ★15](https://github.com/sobstel/sequent) - short-term memory training game (W/ Redux).
 - [RNV2ex ★2](https://github.com/dyygtfx/RNV2ex) - react-native for v2ex
 - [Paramap ★1](https://github.com/twist900/paramap) - Accessability map. React-native with Redux and Firebase. iOS and Android.
-- [Surmon.me.native](https://github.com/surmon-china/surmon.me.native) A react-native applaction for surmon.me
 
 ## Frameworks
 
