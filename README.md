@@ -754,7 +754,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-stripe-api ★64](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for Stripe Rest API
 
 ### Animation
-- [react-native-animated-sprite ★3](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
+- [react-native-animated-sprite ★7](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
+- [react-native-interactable ★1606](https://github.com/wix/react-native-interactable) - experimental implementation of high performance interactable views in React Native
 
 ### Other Platforms
 
@@ -778,7 +779,6 @@ Useful React Native tooling.
 - [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
 - [rnpm ★2032](https://github.com/rnpm/rnpm) - react native package manager
 - [rsx ★30](https://github.com/react-native-contrib/rsx) - An alternative to the `react-native` CLI tool
-- [haul ★1029](https://github.com/callstack-io/haul) - command line tool for developing React Native apps
 - [rn-nodeify ★64](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
 - [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
 - [react-native-debugger ★638](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
