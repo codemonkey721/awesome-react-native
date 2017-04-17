@@ -299,8 +299,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-orientation ★407](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
 - [react-native-page-control ★86](https://github.com/silentcloud/react-native-page-control) - React native page control, like ios  UIPageControl
 - [react-native-page-swiper ★68](https://github.com/fixt/react-native-page-swiper) - Page Swiper component for React Native.
-- [react-native-parallax ★298](https://github.com/oblador/react-native-parallax) - Parallax effects for React Native using Animated API
-- [react-native-parallax-scroll-view ★622](https://github.com/jaysoo/react-native-parallax-scroll-view) - A ScrollView-like component with parallax and sticky header support.
+- [react-native-parallax ★281](https://github.com/oblador/react-native-parallax) - Parallax effects for React Native using Animated API
 - [react-native-parsed-text ★239](https://github.com/taskrabbit/react-native-parsed-text) - Parse text and make them into multiple React Native Text elements
 - [react-native-pathjs-charts ★211](https://github.com/capitalone/react-native-pathjs-charts) - Android and iOS charts based on react-native-svg and paths-js
 - [react-native-pdf-view ★122](https://github.com/cnjon/react-native-pdf-view) - view pdf file using react-native
@@ -756,6 +755,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Animation
 - [react-native-animated-sprite ★3](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
+- [react-native-gl-model-view ★62](https://github.com/rastapasta/react-native-gl-model-view) - Display and animate textured Wavefront .OBJ 3D models with 60fps (iOS)
 
 ### Other Platforms
 
