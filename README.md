@@ -247,7 +247,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-geo-fencing ★40](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
 - [react-native-grading ★12](https://github.com/Tinysymphony/react-native-grading) - RN Component for grading scores using ReactART.
 - [react-native-gravatar ★5](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
-- [react-native-super-grid ★0](https://github.com/saleel97/react-native-super-grid) - Responsive Grid View for React Native.
+- [react-native-super-grid ★54](https://github.com/saleel97/react-native-super-grid) - Responsive Grid View for React Native.
 - [react-native-grid-component ★83](https://github.com/phil-r/react-native-grid-component) - Easy to use grid component for your react-native project. Supports iOS and Android.
 - [react-native-grid-view ★220](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
 - [react-native-grid ★14](https://github.com/thewei/react-native-grid) - The 24-column grid component for react-native
@@ -409,7 +409,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-snackbar-component ★0](https://github.com/SiDevesh/React-Native-SnackBar-Component) - A snackbar component for Android and iOS, customizable and simple.
 - [react-native-expand ★3](https://github.com/hejiaji/react-native-expand) - A react-native expandable component for both Android and iOS
 - [react-native-zoom-image](https://github.com/Tinysymphony/react-native-zoom-image) - An image viewer component for react-native, like twitter's image viewer.
-- [react-native-hijri-date-picker](https://github.com/Codelabsys/react-native-hijri-date-picker-android) -  Date Picker Dialog for Hijri calendar for android.
 
 ### Navigation
 - [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
