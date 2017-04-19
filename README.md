@@ -247,7 +247,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-geo-fencing ★40](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
 - [react-native-grading ★12](https://github.com/Tinysymphony/react-native-grading) - RN Component for grading scores using ReactART.
 - [react-native-gravatar ★5](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
-- [react-native-super-grid ★0](https://github.com/saleel97/react-native-super-grid) - Responsive Grid View for React Native.
+- [react-native-super-grid ★54](https://github.com/saleel97/react-native-super-grid) - Responsive Grid View for React Native.
 - [react-native-grid-component ★83](https://github.com/phil-r/react-native-grid-component) - Easy to use grid component for your react-native project. Supports iOS and Android.
 - [react-native-grid-view ★220](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
 - [react-native-grid ★14](https://github.com/thewei/react-native-grid) - The 24-column grid component for react-native
@@ -299,7 +299,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-orientation ★407](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
 - [react-native-page-control ★86](https://github.com/silentcloud/react-native-page-control) - React native page control, like ios  UIPageControl
 - [react-native-page-swiper ★68](https://github.com/fixt/react-native-page-swiper) - Page Swiper component for React Native.
-- [react-native-parallax ★281](https://github.com/oblador/react-native-parallax) - Parallax effects for React Native using Animated API
+- [react-native-parallax ★298](https://github.com/oblador/react-native-parallax) - Parallax effects for React Native using Animated API
+- [react-native-parallax-scroll-view ★622](https://github.com/jaysoo/react-native-parallax-scroll-view) - A ScrollView-like component with parallax and sticky header support.
 - [react-native-parsed-text ★239](https://github.com/taskrabbit/react-native-parsed-text) - Parse text and make them into multiple React Native Text elements
 - [react-native-pathjs-charts ★211](https://github.com/capitalone/react-native-pathjs-charts) - Android and iOS charts based on react-native-svg and paths-js
 - [react-native-pdf-view ★122](https://github.com/cnjon/react-native-pdf-view) - view pdf file using react-native
@@ -409,6 +410,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-snackbar-component ★0](https://github.com/SiDevesh/React-Native-SnackBar-Component) - A snackbar component for Android and iOS, customizable and simple.
 - [react-native-expand ★3](https://github.com/hejiaji/react-native-expand) - A react-native expandable component for both Android and iOS
 - [react-native-zoom-image](https://github.com/Tinysymphony/react-native-zoom-image) - An image viewer component for react-native, like twitter's image viewer.
+- [react-native-hijri-date-picker](https://github.com/Codelabsys/react-native-hijri-date-picker-android) -  Date Picker Dialog for Hijri calendar for android.
 
 ### Navigation
 - [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
@@ -754,7 +756,12 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-stripe-api ★64](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for Stripe Rest API
 
 ### Animation
-- [react-native-animated-sprite ★3](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
+
+- [react-native-gl-model-view ★62](https://github.com/rastapasta/react-native-gl-model-view) - Display and animate textured Wavefront .OBJ 3D models with 60fps (iOS)
+- [react-native-animated-sprite ★7](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
+- [react-native-interactable ★1606](https://github.com/wix/react-native-interactable) - experimental implementation of high performance interactable views in React Native
+
+
 
 ### Other Platforms
 
@@ -778,6 +785,7 @@ Useful React Native tooling.
 - [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
 - [rnpm ★2032](https://github.com/rnpm/rnpm) - react native package manager
 - [rsx ★30](https://github.com/react-native-contrib/rsx) - An alternative to the `react-native` CLI tool
+- [haul ★1029](https://github.com/callstack-io/haul) - command line tool for developing React Native apps
 - [rn-nodeify ★64](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
 - [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
 - [react-native-debugger ★638](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
@@ -924,7 +932,6 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React Native with Django backend ★3](https://github.com/shunpochang/connect_love_mobile_demo)
 - [Simple React Native forms with redux-form, immutable.js and styled-components](http://esbenp.github.io/2017/01/06/react-native-redux-form-immutable-styled-components/)
 - [Sharing Text using the new Share API](http://codecookbook.co/post/how-to-share-text-from-your-react-native-app)
-- [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
 - [The beauty of react-native -Build a stunning wallpaper app](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
 
 ## Problem & Solution
