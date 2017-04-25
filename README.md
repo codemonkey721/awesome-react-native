@@ -126,6 +126,7 @@ Content published on the Web.
 - [Deploying a React Native App with Fastlane](https://dbanck.svbtle.com/deploying-a-react-native-app-with-fastlane)
 - [Continuous Integration for React Native Apps With Fastlane and Bitrise (iOS)](http://blog.thebakery.io/continuous-integration-for-react-native-applications-with-fastlane-and-bitrise-ios-version/)
 - [How to automate Android build process on Bitrise CI](https://medium.com/@hesam.kamalan/how-to-automate-android-build-process-on-bitrise-ci-71ae3a94362e#.fryuiays4)
+- [fastlane for React Native iOS & Android app DevOps](https://medium.com/react-native-training/fastlane-for-react-native-ios-android-app-devops-8ca85bee614e)
 
 ### Internals
 
@@ -368,7 +369,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-swipe-a-lot ★51](https://github.com/nickjanssen/react-native-swipe-a-lot) - A swipe component for React Native that works on iOS and Android.
 - [react-native-swiper2 ★77](https://github.com/sunnylqm/react-native-swiper2) - Swiper component for React Native. Supersede react-native-swiper
 - [react-native-swiper ★3000](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
-- [react-native-swiper-animated ★8](https://github.com/chitezh/react-native-swiper-animated) - Tinder-like swiper for react-native
 - [react-native-tab ★102](https://github.com/vczero/react-native-tab) - react-native-tab is a simple module for add a "Tab Menu" to your React Native app.
 - [react-native-tabbar ★214](https://github.com/alinz/react-native-tabbar) - Tab bar with more freedom
 - [react-native-tableview-simple ★146](https://github.com/Purii/react-native-tableview-simple) - React Native component for TableView made with pure CSS
