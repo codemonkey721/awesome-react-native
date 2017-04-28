@@ -724,7 +724,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-heyzap](https://github.com/react-native-contrib/react-native-heyzap)- Heyzap plugin for React Native
 - [react-native-instagram-oauth ★37](https://github.com/watzak/react-native-instagram-oauth) - react-native instagram login
 - [react-native-instagram-share ★14](https://github.com/watzak/react-native-instagram-share) - A react-native interface to share images and videos within instagram (iOS)
-- [react-native-youtube-oauth ★0](https://github.com/indatawetrust/react-native-youtube-oauth) - react-native interface to login to youtube (iOS)
 - [react-native-instagram ★1](https://github.com/watzak/react-native-instagram) - react-native instagram wrapper api (iOS)
 - [react-native-leancloud ★9](https://github.com/turingou/react-native-leancloud) - a react native LeanCloud component
 - [react-native-level ★32](https://github.com/tradle/react-native-level) - levelup API for react-native AsyncStorage.
@@ -980,6 +979,8 @@ Assortment of conference and training videos.
 - Dailydrip.com: [Learn React Native in 5min per day](https://www.dailydrip.com/topics/react-native/)
 - [Awesome React Native Education ★106](https://github.com/hsavit1/Awesome-React-Native-Education)
 - [Mario Díez Channel](https://www.youtube.com/channel/UCisGMoxaVxJMcbio2FBHORg/search?query=React+Native) - Youtube channel in spanish about with a series of videos talking about react native
+- Udemy.com: [Create Your First React Native App](https://www.udemy.com/create-your-first-react-native-app/?couponCode=AWESOME-REACT-NATIVE) - Introduction to building a React Native app and learning the foundational pieces.
+- Handlebarlabs.com: [Learn React Native + Meteor](http://reactnativemeteor.com) - Comprehensive course & community on building an application with React Native and Meteor.
 
 ## Blogs
 
