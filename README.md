@@ -172,6 +172,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-android-statusbar ★110](https://github.com/NishanthShankar/react-native-android-statusbar) - A react native android package to control the status bar.
 - [react-native-app-intro ★886](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
 - [react-native-awesome-button ★141](https://github.com/larsvinter/react-native-awesome-button) - A React Native component rendering a button supporting showing different appearances and functionality given the passed props
+- [react-native-auto-typing-text ★0](https://github.com/phuongla/react-native-auto-typing-text) - An auto typing text component for react-native
 - [react-native-autolink ★77](https://github.com/joshswan/react-native-autolink) - Autolinking component for React Native
 - [react-native-autocomplete ★111](https://github.com/nulrich/RCTAutoComplete) - React Native Component for MLPAutoCompleteTextField
 - [react-native-autocomplete-input ★104](https://github.com/l-urence/react-native-autocomplete-input) - Pure javascript autocomplete input for react-native
@@ -412,7 +413,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-zoom-image](https://github.com/Tinysymphony/react-native-zoom-image) - An image viewer component for react-native, like twitter's image viewer.
 - [react-native-hijri-date-picker](https://github.com/Codelabsys/react-native-hijri-date-picker-android) -  Date Picker Dialog for Hijri calendar for android.
 - [react-native-md-motion-buttons](https://github.com/zecaptus/react-native-md-motion-buttons) - Material design motion button inspired by inVision app.
-- [rn-placeholder](https://github.com/Skahrz/rn-placeholder) - Skeleton placeholder loader with (optional) animations
 
 ### Navigation
 - [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
