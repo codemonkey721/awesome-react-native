@@ -508,7 +508,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [codemod-RN24-to-RN25 ★94](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
 - [react-native-workers ★291](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
 - [react-native-console-time-polyfill ★2](https://github.com/MaxGraey/react-native-console-time-polyfill) - console.time and console.timeEnd polyfill for react-native
-- [detox ★422](https://github.com/wix/detox) - Graybox End-to-End (functional) Tests and Automation Library for Mobile with first class support for React Native
 
 ### Forms
 
@@ -549,6 +548,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### Styling
 
 - [cairn ★98](https://github.com/adamterlson/cairn) - Simple, string-based style selector engine with support for basic inheritance.
+- [glamorous-native ★88](https://github.com/robinpowered/glamorous-native) - A React Native version of glamorous - a component styling library.
 - [react-native-css ★584](https://github.com/sabeurthabti/react-native-css) - Style React-Native components with css and built in support for SASS.
 - [react-native-extended-stylesheet ★571](https://github.com/vitalets/react-native-extended-stylesheet) - Extend React Native stylesheet with variables, relative units, percents, math operations, scaling and other stuff.
 - [react-native-responsive ★145](https://github.com/ayoubdev/react-native-responsive) - The power of Media Queries now in your React Native project (ios and android) ! Responsive Design can now be easily managed !
