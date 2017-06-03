@@ -394,7 +394,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-timeline-listview ★3](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App
 - [react-native-timer-mixin ★158](https://github.com/reactjs/react-timer-mixin) - TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.
 - [react-native-tinder-swipe-cards ★400](https://github.com/meteor-factory/react-native-tinder-swipe-cards) - Tinder card style swiping.
-- [react-native-thumbnail ★7](https://github.com/phuochau/react-native-thumbnail) - Get thumbnail from local media. 
+- [react-native-thumbnail ★7](https://github.com/phuochau/react-native-thumbnail) - Get thumbnail from local media.
 - [react-native-toast ★196](https://github.com/remobile/react-native-toast) - A android like toast for react-native support for ios and android
 - [react-native-toolkit ★35](https://github.com/marty-wang/react-native-toolkit) - A collection of common UI components for react native mobile apps.
 - [react-native-tooltip ★120](https://github.com/chirag04/react-native-tooltip) - A react-native wrapper for showing tooltips
@@ -915,6 +915,7 @@ Open source React Native apps and other examples.
 - [RNV2ex ★2](https://github.com/dyygtfx/RNV2ex) - react-native for v2ex
 - [Paramap ★1](https://github.com/twist900/paramap) - Accessability map. React-native with Redux and Firebase. iOS and Android.
 - [Surmon.me.native](https://github.com/surmon-china/surmon.me.native) A react-native applaction for surmon.me
+- [AudienceNetworkReactNative ★36](https://github.com/7kfpun/AudienceNetworkReactNative) - Facebook Audience Network Performance Tool.
 
 ## Frameworks
 
@@ -1006,7 +1007,7 @@ Assortment of conference and training videos.
 - [Mario Díez Channel](https://www.youtube.com/channel/UCisGMoxaVxJMcbio2FBHORg/search?query=React+Native) - Youtube channel in spanish about with a series of videos talking about react native
 - Udemy.com: [Create Your First React Native App](https://www.udemy.com/create-your-first-react-native-app/?couponCode=AWESOME-REACT-NATIVE) - Introduction to building a React Native app and learning the foundational pieces.
 - Handlebarlabs.com: [Learn React Native + Meteor](http://reactnativemeteor.com) - Comprehensive course & community on building an application with React Native and Meteor.
-- [React Native Basics: Build a Currency Converter](http://learn.handlebarlabs.com/p/react-native-basics-build-a-currency-converter?ref=awesome-react-native) - (Free) A multi-hour in-depth video course showing you how to build apps with React Native.
+
 ## Blogs
 
 - [Official React Native Blog](http://facebook.github.io/react-native/blog/)
