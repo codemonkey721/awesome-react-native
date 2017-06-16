@@ -175,7 +175,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-android-statusbar ★110](https://github.com/NishanthShankar/react-native-android-statusbar) - A react native android package to control the status bar.
 - [react-native-app-intro ★886](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
 - [react-native-awesome-button ★141](https://github.com/larsvinter/react-native-awesome-button) - A React Native component rendering a button supporting showing different appearances and functionality given the passed props
-- [react-native-auto-typing-text ★0](https://github.com/phuongla/react-native-auto-typing-text) - An auto typing text component for react-native
+- [react-native-auto-typing-text ★11](https://github.com/phuongla/react-native-auto-typing-text) - An auto typing text component for react-native
 - [react-native-autolink ★77](https://github.com/joshswan/react-native-autolink) - Autolinking component for React Native
 - [react-native-autocomplete ★111](https://github.com/nulrich/RCTAutoComplete) - React Native Component for MLPAutoCompleteTextField
 - [react-native-autocomplete-input ★104](https://github.com/l-urence/react-native-autocomplete-input) - Pure javascript autocomplete input for react-native
@@ -817,7 +817,6 @@ Useful React Native tooling.
 - [react-native-debugger ★638](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
 - [react-native-exception-handler](https://github.com/master-atul/react-native-exception-handler) – Avoid silent crash and errors on the production build of your app
 - [generact](http://github.com/diegohaz/generact) - CLI that generates components based on existing ones no matter how you structure your app
-- [react-native-rename](https://github.com/junedomingo/react-native-rename) - Rename react-native app with just one command
 
 ## Seeds
 
