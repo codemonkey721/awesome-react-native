@@ -360,7 +360,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-shared-preferences ★36](https://github.com/sriraman/react-native-shared-preferences) - Android's Native key value storage system in React Native
 - [react-native-showdown ★16](https://github.com/jerolimov/react-native-showdown) - React-native component which renders markdown into a webview!
 - [react-native-simple-button ★5](https://github.com/remobile/react-native-simple-button) - A simple react-native button
-- [react-native-simple-dialogs ★2](https://github.com/douglasjunior/react-native-simple-dialogs) - Cross-platform simple dialogs for React Native based on the Modal component.
 - [react-native-simple-picker ★11](https://github.com/puredazzle/react-native-simple-picker) - A simple react-native select picker
 - [react-native-simple-router ★213](https://github.com/react-native-simple-router-community/react-native-simple-router) - A community maintained router component for React Native
 - [react-native-simple-stepper ★17](https://github.com/testshallpass/react-native-simple-stepper) - A super simple react-native implementation of the UIStepper iOS control.
@@ -974,7 +973,7 @@ Quick solutions to typical problems.
 
 Books - free and commercial (but only good ones).
 
-- [Programming React Native](https://leanpub.com/programming-react-native) - (Free) An in-depth React Native book that you should read after a you've done a couple tutorials of the many out there.
+- [Programming React Native](https://leanpub.com/programming-react-native) - (Free) An in-depth React Native book that you should read after you've done a couple tutorials of the many out there.
 - [React Native Animation Book](http://browniefed.com/react-native-animation-book/) - (Free) React Native Animation
 
 Books - for sale.
