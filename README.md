@@ -146,7 +146,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
-- [rn-placeholder★14](https://github.com/Skahrz/rn-placeholder) - Skeleton placeholder loader with (optional) animations
+- [rn-placeholder★37](https://github.com/mfrachet/rn-placeholder) - Skeleton placeholder loader with (optional) animations
 - [rn-sliding-up-panel ★22](https://github.com/octopitus/rn-sliding-up-panel) - React Native draggable sliding up panel purly implemented in Javascript. Works nicely on both iOS and Android.
 - [react-native-splash-screen ★383](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
 - [react-native-display ★23](https://github.com/sundayhd/react-native-display) - This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations.
@@ -453,7 +453,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-navigator ★72](https://github.com/thewei/react-native-navigator) - A simple router for react native
 - [react-native-yynavigator ★0](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 - [react-native-transparent-bar ★13](https://github.com/23c/react-native-transparent-bar) - react native navigator transparent bar
-- [kittenTricks ★700](https://github.com/akveo/kittenTricks) - A react native mobile starter kit with over 40 screens and theme hot reload support
 
 #### Navigation/Routing Articles
 - [Basics of using react-native-router-flux](https://medium.com/@spencer_carli/react-native-basics-using-react-native-router-flux-f11e5128aff9#.di5mvrbdr)
