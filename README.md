@@ -121,6 +121,7 @@ Content published on the Web.
 - [React Native and Fastlane](https://weluse.de/blog/react-native-deployment-with-fastlane.html) - small tweaks required to rig Fastlane with React Native
 - [Unit Testing React Native with Mocha and Enzyme](https://formidable.com/blog/2016/02/08/unit-testing-react-native-with-mocha-and-enzyme/)
 - [React Native's Layout Animation is Awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e)
+- [Versioning React Native Application in elegant way (cross-platformely)](https://github.com/szhigunov/react-native-npm-version)
 
 ### Continuous Integration
 - [Deploying a React Native App with Fastlane](https://dbanck.svbtle.com/deploying-a-react-native-app-with-fastlane)
@@ -869,7 +870,6 @@ Open source React Native apps and other examples.
 - [NBAreact ★31](https://github.com/jbkuczma/NBAreact)
 - [Reddit made with React Native and Redux ★72](https://github.com/KevinOfNeu/xReddit)
 - [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
-- [DuckDuckGo App (Unofficial) ★113](https://github.com/kiok46/duckduckgo)
 - [Hacker News (iOS & Android) ★2747](https://github.com/iSimar/HackerNews-React-Native)
 - [ReactNativeHackerNews ★217](https://github.com/jsdf/ReactNativeHackerNews)
 - [ReactNativeRedditReader ★285](https://github.com/akveo/react-native-reddit-reader)
