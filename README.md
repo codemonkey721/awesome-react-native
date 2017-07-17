@@ -758,6 +758,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-heyzap](https://github.com/react-native-contrib/react-native-heyzap)- Heyzap plugin for React Native
 - [react-native-instagram-oauth ★37](https://github.com/watzak/react-native-instagram-oauth) - react-native instagram login
 - [react-native-instagram-share ★14](https://github.com/watzak/react-native-instagram-share) - A react-native interface to share images and videos within instagram (iOS)
+- [react-instantsearch ★154](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native apps, by Algolia
 - [react-native-youtube-oauth ★0](https://github.com/indatawetrust/react-native-youtube-oauth) - react-native interface to login to youtube (iOS)
 - [react-native-instagram ★1](https://github.com/watzak/react-native-instagram) - react-native instagram wrapper api (iOS)
 - [react-native-leancloud ★9](https://github.com/turingou/react-native-leancloud) - a react native LeanCloud component
@@ -854,8 +855,6 @@ Get a head start on development with an existing seed.
 - [react-native-relay-example ★17](https://github.com/sibelius/react-native-relay-example) - React Native working with Relay
 - [react-native-redux ★86](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
 - [react-native-boilerplate ★20](https://github.com/pcofilada/react-native-boilerplate) - Simple boilerplate for mobile development using React Native and Redux
-- [react-native-web-workspace ★16](https://github.com/agrcrobles/react-native-web-workspace) - A cross platform app with react in a monorepo
-- [react-native-web-boilerplate ★27](https://github.com/agrcrobles/react-native-web-boilerplate) - A react-native-web stateless hmr boilerplate
 
 ## Libraries
 
@@ -936,7 +935,7 @@ Open source React Native apps and other examples.
 - [SoundcloudMboX ★1](https://github.com/trazyn/SoundcloudMboX) SoundcloudMobX is the Soundcloud for iOS, Build with React-Native and MobX.
 - [MoeFM ★0](https://github.com/codeestX/MoeFM) - A light MusicPlayer build with React Native & Redux for both Android and iOS.
 - [what the thing? ★256](https://github.com/vigzmv/what_the_thing) - Point camera at things to learn how to say them in a different language.
-- [live translator ★4](https://github.com/agrcrobles/react-native-live-translator) - An app that translates in real time what you see from your mobile.
+
 
 ## Frameworks
 
