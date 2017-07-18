@@ -354,7 +354,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-scrollview-lazyload ★54](https://github.com/IskenHuang/react-native-scrollview-lazyload) - react-native scrollview with image lazy load
 - [react-native-infinite-scrollview ★31](https://github.com/baspellis/react-native-infinite-scrollview) - ScrollView with infinite paged scrolling (no looping)
 - [react-native-search-bar ★403](https://github.com/umhan35/react-native-search-bar) - The native search bar for react native.
-- [react-native-searchbar ★146](https://github.com/localz/react-native-searchbar) - An animated search bar for react native with inbuilt search (iOS and Android)
+- [react-native-searchbar ★58](https://github.com/localz/react-native-searchbar) - An animated search bar for react native with inbuilt search (iOS and Android)
 - [react-native-search ★13](https://github.com/StevenIseki/react-native-search) - Native Search component for react native.
 - [react-native-seekbar-android ★10](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
 - [react-native-custom-segmented-control ★57](https://github.com/wix/react-native-custom-segmented-control) - Native UI iOS component for Segmented Control with custom style
@@ -537,6 +537,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [redux-form ★4829](http://redux-form.com) - Redux form state management (Web and Native)
 - [tcomb-form-native ★1657](https://github.com/gcanti/tcomb-form-native) - Generate React Native forms
 - [foect ★4](https://github.com/unexge/foect) - Simple form validation library for React Native
+- [formik ★2270](https://github.com/jaredpalmer/formik) - Forms in React, without tears.
 
 ### Internationalization
 
