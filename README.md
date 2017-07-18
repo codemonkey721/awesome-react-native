@@ -146,7 +146,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 - [react-native-search-box★87](https://github.com/crabstudio/react-native-search-box) - A simple search box with animation, inspired from ios search bar.
-- [rn-placeholder★37](https://github.com/mfrachet/rn-placeholder) - Skeleton placeholder loader with (optional) animations
+- [rn-placeholder★100](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native
 - [rn-sliding-up-panel ★22](https://github.com/octopitus/rn-sliding-up-panel) - React Native draggable sliding up panel purly implemented in Javascript. Works nicely on both iOS and Android.
 - [react-native-ab-hoc★1](https://github.com/mfrachet/react-native-ab-hoc) - A HoC alternative to create A/B tests on react native
 - [react-native-splash-screen ★383](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
@@ -758,7 +758,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-heyzap](https://github.com/react-native-contrib/react-native-heyzap)- Heyzap plugin for React Native
 - [react-native-instagram-oauth ★37](https://github.com/watzak/react-native-instagram-oauth) - react-native instagram login
 - [react-native-instagram-share ★14](https://github.com/watzak/react-native-instagram-share) - A react-native interface to share images and videos within instagram (iOS)
-- [react-instantsearch ★154](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native apps, by Algolia
 - [react-native-youtube-oauth ★0](https://github.com/indatawetrust/react-native-youtube-oauth) - react-native interface to login to youtube (iOS)
 - [react-native-instagram ★1](https://github.com/watzak/react-native-instagram) - react-native instagram wrapper api (iOS)
 - [react-native-leancloud ★9](https://github.com/turingou/react-native-leancloud) - a react native LeanCloud component
@@ -969,7 +968,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
 - [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
 - [React Native Youtube Animated Video Slide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/)
-- [React Native and Socket.io](https://bullpen.bullish.io/how-to-actually-use-socket-io-in-react-native-39082d8d6172)
+- [React Native and Socket.io](https://medium.com/@ekryski/how-to-actually-use-socket-io-in-react-native-39082d8d6172)
 - [React-Native Animated with React-Art - Firework Tap To Shoot](http://browniefed.com/blog/2015/08/29/react-native-animated-with-react-art-firework-show/)
 - [React-native Animated API Basic Example](http://browniefed.com/blog/2015/07/26/react-native-animated-api-basic-example/)
 - [React-native Animated API with PanResponder](http://browniefed.com/blog/2015/08/15/react-native-animated-api-with-panresponder/)
