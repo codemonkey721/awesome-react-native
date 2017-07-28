@@ -374,6 +374,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-slidable-tab-bar ★23](https://github.com/pwbrown/react-native-slidable-tab-bar) - Slidable tab bar for instant view rendering(react-native)
 - [react-native-slider ★328](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript  component for react-native
 - [react-native-slot-machine ★12](https://github.com/atlanteh/react-native-slot-machine) - A text slot machine component for react-native
+- [react-native-sortable-list ★171](https://github.com/gitim/react-native-sortable-list) A sortable list for react native with both vertical and horizontal direction support.
 - [react-native-spinkit ★657](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
 - [react-native-splashscreen ★244](https://github.com/remobile/react-native-splashscreen) - A splash screen for react-native
 - [react-native-square-view ★17](https://github.com/Shuangzuan/react-native-square-view) - A square view component for react native.
@@ -934,7 +935,6 @@ Open source React Native apps and other examples.
 - [SoundcloudMboX ★1](https://github.com/trazyn/SoundcloudMboX) SoundcloudMobX is the Soundcloud for iOS, Build with React-Native and MobX.
 - [MoeFM ★0](https://github.com/codeestX/MoeFM) - A light MusicPlayer build with React Native & Redux for both Android and iOS.
 - [what the thing? ★256](https://github.com/vigzmv/what_the_thing) - Point camera at things to learn how to say them in a different language.
-- [PxView ★42](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS
 
 
 ## Frameworks
