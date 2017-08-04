@@ -545,6 +545,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [rn-translate-template ★11](https://github.com/hiaw/rn-translate-template) - I18n template for all iOS and Android supported languages
 - [react-native-intl ★21](https://github.com/taggon/react-native-intl) - React Native module shipped native Intl implementation and Translation extension
 - [redux-react-native-i18n ★6](https://github.com/derzunov/redux-react-native-i18n) - An i18n solution for React Native apps on Redux
+- [react-native-languages ★18](https://github.com/react-community/react-native-languages) - React Native properties and methods related to the language of the device
 
 ### Build & Development
 
@@ -934,7 +935,6 @@ Open source React Native apps and other examples.
 - [SoundcloudMboX ★1](https://github.com/trazyn/SoundcloudMboX) SoundcloudMobX is the Soundcloud for iOS, Build with React-Native and MobX.
 - [MoeFM ★0](https://github.com/codeestX/MoeFM) - A light MusicPlayer build with React Native & Redux for both Android and iOS.
 - [what the thing? ★256](https://github.com/vigzmv/what_the_thing) - Point camera at things to learn how to say them in a different language.
-- [GitPoint ★1785](https://github.com/gitpoint/git-point) - A mobile GitHub client for both iOS and Android.
 
 
 ## Frameworks
