@@ -438,7 +438,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-md-motion-buttons](https://github.com/zecaptus/react-native-md-motion-buttons) - Material design motion button inspired by inVision app.
 - [react-native-fab](https://github.com/SiDevesh/React-Native-FAB) - A FAB button component for Android and iOS, customizable, simple and as per material design specs.
 - [react-native-material-cards](https://github.com/SiDevesh/React-Native-Material-Cards) - A material design card component, customizable and versatile.
-- [react-native-comparison-slider](https://github.com/charlot567/react-native-comparison-slider) - A simple component to display two image in comparison with a slide-over feature.
 
 ### Navigation
 - [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
@@ -935,6 +934,7 @@ Open source React Native apps and other examples.
 - [SoundcloudMboX ★1](https://github.com/trazyn/SoundcloudMboX) SoundcloudMobX is the Soundcloud for iOS, Build with React-Native and MobX.
 - [MoeFM ★0](https://github.com/codeestX/MoeFM) - A light MusicPlayer build with React Native & Redux for both Android and iOS.
 - [what the thing? ★256](https://github.com/vigzmv/what_the_thing) - Point camera at things to learn how to say them in a different language.
+- [PxView ★42](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS
 
 
 ## Frameworks
