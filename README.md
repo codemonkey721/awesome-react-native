@@ -512,7 +512,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-mixpanel ★123](https://github.com/davodesign84/react-native-mixpanel) - A React Native wrapper for Mixpanel tracking
 - [react-native-segment-io-analytics ★44](https://github.com/smore-inc/react-native-segment-io-analytics) - A React Native Segment wrapper!
 - [react-native-google-analytics-bridge ★389](https://github.com/idehub/react-native-google-analytics-bridge) - A native Google Analytics bridge for React Native. Uses the official libraries on both iOS and Android.
-- [react-native-ux-cam ★11](https://github.com/negativetwelve/react-native-ux-cam) - React Native wrapper for uxcam.com.
 
 ### Utils & Infra
 
@@ -888,6 +887,7 @@ Libraries / SDK type additions for React Native development.
 - [Panza ★155](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
 - [React Native Elements ★4303](https://github.com/dabit3/React-Native-Elements) - a collection of React Native UI Elements and components.
 - [Shoutem UI ★1693](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem
+- [BlankApp UI ★6](https://github.com/blankapp/ui) - Highly customizable and theming components for React Native
 
 ## Open Source Apps
 
