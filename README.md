@@ -691,6 +691,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-audio-player ★11](https://github.com/sh3rawi/react-native-audio-player) - A React Native module to play audio on Android
 - [react-native-audioplayer ★82](https://github.com/andreaskeller/react-native-audioplayer) - Small audio player library for react native
 - [react-native-audio ★246](https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps.
+- [react-native-camera-kit ★283](https://github.com/wix/react-native-camera-kit) - Advanced native camera and gallery components and device photos API.
 - [react-native-camera ★2519](https://github.com/lwansbrough/react-native-camera) - Camera component
 - [react-native-color-grabber ★31](https://github.com/bsudekum/react-native-color-grabber) - React native component for finding dominant colors in an image
 - [react-native-incall-manager ★97](https://github.com/zxcpoiu/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat like webrtc
@@ -887,7 +888,6 @@ Libraries / SDK type additions for React Native development.
 - [Panza ★155](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
 - [React Native Elements ★4303](https://github.com/dabit3/React-Native-Elements) - a collection of React Native UI Elements and components.
 - [Shoutem UI ★1693](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem
-- [BlankApp UI ★6](https://github.com/blankapp/ui) - Highly customizable and theming components for React Native
 
 ## Open Source Apps
 
