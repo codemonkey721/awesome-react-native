@@ -512,6 +512,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-mixpanel ★123](https://github.com/davodesign84/react-native-mixpanel) - A React Native wrapper for Mixpanel tracking
 - [react-native-segment-io-analytics ★44](https://github.com/smore-inc/react-native-segment-io-analytics) - A React Native Segment wrapper!
 - [react-native-google-analytics-bridge ★389](https://github.com/idehub/react-native-google-analytics-bridge) - A native Google Analytics bridge for React Native. Uses the official libraries on both iOS and Android.
+- [react-native-ux-cam ★11](https://github.com/negativetwelve/react-native-ux-cam) - React Native wrapper for uxcam.com.
 
 ### Utils & Infra
 
@@ -657,7 +658,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-system-notification ★2](https://github.com/Neson/react-native-system-notification) - Notification for React Native
 - [react-native-touch-id ★304](https://github.com/naoufal/react-native-touch-id) - React Native authentication with the native Touch ID popup.
 - [react-native-fingerprint-identify ★12](https://github.com/williamtran29/react-native-fingerprint-identify) - React Native authentication with the Fingerprint on Android, fingerprint API compatible lib, which also combines Samsung, Xiaomi and MeiZu's official Fingerprint API.
-- [react-native-touch-id-android ★5](https://github.com/ElekenAgency/react-native-touch-id-android) - React Native authentication with the Fingerprint on Android.
+- [react-native-touch-id-android ★18](https://github.com/ElekenAgency/react-native-touch-id-android) - React Native authentication with the Fingerprint on Android.
 - [react-native-voip-push-notification ★14](https://github.com/ianlin/react-native-voip-push-notification) - iOS prioritized VoIP Push Notification
 - [react-native-wifi-manager ★14](https://github.com/skierkowski/react-native-wifi-manager) - Wifi Connection Manager for React Native on Android
 - [react-native-billing ★171](https://github.com/idehub/react-native-billing) - In-app purchase implementation for React Native on Android.
@@ -853,6 +854,7 @@ Useful React Native tooling.
 - [generact](http://github.com/diegohaz/generact) - CLI that generates components based on existing ones no matter how you structure your app
 - [react-native-rename](https://github.com/junedomingo/react-native-rename) - Rename react-native app with just one command
 - [Storybook](https://storybook.js.org) - UI development environment for your React components
+- [Makeicon](https://github.com/beplus/makeicon) - Generates mobile app icons in all resolutions for both iOS and Android
 
 ## Seeds
 
@@ -888,6 +890,7 @@ Libraries / SDK type additions for React Native development.
 - [Panza ★155](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
 - [React Native Elements ★4303](https://github.com/dabit3/React-Native-Elements) - a collection of React Native UI Elements and components.
 - [Shoutem UI ★1693](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem
+- [BlankApp UI ★6](https://github.com/blankapp/ui) - Highly customizable and theming components for React Native
 
 ## Open Source Apps
 
@@ -1057,6 +1060,8 @@ Assortment of conference and training videos.
 - Handlebarlabs.com: [Learn React Native + Meteor](http://reactnativemeteor.com) - Comprehensive course & community on building an application with React Native and Meteor.
 - [React Native Basics: Build a Currency Converter](http://learn.handlebarlabs.com/p/react-native-basics-build-a-currency-converter?ref=awesome-react-native) - (Free) A multi-hour in-depth video course showing you how to build apps with React Native.
 - [React Native in Arabic: Build a newspaper app](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS) - (Free) A simple to follow video series in Arabic showing you how to build a newspaper app with React Native.
+- Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE&utm_source=gh_arn&utm_medium=link) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.
+
 ## Blogs
 
 - [Official React Native Blog](http://facebook.github.io/react-native/blog/)
