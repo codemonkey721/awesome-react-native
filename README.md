@@ -180,6 +180,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-actionsheet-native ★11](https://github.com/slowpath/react-native-actionsheet) - Android ActionSheet support for React Native
 - [react-native-activity-view ★297](https://github.com/naoufal/react-native-activity-view) - iOS share and action sheets for React Native
 - [react-native-adbannerview ★40](https://github.com/Purii/react-native-adbannerview) - React Native Bridge for ADBannerView
+- [react-native-air-progress-bar ★2](https://github.com/kis/react-native-air-progress-bar) - React Native progress-bar component, customizable and animated
 - [react-native-alphabetlistview ★151](https://github.com/sunnylqm/react-native-alphabetlistview) - A ListView with a sidebar to jump to sections directly, based on johanneslumpe's react-native-selectablesectionlistview
 - [react-native-android-blurryoverlay ★48](https://github.com/kwaak/react-native-android-blurryoverlay) - A react native android package to show a blurry overlay.
 - [react-native-android-circles ★14](https://github.com/kwaak/react-native-android-circles) - A react native android package to show a circle progress view.
@@ -187,6 +188,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-android-kit ★75](https://github.com/ayoubdev/react-native-android-kit) - A set of native Android UI components and modules for React Native framework (Android Design Support Library, TabLayout, Floating Action Button and more...).
 - [react-native-android-statusbar ★110](https://github.com/NishanthShankar/react-native-android-statusbar) - A react native android package to control the status bar.
 - [react-native-animated-check-mark ★11](https://github.com/AppliKeySolutions/RocketButton) - A small react component for animated cross-mark transformation.
+- [react-native-animated-styles ★1](https://github.com/ericpkerr/react-native-animated-styles) - Easily animate/transition react components between two style states.
 - [react-native-app-intro ★886](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
 - [react-native-awesome-button ★141](https://github.com/larsvinter/react-native-awesome-button) - A React Native component rendering a button supporting showing different appearances and functionality given the passed props
 - [react-native-auto-typing-text ★11](https://github.com/phuongla/react-native-auto-typing-text) - An auto typing text component for react-native
@@ -464,7 +466,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Navigation
 - [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
-- [react-navigation,621 ★2586](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
+- [react-navigation ★2586](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
 - [react-native-ya-navigator ★66](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
 - [react-native-route-navigator ★26](https://github.com/Andr3wHur5t/react-native-route-navigator) - React-Native page navigation using URIs.
 - [react-native-router ★1144](https://github.com/t4t5/react-native-router) - Awesome navigation for your native app.
