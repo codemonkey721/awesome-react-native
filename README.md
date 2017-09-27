@@ -292,7 +292,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-in-app-notification ★4](https://github.com/robcalcroft/react-native-in-app-notification) - Customisable in-app notification component for React Native
 - [react-native-invertible-scroll-view ★234](https://github.com/exponentjs/react-native-invertible-scroll-view) - An invertible ScrollView for React Native
 - [react-native-item-cell ★46](https://github.com/APSL/react-native-item-cell) - React Native default style iOS item cell
-- [react-native-keyboard-manager ★87](https://github.com/douglasjunior/react-native-keyboard-manager) - Library that allows to prevent issues of keyboard sliding up and cover on React-Native iOS projects.
+- [react-native-keyboard-manager ★0](https://github.com/douglasjunior/react-native-keyboard-manager) - Library that allows to prevent issues of keyboard sliding up and cover on React-Native iOS projects.
 - [react-native-keyboard-spacer ★506](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) - Plug and play react-Native keyboard spacer view.
 - [react-native-keyboardevents ★223](https://github.com/johanneslumpe/react-native-keyboardevents) - Monitors keyboard show/hide notifications
 - [react-native-label-select ★23](https://github.com/Tinysymphony/react-native-label-select) - A modal selector for React Native with selected items displayed as labels.
@@ -549,6 +549,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-workers ★291](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
 - [react-native-console-time-polyfill ★2](https://github.com/MaxGraey/react-native-console-time-polyfill) - console.time and console.timeEnd polyfill for react-native
 - [detox ★422](https://github.com/wix/detox) - Graybox End-to-End (functional) Tests and Automation Library for Mobile with first class support for React Native
+- [react-native-linkedin ★24](https://github.com/xcarpentier/react-native-linkedin) React-Native LinkedIn, a simple LinkedIn login library for React-Native or Expo with WebView and Modal
 
 ### Forms
 
