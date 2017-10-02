@@ -198,6 +198,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-bar-collapsible ★11](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.
 - [react-native-beautiful-video-recorder ★27](https://github.com/phuochau/react-native-beautiful-video-recorder) - The video recorder component that extends from react-native-camera. It works for both iOS & Android.
 - [react-native-beautiful-image ★12](https://github.com/phuochau/react-native-beautiful-image) - The Beautiful Image component that supports fadeIn animation and shows placeholderSource if the main source can't be loaded.
+- [react-native-big-slider](https://github.com/netbeast/react-native-big-slider) - Yet another, big one, pure JS easily customisable and hackable react-native slider component.
 - [react-native-blur ★1021](https://github.com/Kureev/react-native-blur) - React Native Blur component
 - [react-native-fxblurview ★26](https://github.com/magus/react-native-fxblurview) - React Native wrapper for popular FXBlurView library for realtime, fine-tuned blur effects
 - [react-native-button ★521](https://github.com/ide/react-native-button)
@@ -292,7 +293,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-in-app-notification ★4](https://github.com/robcalcroft/react-native-in-app-notification) - Customisable in-app notification component for React Native
 - [react-native-invertible-scroll-view ★234](https://github.com/exponentjs/react-native-invertible-scroll-view) - An invertible ScrollView for React Native
 - [react-native-item-cell ★46](https://github.com/APSL/react-native-item-cell) - React Native default style iOS item cell
-- [react-native-keyboard-manager ★0](https://github.com/douglasjunior/react-native-keyboard-manager) - Library that allows to prevent issues of keyboard sliding up and cover on React-Native iOS projects.
+- [react-native-keyboard-manager ★87](https://github.com/douglasjunior/react-native-keyboard-manager) - Library that allows to prevent issues of keyboard sliding up and cover on React-Native iOS projects.
 - [react-native-keyboard-spacer ★506](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) - Plug and play react-Native keyboard spacer view.
 - [react-native-keyboardevents ★223](https://github.com/johanneslumpe/react-native-keyboardevents) - Monitors keyboard show/hide notifications
 - [react-native-label-select ★23](https://github.com/Tinysymphony/react-native-label-select) - A modal selector for React Native with selected items displayed as labels.
@@ -550,6 +551,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-workers ★291](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
 - [react-native-console-time-polyfill ★2](https://github.com/MaxGraey/react-native-console-time-polyfill) - console.time and console.timeEnd polyfill for react-native
 - [detox ★422](https://github.com/wix/detox) - Graybox End-to-End (functional) Tests and Automation Library for Mobile with first class support for React Native
+- [react-native-linkedin ★24](https://github.com/xcarpentier/react-native-linkedin) React-Native LinkedIn, a simple LinkedIn login library for React-Native or Expo with WebView and Modal
 
 ### Forms
 
@@ -655,6 +657,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-passcode-auth ★42](https://github.com/naoufal/react-native-passcode-auth) - React Native authentication with iOS Passcode.
 - [react-native-permissions ★326](https://github.com/yonahforst/react-native-permissions) - Check and request all permissions with a single api
 - [react-native-push-notification ★1114](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
+- [react-native-phone-call ★16](https://github.com/tiaanduplessis/react-native-phone-call) - A simple way to initiate a phone call in React Native
 - [react-native-notifications ★264](https://github.com/wix/react-native-notifications) - React native notifications
 - [react-native-nfc-ios ★7](https://github.com/barodeur/react-native-nfc-ios) - Easy to use CoreNFC for React Native
 - [react-native-fcm ★445](https://github.com/evollu/react-native-fcm) - react native module for firebase cloud messaging and local notification
