@@ -180,6 +180,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-actionsheet-native ★11](https://github.com/slowpath/react-native-actionsheet) - Android ActionSheet support for React Native
 - [react-native-activity-view ★297](https://github.com/naoufal/react-native-activity-view) - iOS share and action sheets for React Native
 - [react-native-adbannerview ★40](https://github.com/Purii/react-native-adbannerview) - React Native Bridge for ADBannerView
+- [react-native-air-progress-bar ★2](https://github.com/kis/react-native-air-progress-bar) - React Native progress-bar component, customizable and animated
 - [react-native-alphabetlistview ★151](https://github.com/sunnylqm/react-native-alphabetlistview) - A ListView with a sidebar to jump to sections directly, based on johanneslumpe's react-native-selectablesectionlistview
 - [react-native-android-blurryoverlay ★48](https://github.com/kwaak/react-native-android-blurryoverlay) - A react native android package to show a blurry overlay.
 - [react-native-android-circles ★14](https://github.com/kwaak/react-native-android-circles) - A react native android package to show a circle progress view.
@@ -434,6 +435,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-tween-animation ★35](https://github.com/kirkness/react-native-tween-animation) - A simple react native state tween animation module.
 - [react-native-ui-kitten ★1117](https://github.com/akveo/react-native-ui-kitten) - Customizable and reusable react-native component kit
 - [react-native-vector-icons ★4008](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
+- [react-native-view *1](https://github.com/i6mi6/react-native-view) - Lightweight View component for quick styling.
 - [react-native-viewpager ★868](https://github.com/race604/react-native-viewpager) - ViewPager component for React Native
 - [react-native-viewport-units ★50](https://github.com/jmstout/react-native-viewport-units) - Incredibly simple utility for (sort of) using viewport units with React Native.
 - [react-native-viewport ★42](https://github.com/pjjanak/react-native-viewport) - Viewport dimensions for react-native
@@ -601,6 +603,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-theme ★40](https://github.com/apentle/react-native-theme) - Theme manager for react native project!
 - [react-native-style-tachyons ★221](https://github.com/tachyons-css/react-native-style-tachyons) - functional, maintainable design for everyone based on tachyons.css.
 - [rn-less ★6](https://github.com/blackmiaool/rn-less) - Style react-native with less (with VS Code extension support)
+- [styled-components](https://github.com/styled-components/styled-components) - Style React and React Native with utilising tagged template literals.
 
 
 ### System
@@ -646,7 +649,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-icloud-sync ★24](https://github.com/chirag04/react-native-icloud-sync) - A react-native wrapper for syncing with icloud
 - [react-native-in-app-utils ★265](https://github.com/chirag04/react-native-in-app-utils) - A react-native wrapper for handling in-app payments.
 - [react-native-image-resizer ★189](https://github.com/bamlab/react-native-image-resizer) - Rescale local image files with React Native.
-- [react-native-scalable-image ★9](https://github.com/ihor/react-native-scalable-image) - React Native Image component which scales width or height automatically to keep the original aspect ratio.
 - [react-native-keychain ★243](https://github.com/oblador/react-native-keychain) - Keychain Access for React Native
 - [react-native-localsearch ★16](https://github.com/wmcmahan/React-Native-LocalSearch) - React Native Module for MapKit Local Search
 - [react-native-location ★220](https://github.com/timfpark/react-native-location) - Native GPS location support for React Native.
@@ -658,6 +660,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-passcode-auth ★42](https://github.com/naoufal/react-native-passcode-auth) - React Native authentication with iOS Passcode.
 - [react-native-permissions ★326](https://github.com/yonahforst/react-native-permissions) - Check and request all permissions with a single api
 - [react-native-push-notification ★1114](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
+- [react-native-phone-call ★16](https://github.com/tiaanduplessis/react-native-phone-call) - A simple way to initiate a phone call in React Native
 - [react-native-notifications ★264](https://github.com/wix/react-native-notifications) - React native notifications
 - [react-native-nfc-ios ★7](https://github.com/barodeur/react-native-nfc-ios) - Easy to use CoreNFC for React Native
 - [react-native-fcm ★445](https://github.com/evollu/react-native-fcm) - react native module for firebase cloud messaging and local notification
