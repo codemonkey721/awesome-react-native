@@ -154,6 +154,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
+- [react-native-toast-native★10](https://github.com/onemolegames/react-native-toast-native) React Native Toast component for both Android and iOS.
 - [rn-placeholder★164](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
 - [react-native-scrollview-smart★41](https://github.com/bolket/react-native-scrollview-smart) - A Smart ScrollView component for IOS and Android.
 - [react-native-fast-image★265](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component.
@@ -201,6 +202,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-beautiful-image ★12](https://github.com/phuochau/react-native-beautiful-image) - The Beautiful Image component that supports fadeIn animation and shows placeholderSource if the main source can't be loaded.
 - [react-native-big-slider](https://github.com/netbeast/react-native-big-slider) - Yet another, big one, pure JS easily customisable and hackable react-native slider component.
 - [react-native-blur ★1021](https://github.com/Kureev/react-native-blur) - React Native Blur component
+- [react-native-bouncy-drawer ★2](https://github.com/SoftZen/react-native-bouncy-drawer) - Highly customizable Bouncy Drawer
 - [react-native-fxblurview ★26](https://github.com/magus/react-native-fxblurview) - React Native wrapper for popular FXBlurView library for realtime, fine-tuned blur effects
 - [react-native-button ★521](https://github.com/ide/react-native-button)
 - [react-native-bottom-sheet-behavior ★404](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - A react native wrapper for android BottomSheetBehavior.
@@ -251,6 +253,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-dropdown-android ★61](https://github.com/chymtt/ReactNativeDropdownAndroid) - Simple wrapper for Android's Spinner to use with react-native
 - [react-native-drop-refresh ★25](https://github.com/Obooman/RCTRefreshControl) - A pull down to refresh control for react native.
 - [react-native-dropdownalert ★132](https://github.com/testshallpass/react-native-dropdownalert) - A simple drop down alert with 4 pre-defined types.
+- [react-native-easy-checkbox ★1](https://github.com/BhavanPatel/react-native-easy-checkbox) - Simple CheckBox for react-native
 - [react-native-dropdown ★283](https://github.com/alinz/react-native-dropdown) - A better Select dropdown menu for react-native
 - [react-native-effects-view ★237](https://github.com/voronianski/react-native-effects-view) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
 - [react-native-egg ★87](https://github.com/FuYaoDe/react-native-egg) - A easter egg component implementation simple gestures detection achieve trigger can make your react native app infinitely more fun.
@@ -435,7 +438,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-tween-animation ★35](https://github.com/kirkness/react-native-tween-animation) - A simple react native state tween animation module.
 - [react-native-ui-kitten ★1117](https://github.com/akveo/react-native-ui-kitten) - Customizable and reusable react-native component kit
 - [react-native-vector-icons ★4008](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
-- [react-native-view *1](https://github.com/i6mi6/react-native-view) - Lightweight View component for quick styling.
+- [react-native-view ★25](https://github.com/i6mi6/react-native-view) - Lightweight View component for quick styling.
 - [react-native-viewpager ★868](https://github.com/race604/react-native-viewpager) - ViewPager component for React Native
 - [react-native-viewport-units ★50](https://github.com/jmstout/react-native-viewport-units) - Incredibly simple utility for (sort of) using viewport units with React Native.
 - [react-native-viewport ★42](https://github.com/pjjanak/react-native-viewport) - Viewport dimensions for react-native
@@ -466,6 +469,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-material-cards](https://github.com/SiDevesh/React-Native-Material-Cards) - A material design card component, customizable and versatile.
 - [react-native-comparison-slider](https://github.com/charlot567/react-native-comparison-slider) - A simple component to display two image in comparison with a slide-over feature.
 - [react-native-submit-button ★64](https://github.com/ronak301/react-native-submit-button) - Animated Submit button. Works on both android and ios.
+- [react-native-3dcube-navigation ★8](https://github.com/zehfernandes/react-native-3dcube-navigation) - Page Swiper component with 3D cube transition (horizontal and vertical)
 
 ### Navigation
 - [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
@@ -514,6 +518,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-hypertext ★19](https://github.com/agentcooper/react-native-hypertext) - React Native module to render hypertext (text with links)
 - [react-native-universal-modal ★13](https://github.com/bokuweb/react-native-universal-modal) - Universal simple modal component for React Native
 - [react-native-hyperlink ★67](https://github.com/obipawan/hyperlink) - A `<Hyperlink />` component for react-native that makes urls, fuzzy links, emails etc clickable and stylable
+- [react-native-measure-text ★6](https://github.com/airamrguez/react-native-measure-text) - Measure text height without laying it out.
 
 ### Analytics
 
@@ -528,6 +533,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### Utils & Infra
 
 - [react-native-HsvToRgb ★2](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
+- [react-native-simple-encryption ★9](https://github.com/BhavanPatel/react-native-simple-encryption) - Simple XOR and base_64 encryption decryption for react-native
 - [react-native-aes ★15](https://github.com/mvayngrib/react-native-aes) - AES in react-native
 - [react-native-aws-signature ★33](https://github.com/leimd/react-native-aws-signature) - help generate signature required for using AWS API. Necessary to use S3, ec2, or other services.
 - [react-native-babel-jest ★10](https://github.com/apentle/react-native-babel-jest) - Simple testing configuration for React Native with Jest
@@ -603,6 +609,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-theme ★40](https://github.com/apentle/react-native-theme) - Theme manager for react native project!
 - [react-native-style-tachyons ★221](https://github.com/tachyons-css/react-native-style-tachyons) - functional, maintainable design for everyone based on tachyons.css.
 - [rn-less ★6](https://github.com/blackmiaool/rn-less) - Style react-native with less (with VS Code extension support)
+- [styled-components](https://github.com/styled-components/styled-components) - Style React and React Native with utilising tagged template literals.
 
 
 ### System
@@ -648,6 +655,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-icloud-sync ★24](https://github.com/chirag04/react-native-icloud-sync) - A react-native wrapper for syncing with icloud
 - [react-native-in-app-utils ★265](https://github.com/chirag04/react-native-in-app-utils) - A react-native wrapper for handling in-app payments.
 - [react-native-image-resizer ★189](https://github.com/bamlab/react-native-image-resizer) - Rescale local image files with React Native.
+- [react-native-scalable-image ★9](https://github.com/ihor/react-native-scalable-image) - React Native Image component which scales width or height automatically to keep the original aspect ratio.
 - [react-native-keychain ★243](https://github.com/oblador/react-native-keychain) - Keychain Access for React Native
 - [react-native-localsearch ★16](https://github.com/wmcmahan/React-Native-LocalSearch) - React Native Module for MapKit Local Search
 - [react-native-location ★220](https://github.com/timfpark/react-native-location) - Native GPS location support for React Native.
@@ -720,6 +728,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-sound ★431](https://github.com/zmxv/react-native-sound) - React Native module for playing sound clips
 - [react-native-sound-demo ★6](https://github.com/zmxv/react-native-sound-demo) - react-native-sound demo project
 - [react-native-speech ★123](https://github.com/naoufal/react-native-speech) - A text-to-speech library for React Native.
+- [react-native-track-player ★23](https://github.com/react-native-kit/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support and background mode for Android, iOS and Windows.
 - [react-native-video ★1483](https://github.com/brentvatne/react-native-video) - A Video component for react-native
 - [react-native-fullscreen-video](https://github.com/mostafa/react-native-fullscreen-video) - A full-screen video component on top of react-native-video
 - [react-native-volume-slider ★29](https://github.com/IFours/react-native-volume-slider) - React Native VolumeView component
