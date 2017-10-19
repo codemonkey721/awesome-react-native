@@ -155,7 +155,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### UI
 
 - [react-native-toast-native★10](https://github.com/onemolegames/react-native-toast-native) React Native Toast component for both Android and iOS.
-- [rn-placeholder★164](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
+- [rn-placeholder★252](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
 - [react-native-scrollview-smart★41](https://github.com/bolket/react-native-scrollview-smart) - A Smart ScrollView component for IOS and Android.
 - [react-native-fast-image★265](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component.
 - [react-native-pagination ★5](https://github.com/garrettmac/react-native-pagination) - A Beautiful Pagination Plugin For Lists.
@@ -728,7 +728,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-sound ★431](https://github.com/zmxv/react-native-sound) - React Native module for playing sound clips
 - [react-native-sound-demo ★6](https://github.com/zmxv/react-native-sound-demo) - react-native-sound demo project
 - [react-native-speech ★123](https://github.com/naoufal/react-native-speech) - A text-to-speech library for React Native.
-- [react-native-track-player ★23](https://github.com/react-native-kit/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support and background mode for Android, iOS and Windows.
 - [react-native-video ★1483](https://github.com/brentvatne/react-native-video) - A Video component for react-native
 - [react-native-fullscreen-video](https://github.com/mostafa/react-native-fullscreen-video) - A full-screen video component on top of react-native-video
 - [react-native-volume-slider ★29](https://github.com/IFours/react-native-volume-slider) - React Native VolumeView component
@@ -879,7 +878,7 @@ Useful React Native tooling.
 - [react-native-rename](https://github.com/junedomingo/react-native-rename) - Rename react-native app with just one command
 - [Storybook](https://storybook.js.org) - UI development environment for your React components
 - [Makeicon](https://github.com/beplus/makeicon) - Generates mobile app icons in all resolutions for both iOS and Android
-- [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc. 
+- [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
 - [React Native Actions](https://github.com/lucasbento/react-native-actions) - Run React Native actions from within VSCode.
 
 ## Seeds
