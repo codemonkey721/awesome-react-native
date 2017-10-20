@@ -155,7 +155,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### UI
 
 - [react-native-toast-native★10](https://github.com/onemolegames/react-native-toast-native) React Native Toast component for both Android and iOS.
-- [rn-placeholder★252](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
+- [rn-placeholder★164](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
 - [react-native-scrollview-smart★41](https://github.com/bolket/react-native-scrollview-smart) - A Smart ScrollView component for IOS and Android.
 - [react-native-fast-image★265](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component.
 - [react-native-pagination ★5](https://github.com/garrettmac/react-native-pagination) - A Beautiful Pagination Plugin For Lists.
@@ -363,6 +363,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-progress-hud ★155](https://github.com/naoufal/react-native-progress-hud) - A clean and lightweight progress HUD for your React Native app
 - [react-native-pulse-loader ★43](https://github.com/mastermoo/react-native-pulse-loader) - Tinder like loader for your React Native app
 - [react-native-qrcode ★131](https://github.com/cssivision/react-native-qrcode) - react-native qrcode generator
+- [react-native-qrcode-svg ★97](https://github.com/awesomejerry/react-native-qrcode-svg) - A QR Code generator for React Native based on react-native-svg and node-qrcode.
 - [react-native-quiltview ★7](https://github.com/mmslate/react-native-quiltview) - Native iOS UICollectionView wrapper with RFQuiltLayout for React Native
 - [react-native-radial-menu ★67](https://github.com/omulet/react-native-radial-menu) - A Radial Menu optimized for touch interfaces
 - [react-native-radio-button-classic ★34](https://github.com/pressly/react-native-radio-button-classic) - Bring Classic Radio to React-Native
@@ -878,7 +879,7 @@ Useful React Native tooling.
 - [react-native-rename](https://github.com/junedomingo/react-native-rename) - Rename react-native app with just one command
 - [Storybook](https://storybook.js.org) - UI development environment for your React components
 - [Makeicon](https://github.com/beplus/makeicon) - Generates mobile app icons in all resolutions for both iOS and Android
-- [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
+- [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc. 
 - [React Native Actions](https://github.com/lucasbento/react-native-actions) - Run React Native actions from within VSCode.
 
 ## Seeds
