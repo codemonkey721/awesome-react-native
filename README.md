@@ -230,6 +230,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-collapsible ★365](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
 - [react-native-collapsing-toolbar ★44](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - wrapper for android CollapsingToolbarLayout
 - [react-native-compress ★4](https://github.com/phuochau/react-native-compress) - Compress video for react native. Only for iOS, Android will be coming.
+- [react-native-color-wheel](https://github.com/netbeast/react-native-color-wheel) - A react native reusable color picker wheel
 - [react-native-countdown ★17](https://github.com/buhe/react-native-countdown) - react native countdown button
 - [react-native-country-picker ★5](https://github.com/tofugear/react-native-country-picker) - React Native Country Picker
 - [react-native-country-picker-modal ★136](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
@@ -622,7 +623,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-android-sqlite ★28](https://github.com/jbrodriguez/react-native-android-sqlite) - A react native android wrapper for SQLite
 - [react-native-app-info ★33](https://github.com/Iragne/react-native-app-info) - React Native app info and version
 - [react-native-arkit ★38](https://github.com/HippoAR/react-native-arkit) - React Native binding for iOS ARKit
-- [react-native-background-fetch ★169](https://github.com/transistorsoft/react-native-background-fetch) - iOS BackgroundFetch API implementation.  Awakens a suspended iOS app in the background to execute a `callbackFn` about every 15 min.
 - [react-native-barcode-scanner ★50](https://github.com/lifuzu/ReactNativeBarcodeScanner) - Barcode scanner for React Native
 - [react-native-barcodescanner ★298](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native - not maintained anymore - use react-native-camera.
 - [react-native-battery-status ★3](https://github.com/remobile/react-native-battery-status) - A battery-status for react-native
