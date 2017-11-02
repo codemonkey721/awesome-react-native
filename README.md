@@ -694,6 +694,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-billing ★171](https://github.com/idehub/react-native-billing) - In-app purchase implementation for React Native on Android.
 - [react-native-haptic ★29](https://github.com/charlesvinette/react-native-haptic) - iOS 10 + haptic feedback for React Native applications
 - [react-native-quick-actions ★287](https://github.com/madriska/react-native-quick-actions) - A react-native interface for 3D Touch home screen quick actions
+- [react-native-firebase ★1420](https://github.com/invertase/react-native-firebase) - A well tested feature rich Firebase implementation for React Native, supporting both iOS & Android platforms for 10+ Firebase modules (including Cloud Firestore).
 
 ### Web
 
@@ -895,6 +896,7 @@ Useful React Native tooling.
 Get a head start on development with an existing seed.
 
 - [🔥 Ignite ★3952](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
+- [React Native Seed★219](https://reactnativeseed.com) - A set of React Native Boilerplates to choose from. MobX or Redux for state-management, TypeScript or Flow for static type checking and CRNA or plain React Native for the stack - By the creators of Native Base
 - [React-Native-Starter-Pack ★32](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
 - [react-native-webpack-starter-kit ★829](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel ★238](https://github.com/roman01la/react-native-babel)
@@ -1033,6 +1035,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [Introducing React Native (on Ray Wenderlich's)](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 - [Leverage Existing iOS Views In Your React Native App](http://moduscreate.com/leverage-existing-ios-views-react-native-app/)
 - [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
+- [React Native Android Widget Proof of Concept](https://github.com/netbeast/react-native-android-widget-poc)
 - [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
 - [React Native Youtube Animated Video Slide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/)
 - [React Native and Socket.io](https://bullpen.bullish.io/how-to-actually-use-socket-io-in-react-native-39082d8d6172)
