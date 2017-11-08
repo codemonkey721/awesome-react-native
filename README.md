@@ -154,7 +154,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
-- [rn-render-perfs★10](https://github.com/mfrachet/rn-render-perfs) - Measure React rendering lifecycles using UI controls
 - [react-native-toast-native★10](https://github.com/onemolegames/react-native-toast-native) React Native Toast component for both Android and iOS.
 - [rn-ab-hoc★13](https://github.com/mfrachet/rn-ab-hoc) - Poor intrusive way to make A/B Testing by using an HoC instead of components.
 - [rn-placeholder★252](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
@@ -194,6 +193,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-animated-styles ★1](https://github.com/ericpkerr/react-native-animated-styles) - Easily animate/transition react components between two style states.
 - [react-native-app-intro ★886](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
 - [react-native-awesome-button ★141](https://github.com/larsvinter/react-native-awesome-button) - A React Native component rendering a button supporting showing different appearances and functionality given the passed props
+- [react-native-awesome-alert ★5](https://github.com/heyman333/react-native-awesome-alert) - Modal component that offers awesome options and costomizable view in React Native
 - [react-native-auto-typing-text ★11](https://github.com/phuongla/react-native-auto-typing-text) - An auto typing text component for react-native
 - [react-native-autolink ★77](https://github.com/joshswan/react-native-autolink) - Autolinking component for React Native
 - [react-native-autocomplete ★111](https://github.com/nulrich/RCTAutoComplete) - React Native Component for MLPAutoCompleteTextField
