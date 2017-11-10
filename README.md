@@ -334,6 +334,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-nested-stylesheet ★54](https://github.com/pjjanak/react-native-nested-stylesheets) - Nestable stylesheets for react-native.
 - [react-native-newsticker ★21](https://github.com/moschan/react-native-newsticker) - The News Ticker component for React Native
 - [react-native-nmrangeslider-ios ★19](https://github.com/Enrise/react-native-nmrangeslider-ios) - The NMRangeSlider component for React Native
+- [react-native-open-maps ★19](https://github.com/brh55/react-native-open-maps) - A simple lib to open up the corresponding map application (Google or Apple Maps) from a set of coordinates (latitude & longitude) within react-native
 - [react-native-offline-mode ★55](https://github.com/rauchy/react-native-offline-mode) - Swap your app with an offline version while there's no connectivity
 - [react-native-orientation-controller ★19](https://github.com/inProgress-team/react-native-orientation-controller) - A react-native library for obtaining and controlling the current device and application orientation
 - [react-native-orientation-listener ★117](https://github.com/walmartreact/react-native-orientation-listener) - A react-native library for obtaining current device orientation
@@ -736,7 +737,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-simple-sound ★9](https://github.com/mikehedman/react-native-simple-sound) - Start, stop, and pause a sound. iOS only. Derived from https://github.com/zmxv/react-native-sound
 - [react-native-sound ★431](https://github.com/zmxv/react-native-sound) - React Native module for playing sound clips
 - [react-native-sound-demo ★6](https://github.com/zmxv/react-native-sound-demo) - react-native-sound demo project
-- [react-native-sound-recorder ★8](https://github.com/kevinresol/react-native-sound-recorder) - No-hassle Sound Recorder for React Native.
 - [react-native-speech ★123](https://github.com/naoufal/react-native-speech) - A text-to-speech library for React Native.
 - [react-native-track-player ★23](https://github.com/react-native-kit/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support and background mode for Android, iOS and Windows.
 - [react-native-video ★1483](https://github.com/brentvatne/react-native-video) - A Video component for react-native
