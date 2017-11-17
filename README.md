@@ -334,7 +334,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-nested-stylesheet ★54](https://github.com/pjjanak/react-native-nested-stylesheets) - Nestable stylesheets for react-native.
 - [react-native-newsticker ★21](https://github.com/moschan/react-native-newsticker) - The News Ticker component for React Native
 - [react-native-nmrangeslider-ios ★19](https://github.com/Enrise/react-native-nmrangeslider-ios) - The NMRangeSlider component for React Native
-- [react-native-open-maps ★19](https://github.com/brh55/react-native-open-maps) - A simple lib to open up the corresponding map application (Google or Apple Maps) from a set of coordinates (latitude & longitude) within react-native
 - [react-native-offline-mode ★55](https://github.com/rauchy/react-native-offline-mode) - Swap your app with an offline version while there's no connectivity
 - [react-native-orientation-controller ★19](https://github.com/inProgress-team/react-native-orientation-controller) - A react-native library for obtaining and controlling the current device and application orientation
 - [react-native-orientation-listener ★117](https://github.com/walmartreact/react-native-orientation-listener) - A react-native library for obtaining current device orientation
@@ -1006,6 +1005,7 @@ Open source React Native apps and other examples.
 - [PxView ★42](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS
 - [Todo List ★2](https://github.com/rishabhbhatia/react-native-todo) - Todo-List app using SwipeView with ES6 standards for iOS and Android.
 - [Quick-Sample ★2](https://github.com/innFactory/react-native-quick-sample) - A small and simple example app with navigation, data persistence, redux, listview and animation.
+- [Buttercup Mobile ★41](https://github.com/buttercup/buttercup-mobile) - Mobile password manager
 
 ## Frameworks
 
