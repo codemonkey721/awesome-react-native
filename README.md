@@ -192,6 +192,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-animated-check-mark ★11](https://github.com/AppliKeySolutions/RocketButton) - A small react component for animated cross-mark transformation.
 - [react-native-animated-styles ★1](https://github.com/ericpkerr/react-native-animated-styles) - Easily animate/transition react components between two style states.
 - [react-native-app-intro ★886](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
+- [react-native-app-intro-v2 *5](https://github.com/Sh1n1x/react-native-app-intro) - Latest App intro
 - [react-native-awesome-button ★141](https://github.com/larsvinter/react-native-awesome-button) - A React Native component rendering a button supporting showing different appearances and functionality given the passed props
 - [react-native-auto-typing-text ★11](https://github.com/phuongla/react-native-auto-typing-text) - An auto typing text component for react-native
 - [react-native-autolink ★77](https://github.com/joshswan/react-native-autolink) - Autolinking component for React Native
@@ -1005,7 +1006,6 @@ Open source React Native apps and other examples.
 - [PxView ★42](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS
 - [Todo List ★2](https://github.com/rishabhbhatia/react-native-todo) - Todo-List app using SwipeView with ES6 standards for iOS and Android.
 - [Quick-Sample ★2](https://github.com/innFactory/react-native-quick-sample) - A small and simple example app with navigation, data persistence, redux, listview and animation.
-- [Buttercup Mobile ★41](https://github.com/buttercup/buttercup-mobile) - Mobile password manager
 
 ## Frameworks
 
