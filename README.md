@@ -496,6 +496,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-yynavigator ★0](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 - [react-native-transparent-bar ★13](https://github.com/23c/react-native-transparent-bar) - react native navigator transparent bar
 - [kittenTricks ★700](https://github.com/akveo/kittenTricks) - A react native mobile starter kit with over 40 screens and theme hot reload support
+- [react-native-grid-list ★](https://github.com/gusgard/react-native-grid-list) - React Native Grid List component
 
 #### Navigation/Routing Articles
 - [Basics of using react-native-router-flux](https://medium.com/@spencer_carli/react-native-basics-using-react-native-router-flux-f11e5128aff9#.di5mvrbdr)
@@ -890,7 +891,6 @@ Useful React Native tooling.
 - [Makeicon](https://github.com/beplus/makeicon) - Generates mobile app icons in all resolutions for both iOS and Android
 - [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
 - [React Native Actions](https://github.com/lucasbento/react-native-actions) - Run React Native actions from within VSCode.
-- [Electrode Native ★331](https://github.com/electrode-io/electrode-native) - A platform to ease the integration of React Native components in existing mobile applications.
 
 ## Seeds
 
