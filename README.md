@@ -108,7 +108,6 @@ Content published on the Web.
 - [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 - [First impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
 - [Wrapping Cocoapods for React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995#.wzp2qq1hn)
-- [Parse and React (incl. Native)](http://blog.parse.com/2015/03/25/parse-and-react-shared-chemistry/)
 - [React Native: Initial Thoughts (opinion)](http://unredacted.redalemeden.com/2015/initial-thoughts-about-react-native/)
 - [A Dynamic Crazy Native Mobile Future Powered by Javascript](https://medium.com/@clayallsopp/a-dynamic-crazy-native-mobile-future-powered-by-javascript-70f2d56b1987)
 - [ReactNative NES & More](http://moduscreate.com/react-native-has-landed/)
@@ -496,7 +495,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-yynavigator ★0](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 - [react-native-transparent-bar ★13](https://github.com/23c/react-native-transparent-bar) - react native navigator transparent bar
 - [kittenTricks ★700](https://github.com/akveo/kittenTricks) - A react native mobile starter kit with over 40 screens and theme hot reload support
-- [react-native-grid-list ★](https://github.com/gusgard/react-native-grid-list) - React Native Grid List component
 
 #### Navigation/Routing Articles
 - [Basics of using react-native-router-flux](https://medium.com/@spencer_carli/react-native-basics-using-react-native-router-flux-f11e5128aff9#.di5mvrbdr)
