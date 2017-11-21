@@ -542,7 +542,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### Utils & Infra
 
 - [react-native-HsvToRgb ★2](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
-- [react-native-call-detection ★40](https://github.com/priteshrnandgaonkar/react-native-call-detection) - Helps to detect different call states like Incoming, Disconnected, Dialing and Connected 
 - [react-native-simple-encryption ★9](https://github.com/BhavanPatel/react-native-simple-encryption) - Simple XOR and base_64 encryption decryption for react-native
 - [react-native-aes ★15](https://github.com/mvayngrib/react-native-aes) - AES in react-native
 - [react-native-aws-signature ★33](https://github.com/leimd/react-native-aws-signature) - help generate signature required for using AWS API. Necessary to use S3, ec2, or other services.
@@ -591,6 +590,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-android-geolocation ★17](https://github.com/garysye/react-native-android-geolocation) - React Native Module to use Android Geolocation via Google Play API
 - [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
 - [react-native-geocoder ★152](https://github.com/devfd/react-native-geocoder) - react native geocoding and reverse geocoding
+- [react-native-mauron85-background-geolocation ★290](https://github.com/mauron85/react-native-background-geolocation) - React Native Android and iOS module for background and foreground geolocation with battery-saving "circular region monitoring" and "stop detection"
 - [react-native-reverse-geo ★14](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
 - [react-native-geo-fencing ★40](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
 - [react-native-fused-location ★31](https://github.com/MustansirZia/react-native-fused-location) - Finest location for react-native on Android using the new Fused API.
