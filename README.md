@@ -773,6 +773,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-store ★442](https://github.com/thewei/react-native-store) - A simple database base on react-native AsyncStorage.
 - [realm ★1755](https://github.com/realm/realm-js) - An alternative mobile database to SQLite & key-value stores.
 - [pouchdb-adapter-react-native-sqlite ★11](https://github.com/noradaiko/pouchdb-adapter-react-native-sqlite) - PouchDB adapter using ReactNative SQLite as its backing store
+- [react-native-persistent-job ★55](https://github.com/Gabrn/react-native-persistent-job) - Run async tasks that retry after a crash, connection loss or exception
 
 ### Backend
 
@@ -946,7 +947,6 @@ Libraries / SDK type additions for React Native development.
 ## Open Source Apps
 
 Open source React Native apps and other examples.
-- [Bristol Pound](http://blog.scottlogic.com/2017/11/22/developing-bristol-pound-an-open-source-react-native-app.html) - An app for the Bristol Pound, a UK-based local currency.
 - [ASOS ★1](https://github.com/edwinbosire/ASOS) - E-commerce app for ASOS (clone)
 - [Urban Dictionary ★16](https://github.com/edwinbosire/Urbandict) - Mobile implementation of the popular Urban Dictionary website.
 - [Appointments  ★58](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
