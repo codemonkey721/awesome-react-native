@@ -62,7 +62,7 @@ Conferences dedicated to React Native specifically. A listing of React general c
 
 ### Chain React Conf - USA
 
-July 11-13, 2018 in Portland, OR - https://infinite.red/ChainReactConf
+July 10-11, 2017 in Portland, OR - https://infinite.red/ChainReactConf
 Twitter: https://twitter.com/chainreactconf
 Email: conf@infinite.red
 
@@ -86,7 +86,7 @@ Content published on the Web.
 
 ### Howtos
 
-- [Release React Native App to Android Play Store](https://shift.infinite.red/simple-react-native-android-releases-319dc5e29605)
+
 - [React-Navigation Drawer](https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc)
 - [ListView and Immutable.js](https://medium.com/front-end-hacking/react-native-immutable-listview-example-78662fa64a15)
 - [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)
@@ -400,7 +400,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-simple-router ★213](https://github.com/react-native-simple-router-community/react-native-simple-router) - A community maintained router component for React Native
 - [react-native-simple-stepper ★17](https://github.com/testshallpass/react-native-simple-stepper) - A super simple react-native implementation of the UIStepper iOS control.
 - [react-native-simpledialog-android ★39](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
-- [react-native-size-matters ★31](https://github.com/nirsky/react-native-size-matters) - A React-Native utility belt for scaling the size your apps UI across different sized devices.
 - [react-native-sketch ★109](https://github.com/jgrancher/react-native-sketch) - A react-native &lt;Sketch /> component to draw with touch events.
 - [react-native-slack-webhook ★24](https://github.com/xcarpentier/react-native-slack-webhook) - Follow some activities (new user, payment, ...) from your app via Slack and this webhook lib.
 - [react-native-slidable-tab-bar ★23](https://github.com/pwbrown/react-native-slidable-tab-bar) - Slidable tab bar for instant view rendering(react-native)
@@ -416,7 +415,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-streetview ★20](https://github.com/nesterapp/react-native-streetview) - Google's Panorama/StreetView component for iOS and Android.
 - [react-native-stylesheet-xg ★5](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
 - [react-native-svg ★941](https://github.com/magicismight/react-native-svg) - SVG library that works on both iOS & Android
-- [react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts) - One library to rule all charts for React Native 
 - [react-native-swipeout ★891](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
 - [react-native-swipeview ★3](https://github.com/rishabhbhatia/react-native-swipeview) - SwipeView component used to perform actions like swipe to delete, works on iOS and Android
 - [react-native-swipe-a-lot ★51](https://github.com/nickjanssen/react-native-swipe-a-lot) - A swipe component for React Native that works on iOS and Android.
@@ -478,7 +476,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-comparison-slider](https://github.com/charlot567/react-native-comparison-slider) - A simple component to display two image in comparison with a slide-over feature.
 - [react-native-submit-button ★64](https://github.com/ronak301/react-native-submit-button) - Animated Submit button. Works on both android and ios.
 - [react-native-3dcube-navigation ★8](https://github.com/zehfernandes/react-native-3dcube-navigation) - Page Swiper component with 3D cube transition (horizontal and vertical)
-- [react-native-switch-selector](https://github.com/App2Sales/react-native-switch-selector) - A custom Switch Selector component for Android and iOS.
 
 ### Navigation
 - [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
@@ -543,7 +540,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### Utils & Infra
 
 - [react-native-HsvToRgb ★2](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
-- [react-native-call-detection ★40](https://github.com/priteshrnandgaonkar/react-native-call-detection) - Helps to detect different call states like Incoming, Disconnected, Dialing and Connected 
 - [react-native-simple-encryption ★9](https://github.com/BhavanPatel/react-native-simple-encryption) - Simple XOR and base_64 encryption decryption for react-native
 - [react-native-aes ★15](https://github.com/mvayngrib/react-native-aes) - AES in react-native
 - [react-native-aws-signature ★33](https://github.com/leimd/react-native-aws-signature) - help generate signature required for using AWS API. Necessary to use S3, ec2, or other services.
@@ -592,7 +588,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-android-geolocation ★17](https://github.com/garysye/react-native-android-geolocation) - React Native Module to use Android Geolocation via Google Play API
 - [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
 - [react-native-geocoder ★152](https://github.com/devfd/react-native-geocoder) - react native geocoding and reverse geocoding
-- [react-native-mauron85-background-geolocation ★290](https://github.com/mauron85/react-native-background-geolocation) - React Native Android and iOS module for background and foreground geolocation with battery-saving "circular region monitoring" and "stop detection"
 - [react-native-reverse-geo ★14](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
 - [react-native-geo-fencing ★40](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
 - [react-native-fused-location ★31](https://github.com/MustansirZia/react-native-fused-location) - Finest location for react-native on Android using the new Fused API.
@@ -635,7 +630,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 
 ### System
-
+- [react-native-incall-manager ★172](https://github.com/zxcpoiu/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat on React Native
 - [react-native-addressbook ★65](https://github.com/rt2zz/react-native-addressbook) - AddressBook module for react-native
 - [react-native-android-sms-listener ★66](https://github.com/CentaurWarchief/react-native-android-sms-listener) - Allows you to listen for incoming SMS messages
 - [react-native-android-sms ★34](https://github.com/msmakhlouf/react-native-android-sms) - A react native android module to list/send sms.
@@ -773,7 +768,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-store ★442](https://github.com/thewei/react-native-store) - A simple database base on react-native AsyncStorage.
 - [realm ★1755](https://github.com/realm/realm-js) - An alternative mobile database to SQLite & key-value stores.
 - [pouchdb-adapter-react-native-sqlite ★11](https://github.com/noradaiko/pouchdb-adapter-react-native-sqlite) - PouchDB adapter using ReactNative SQLite as its backing store
-- [react-native-persistent-job ★55](https://github.com/Gabrn/react-native-persistent-job) - Run async tasks that retry after a crash, connection loss or exception
 
 ### Backend
 
@@ -910,7 +904,6 @@ Useful React Native tooling.
 Get a head start on development with an existing seed.
 
 - [🔥 Ignite ★3952](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
-- [React Native Seed★219](https://reactnativeseed.com) - A set of React Native Boilerplates to choose from. MobX or Redux for state-management, TypeScript or Flow for static type checking and CRNA or plain React Native for the stack - By the creators of Native Base
 - [React-Native-Starter-Pack ★32](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
 - [react-native-webpack-starter-kit ★829](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel ★238](https://github.com/roman01la/react-native-babel)
@@ -1026,7 +1019,6 @@ Open source React Native apps and other examples.
 
 - [Awesome React Native Meteor ★115](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 - [NativeBase ★3679](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
-- [React Native Diagnose](https://github.com/netbeast/react-native-diagnose) -  A framework to test a React Native app during runtime and production
 - [Teaset ★215](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS(ES6) components, focusing on content display and action control.
 
 ## Tutorials
