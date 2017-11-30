@@ -160,7 +160,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [rn-placeholder★252](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
 - [react-native-scrollview-smart★41](https://github.com/bolket/react-native-scrollview-smart) - A Smart ScrollView component for IOS and Android.
 - [react-native-fast-image★265](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component.
-- [photo-viewer★27](https://github.com/merryjs/photo-viewer) - A photo viewer for react native build on top of NYTPhotoViewer and FrescoImageViewer.
 - [react-native-pagination ★5](https://github.com/garrettmac/react-native-pagination) - A Beautiful Pagination Plugin For Lists.
 - [react-native-search-box★87](https://github.com/crabstudio/react-native-search-box) - A simple search box with animation, inspired from ios search bar.
 - [rn-sliding-up-panel ★22](https://github.com/octopitus/rn-sliding-up-panel) - React Native draggable sliding up panel purly implemented in Javascript. Works nicely on both iOS and Android.
@@ -480,6 +479,9 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-submit-button ★64](https://github.com/ronak301/react-native-submit-button) - Animated Submit button. Works on both android and ios.
 - [react-native-3dcube-navigation ★8](https://github.com/zehfernandes/react-native-3dcube-navigation) - Page Swiper component with 3D cube transition (horizontal and vertical)
 - [react-native-switch-selector](https://github.com/App2Sales/react-native-switch-selector) - A custom Switch Selector component for Android and iOS.
+- [react-native-taptargetview](https://github.com/prscX/react-native-taptargetview) - React Native Bridge for Android KeepSafe/TapTargetView. An implementation of tap targets from the Material Design guidelines for feature discovery.
+- [react-native-material-showcase-ios](https://github.com/prscX/react-native-material-showcase-ios) - React Native Bridge for iOS aromajoin/material-showcase-ios. An elegant and beautiful showcase for iOS apps.
+
 
 ### Navigation
 - [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
