@@ -153,6 +153,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
+- [react-native-paper★109](https://github.com/callstack/react-native-paper.git) Material Design for React Native (Android & iOS).
 - [react-virgin★934](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
 - [rn-render-perfs★10](https://github.com/mfrachet/rn-render-perfs) - Measure React rendering lifecycles using UI controls
 - [react-native-toast-native★10](https://github.com/onemolegames/react-native-toast-native) React Native Toast component for both Android and iOS.
@@ -479,9 +480,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-submit-button ★64](https://github.com/ronak301/react-native-submit-button) - Animated Submit button. Works on both android and ios.
 - [react-native-3dcube-navigation ★8](https://github.com/zehfernandes/react-native-3dcube-navigation) - Page Swiper component with 3D cube transition (horizontal and vertical)
 - [react-native-switch-selector](https://github.com/App2Sales/react-native-switch-selector) - A custom Switch Selector component for Android and iOS.
-- [react-native-taptargetview](https://github.com/prscX/react-native-taptargetview) - React Native Bridge for Android KeepSafe/TapTargetView. An implementation of tap targets from the Material Design guidelines for feature discovery.
-- [react-native-material-showcase-ios](https://github.com/prscX/react-native-material-showcase-ios) - React Native Bridge for iOS aromajoin/material-showcase-ios. An elegant and beautiful showcase for iOS apps.
-
 
 ### Navigation
 - [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
