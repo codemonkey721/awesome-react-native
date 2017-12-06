@@ -508,7 +508,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-transparent-bar ★16](https://github.com/23c/react-native-transparent-bar) - react native navigator transparent bar
 - [kittenTricks ★3086](https://github.com/akveo/kittenTricks) - A react native mobile starter kit with over 40 screens and theme hot reload support
 - [react-native-grid-list ★ ★3](https://github.com/gusgard/react-native-grid-list) - React Native Grid List component
-- [react-native-swiper-flatlist ★★](https://github.com/gusgard/react-native-swiper-flatlist) - 👆 React Native Swiper component implemented with FlatList
 
 #### Navigation/Routing Articles
 - [Basics of using react-native-router-flux](https://medium.com/@spencer_carli/react-native-basics-using-react-native-router-flux-f11e5128aff9#.di5mvrbdr)
@@ -906,6 +905,7 @@ Useful React Native tooling.
 - [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
 - [React Native Actions ★37](https://github.com/lucasbento/react-native-actions) - Run React Native actions from within VSCode.
 - [Electrode Native ★235](https://github.com/electrode-io/electrode-native) - A platform to ease the integration of React Native components in existing mobile applications.
+- [AsyncStorage Dev Menu Item *15](https://github.com/jsoendermann/react-native-async-storage-dev-menu-item) - Adds an option to your dev menu to log the content of your AsyncStorage.
 
 ## Seeds
 
