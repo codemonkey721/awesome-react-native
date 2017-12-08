@@ -151,7 +151,7 @@ Content published on the Web.
 Components and native modules. For more search [JS.COACH](https://js.coach/react-native).
 
 ### UI
-- [react-native-typography ★69](https://github.com/hectahertz/react-native-typography) Pixel–perfect, native–looking typographic styles for React Native
+
 - [react-native-paper ★109](https://github.com/callstack/react-native-paper.git) Material Design for React Native (Android & iOS).
 - [react-virgin ★1108](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
 - [rn-render-perfs ★25](https://github.com/mfrachet/rn-render-perfs) - Measure React rendering lifecycles using UI controls
@@ -390,7 +390,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-search ★15](https://github.com/StevenIseki/react-native-search) - Native Search component for react native.
 - [react-native-seekbar-android ★10](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
 - [react-native-custom-segmented-control ★96](https://github.com/wix/react-native-custom-segmented-control) - Native UI iOS component for Segmented Control with custom style
-- [react-native-segmented-control-tab ★106](https://github.com/kirankalyan5/react-native-segmented-control-tab) react-native-segmented-control-tab(for Android/iOS)
 - [react-native-segmented-view ★144](https://github.com/lelandrichardson/react-native-segmented-view) - Segmented View for React Native (with animation)
 - [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box
 - [react-native-selectme ★149](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native
@@ -949,7 +948,15 @@ Libraries / SDK type additions for React Native development.
 ## Open Source Apps
 
 Open source React Native apps and other examples.
+
+- [Boostnote](https://github.com/BoostIO/boostnote-mobile) - Boostnote: open source note taking.
+- [ndash](https://github.com/alexindigo/ndash) - npm dashboard.
+- [HackerBuzz](https://github.com/RCiesielczuk/HackerBuzz-ReactNative) - a Hacker News reader.
+- [Status.im](https://github.com/status-im/status-react/) - Ethereum client.
+- [React Native Netflix](https://github.com/mariodev12/react-native-netflix) - A Netflix-like app.
 - [Bristol Pound](http://blog.scottlogic.com/2017/11/22/developing-bristol-pound-an-open-source-react-native-app.html) - An app for the Bristol Pound, a UK-based local currency.
+- [Roxie](https://github.com/venepe/react-native-roxie) - Sound processing and bluetooth hardware control.
+- [Splitcloud](https://github.com/egm0121/splitcloud-app) - Share listening to two songs at the same time from Soundcloud (by splitting right/left channels).
 - [ASOS ★60](https://github.com/edwinbosire/ASOS) - E-commerce app for ASOS (clone)
 - [Urban Dictionary ★48](https://github.com/edwinbosire/Urbandict) - Mobile implementation of the popular Urban Dictionary website.
 - [Appointments  ★94](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
