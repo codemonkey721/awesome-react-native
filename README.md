@@ -151,7 +151,7 @@ Content published on the Web.
 Components and native modules. For more search [JS.COACH](https://js.coach/react-native).
 
 ### UI
-
+- [react-native-typography ★69](https://github.com/hectahertz/react-native-typography) Pixel–perfect, native–looking typographic styles for React Native
 - [react-native-paper ★109](https://github.com/callstack/react-native-paper.git) Material Design for React Native (Android & iOS).
 - [react-virgin ★1108](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
 - [rn-render-perfs ★25](https://github.com/mfrachet/rn-render-perfs) - Measure React rendering lifecycles using UI controls
@@ -262,7 +262,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-easy-checkbox ★2](https://github.com/BhavanPatel/react-native-easy-checkbox) - Simple CheckBox for react-native
 - [react-native-dropdown ★404](https://github.com/alinz/react-native-dropdown) - A better Select dropdown menu for react-native
 - [react-native-effects-view ★271](https://github.com/voronianski/react-native-effects-view) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
-- [react-native-elastic-stack ★11](https://github.com/monterosalondon/react-native-elastic-stack) - ReactNative component that implements [elastic stack effect](https://tympanus.net/Development/ElasticStack/)
 - [react-native-egg ★144](https://github.com/FuYaoDe/react-native-egg) - A easter egg component implementation simple gestures detection achieve trigger can make your react native app infinitely more fun.
 - [react-native-emoji ★152](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native
 - [react-native-emoji-picker ★63](https://github.com/yonahforst/react-native-emoji-picker) - Simple Emoji picker for react-native with optional modal-like component
@@ -347,7 +346,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-page-control ★119](https://github.com/silentcloud/react-native-page-control) - React native page control, like ios  UIPageControl
 - [react-native-page-swiper ★74](https://github.com/fixt/react-native-page-swiper) - Page Swiper component for React Native.
 - [react-native-parallax ★387](https://github.com/oblador/react-native-parallax) - Parallax effects for React Native using Animated API
-- [react-native-parallax-scroll ★71](https://github.com/monterosalondon/react-native-parallax-scroll) - Parallax Scroll component with sticky header, foreground, native-driver and all scrollable components(FlatList, ListView, SectionList, ScrollView)  support.
 - [react-native-parallax-scroll-view ★1028](https://github.com/jaysoo/react-native-parallax-scroll-view) - A ScrollView-like component with parallax and sticky header support.
 - [react-native-parallax-swiper ★80](https://github.com/zachgibson/react-native-parallax-swiper) - Configurable parallax swiper based on an iOS pattern. Uses Native Driver for super smooth parallax.
 - [react-native-parsed-text ★383](https://github.com/taskrabbit/react-native-parsed-text) - Parse text and make them into multiple React Native Text elements
@@ -392,6 +390,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-search ★15](https://github.com/StevenIseki/react-native-search) - Native Search component for react native.
 - [react-native-seekbar-android ★10](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
 - [react-native-custom-segmented-control ★96](https://github.com/wix/react-native-custom-segmented-control) - Native UI iOS component for Segmented Control with custom style
+- [react-native-segmented-control-tab ★106](https://github.com/kirankalyan5/react-native-segmented-control-tab) react-native-segmented-control-tab(for Android/iOS)
 - [react-native-segmented-view ★144](https://github.com/lelandrichardson/react-native-segmented-view) - Segmented View for React Native (with animation)
 - [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box
 - [react-native-selectme ★149](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native
