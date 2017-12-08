@@ -346,6 +346,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-page-control ★119](https://github.com/silentcloud/react-native-page-control) - React native page control, like ios  UIPageControl
 - [react-native-page-swiper ★74](https://github.com/fixt/react-native-page-swiper) - Page Swiper component for React Native.
 - [react-native-parallax ★387](https://github.com/oblador/react-native-parallax) - Parallax effects for React Native using Animated API
+- [react-native-parallax-scroll ★71](https://github.com/monterosalondon/react-native-parallax-scroll) - A component with parallax, sticky header, foreground, native-driver and all scrollable components(FlatList, ListView, SectionList, ScrollView)  support.
 - [react-native-parallax-scroll-view ★1028](https://github.com/jaysoo/react-native-parallax-scroll-view) - A ScrollView-like component with parallax and sticky header support.
 - [react-native-parallax-swiper ★80](https://github.com/zachgibson/react-native-parallax-swiper) - Configurable parallax swiper based on an iOS pattern. Uses Native Driver for super smooth parallax.
 - [react-native-parsed-text ★383](https://github.com/taskrabbit/react-native-parsed-text) - Parse text and make them into multiple React Native Text elements
@@ -905,7 +906,6 @@ Useful React Native tooling.
 - [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
 - [React Native Actions ★37](https://github.com/lucasbento/react-native-actions) - Run React Native actions from within VSCode.
 - [Electrode Native ★235](https://github.com/electrode-io/electrode-native) - A platform to ease the integration of React Native components in existing mobile applications.
-- [AsyncStorage Dev Menu Item *15](https://github.com/jsoendermann/react-native-async-storage-dev-menu-item) - Adds an option to your dev menu to log the content of your AsyncStorage.
 
 ## Seeds
 
