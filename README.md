@@ -1032,6 +1032,7 @@ Open source React Native apps and other examples.
 - [Todo List ★9](https://github.com/rishabhbhatia/react-native-todo) - Todo-List app using SwipeView with ES6 standards for iOS and Android.
 - [Quick-Sample ★2](https://github.com/innFactory/react-native-quick-sample) - A small and simple example app with navigation, data persistence, redux, listview and animation.
 - [Buttercup Mobile ★44](https://github.com/buttercup/buttercup-mobile) - Mobile password manager
+- [Nearby Live ★51](https://github.com/N3TC4T/Nearby-Live) - An unofficial NearbyLive app for Android and iOS
 
 ## Frameworks
 
@@ -1111,7 +1112,6 @@ Assortment of conference and training videos.
 
 ### Training & tutorials
 
-- [Building Youtube UI in 30 Minutes | React Native Tutorial](https://www.youtube.com/watch?v=LdKtugH-sb8) - A quick tutorial showing how to build Youtube Mobile app's UI using React Native. This tutorial helps in getting started with coding designs from scratch.
 - [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`
 - [Let's build a React Native app in 20 minutes](https://www.youtube.com/watch?v=9ArhJiMGVDc) and [Gist](https://gist.github.com/peterjmag/2ef39ba5d25f3f1e0008)
 - Egghead.io: [React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)
