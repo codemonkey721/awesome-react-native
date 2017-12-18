@@ -935,8 +935,6 @@ Get a head start on development with an existing seed.
 - [react-native-web-boilerplate ★46](https://github.com/agrcrobles/react-native-web-boilerplate) - A react-native-web stateless hmr boilerplate
 - [native-starter-kit ★1273](https://github.com/start-react/native-starter-kit) - A Starter Kit for React Native + NativeBase + React Navigation + Redux + CodePush Apps (iOS & Android)
 - [react-native-boilerplate-chucknorris ★13](https://github.com/Ali-Ayyad/react-native-boilerplate-chucknorris) - A boilerplate for React Native + React Navigation + React Native Elements (iOS & Android)
-- [react-native-template-super ★2](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist
-
 
 ## Libraries
 
@@ -951,6 +949,7 @@ Libraries / SDK type additions for React Native development.
 
 Open source React Native apps and other examples.
 
+- [f8app](https://github.com/fbsamples/f8app) - Official F8 (Facebook Developer Conference) app of 2017. See [blog post](http://makeitopen.com/blog/2017/12/04/blog-post-f82017-open-source.html).
 - [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
 - [Boostnote](https://github.com/BoostIO/boostnote-mobile) - Boostnote: open source note taking.
 - [ndash](https://github.com/alexindigo/ndash) - npm dashboard.
