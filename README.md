@@ -172,7 +172,6 @@ Content published on the Web.
 * [Continuous Integration for React Native Apps With Fastlane and Bitrise (iOS)](http://blog.thebakery.io/continuous-integration-for-react-native-applications-with-fastlane-and-bitrise-ios-version/)  
 * [How to automate Android build process on Bitrise CI](https://medium.com/@hesam.kamalan/how-to-automate-android-build-process-on-bitrise-ci-71ae3a94362e#.fryuiays4)  
 * [fastlane for React Native iOS & Android app DevOps](https://medium.com/react-native-training/fastlane-for-react-native-ios-android-app-devops-8ca85bee614e)  
-* [The simplest way to automate delivery of your React Native Application](https://jtway.co/the-simplest-way-to-automate-delivery-of-your-react-native-application-f37f2c71eb1d)
 
 ### Internals
 
@@ -754,6 +753,7 @@ Components and native modules.
 * [react-native-mipush ★11](https://github.com/cpunion/react-native-mipush) - MiPush for React Native  
 * [react-native-detect-device ★11](https://github.com/peachmeco/react-native-detect-device) - Detect a device on iOS or android in react-native.  
 * [react-native-device-angles ★9](https://github.com/cristianszwarc/RNDeviceAngles) - Get rotation information in degrees (pitch, yaw, roll) - ios  
+* [react-native-haptic-feedback ★10](https://github.com/mkuczera/react-native-haptic-feedback) - Trigger Haptic Native Feedback on iOS and Android 
 * [react-native-lock-android ★7](https://github.com/auth0/react-native-lock-android) - Auth0 Lock for React Native (Android)  
 * [react-native-system-notification ★6](https://github.com/Neson/react-native-system-notification) - Notification for React Native  
 * [react-native-battery-status ★6](https://github.com/remobile/react-native-battery-status) - A battery-status for react-native  
