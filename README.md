@@ -151,6 +151,7 @@ Content published on the Web.
 Components and native modules.
 
 ### UI
+- [react-native-largelist ★241](https://github.com/bolan9999/react-native-largelist) - The best performance large list component for React Native.(iOS & Android)
 - [RNParallax ★63](https://github.com/kyaroru/RNParallax)
 - [react-native-typography ★69](https://github.com/hectahertz/react-native-typography) Pixel–perfect, native–looking typographic styles for React Native
 - [react-native-paper ★109](https://github.com/callstack/react-native-paper.git) Material Design for React Native (Android & iOS).
@@ -715,7 +716,6 @@ Components and native modules.
 - [react-native-billing ★351](https://github.com/idehub/react-native-billing) - In-app purchase implementation for React Native on Android.
 - [react-native-haptic ★56](https://github.com/charlesvinette/react-native-haptic) - iOS 10 + haptic feedback for React Native applications
 - [react-native-quick-actions ★481](https://github.com/madriska/react-native-quick-actions) - A react-native interface for 3D Touch home screen quick actions
-- [react-native-queue ★41](https://github.com/billmalarky/react-native-queue) - A React Native Job Queue
 - [react-native-firebase ★1685](https://github.com/invertase/react-native-firebase) - A well tested feature rich Firebase implementation for React Native, supporting both iOS & Android platforms for 10+ Firebase modules (including Cloud Firestore).
 
 ### Web
