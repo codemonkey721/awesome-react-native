@@ -411,7 +411,8 @@ Components and native modules.
 * [react-native-simpledialog-android ★41](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS  
 * [react-native-touchable-bounce ★41](https://github.com/grabbou/react-native-touchable-bounce) - React Native Touchable Bounce  
 * [react-native-zoom-image ★41](https://github.com/Tinysymphony/react-native-zoom-image) - An image viewer component for react-native, like twitter's image viewer.  
-* [react-native-swipeview ★41](https://github.com/rishabhbhatia/react-native-swipeview) - SwipeView component used to perform actions like swipe to delete, works on iOS and Android  
+* [react-native-swipeview ★41](https://github.com/rishabhbhatia/react-native-swipeview) - SwipeView component used to perform actions like swipe to delete, works on iOS and Android
+* [react-native-scalable-image ★40](https://github.com/ihor/react-native-scalable-image) - React Native Image component which scales width or height automatically to keep the original aspect ratio.
 * [react-native-beautiful-image ★40](https://github.com/phuochau/react-native-beautiful-image) - The Beautiful Image component that supports fadeIn animation and shows placeholderSource if the main source can't be loaded.  
 * [react-native-radio-button-classic ★40](https://github.com/pressly/react-native-radio-button-classic) - Bring Classic Radio to React-Native  
 * [react-native-tween-animation ★40](https://github.com/kirkness/react-native-tween-animation) - A simple react native state tween animation module.  
@@ -481,7 +482,7 @@ Components and native modules.
 * [react-native-ichart ★18](https://github.com/AdonRain/react-native-ichart) - ichart for react-native  
 * [react-native-material-showcase-ios ★18](https://github.com/prscX/react-native-material-showcase-ios) - React Native Bridge for iOS aromajoin/material-showcase-ios. An elegant and beautiful showcase for iOS apps.  
 * [rn-ab-hoc ★17](https://github.com/mfrachet/rn-ab-hoc) - Poor intrusive way to make A/B Testing by using an HoC instead of components.  
-* [react-native-awesome-alert ★17](https://github.com/heyman333/react-native-awesome-alert) - Modal component that offers awesome options and costomizable view in React Native  
+* [react-native-awesome-alert ★18](https://github.com/heyman333/react-native-awesome-alert) - Customizable modal components with ✔️check options in React Native
 * [react-native-store-view ★16](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects  
 * [react-native-grid ★16](https://github.com/thewei/react-native-grid) - The 24-column grid component for react-native  
 * [react-native-android-circles ★15](https://github.com/kwaak/react-native-android-circles) - A react native android package to show a circle progress view.  
@@ -747,8 +748,7 @@ Components and native modules.
 * [react-native-wifi-manager ★22](https://github.com/skierkowski/react-native-wifi-manager) - Wifi Connection Manager for React Native on Android  
 * [react-native-search-api ★21](https://github.com/ombori/react-native-search-api) - The SearchApi module gives you a general React Native interface to interact with the iOS Search API, Core Spotlight.  
 * [react-native-heading ★21](https://github.com/yonahforst/react-native-heading) - Get device heading (compass) information on iOS or Android  
-* [react-native-battery ★17](https://github.com/oojr/react-native-battery) - A React Native module that returns the battery level/status of a device  
-* [react-native-scalable-image ★17](https://github.com/ihor/react-native-scalable-image) - React Native Image component which scales width or height automatically to keep the original aspect ratio.  
+* [react-native-battery ★17](https://github.com/oojr/react-native-battery) - A React Native module that returns the battery level/status of a device
 * [react-native-device-battery ★17](https://github.com/robinpowered/react-native-device-battery) - Observe battery state changes in your react native application  
 * [react-native-localsearch ★14](https://github.com/wmcmahan/React-Native-LocalSearch) - React Native Module for MapKit Local Search  
 * [react-native-contacts-rx ★12](https://github.com/JeanLebrument/react-native-contacts-rx) - react-native-contacts counterpart that include the support of RxJS.  
@@ -1091,7 +1091,8 @@ Open source React Native apps and other examples.
 * [Roxie](https://github.com/venepe/react-native-roxie) - Sound processing and bluetooth hardware control.  
 * [Splitcloud](https://github.com/egm0121/splitcloud-app) - Share listening to two songs at the same time from Soundcloud (by splitting right/left channels).  
 * [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone  
-* [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).  
+* [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
+* [Renote ★0](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes. 
 
 ## Frameworks
 
