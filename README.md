@@ -509,8 +509,7 @@ Components and native modules.
 * [react-native-seekbar-android ★10](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar  
 * [react-native-hijri-date-picker ★10](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.  
 * [react-native-compress ★9](https://github.com/phuochau/react-native-compress) - Compress video for react native. Only for iOS, Android will be coming.  
-* [react-native-gravatar ★9](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
-* [react-native-picker-select ★9](https://github.com/lawnstarter/react-native-picker-select) - A Picker component for React Native which emulates the native `<select>` interfaces for iOS and Android  
+* [react-native-gravatar ★9](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api  
 * [react-native-quiltview ★8](https://github.com/mmslate/react-native-quiltview) - Native iOS UICollectionView wrapper with RFQuiltLayout for React Native  
 * [react-native-comparison-slider ★8](https://github.com/charlot567/react-native-comparison-slider) - A simple component to display two image in comparison with a slide-over feature.  
 * [react-native-relative-units ★8](https://github.com/benzhe/react-native-relative-units) - Relative units for React Native  
@@ -821,8 +820,9 @@ Components and native modules.
 * [react-native-sound-recorder ★9](https://github.com/kevinresol/react-native-sound-recorder) - No-hassle Sound Recorder for React Native.  
 * [react-native-mediaplayer ★9](https://github.com/chriselly/react-native-mediaplayer) - Simple full screen media player for React Native.  
 * [react-native-interactive-image-gallery ★6](https://github.com/InterfaceKit/react-native-interactive-image-gallery) - A React Native component to display a gallery of images.  
-* [react-native-media-capture ★5](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native  
-* [react-native-hue-player](https://github.com/App2Sales/react-native-hue-player) - Audio Player to offline/local and online/streaming audio.  
+* [react-native-media-capture ★5](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native 
+* [react-native-hue-player](https://github.com/App2Sales/react-native-hue-player) - Audio Player to offline/local and online/streaming audio.
+* [react-native-true-sight ★](https://github.com/ScreamZ/react-native-true-sight) - A cross-platform video player with customizable controls for React Native.
 
 ### Storage
 
