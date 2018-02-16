@@ -509,7 +509,8 @@ Components and native modules.
 * [react-native-seekbar-android ★10](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar  
 * [react-native-hijri-date-picker ★10](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.  
 * [react-native-compress ★9](https://github.com/phuochau/react-native-compress) - Compress video for react native. Only for iOS, Android will be coming.  
-* [react-native-gravatar ★9](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api  
+* [react-native-gravatar ★9](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
+* [react-native-picker-select ★9](https://github.com/lawnstarter/react-native-picker-select) - A Picker component for React Native which emulates the native `<select>` interfaces for iOS and Android  
 * [react-native-quiltview ★8](https://github.com/mmslate/react-native-quiltview) - Native iOS UICollectionView wrapper with RFQuiltLayout for React Native  
 * [react-native-comparison-slider ★8](https://github.com/charlot567/react-native-comparison-slider) - A simple component to display two image in comparison with a slide-over feature.  
 * [react-native-relative-units ★8](https://github.com/benzhe/react-native-relative-units) - Relative units for React Native  
@@ -991,7 +992,6 @@ Get a head start on development with an existing seed.
 * [Rhinos-app ★72](https://github.com/rhinos-app/rhinos-app-dev) - Cross-platform React Native boilerplate (iOS, Android, Web) built on react-native-web.  
 * [react-native-web-boilerplate ★46](https://github.com/agrcrobles/react-native-web-boilerplate) - A react-native-web stateless hmr boilerplate  
 * [🍞 Baker ★46](http://baker.thebakery.io/) - An opinionated MVP toolkit that helps you build mobile apps crazy fast using React Native and Parse Server  
-* [react-native-starter by Ueno ★42](https://github.com/ueno-llc/react-native-starter) - Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
 * [React-Native-Starter-Pack ★39](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push  
 * [react-native-boilerplate ★39](https://github.com/pcofilada/react-native-boilerplate) - Simple boilerplate for mobile development using React Native and Redux  
 * [react-native-relay-example ★33](https://github.com/sibelius/react-native-relay-example) - React Native working with Relay  
