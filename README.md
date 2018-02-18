@@ -86,6 +86,7 @@ dotan\[at\]paracode.com.
   - [Talks](#talks)
   - [Training & tutorials](#training--tutorials)
 - [Blogs](#blogs)
+- [Newsletters](#newsletters)
 - [Releases](#releases)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -820,9 +821,8 @@ Components and native modules.
 * [react-native-sound-recorder ★9](https://github.com/kevinresol/react-native-sound-recorder) - No-hassle Sound Recorder for React Native.  
 * [react-native-mediaplayer ★9](https://github.com/chriselly/react-native-mediaplayer) - Simple full screen media player for React Native.  
 * [react-native-interactive-image-gallery ★6](https://github.com/InterfaceKit/react-native-interactive-image-gallery) - A React Native component to display a gallery of images.  
-* [react-native-media-capture ★5](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native 
-* [react-native-hue-player](https://github.com/App2Sales/react-native-hue-player) - Audio Player to offline/local and online/streaming audio.
-* [react-native-true-sight ★](https://github.com/ScreamZ/react-native-true-sight) - A cross-platform video player with customizable controls for React Native.
+* [react-native-media-capture ★5](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native  
+* [react-native-hue-player](https://github.com/App2Sales/react-native-hue-player) - Audio Player to offline/local and online/streaming audio.  
 
 ### Storage
 
@@ -1207,6 +1207,12 @@ Assortment of conference and training videos.
 * [Spencer Carli](https://medium.com/@spencer_carli)  
 * [Official React Native Blog](http://facebook.github.io/react-native/blog/)
 * [reactnative.gallery](https://reactnative.gallery/) - Show and tell for React Native developers
+
+## Newsletters
+
+* [Let's React](http://letsreact.io)
+* [React Native Newsletter](http://reactnative.cc)
+* [React Native Coach](http://reactnativecoach.com)
 
 ## Releases
 
