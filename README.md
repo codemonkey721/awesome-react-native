@@ -125,7 +125,6 @@ Content published on the Web.
 ### Howtos
 
 * [How to add Firebase Auth with react native ★4](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_add_Firebase_Auth_with_react_native)  
-* [React Native Authentication in Depth](https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b)  
 * [React-Navigation Drawer](https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc)  
 * [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)  
 * [Getting Started with React Native Development for Windows](https://shift.infinite.red/getting-started-with-react-native-development-for-windows-ba23a4be90b6#.n6vtqtikh)  
@@ -311,7 +310,7 @@ Components and native modules.
 * [react-native-progress-bar ★181](https://github.com/lwansbrough/react-native-progress-bar) - An animated progress bar component for React Native  
 * [react-native-masked-text ★168](https://github.com/benhurott/react-native-masked-text) - A simple masked text and input text component for React-Native.  
 * [react-native-carousel-control ★162](https://github.com/machadogj/react-native-carousel-control) - React Native Carousel control with support for iOS and Android.  
-* [react-native-tooltip ★161](https://github.com/chirag04/react-native-tooltip) - A react-native wrapper for showing tooltips  * [react-native-spruce ★152](https://github.com/prscX/react-native-spruce) - React Native Bridge for Spruce Animation Library
+* [react-native-tooltip ★161](https://github.com/chirag04/react-native-tooltip) - A react-native wrapper for showing tooltips
 * [react-native-emoji ★152](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native  
 * [react-native-cache-image ★151](https://github.com/remobile/react-native-cache-image) - A cache-image for react-native  
 * [react-native-selectme ★149](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native  
@@ -510,7 +509,8 @@ Components and native modules.
 * [react-native-seekbar-android ★10](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar  
 * [react-native-hijri-date-picker ★10](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.  
 * [react-native-compress ★9](https://github.com/phuochau/react-native-compress) - Compress video for react native. Only for iOS, Android will be coming.  
-* [react-native-gravatar ★9](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api  
+* [react-native-gravatar ★9](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
+* [react-native-picker-select ★9](https://github.com/lawnstarter/react-native-picker-select) - A Picker component for React Native which emulates the native `<select>` interfaces for iOS and Android  
 * [react-native-quiltview ★8](https://github.com/mmslate/react-native-quiltview) - Native iOS UICollectionView wrapper with RFQuiltLayout for React Native  
 * [react-native-comparison-slider ★8](https://github.com/charlot567/react-native-comparison-slider) - A simple component to display two image in comparison with a slide-over feature.  
 * [react-native-relative-units ★8](https://github.com/benzhe/react-native-relative-units) - Relative units for React Native  
@@ -536,6 +536,7 @@ Components and native modules.
 * [react-native-create-new-file-ios ★1](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.  
 * [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native  
 * [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box  
+* [react-native-app-auth](https://github.com/FormidableLabs/react-native-app-auth) - React Native bridge for AppAuth - a PKCE-compliant SDK for communicating with OAuth2 providers
 
 ### Navigation
 
@@ -992,6 +993,7 @@ Get a head start on development with an existing seed.
 * [Rhinos-app ★72](https://github.com/rhinos-app/rhinos-app-dev) - Cross-platform React Native boilerplate (iOS, Android, Web) built on react-native-web.  
 * [react-native-web-boilerplate ★46](https://github.com/agrcrobles/react-native-web-boilerplate) - A react-native-web stateless hmr boilerplate  
 * [🍞 Baker ★46](http://baker.thebakery.io/) - An opinionated MVP toolkit that helps you build mobile apps crazy fast using React Native and Parse Server  
+* [react-native-starter by Ueno ★42](https://github.com/ueno-llc/react-native-starter) - Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
 * [React-Native-Starter-Pack ★39](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push  
 * [react-native-boilerplate ★39](https://github.com/pcofilada/react-native-boilerplate) - Simple boilerplate for mobile development using React Native and Redux  
 * [react-native-relay-example ★33](https://github.com/sibelius/react-native-relay-example) - React Native working with Relay  
