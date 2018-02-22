@@ -564,7 +564,6 @@ Components and native modules.
 * [react-native-navigation-buttons ★2](https://github.com/shayne/react-native-navigation-buttons) - iOS navigation buttons for the React Native Navigator  
 * [react-native-swiper-flatlist ★★](https://github.com/gusgard/react-native-swiper-flatlist) - 👆 React Native Swiper component implemented with FlatList  
 * [react-native-yynavigator ★0](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native  
-* [react-native-simple-card-view ★0](https://github.com/talut/react-native-simple-card-view) - Easiest way to adding a card view on your screen.
 
 #### Navigation/Routing Articles
 
@@ -1005,6 +1004,7 @@ Get a head start on development with an existing seed.
 * [react-native-boilerplate-chucknorris ★13](https://github.com/Ali-Ayyad/react-native-boilerplate-chucknorris) - A boilerplate for React Native + React Navigation + React Native Elements (iOS & Android)  
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay  
 * [react-native-template-super ★2](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist  
+* [Reactor ★11](https://github.com/Jerameel/Reactor) - A dynamic react-native starter template using redux and react-navigation.
 
 ## Libraries
 
