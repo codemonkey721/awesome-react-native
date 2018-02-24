@@ -344,7 +344,6 @@ Components and native modules.
 * [react-native-segmented-control-tab ★106](https://github.com/kirankalyan5/react-native-segmented-control-tab) react-native-segmented-control-tab(for Android/iOS)  
 * [react-native-pulse-loader ★105](https://github.com/mastermoo/react-native-pulse-loader) - Tinder like loader for your React Native app  
 * [react-native-wheel-picker ★105](https://github.com/lesliesam/react-native-wheel-picker) - React native cross platform picker.  
-* [react-native-scaling-drawer ★105](https://github.com/melihberberolu/react-native-scaling-drawer) - React native scaling drawer.
 * [react-native-display ★103](https://github.com/sundayhd/react-native-display) - This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations.  
 * [react-native-device-display ★100](https://github.com/kkjdaniel/react-native-display-view) - A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.  
 * [react-native-offline-mode ★96](https://github.com/rauchy/react-native-offline-mode) - Swap your app with an offline version while there's no connectivity  
@@ -520,6 +519,7 @@ Components and native modules.
 * [react-native-flex-label ★7](https://github.com/eccolabs/react-native-flex-label) - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.  
 * [react-native-link ★7](https://github.com/650Industries/react-native-link) - A link component  
 * [react-native-siri-wave-view ★7](https://github.com/prscX/react-native-siri-wave-view) - React Native: Native Siri Wave View
+* [react-native-selectmultiple-button ★6](https://github.com/danceyoung/react-native-selectmultiple-button) - A button (or a grouped buttons) supporting multiple or radio selection
 * [react-native-stylesheet-xg ★6](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive  
 * [react-native-loading ★5](https://github.com/alcat2008/react-native-loading) - A lightweight loading for your React Native app.  
 * [react-native-progress-button ★4](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.  
