@@ -519,7 +519,6 @@ Components and native modules.
 * [react-native-flex-label ★7](https://github.com/eccolabs/react-native-flex-label) - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.  
 * [react-native-link ★7](https://github.com/650Industries/react-native-link) - A link component  
 * [react-native-siri-wave-view ★7](https://github.com/prscX/react-native-siri-wave-view) - React Native: Native Siri Wave View
-* [react-native-selectmultiple-button ★6](https://github.com/danceyoung/react-native-selectmultiple-button) - A button (or a grouped buttons) supporting multiple or radio selection
 * [react-native-stylesheet-xg ★6](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive  
 * [react-native-loading ★5](https://github.com/alcat2008/react-native-loading) - A lightweight loading for your React Native app.  
 * [react-native-progress-button ★4](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.  
@@ -771,7 +770,8 @@ Components and native modules.
 * [react-native-system-notification ★6](https://github.com/Neson/react-native-system-notification) - Notification for React Native  
 * [react-native-battery-status ★6](https://github.com/remobile/react-native-battery-status) - A battery-status for react-native  
 * [react-native-push-with-gcm ★5](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)  
-* [react-native-device-info-pod ★2](https://github.com/mchinyakov/react-native-device-info) - Get device information using react-native  
+* [react-native-device-info-pod ★2](https://github.com/mchinyakov/react-native-device-info) - Get device information using react-native 
+* [react-native-home-pressed ★1](https://github.com/evanjmg/react-native-home-pressed) - Listen to home and recent app events for Android
 
 ### Web
 
