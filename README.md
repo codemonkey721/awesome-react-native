@@ -845,7 +845,6 @@ Components and native modules.
 ### Backend
 
 * [react-native-fetch-blob ★1702](https://github.com/wkh237/react-native-fetch-blob) - A module integrates network and file system. Supports file stream.  
-* [reactivesearch-native ★1218](https://github.com/appbaseio/reactivesearch/tree/dev/packages/native) - appbase.io and Elasticsearch UI components for React Native.
 * [react-native-meteor ★600](https://github.com/inProgress-team/react-native-meteor) - Full Meteor Client  
 * [aws-sdk-react-native ★579](https://github.com/awslabs/aws-sdk-react-native) - AWS SDK for React Native (Official developer preview)  
 * [react-native-simple-auth ★469](https://github.com/adamjmcgrath/react-native-simple-auth) - Native social authentication for React Native on iOS  
@@ -1003,6 +1002,7 @@ Get a head start on development with an existing seed.
 * [MeteorNative Boilerplate ★22](https://github.com/redbaron76/MeteorNative) - a React Native and Meteor boilerplate with Redux.  
 * [rn-mobx-template ★16](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template  
 * [react-native-boilerplate-chucknorris ★13](https://github.com/Ali-Ayyad/react-native-boilerplate-chucknorris) - A boilerplate for React Native + React Navigation + React Native Elements (iOS & Android)  
+* [Reactor ★11](https://github.com/Jerameel/Reactor) - A dynamic react-native starter template using redux and react-navigation.
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay  
 * [react-native-template-super ★2](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist  
 
