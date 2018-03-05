@@ -1,11 +1,21 @@
-# Awesome React Native
+
+
+<br/>
+<br/>
+<br/>
+<p align="center">
+    <img alt="awesome" src="arn.png" width="240" />
+</p>
+
+<br/>
+<br/>
+<br/>
+**Awesome React Native** is an awesome style list that curates the best React Native libraries,
+tools, tutorials, articles and more. PRs are welcome!
 
 <img
 src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master"
 alt="Build Status" />
-
-An awesome style list that curates the best React Native libraries,
-tools, tutorials, articles and more. PRs are welcome!
 
 ## Buzzing
 
@@ -344,6 +354,7 @@ Components and native modules.
 * [react-native-segmented-control-tab ★106](https://github.com/kirankalyan5/react-native-segmented-control-tab) react-native-segmented-control-tab(for Android/iOS)  
 * [react-native-pulse-loader ★105](https://github.com/mastermoo/react-native-pulse-loader) - Tinder like loader for your React Native app 
 * [react-native-wheel-picker ★105](https://github.com/lesliesam/react-native-wheel-picker) - React native cross platform picker.  
+* [react-native-scaling-drawer ★105](https://github.com/melihberberolu/react-native-scaling-drawer) - React native scaling drawer.
 * [react-native-display ★103](https://github.com/sundayhd/react-native-display) - This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations.  
 * [react-native-device-display ★100](https://github.com/kkjdaniel/react-native-display-view) - A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.  
 * [react-native-offline-mode ★96](https://github.com/rauchy/react-native-offline-mode) - Swap your app with an offline version while there's no connectivity  
@@ -519,6 +530,7 @@ Components and native modules.
 * [react-native-flex-label ★7](https://github.com/eccolabs/react-native-flex-label) - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.  
 * [react-native-link ★7](https://github.com/650Industries/react-native-link) - A link component  
 * [react-native-siri-wave-view ★7](https://github.com/prscX/react-native-siri-wave-view) - React Native: Native Siri Wave View
+* [react-native-selectmultiple-button ★6](https://github.com/danceyoung/react-native-selectmultiple-button) - A button (or a grouped buttons) supporting multiple or radio selection
 * [react-native-stylesheet-xg ★6](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive  
 * [react-native-loading ★5](https://github.com/alcat2008/react-native-loading) - A lightweight loading for your React Native app.  
 * [react-native-progress-button ★4](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.  
@@ -564,6 +576,7 @@ Components and native modules.
 * [react-native-navigation-buttons ★2](https://github.com/shayne/react-native-navigation-buttons) - iOS navigation buttons for the React Native Navigator  
 * [react-native-swiper-flatlist ★★](https://github.com/gusgard/react-native-swiper-flatlist) - 👆 React Native Swiper component implemented with FlatList  
 * [react-native-yynavigator ★0](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native  
+* [react-native-simple-card-view ★0](https://github.com/talut/react-native-simple-card-view) - Easiest way to adding a card view on your screen.
 
 #### Navigation/Routing Articles
 
@@ -631,6 +644,7 @@ Components and native modules.
 * [react-native-immutable ★12](https://github.com/thewei/react-native-immutable) - using immutable.js library with react-native  
 * [react-native-simple-encryption ★11](https://github.com/BhavanPatel/react-native-simple-encryption) - Simple XOR and base\_64 encryption decryption for react-native  
 * [react-native-util ★10](https://github.com/exponentjs/react-native-util) - A fork of io.js's util module that works with React Native  
+* [react-native-tips ★7](https://github.com/frichti/react-native-tips) - This module is used to create easily some tips to help your new users to understand how works your app.  
 * [react-native-webpackager-server ★5](https://github.com/changfuguo/react-native-webpackager-server) - react native webpackager server  
 * [react-native-fluxbone ★5](https://github.com/jgable/react-native-fluxbone) - A group of libraries that help with the FluxBone pattern in React Native  
 * [react-native-HsvToRgb ★2](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.  
@@ -770,7 +784,8 @@ Components and native modules.
 * [react-native-system-notification ★6](https://github.com/Neson/react-native-system-notification) - Notification for React Native  
 * [react-native-battery-status ★6](https://github.com/remobile/react-native-battery-status) - A battery-status for react-native  
 * [react-native-push-with-gcm ★5](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)  
-* [react-native-device-info-pod ★2](https://github.com/mchinyakov/react-native-device-info) - Get device information using react-native  
+* [react-native-device-info-pod ★2](https://github.com/mchinyakov/react-native-device-info) - Get device information using react-native 
+* [react-native-home-pressed ★1](https://github.com/evanjmg/react-native-home-pressed) - Listen to home and recent app events for Android
 
 ### Web
 
@@ -822,8 +837,9 @@ Components and native modules.
 * [react-native-sound-recorder ★9](https://github.com/kevinresol/react-native-sound-recorder) - No-hassle Sound Recorder for React Native.  
 * [react-native-mediaplayer ★9](https://github.com/chriselly/react-native-mediaplayer) - Simple full screen media player for React Native.  
 * [react-native-interactive-image-gallery ★6](https://github.com/InterfaceKit/react-native-interactive-image-gallery) - A React Native component to display a gallery of images.  
-* [react-native-media-capture ★5](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native  
-* [react-native-hue-player](https://github.com/App2Sales/react-native-hue-player) - Audio Player to offline/local and online/streaming audio.  
+* [react-native-media-capture ★5](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native 
+* [react-native-hue-player](https://github.com/App2Sales/react-native-hue-player) - Audio Player to offline/local and online/streaming audio.
+* [react-native-true-sight ★0](https://github.com/ScreamZ/react-native-true-sight) - A cross-platform video player with customizable controls for React Native.
 
 ### Storage
 
@@ -845,6 +861,7 @@ Components and native modules.
 ### Backend
 
 * [react-native-fetch-blob ★1702](https://github.com/wkh237/react-native-fetch-blob) - A module integrates network and file system. Supports file stream.  
+* [reactivesearch-native ★1218](https://github.com/appbaseio/reactivesearch/tree/dev/packages/native) - appbase.io and Elasticsearch UI components for React Native.
 * [react-native-meteor ★600](https://github.com/inProgress-team/react-native-meteor) - Full Meteor Client  
 * [aws-sdk-react-native ★579](https://github.com/awslabs/aws-sdk-react-native) - AWS SDK for React Native (Official developer preview)  
 * [react-native-simple-auth ★469](https://github.com/adamjmcgrath/react-native-simple-auth) - Native social authentication for React Native on iOS  
@@ -1002,6 +1019,7 @@ Get a head start on development with an existing seed.
 * [MeteorNative Boilerplate ★22](https://github.com/redbaron76/MeteorNative) - a React Native and Meteor boilerplate with Redux.  
 * [rn-mobx-template ★16](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template  
 * [react-native-boilerplate-chucknorris ★13](https://github.com/Ali-Ayyad/react-native-boilerplate-chucknorris) - A boilerplate for React Native + React Navigation + React Native Elements (iOS & Android)  
+* [Reactor ★11](https://github.com/Jerameel/Reactor) - A dynamic react-native starter template using redux and react-navigation.
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay  
 * [react-native-template-super ★2](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist  
 
