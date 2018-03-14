@@ -560,8 +560,7 @@ Components and native modules.
 * [react-native-loader-hud ★3](https://github.com/EdgeJay/react-native-loader-hud) - Loader animation library for React Native  
 * [react-native-double-buffer ★3](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View  
 * [react-native-custom-actionsheet ★3](https://github.com/valerybugakov/react-native-custom-actionsheet) - Fully customizable ActionSheet for React Native.  
-* [react-native-easy-checkbox ★2](https://github.com/BhavanPatel/react-native-easy-checkbox) - Simple CheckBox for react-native
-* [react-native-navbar-color ★2](https://github.com/BhavanPatel/react-native-navbar-color) - WAITED LIBRARY! Change Navigationbar Color in Android  
+* [react-native-easy-checkbox ★2](https://github.com/BhavanPatel/react-native-easy-checkbox) - Simple CheckBox for react-native  
 * [react-native-animated-styles ★2](https://github.com/ericpkerr/react-native-animated-styles) - Easily animate/transition react components between two style states.  
 * [react-native-scene-manager ★2](https://github.com/alinz/react-native-scene-manager) - Simple Scene Manager for React-Native  
 * [react-native-fontbase ★2](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native  
@@ -1144,7 +1143,7 @@ Open source React Native apps and other examples.
 * [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone  
 * [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
 * [Renote ★0](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes. 
-
+* [HupuApp ★120](https://github.com/MelonRice/ReactNative-HupuJRS) - A Third-party Hupu App (http://bbs.hupu.com/) client implemented using React Native (Android and iOS).
 ## Frameworks
 
 * [NativeBase ★7062](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development  
