@@ -488,7 +488,7 @@ Components and native modules.
 * [react-native-bar-collapsible ★27](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.  
 * [react-native-grading ★27](https://github.com/Tinysymphony/react-native-grading) - RN Component for grading scores using ReactART.  
 * [react-native-md-motion-buttons ★27](https://github.com/zecaptus/react-native-md-motion-buttons) - Material design motion button inspired by inVision app.  
-* [react-native-in-app-notification ★26](https://github.com/robcalcroft/react-native-in-app-notification) - Customisable in-app notification component for React Native  
+* [react-native-in-app-notification ★40](https://github.com/robcalcroft/react-native-in-app-notification) - Customisable in-app notification component for React Native  
 * [react-native-telephone-input ★26](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input  
 * [react-native-circle-checkbox ★26](https://github.com/ParamoshkinAndrew/ReactNativeCircleCheckbox) - Circle checkbox component for React Native  
 * [react-native-open-maps ★25](https://github.com/brh55/react-native-open-maps) - A simple lib to open up the corresponding map application (Google or Apple Maps) from a set of coordinates (latitude & longitude) within react-native  
@@ -1143,7 +1143,7 @@ Open source React Native apps and other examples.
 * [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone  
 * [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
 * [Renote ★0](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes. 
-* [HupuApp ★120](https://github.com/MelonRice/ReactNative-HupuJRS) - A Third-party Hupu App (http://bbs.hupu.com/) client implemented using React Native (Android and iOS).
+
 ## Frameworks
 
 * [NativeBase ★7062](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development  
