@@ -488,7 +488,7 @@ Components and native modules.
 * [react-native-bar-collapsible ★27](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.  
 * [react-native-grading ★27](https://github.com/Tinysymphony/react-native-grading) - RN Component for grading scores using ReactART.  
 * [react-native-md-motion-buttons ★27](https://github.com/zecaptus/react-native-md-motion-buttons) - Material design motion button inspired by inVision app.  
-* [react-native-in-app-notification ★40](https://github.com/robcalcroft/react-native-in-app-notification) - Customisable in-app notification component for React Native  
+* [react-native-in-app-notification ★26](https://github.com/robcalcroft/react-native-in-app-notification) - Customisable in-app notification component for React Native  
 * [react-native-telephone-input ★26](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input  
 * [react-native-circle-checkbox ★26](https://github.com/ParamoshkinAndrew/ReactNativeCircleCheckbox) - Circle checkbox component for React Native  
 * [react-native-open-maps ★25](https://github.com/brh55/react-native-open-maps) - A simple lib to open up the corresponding map application (Google or Apple Maps) from a set of coordinates (latitude & longitude) within react-native  
@@ -680,7 +680,9 @@ Components and native modules.
 * [react-native-clean-form ★315](https://github.com/esbenp/react-native-clean-form) - Good looking form elements with redux-form integration. Stylable with styled-components.  
 * [react-native-form-generator ★312](https://github.com/MichaelCereda/react-native-form-generator) - Generate amazing React Native forms in a breeze  
 * [react-native-form ★127](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!  
-* [react-native-forms ★78](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms.  
+* [react-native-forms ★78](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms.
+* [react-native-from-builder ★43](https://github.com/bietkul/react-native-form-builder) - Handle your forms in a smart way.
+* [react-reactive-forms ★34](https://github.com/bietkul/react-reactive-form) - Angular like reactive forms in React.
 * [foect ★28](https://github.com/unexge/foect) - Simple form validation library for React Native  
 * [react-native-fm-form ★13](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes  
 * [react-native-form-flux ★2](https://github.com/aksonov/react-native-form-flux) - React Native Form management using Flux architecture  
