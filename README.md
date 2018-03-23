@@ -887,6 +887,7 @@ Components and native modules.
 * [aws-sdk-react-native ★579](https://github.com/awslabs/aws-sdk-react-native) - AWS SDK for React Native (Official developer preview)  
 * [react-native-simple-auth ★469](https://github.com/adamjmcgrath/react-native-simple-auth) - Native social authentication for React Native on iOS  
 * [react-native-uploader ★357](https://github.com/aroth/react-native-uploader) - A React Native module to upload files and camera roll assets. Supports progress notification.  
+* [react-native-background-upload ★357](https://github.com/Vydia/react-native-background-upload) - Upload files in your React Native app even while it's backgrounded.  Supports Android and iOS, including iOS Camera Roll assets.
 * [react-native-lazyload ★263](https://github.com/magicismight/react-native-lazyload) - lazyload for react native  
 * [react-native-aws3 ★199](https://github.com/benjreinhart/react-native-aws3) - Pure JavaScript React Native library for uploading to AWS S3  
 * [react-native-xmpp ★177](https://github.com/aksonov/react-native-xmpp) - XMPP Library for React Native  
@@ -1025,7 +1026,6 @@ Get a head start on development with an existing seed.
 * [ReactNativeTS ★337](https://github.com/mrpatiwi/ReactNativeTS) - Boilerplate of a React Native project in Typescript.  
 * [React Native Seed ★286](https://github.com/GeekyAnts/react-native-seed) - A set of React Native Boilerplates to choose from. MobX or Redux for state-management, TypeScript or Flow for static type checking and CRNA or plain React Native for the stack - By the creators of Native Base.  
 * [react-native-babel ★239](https://github.com/roman01la/react-native-babel)  
-* [react-native-auth-boilerplate ★149](https://github.com/hasura/react-native-auth-boilerplate) - A React Native boilerplate with authentication already implemented.
 * [react-native-es6-reflux ★145](https://github.com/filp/react-native-es6-reflux)  
 * [react-native-hot-redux-starter ★136](https://github.com/adampash/react-native-hot-redux-starter)  
 * [react-native-redux ★126](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga  
