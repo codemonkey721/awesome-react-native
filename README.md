@@ -1043,7 +1043,6 @@ Get a head start on development with an existing seed.
 * [react-native-web-boilerplate ★46](https://github.com/agrcrobles/react-native-web-boilerplate) - A react-native-web stateless hmr boilerplate
 * [🍞 Baker ★46](http://baker.thebakery.io/) - An opinionated MVP toolkit that helps you build mobile apps crazy fast using React Native and Parse Server
 * [react-native-starter by Ueno ★42](https://github.com/ueno-llc/react-native-starter) - Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
-* [react-native-template-typescript ★40](https://github.com/emin93/react-native-template-typescript) - Clean and minimalist React Native template for a quick start with TypeScript.
 * [React-Native-Starter-Pack ★39](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
 * [react-native-boilerplate ★39](https://github.com/pcofilada/react-native-boilerplate) - Simple boilerplate for mobile development using React Native and Redux
 * [react-native-relay-example ★33](https://github.com/sibelius/react-native-relay-example) - React Native working with Relay
@@ -1064,6 +1063,7 @@ Libraries / SDK type additions for React Native development.
 * [Shoutem UI ★2880](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem
 * [Panza ★208](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
 * [BlankApp UI ★30](https://github.com/blankapp/ui) - Highly customizable and theming components for React Native
+* [React Native Common ★14](https://github.com/rghorbani/react-native-common) - UI & API Components Library for React Native
 
 ## Open Source Apps
 
@@ -1155,7 +1155,7 @@ Open source React Native apps and other examples.
 * [Splitcloud](https://github.com/egm0121/splitcloud-app) - Share listening to two songs at the same time from Soundcloud (by splitting right/left channels).
 * [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone
 * [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
-* [Renote ★0](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes. 
+* [Renote ★0](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes.
 * [Commit Strip (Unofficial)](https://github.com/rizalibnu/commit-strip-react-native) - A CommitStrip.com reader built in React Native.
 
 ## Frameworks
