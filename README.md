@@ -835,6 +835,7 @@ Components and native modules.
 * [react-native-html2native ★3](https://github.com/labithiotis/react-native-html-render) - A html render for react-native
 * [react-native-webview ★2](https://github.com/beefe/react-native-webview) - android webview for react-native
 * [react-native-h5 ★0](https://github.com/dingui/react-native-h5) - react native web
+* [react-native-turbolinks ★42](https://github.com/lazaronixon/react-native-turbolinks) - React Native adapter for building hybrid apps with Turbolinks 5
 
 ### Media
 
@@ -1156,7 +1157,6 @@ Open source React Native apps and other examples.
 * [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
 * [Renote ★0](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes. 
 * [Commit Strip (Unofficial)](https://github.com/rizalibnu/commit-strip-react-native) - A CommitStrip.com reader built in React Native.
-* [Magento 2 Mobile App](https://github.com/troublediehard/magento-react-native) - Magento 2.x mobile app built with React Native
 
 ## Frameworks
 
