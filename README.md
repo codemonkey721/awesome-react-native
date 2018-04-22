@@ -213,7 +213,6 @@ Content published on the Web.
 * [Optimizing React Native](https://www.youtube.com/watch?v=0MlT74erp60)
 * [Supported Babel/Javascript Features](https://github.com/facebook/react-native/blob/master/babel-preset/configs/main.js)
 * [Diving into React Native Performance](https://code.facebook.com/posts/895897210527114/)
-* [Wait… What Happens When my React Native Application Starts? — An In-depth Look Inside React Native](https://levelup.gitconnected.com/wait-what-happens-when-my-react-native-application-starts-an-in-depth-look-inside-react-native-5f306ef3250f)
 
 ## Components
 
@@ -558,6 +557,7 @@ Components and native modules.
 * [react-native-selectmultiple-button ★6](https://github.com/danceyoung/react-native-selectmultiple-button) - A button (or a grouped buttons) supporting multiple or radio selection
 * [react-native-stylesheet-xg ★6](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
 * [react-native-loading ★5](https://github.com/alcat2008/react-native-loading) - A lightweight loading for your React Native app.
+* [react-native-modal-loader ★4](https://github.com/kdastan/react-native-modal-loader) - Customizable animated modal progress hud for react apps.
 * [react-native-progress-button ★4](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.
 * [react-native-popover-menu ★4](https://github.com/prscX/react-native-popover-menu) - React Native: Native Popover Menu
 * [react-native-about-libraries ★3](https://github.com/prscX/react-native-about-libraries) - React Native: It offers information about install packages
