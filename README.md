@@ -196,6 +196,8 @@ Content published on the Web.
 * [React Native's Layout Animation is Awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e)
 * [Versioning React Native Application in elegant way (cross-platformely)](https://github.com/szhigunov/react-native-npm-version)
 * [Avoiding the Keyboard](https://shift.infinite.red/avoiding-the-keyboard-in-react-native-56d05b9a1e81#.g1lwixck6)
+* [How To Use OpenCV In React Native For Image Processing](https://brainhub.eu/blog/opencv-react-native-image-processing/)
+
 
 ### Continuous Integration
 
@@ -213,6 +215,7 @@ Content published on the Web.
 * [Optimizing React Native](https://www.youtube.com/watch?v=0MlT74erp60)
 * [Supported Babel/Javascript Features](https://github.com/facebook/react-native/blob/master/babel-preset/configs/main.js)
 * [Diving into React Native Performance](https://code.facebook.com/posts/895897210527114/)
+* [Wait… What Happens When my React Native Application Starts? — An In-depth Look Inside React Native](https://levelup.gitconnected.com/wait-what-happens-when-my-react-native-application-starts-an-in-depth-look-inside-react-native-5f306ef3250f)
 
 ## Components
 
@@ -236,6 +239,7 @@ Components and native modules.
 * [react-native-app-intro ★1680](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
 * [react-native-blur ★1644](https://github.com/Kureev/react-native-blur) - React Native Blur component
 * [react-native-calendars ★1625](https://github.com/wix/react-native-calendars) - React Native Calendar Components 📆
+* [react-native-date-range-picker ★1](https://github.com/lazaronixon/react-native-date-range-picker) - Simple date range picker extended from react-native-calendars 📆
 * [react-native-image-crop-picker ★1525](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for multiple images and cropping
 * [gl-react-native ★1501](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
 * [react-native-swipeout ★1486](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
@@ -557,6 +561,7 @@ Components and native modules.
 * [react-native-selectmultiple-button ★6](https://github.com/danceyoung/react-native-selectmultiple-button) - A button (or a grouped buttons) supporting multiple or radio selection
 * [react-native-stylesheet-xg ★6](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
 * [react-native-loading ★5](https://github.com/alcat2008/react-native-loading) - A lightweight loading for your React Native app.
+* [react-native-modal-loader ★4](https://github.com/kdastan/react-native-modal-loader) - Customizable animated modal progress hud for react apps.
 * [react-native-progress-button ★4](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.
 * [react-native-popover-menu ★4](https://github.com/prscX/react-native-popover-menu) - React Native: Native Popover Menu
 * [react-native-about-libraries ★3](https://github.com/prscX/react-native-about-libraries) - React Native: It offers information about install packages
@@ -1042,6 +1047,7 @@ Get a head start on development with an existing seed.
 * [react-native-hot-redux-starter ★136](https://github.com/adampash/react-native-hot-redux-starter)
 * [react-native-redux ★126](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
 * [Rhinos-app ★72](https://github.com/rhinos-app/rhinos-app-dev) - Cross-platform React Native boilerplate (iOS, Android, Web) built on react-native-web.
+* [react-native-template-typescript ★50](https://github.com/emin93/react-native-template-typescript) - Clean and minimalist React Native template for a quick start with TypeScript.
 * [react-native-web-boilerplate ★46](https://github.com/agrcrobles/react-native-web-boilerplate) - A react-native-web stateless hmr boilerplate
 * [🍞 Baker ★46](http://baker.thebakery.io/) - An opinionated MVP toolkit that helps you build mobile apps crazy fast using React Native and Parse Server
 * [react-native-starter by Ueno ★42](https://github.com/ueno-llc/react-native-starter) - Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
@@ -1065,6 +1071,7 @@ Libraries / SDK type additions for React Native development.
 * [Shoutem UI ★2880](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem
 * [Panza ★208](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
 * [BlankApp UI ★30](https://github.com/blankapp/ui) - Highly customizable and theming components for React Native
+* [React Native Common ★14](https://github.com/rghorbani/react-native-common) - UI & API Components Library for React Native
 
 ## Open Source Apps
 
@@ -1156,8 +1163,11 @@ Open source React Native apps and other examples.
 * [Splitcloud](https://github.com/egm0121/splitcloud-app) - Share listening to two songs at the same time from Soundcloud (by splitting right/left channels).
 * [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone
 * [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
-* [Renote ★0](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes. 
+* [Renote ★0](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes.
 * [Commit Strip (Unofficial)](https://github.com/rizalibnu/commit-strip-react-native) - A CommitStrip.com reader built in React Native.
+* [GitHub Jobs Search App (Unofficial)](https://github.com/rizalibnu/github-jobs-react-native) - A GitHub Jobs Search App built in React Native.
+* [Magento 2 Mobile App](https://github.com/troublediehard/magento-react-native) - Magento 2.x mobile app built with React Native
+
 
 ## Frameworks
 
