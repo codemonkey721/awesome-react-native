@@ -239,7 +239,6 @@ Components and native modules.
 * [react-native-app-intro ★1680](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
 * [react-native-blur ★1644](https://github.com/Kureev/react-native-blur) - React Native Blur component
 * [react-native-calendars ★1625](https://github.com/wix/react-native-calendars) - React Native Calendar Components 📆
-* [react-native-date-range-picker ★1](https://github.com/lazaronixon/react-native-date-range-picker) - Simple date range picker extended from react-native-calendars 📆
 * [react-native-image-crop-picker ★1525](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for multiple images and cropping
 * [gl-react-native ★1501](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
 * [react-native-swipeout ★1486](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
@@ -322,6 +321,7 @@ Components and native modules.
 * [react-native-pdf-view ★258](https://github.com/cnjon/react-native-pdf-view) - view pdf file using react-native
 * [react-native-grid-view ★256](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
 * [react-native-timeline-listview ★255](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App
+* [react-native-image-header-scroll-view ★248](https://github.com/bamlab/react-native-image-header-scroll-view) - ScrollView with an image in header which become a navbar
 * [react-native-root-modal ★248](https://github.com/magicismight/react-native-root-modal) - react native modal component
 * [react-native-country-picker-modal ★246](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
 * [react-native-tabbar ★242](https://github.com/alinz/react-native-tabbar) - Tab bar with more freedom
