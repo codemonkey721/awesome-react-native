@@ -321,7 +321,6 @@ Components and native modules.
 * [react-native-pdf-view ★258](https://github.com/cnjon/react-native-pdf-view) - view pdf file using react-native
 * [react-native-grid-view ★256](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
 * [react-native-timeline-listview ★255](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App
-* [react-native-image-header-scroll-view ★248](https://github.com/bamlab/react-native-image-header-scroll-view) - ScrollView with an image in header which become a navbar
 * [react-native-root-modal ★248](https://github.com/magicismight/react-native-root-modal) - react native modal component
 * [react-native-country-picker-modal ★246](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
 * [react-native-tabbar ★242](https://github.com/alinz/react-native-tabbar) - Tab bar with more freedom
@@ -1118,6 +1117,7 @@ Open source React Native apps and other examples.
 * [PxView ★110](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS
 * [Alt/Flux Demo ★107](https://github.com/mrblueblue/react-native-alt-demo)
 * [YouTrack Mobile ★103](https://github.com/JetBrains/youtrack-mobile) – a client for YouTrack – issue tracker from JetBrains.
+* [Photo Sharing App ★100](https://github.com/yasintoy/vecihi) – Build your own photo sharing app.
 * [Appointments ★94](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
 * [Insta Snap ★87](https://github.com/iZaL/insta-snap) - Image Sharing App
 * [Reddit made with React Native and Redux ★81](https://github.com/KevinOfNeu/xReddit)
