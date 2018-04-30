@@ -525,7 +525,7 @@ Components and native modules.
 * [react-native-material-showcase-ios ★18](https://github.com/prscX/react-native-material-showcase-ios) - React Native Bridge for iOS aromajoin/material-showcase-ios. An elegant and beautiful showcase for iOS apps.
 * [rn-ab-hoc ★17](https://github.com/mfrachet/rn-ab-hoc) - Poor intrusive way to make A/B Testing by using an HoC instead of components.
 * [react-native-download-button ★17](https://github.com/prscX/react-native-download-button) - React Native Download Button: with pretty cool animation
-* [react-native-awesome-alert ★18](https://github.com/heyman333/react-native-awesome-alert) - Customizable modal components with ✔️check options in React Native
+* [react-native-awesome-alert ★27](https://github.com/heyman333/react-native-awesome-alert) - Customizable modal components with ✔️check options in React Native
 * [react-native-store-view ★16](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects
 * [react-native-grid ★16](https://github.com/thewei/react-native-grid) - The 24-column grid component for react-native
 * [react-native-android-circles ★15](https://github.com/kwaak/react-native-android-circles) - A react native android package to show a circle progress view.
@@ -635,6 +635,7 @@ Components and native modules.
 * [react-native-universal-modal ★16](https://github.com/bokuweb/react-native-universal-modal) - Universal simple modal component for React Native
 * [react-native-measure-text ★16](https://github.com/airamrguez/react-native-measure-text) - Measure text height without laying it out.
 * [react-native-html ★11](https://github.com/turingou/react-native-html) - render html as react native custom elements
+* [react-native-responsive-fontsize ★1](https://github.com/heyman333/react-native-responsive-fontsize) - Responsive fontSize based on screen-size of the device in React-Native
 
 ### Analytics
 
@@ -1117,7 +1118,6 @@ Open source React Native apps and other examples.
 * [PxView ★110](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS
 * [Alt/Flux Demo ★107](https://github.com/mrblueblue/react-native-alt-demo)
 * [YouTrack Mobile ★103](https://github.com/JetBrains/youtrack-mobile) – a client for YouTrack – issue tracker from JetBrains.
-* [Vecihi App ★100](https://github.com/yasintoy/vecihi) – Build your own photo sharing app.
 * [Appointments ★94](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
 * [Insta Snap ★87](https://github.com/iZaL/insta-snap) - Image Sharing App
 * [Reddit made with React Native and Redux ★81](https://github.com/KevinOfNeu/xReddit)
