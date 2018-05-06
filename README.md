@@ -264,6 +264,7 @@ Components and native modules.
 * [react-native-tableview ★877](https://github.com/aksonov/react-native-tableview) - Native iOS TableView wrapper for React Native
 * [react-native-keyboard-spacer ★853](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) - Plug and play react-Native keyboard spacer view.
 * [react-native-datepicker ★796](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS
+* [react-native-root-toast ★775](https://github.com/magicismight/react-native-root-toast) - React native toast like component, pure javascript solution
 * [react-native-orientation ★764](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
 * [react-native-picker ★748](https://github.com/beefe/react-native-picker) - react-native-picker
 * [react-native-circular-progress ★733](https://github.com/bgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
@@ -580,7 +581,6 @@ Components and native modules.
 * [react-native-timeline-theme ★0](https://github.com/tomzaku/react-native-timeline-theme) - Collection of TimeLine theme. This package only use flexbox(without absolute) & FlatList
 * [react-native-app-auth](https://github.com/FormidableLabs/react-native-app-auth) - React Native bridge for AppAuth - a PKCE-compliant SDK for communicating with OAuth2 providers
 * [react-native-coachmasks ★0](https://github.com/TranLuongTuanAnh/react-native-coachmasks) - react-native-coachmark! It helps you easily create Coach Marks to enhance user experience!
-* [react-native-walkthrough-tooltip ★10](https://github.com/CompanyCam/react-native-walkthrough-tooltip) - Highlight a component via tooltip/popover
 
 ### Navigation
 
