@@ -170,6 +170,7 @@ Content published on the Web.
 
 ### Assorted
 
+* [React and React Native State Museum](https://hackernoon.com/the-react-state-museum-a278c726315)
 * [Top 15 React Native libraries that I use in my apps](https://codingislove.com/top-15-react-native-libraries/)
 * [Building 3 React Native Apps in One Summer](https://medium.com/@rpastorelle/building-3-react-native-apps-in-one-summer-dcd0c31454ff)
 * [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
@@ -264,7 +265,6 @@ Components and native modules.
 * [react-native-tableview ★877](https://github.com/aksonov/react-native-tableview) - Native iOS TableView wrapper for React Native
 * [react-native-keyboard-spacer ★853](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) - Plug and play react-Native keyboard spacer view.
 * [react-native-datepicker ★796](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS
-* [react-native-root-toast ★775](https://github.com/magicismight/react-native-root-toast) - React native toast like component, pure javascript solution
 * [react-native-orientation ★764](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
 * [react-native-picker ★748](https://github.com/beefe/react-native-picker) - react-native-picker
 * [react-native-circular-progress ★733](https://github.com/bgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
