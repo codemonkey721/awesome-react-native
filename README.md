@@ -170,7 +170,6 @@ Content published on the Web.
 
 ### Assorted
 
-* [React and React Native State Museum](https://hackernoon.com/the-react-state-museum-a278c726315)
 * [Top 15 React Native libraries that I use in my apps](https://codingislove.com/top-15-react-native-libraries/)
 * [Building 3 React Native Apps in One Summer](https://medium.com/@rpastorelle/building-3-react-native-apps-in-one-summer-dcd0c31454ff)
 * [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
@@ -547,6 +546,7 @@ Components and native modules.
 * [react-native-app-intro-v2 \*5 ★10](https://github.com/Sh1n1x/react-native-app-intro) - Latest App intro
 * [react-native-seekbar-android ★10](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
 * [react-native-hijri-date-picker ★10](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.
+* [react-native-walkthrough-tooltip ★10](https://github.com/CompanyCam/react-native-walkthrough-tooltip) - Highlight a component via tooltip/popover
 * [react-native-compress ★9](https://github.com/phuochau/react-native-compress) - Compress video for react native. Only for iOS, Android will be coming.
 * [react-native-gravatar ★9](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
 * [react-native-picker-select ★9](https://github.com/lawnstarter/react-native-picker-select) - A Picker component for React Native which emulates the native `<select>` interfaces for iOS and Android
@@ -581,6 +581,7 @@ Components and native modules.
 * [react-native-timeline-theme ★0](https://github.com/tomzaku/react-native-timeline-theme) - Collection of TimeLine theme. This package only use flexbox(without absolute) & FlatList
 * [react-native-app-auth](https://github.com/FormidableLabs/react-native-app-auth) - React Native bridge for AppAuth - a PKCE-compliant SDK for communicating with OAuth2 providers
 * [react-native-coachmasks ★0](https://github.com/TranLuongTuanAnh/react-native-coachmasks) - react-native-coachmark! It helps you easily create Coach Marks to enhance user experience!
+
 
 ### Navigation
 
