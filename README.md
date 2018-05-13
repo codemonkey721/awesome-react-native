@@ -170,6 +170,7 @@ Content published on the Web.
 
 ### Assorted
 
+* [React and React Native State Museum](https://hackernoon.com/the-react-state-museum-a278c726315)
 * [Top 15 React Native libraries that I use in my apps](https://codingislove.com/top-15-react-native-libraries/)
 * [Building 3 React Native Apps in One Summer](https://medium.com/@rpastorelle/building-3-react-native-apps-in-one-summer-dcd0c31454ff)
 * [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
@@ -264,6 +265,7 @@ Components and native modules.
 * [react-native-tableview ★877](https://github.com/aksonov/react-native-tableview) - Native iOS TableView wrapper for React Native
 * [react-native-keyboard-spacer ★853](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) - Plug and play react-Native keyboard spacer view.
 * [react-native-datepicker ★796](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS
+* [react-native-root-toast ★775](https://github.com/magicismight/react-native-root-toast) - React native toast like component, pure javascript solution
 * [react-native-orientation ★764](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
 * [react-native-picker ★748](https://github.com/beefe/react-native-picker) - react-native-picker
 * [react-native-circular-progress ★733](https://github.com/bgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
@@ -321,6 +323,7 @@ Components and native modules.
 * [react-native-pdf-view ★258](https://github.com/cnjon/react-native-pdf-view) - view pdf file using react-native
 * [react-native-grid-view ★256](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
 * [react-native-timeline-listview ★255](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App
+* [react-native-image-header-scroll-view ★248](https://github.com/bamlab/react-native-image-header-scroll-view) - ScrollView with an image in header which become a navbar
 * [react-native-root-modal ★248](https://github.com/magicismight/react-native-root-modal) - react native modal component
 * [react-native-country-picker-modal ★246](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
 * [react-native-tabbar ★242](https://github.com/alinz/react-native-tabbar) - Tab bar with more freedom
@@ -525,7 +528,7 @@ Components and native modules.
 * [react-native-material-showcase-ios ★18](https://github.com/prscX/react-native-material-showcase-ios) - React Native Bridge for iOS aromajoin/material-showcase-ios. An elegant and beautiful showcase for iOS apps.
 * [rn-ab-hoc ★17](https://github.com/mfrachet/rn-ab-hoc) - Poor intrusive way to make A/B Testing by using an HoC instead of components.
 * [react-native-download-button ★17](https://github.com/prscX/react-native-download-button) - React Native Download Button: with pretty cool animation
-* [react-native-awesome-alert ★18](https://github.com/heyman333/react-native-awesome-alert) - Customizable modal components with ✔️check options in React Native
+* [react-native-awesome-alert ★27](https://github.com/heyman333/react-native-awesome-alert) - Customizable modal components with ✔️check options in React Native
 * [react-native-store-view ★16](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects
 * [react-native-grid ★16](https://github.com/thewei/react-native-grid) - The 24-column grid component for react-native
 * [react-native-android-circles ★15](https://github.com/kwaak/react-native-android-circles) - A react native android package to show a circle progress view.
@@ -546,6 +549,7 @@ Components and native modules.
 * [react-native-app-intro-v2 \*5 ★10](https://github.com/Sh1n1x/react-native-app-intro) - Latest App intro
 * [react-native-seekbar-android ★10](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
 * [react-native-hijri-date-picker ★10](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.
+* [react-native-walkthrough-tooltip ★10](https://github.com/CompanyCam/react-native-walkthrough-tooltip) - Highlight a component via tooltip/popover
 * [react-native-compress ★9](https://github.com/phuochau/react-native-compress) - Compress video for react native. Only for iOS, Android will be coming.
 * [react-native-gravatar ★9](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
 * [react-native-picker-select ★9](https://github.com/lawnstarter/react-native-picker-select) - A Picker component for React Native which emulates the native `<select>` interfaces for iOS and Android
@@ -581,6 +585,7 @@ Components and native modules.
 * [react-native-timeline-theme ★0](https://github.com/tomzaku/react-native-timeline-theme) - Collection of TimeLine theme. This package only use flexbox(without absolute) & FlatList
 * [react-native-app-auth](https://github.com/FormidableLabs/react-native-app-auth) - React Native bridge for AppAuth - a PKCE-compliant SDK for communicating with OAuth2 providers
 * [react-native-coachmasks ★0](https://github.com/TranLuongTuanAnh/react-native-coachmasks) - react-native-coachmark! It helps you easily create Coach Marks to enhance user experience!
+
 
 ### Navigation
 
@@ -636,6 +641,7 @@ Components and native modules.
 * [react-native-universal-modal ★16](https://github.com/bokuweb/react-native-universal-modal) - Universal simple modal component for React Native
 * [react-native-measure-text ★16](https://github.com/airamrguez/react-native-measure-text) - Measure text height without laying it out.
 * [react-native-html ★11](https://github.com/turingou/react-native-html) - render html as react native custom elements
+* [react-native-responsive-fontsize ★1](https://github.com/heyman333/react-native-responsive-fontsize) - Responsive fontSize based on screen-size of the device in React-Native
 
 ### Analytics
 
@@ -1118,6 +1124,7 @@ Open source React Native apps and other examples.
 * [PxView ★110](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS
 * [Alt/Flux Demo ★107](https://github.com/mrblueblue/react-native-alt-demo)
 * [YouTrack Mobile ★103](https://github.com/JetBrains/youtrack-mobile) – a client for YouTrack – issue tracker from JetBrains.
+* [Vecihi App ★100](https://github.com/yasintoy/vecihi) – Build your own photo sharing app.
 * [Appointments ★94](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
 * [Insta Snap ★87](https://github.com/iZaL/insta-snap) - Image Sharing App
 * [Reddit made with React Native and Redux ★81](https://github.com/KevinOfNeu/xReddit)
@@ -1150,6 +1157,7 @@ Open source React Native apps and other examples.
 * [f8app](https://github.com/fbsamples/f8app) - Official F8 (Facebook Developer Conference) app of 2017. See [blog post](http://makeitopen.com/blog/2017/12/04/blog-post-f82017-open-source.html).
 * [react-native-otello ★5](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
 * [Hello Bemans ★5](https://github.com/rapportyou/HelloBemans) - Health Trainer Connection App (Android Version)
+* [iGap Plus ★4](https://github.com/RooyeKhat-Media/iGap-Plus) - iGap+ is a cross-platform messaging application (Currently Android , iOS and Windows UWP) and has been created using all latest modern technologies. iGap+ is designed to easily support additional platforms like [web](https://github.com/necolas/react-native-web) , [macOS](https://github.com/ptmt/react-native-macos) and [linux](https://github.com/status-im/react-native-desktop)
 * [RNV2ex ★3](https://github.com/dyygtfx/RNV2ex) - react-native for v2ex
 * [Quick-Sample ★2](https://github.com/innFactory/react-native-quick-sample) - A small and simple example app with navigation, data persistence, redux, listview and animation.
 * [React Native Netflix](https://github.com/mariodev12/react-native-netflix) - A Netflix-like app.
