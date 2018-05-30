@@ -1129,7 +1129,6 @@ Open source React Native apps and other examples.
 * [Alt/Flux Demo ★107](https://github.com/mrblueblue/react-native-alt-demo)
 * [Appointments ★104](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
 * [Insta Snap ★98](https://github.com/iZaL/insta-snap) - Image Sharing App
-* [Rocket.Chat ★92](https://github.com/RocketChat/Rocket.Chat.ReactNative) - Open Source Team Communication
 * [Finance MacOS React Native ★83](https://github.com/7kfpun/FinanceMacOSReactNative) - iOS's Stocks App clone written for MacOS with Touch Bar support. Data is pulled from Yahoo Finance.
 * [Reddit made with React Native and Redux ★82](https://github.com/KevinOfNeu/xReddit)
 * [live translator ★79](https://github.com/agrcrobles/react-native-live-translator) - An app that translates in real time what you see from your mobile.
@@ -1263,6 +1262,7 @@ Assortment of conference and training videos.
 * [Adding Authentication to a React Native Project](https://www.youtube.com/watch?v=dhOk7aNIzKw) - This tutorial shows how to easily add authentication to a React Native application using [AWS Mobile Hub](https://aws.amazon.com/mobile/)
 * Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.
 * [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`
+* [Build a chat app with React Native](https://pusher.com/tutorials/chat-react-native)
 
 ## Blogs
 
