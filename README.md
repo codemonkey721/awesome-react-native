@@ -270,7 +270,7 @@ Components and native modules.
 * [react-native-root-toast ★790](https://github.com/magicismight/react-native-root-toast) - React native toast like component, pure javascript solution
 * [react-native-pathjs-charts ★782](https://github.com/capitalone/react-native-pathjs-charts) - Android and iOS charts based on react-native-svg and paths-js
 * [react-native-loading-spinner-overlay ★751](https://github.com/niftylettuce/react-native-loading-spinner-overlay) - The only pure React Native, Native iOS and Android loading spinner (progress bar indicator) overlay
-* [react-native-largelist ★739](https://github.com/bolan9999/react-native-largelist) - The best performance large list component for React Native.(iOS & Android) View the video of react-native-largelist performance on [youku](http://v.youku.com/v_show/id_XMzI0ODc4ODkyOA==.html)
+* [react-native-largelist ★739](https://github.com/bolan9999/react-native-largelist) - The best performance large list component for React Native.(iOS & Android) View the video of react-native-largelist performance on [youtube](https://youtu.be/k95G3_QGYHE) or [youku](http://v.youku.com/v_show/id_XMzI0ODc4ODkyOA==.html)
 * [react-native-offline ★738](https://github.com/rauliyohmc/react-native-offline) - Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration.
 * [react-native-slider ★714](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript component for react-native
 * [react-native-sglistview ★704](https://github.com/sghiassy/react-native-sglistview) - A memory minded implementation of React Native's ListView
@@ -371,7 +371,6 @@ Components and native modules.
 * [react-native-wheel-picker ★150](https://github.com/lesliesam/react-native-wheel-picker) - React native cross platform picker.
 * [react-native-hero ★149](https://github.com/brh55/react-native-hero) - A hero/banner component with support for dynamic or static images, dynamic sizing, color overlays, and more.
 * [react-native-shine-button ★148](https://github.com/prscX/react-native-shine-button) - React Native for Effects like shining
-
 
 * [react-native-collapsing-toolbar ★147](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - wrapper for android CollapsingToolbarLayout
 * [react-native-checkbox ★144](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
@@ -476,7 +475,7 @@ Components and native modules.
 * [react-native-calendar-android ★44](https://github.com/chymtt/ReactNativeCalendarAndroid) - A simple material-themed calendar for react native android
 * [react-native-simple-stepper ★44](https://github.com/testshallpass/react-native-simple-stepper) - A super simple react-native implementation of the UIStepper iOS control.
 * [react-native-viewport ★43](https://github.com/pjjanak/react-native-viewport) - Viewport dimensions for react-native
-
+* [react-native-code-verification ★12](https://github.com/danchokobo/react-native-code-verification) - Simple UI for pincode/code checking
 
 * [react-native-progress-circular ★42](https://github.com/andy9775/React-Native-CircularProgress) - A pure React Native Component for circular progress bars for both iOS and Android.
 * [react-native-simpledialog-android ★41](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
@@ -610,7 +609,6 @@ Components and native modules.
 * [react-native-router-sinux ★ ★4](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation.
 * [react-native-navigation-buttons ★2](https://github.com/shayne/react-native-navigation-buttons) - iOS navigation buttons for the React Native Navigator
 * [react-native-yynavigator ★1](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
-* [react-native-invoke-app ★0](https://github.com/vicke4/react-native-invoke-app) - Bring React Native App to foreground from Headless JS
 
 #### Navigation/Routing Articles
 
@@ -1163,7 +1161,7 @@ Open source React Native apps and other examples.
 * [Commit Strip (Unofficial) ★7](https://github.com/rizalibnu/commit-strip-react-native) - A CommitStrip.com reader built in React Native.
 * [react-native-otello ★6](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
 * [Hello Bemans ★5](https://github.com/rapportyou/HelloBemans) - Health Trainer Connection App (Android Version)
-* [iGap Plus ★4](https://github.com/RooyeKhat-Media/iGap-Plus) - iGap+ is a cross-platform messaging application (Currently Android , iOS and Windows UWP) and has been created using all latest modern technologies. iGap+ is designed to easily support additional platforms like [web](http://github.com/necolas/react-native-web) , [macOS](https://github.com/ptmt/react-native-macos) and [linux](https://github.com/status-im/react-native-desktop)
+* [iGap Plus ★4](https://github.com/RooyeKhat-Media/iGap-Plus) - iGap+ is a cross-platform messaging application (Currently Android , iOS and Windows UWP) and has been created using all latest modern technologies. iGap+ is designed to easily support additional platforms like react-native-web , react-native-macOS and react-native-descktop
 * [RNV2ex ★4](https://github.com/dyygtfx/RNV2ex) - react-native for v2ex
 * [GitHub Jobs Search App (Unofficial) ★3](https://github.com/rizalibnu/github-jobs-react-native) - A GitHub Jobs Search App built in React Native.
 * [Renote ★2](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes.
@@ -1288,5 +1286,3 @@ Assortment of conference and training videos.
 * [Stable: 0.51.0](https://github.com/facebook/react-native/releases/tag/v0.51.0)
 * [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 * [Next: latest](https://github.com/facebook/react-native/releases/latest)
-
-
