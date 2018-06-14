@@ -784,6 +784,7 @@ Components and native modules.
 * [react-native-gcm-android ★174](https://github.com/oney/react-native-gcm-android) - GCM for Android
 * [react-native-android-sms-listener ★157](https://github.com/CentaurWarchief/react-native-android-sms-listener) - Allows you to listen for incoming SMS messages
 * [react-native-ble ★156](https://github.com/jacobrosenthal/react-native-ble) - React Native BLE using noble api surface
+* [react-native-sensors ★282](https://github.com/react-native-sensors/react-native-sensors) - Platform independent wrapper for sensors like Gyroscope, Accelerometer and Magnetometer with RxJS interface
 * [react-native-sensor-manager ★156](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
 * [react-native-unified-contacts ★113](https://github.com/joshuapinter/react-native-unified-contacts) - React Native iOS 9+ Contacts (ios)
 * [react-native-pinch ★103](https://github.com/localz/react-native-pinch) - SSL pinning for react native
@@ -1166,7 +1167,6 @@ Open source React Native apps and other examples.
 * [Commit Strip (Unofficial) ★7](https://github.com/rizalibnu/commit-strip-react-native) - A CommitStrip.com reader built in React Native.
 * [react-native-otello ★6](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
 * [Hello Bemans ★5](https://github.com/rapportyou/HelloBemans) - Health Trainer Connection App (Android Version)
-* [react-native-uber-clone ★4](https://github.com/saketkumar95/react-native-uber-clone) - Uber UI Clone with animations in react native
 * [iGap Plus ★4](https://github.com/RooyeKhat-Media/iGap-Plus) - iGap+ is a cross-platform messaging application (Currently Android , iOS and Windows UWP) and has been created using all latest modern technologies. iGap+ is designed to easily support additional platforms like [web](http://github.com/necolas/react-native-web) , [macOS](https://github.com/ptmt/react-native-macos) and [linux](https://github.com/status-im/react-native-desktop)
 * [RNV2ex ★4](https://github.com/dyygtfx/RNV2ex) - react-native for v2ex
 * [GitHub Jobs Search App (Unofficial) ★3](https://github.com/rizalibnu/github-jobs-react-native) - A GitHub Jobs Search App built in React Native.
