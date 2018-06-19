@@ -224,7 +224,6 @@ Components and native modules.
 * [react-native-swiper ★6039](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
 * [react-native-gifted-chat ★5224](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
 * [react-native-scrollable-tab-view ★5129](https://github.com/brentvatne/react-native-scrollable-tab-view) - A scrollable tab-view for React Native
-* [react-native-animatable ★4882](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native (built on react-native Animated
 * [react-native-image-picker ★3859](https://github.com/marcshilling/react-native-image-picker) - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.
 * [react-native-material-kit ★3798](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
 * [react-native-snap-carousel ★2641](https://github.com/archriss/react-native-snap-carousel) - Swiper component for React Native with previews, multiple layouts, parallax images, performant handling of huge numbers of items, and RTL support
@@ -784,7 +783,6 @@ Components and native modules.
 * [react-native-gcm-android ★174](https://github.com/oney/react-native-gcm-android) - GCM for Android
 * [react-native-android-sms-listener ★157](https://github.com/CentaurWarchief/react-native-android-sms-listener) - Allows you to listen for incoming SMS messages
 * [react-native-ble ★156](https://github.com/jacobrosenthal/react-native-ble) - React Native BLE using noble api surface
-* [react-native-sensors ★282](https://github.com/react-native-sensors/react-native-sensors) - Platform independent wrapper for sensors like Gyroscope, Accelerometer and Magnetometer with RxJS interface
 * [react-native-sensor-manager ★156](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
 * [react-native-unified-contacts ★113](https://github.com/joshuapinter/react-native-unified-contacts) - React Native iOS 9+ Contacts (ios)
 * [react-native-pinch ★103](https://github.com/localz/react-native-pinch) - SSL pinning for react native
@@ -989,6 +987,7 @@ Components and native modules.
 
 ### Animation
 
+* [react-native-animatable ★5106](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native
 * [react-native-interactable ★3653](https://github.com/wix/react-native-interactable) - experimental implementation of high performance interactable views in React Native
 * [react-native-spruce ★337](https://github.com/prscX/react-native-spruce) - React Native Bridge for Spruce Animation Library
 * [react-native-gl-model-view ★181](https://github.com/rastapasta/react-native-gl-model-view) - Display and animate textured Wavefront .OBJ 3D models with 60fps (iOS)
