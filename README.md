@@ -668,6 +668,7 @@ Components and native modules.
 * [react-native-userdefaults-ios ★62](https://github.com/dsibiski/react-native-userdefaults-ios) - React Native Module for NSUserDefaults
 * [react-native-webp ★55](https://github.com/dbasedow/react-native-webp) - react-native-webp adds support for WebP images for react-native components.
 * [react-native-call-detection ★54](https://github.com/priteshrnandgaonkar/react-native-call-detection) - Helps to detect different call states like Incoming, Disconnected, Dialing and Connected
+* [react-native-call-observer](https://github.com/liamse/react-native-call-observer) - Helps to observer call status like incoming, ended, and connected (iOS).
 * [react-native-user-defaults ★47](https://github.com/wwayne/react-native-user-defaults) - ios UserDefaults used by react-native
 * [react-native-global-event-emitter ★46](https://github.com/paramaggarwal/react-native-global-event-emitter) - Shared event emitter between native and JS for React Native.
 * [react-native-aws-signature ★41](https://github.com/leimd/react-native-aws-signature) - help generate signature required for using AWS API. Necessary to use S3, ec2, or other services.
@@ -880,7 +881,6 @@ Components and native modules.
 * [react-native-simple-sound ★10](https://github.com/mikehedman/react-native-simple-sound) - Start, stop, and pause a sound. iOS only. Derived from https://github.com/zmxv/react-native-sound
 * [react-native-true-sight ★7](https://github.com/ScreamZ/react-native-true-sight) - A cross-platform video player with customizable controls for React Native.
 * [react-native-media-capture ★4](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
-* [react-native-tone ★1](https://github.com/oliviachang29/react-native-tone) - Generates simple sine wave, specify a frequency and amplitude. Play sound indefinitely or for a specified time interval (iOS only).
 
 ### Storage
 
