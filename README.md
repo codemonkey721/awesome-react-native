@@ -270,7 +270,6 @@ Components and native modules.
 * [react-native-root-toast ★790](https://github.com/magicismight/react-native-root-toast) - React native toast like component, pure javascript solution
 * [react-native-pathjs-charts ★782](https://github.com/capitalone/react-native-pathjs-charts) - Android and iOS charts based on react-native-svg and paths-js
 * [react-native-loading-spinner-overlay ★751](https://github.com/niftylettuce/react-native-loading-spinner-overlay) - The only pure React Native, Native iOS and Android loading spinner (progress bar indicator) overlay
-* [react-native-frame-loading ★6](https://github.com/heyman333/react-native-frame-loading) - The Loading indicator with frame by frame view animation 
 * [react-native-largelist ★739](https://github.com/bolan9999/react-native-largelist) - The best performance large list component for React Native.(iOS & Android) View the video of react-native-largelist performance on [youku](http://v.youku.com/v_show/id_XMzI0ODc4ODkyOA==.html)
 * [react-native-offline ★738](https://github.com/rauliyohmc/react-native-offline) - Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration.
 * [react-native-slider ★714](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript component for react-native
@@ -881,6 +880,7 @@ Components and native modules.
 * [react-native-simple-sound ★10](https://github.com/mikehedman/react-native-simple-sound) - Start, stop, and pause a sound. iOS only. Derived from https://github.com/zmxv/react-native-sound
 * [react-native-true-sight ★7](https://github.com/ScreamZ/react-native-true-sight) - A cross-platform video player with customizable controls for React Native.
 * [react-native-media-capture ★4](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
+* [react-native-tone ★1](https://github.com/oliviachang29/react-native-tone) - Generates simple sine wave, specify a frequency and amplitude. Play sound indefinitely or for a specified time interval (iOS only).
 
 ### Storage
 
