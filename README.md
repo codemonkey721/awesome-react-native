@@ -575,6 +575,7 @@ Components and native modules.
 * [react-native-date-range-picker ★7](https://github.com/lazaronixon/react-native-date-range-picker) - Simple date range picker extended from react-native-calendars 📆
 * [react-native-navbar-color ★6](https://github.com/BhavanPatel/react-native-navbar-color) - Change Navigationbar Color in Android
 * [react-native-censored ★5](https://github.com/redpandatronicsuk/react-native-censored) - React Native component to censor content.
+* [react-native-custom-picker ★5](https://github.com/budiadiono/react-native-custom-picker) - React native customizable picker component.
 * [react-native-animated-styles ★4](https://github.com/ericpkerr/react-native-animated-styles) - Easily animate/transition react components between two style states.
 * [react-native-loader-hud ★3](https://github.com/EdgeJay/react-native-loader-hud) - Loader animation library for React Native
 * [react-native-double-buffer ★3](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
@@ -668,7 +669,6 @@ Components and native modules.
 * [react-native-userdefaults-ios ★62](https://github.com/dsibiski/react-native-userdefaults-ios) - React Native Module for NSUserDefaults
 * [react-native-webp ★55](https://github.com/dbasedow/react-native-webp) - react-native-webp adds support for WebP images for react-native components.
 * [react-native-call-detection ★54](https://github.com/priteshrnandgaonkar/react-native-call-detection) - Helps to detect different call states like Incoming, Disconnected, Dialing and Connected
-* [react-native-call-observer](https://github.com/liamse/react-native-call-observer) - Helps to observer call status like incoming, ended, and connected (iOS).
 * [react-native-user-defaults ★47](https://github.com/wwayne/react-native-user-defaults) - ios UserDefaults used by react-native
 * [react-native-global-event-emitter ★46](https://github.com/paramaggarwal/react-native-global-event-emitter) - Shared event emitter between native and JS for React Native.
 * [react-native-aws-signature ★41](https://github.com/leimd/react-native-aws-signature) - help generate signature required for using AWS API. Necessary to use S3, ec2, or other services.
