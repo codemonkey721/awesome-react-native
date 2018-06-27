@@ -151,6 +151,7 @@ Content published on the Web.
 
 ### Howtos
 
+* [How to upgrade React Navigation 1.x to 2.x](https://shift.infinite.red/upgrading-from-react-navigation-v1-to-v2-312d932329ba)
 * [How to add Firebase Auth with react native ★4](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_add_Firebase_Auth_with_react_native)
 * [React-Navigation Drawer](https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc)
 * [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)
@@ -224,7 +225,6 @@ Components and native modules.
 * [react-native-swiper ★6039](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
 * [react-native-gifted-chat ★5224](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
 * [react-native-scrollable-tab-view ★5129](https://github.com/brentvatne/react-native-scrollable-tab-view) - A scrollable tab-view for React Native
-* [react-native-animatable ★4882](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native (built on react-native Animated
 * [react-native-image-picker ★3859](https://github.com/marcshilling/react-native-image-picker) - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.
 * [react-native-material-kit ★3798](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
 * [react-native-snap-carousel ★2641](https://github.com/archriss/react-native-snap-carousel) - Swiper component for React Native with previews, multiple layouts, parallax images, performant handling of huge numbers of items, and RTL support
@@ -785,6 +785,7 @@ Components and native modules.
 * [react-native-gcm-android ★174](https://github.com/oney/react-native-gcm-android) - GCM for Android
 * [react-native-android-sms-listener ★157](https://github.com/CentaurWarchief/react-native-android-sms-listener) - Allows you to listen for incoming SMS messages
 * [react-native-ble ★156](https://github.com/jacobrosenthal/react-native-ble) - React Native BLE using noble api surface
+* [react-native-sensors ★282](https://github.com/react-native-sensors/react-native-sensors) - Platform independent wrapper for sensors like Gyroscope, Accelerometer and Magnetometer with RxJS interface
 * [react-native-sensor-manager ★156](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
 * [react-native-unified-contacts ★113](https://github.com/joshuapinter/react-native-unified-contacts) - React Native iOS 9+ Contacts (ios)
 * [react-native-pinch ★103](https://github.com/localz/react-native-pinch) - SSL pinning for react native
@@ -881,6 +882,7 @@ Components and native modules.
 * [react-native-simple-sound ★10](https://github.com/mikehedman/react-native-simple-sound) - Start, stop, and pause a sound. iOS only. Derived from https://github.com/zmxv/react-native-sound
 * [react-native-true-sight ★7](https://github.com/ScreamZ/react-native-true-sight) - A cross-platform video player with customizable controls for React Native.
 * [react-native-media-capture ★4](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
+* [react-native-tone ★1](https://github.com/oliviachang29/react-native-tone) - Generates simple sine wave, specify a frequency and amplitude. Play sound indefinitely or for a specified time interval (iOS only).
 
 ### Storage
 
@@ -989,6 +991,7 @@ Components and native modules.
 
 ### Animation
 
+* [react-native-animatable ★5106](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native
 * [react-native-interactable ★3653](https://github.com/wix/react-native-interactable) - experimental implementation of high performance interactable views in React Native
 * [react-native-spruce ★337](https://github.com/prscX/react-native-spruce) - React Native Bridge for Spruce Animation Library
 * [react-native-gl-model-view ★181](https://github.com/rastapasta/react-native-gl-model-view) - Display and animate textured Wavefront .OBJ 3D models with 60fps (iOS)
@@ -1133,6 +1136,7 @@ Open source React Native apps and other examples.
 * [Appointments ★104](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
 * [Insta Snap ★98](https://github.com/iZaL/insta-snap) - Image Sharing App
 * [Rocket.Chat ★92](https://github.com/RocketChat/Rocket.Chat.ReactNative) - Open Source Team Communication
+* [Roverz ★14](https://github.com/mongrov/roverz) - A native mobile chat client library for Rocket.Chat on both iOS and Android.
 * [Finance MacOS React Native ★83](https://github.com/7kfpun/FinanceMacOSReactNative) - iOS's Stocks App clone written for MacOS with Touch Bar support. Data is pulled from Yahoo Finance.
 * [Reddit made with React Native and Redux ★82](https://github.com/KevinOfNeu/xReddit)
 * [live translator ★79](https://github.com/agrcrobles/react-native-live-translator) - An app that translates in real time what you see from your mobile.
@@ -1167,6 +1171,7 @@ Open source React Native apps and other examples.
 * [Commit Strip (Unofficial) ★7](https://github.com/rizalibnu/commit-strip-react-native) - A CommitStrip.com reader built in React Native.
 * [react-native-otello ★6](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
 * [Hello Bemans ★5](https://github.com/rapportyou/HelloBemans) - Health Trainer Connection App (Android Version)
+* [react-native-uber-clone ★4](https://github.com/saketkumar95/react-native-uber-clone) - Uber UI Clone with animations in react native
 * [iGap Plus ★4](https://github.com/RooyeKhat-Media/iGap-Plus) - iGap+ is a cross-platform messaging application (Currently Android , iOS and Windows UWP) and has been created using all latest modern technologies. iGap+ is designed to easily support additional platforms like [web](http://github.com/necolas/react-native-web) , [macOS](https://github.com/ptmt/react-native-macos) and [linux](https://github.com/status-im/react-native-desktop)
 * [RNV2ex ★4](https://github.com/dyygtfx/RNV2ex) - react-native for v2ex
 * [GitHub Jobs Search App (Unofficial) ★3](https://github.com/rizalibnu/github-jobs-react-native) - A GitHub Jobs Search App built in React Native.
