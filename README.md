@@ -524,6 +524,7 @@ Components and native modules.
 * [react-native-circle-progress ★24](https://github.com/guodong000/react-native-circle-progress) - A custom Circle Progress Indicator for React Native
 * [react-native-showdown ★24](https://github.com/jerolimov/react-native-showdown) - React-native component which renders markdown into a webview!
 * [react-native-app-intro-v2 \*5 ★24](https://github.com/Sh1n1x/react-native-app-intro) - Latest App intro
+* [react-native-copilot ★365](https://github.com/okgrow/react-native-copilot) - Step-by-step walkthrough for your react native app
 * [react-native-multi-select ★23](https://github.com/hasangilak/react-native-multi-select) - you know select2 on web ? now you have it in react native at your command :)
 * [react-native-big-slider ★23](https://github.com/netbeast/react-native-big-slider) - Yet another, big one, pure JS easily customisable and hackable react-native slider component.
 * [react-native-orientation-controller ★22](https://github.com/inProgress-team/react-native-orientation-controller) - A react-native library for obtaining and controlling the current device and application orientation
@@ -1170,7 +1171,6 @@ Open source React Native apps and other examples.
 * [Commit Strip (Unofficial) ★7](https://github.com/rizalibnu/commit-strip-react-native) - A CommitStrip.com reader built in React Native.
 * [react-native-otello ★6](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
 * [Hello Bemans ★5](https://github.com/rapportyou/HelloBemans) - Health Trainer Connection App (Android Version)
-* [react-native-medium-clap-animation ★4](https://github.com/saketkumar95/react-native-medium-clap-animation) - Medium Clap Animation in React Native
 * [react-native-uber-clone ★4](https://github.com/saketkumar95/react-native-uber-clone) - Uber UI Clone with animations in react native
 * [iGap Plus ★4](https://github.com/RooyeKhat-Media/iGap-Plus) - iGap+ is a cross-platform messaging application (Currently Android , iOS and Windows UWP) and has been created using all latest modern technologies. iGap+ is designed to easily support additional platforms like [web](http://github.com/necolas/react-native-web) , [macOS](https://github.com/ptmt/react-native-macos) and [linux](https://github.com/status-im/react-native-desktop)
 * [RNV2ex ★4](https://github.com/dyygtfx/RNV2ex) - react-native for v2ex
