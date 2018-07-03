@@ -574,6 +574,7 @@ Components and native modules.
 * [react-native-progress-button ★7](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.
 * [react-native-date-range-picker ★7](https://github.com/lazaronixon/react-native-date-range-picker) - Simple date range picker extended from react-native-calendars 📆
 * [react-native-navbar-color ★6](https://github.com/BhavanPatel/react-native-navbar-color) - Change Navigationbar Color in Android
+* [react-native-frame-loading ★6](https://github.com/heyman333/react-native-frame-loading) - The Loading indicator with frame by frame view animation 
 * [react-native-censored ★5](https://github.com/redpandatronicsuk/react-native-censored) - React Native component to censor content.
 * [react-native-animated-styles ★4](https://github.com/ericpkerr/react-native-animated-styles) - Easily animate/transition react components between two style states.
 * [react-native-loader-hud ★3](https://github.com/EdgeJay/react-native-loader-hud) - Loader animation library for React Native
@@ -686,7 +687,6 @@ Components and native modules.
 * [react-native-crypto ★4](https://github.com/mvayngrib/react-native-crypto) - implementation of crypto for React Native
 * [react-native-HsvToRgb ★3](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 * [react-native-tools ★0](https://github.com/kkennis/react-native-tools) - Tools for react native project development
-* [react-native-call-observer](https://github.com/liamse/react-native-call-observer) - Helps to observe call status like incoming, ended, and connected (iOS).
 
 ### Forms
 
