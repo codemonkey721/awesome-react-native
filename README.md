@@ -307,7 +307,6 @@ Components and native modules.
 * [react-native-radio-buttons ★381](https://github.com/ArnaudRinquin/react-native-radio-buttons) - A react component to implement custom radio buttons-like behaviors: multiple options, only on can be selected at once.
 * [react-native-gesture-password ★372](https://github.com/spikef/react-native-gesture-password) - A gesture password component for React Native
 * [react-native-invertible-scroll-view ★365](https://github.com/exponentjs/react-native-invertible-scroll-view) - An invertible ScrollView for React Native
-* [react-native-copilot ★365](https://github.com/okgrow/react-native-copilot) - Step-by-step walkthrough for your react native app
 * [react-native-accordion ★364](https://github.com/naoufal/react-native-accordion) - An Accordion Component for React Native
 * [react-native-message-bar ★347](https://github.com/KBLNY/react-native-message-bar) - A module for presenting notifications via an animated message bar at the top/bottom of the screen, highly customizable, for React Native (Android and iOS) projects.
 * [react-native-splashscreen ★336](https://github.com/remobile/react-native-splashscreen) - A splash screen for react-native
@@ -1165,6 +1164,7 @@ Open source React Native apps and other examples.
 * [Roxie ★19](https://github.com/venepe/react-native-roxie) - Sound processing and bluetooth hardware control.
 * [Text Blast ★18](https://github.com/SeshApp/text-blast-react-native) - iOS client for MMS text blasting app with analogous [ionic version](https://github.com/SeshApp/text-blast-ionic) for comparison
 * [NewYorkTimesTopStories ★14](https://github.com/vidyuthd/NYTimesTopStories-React-Native) - Read Topstories of NewYorkTimes using its api written for android in react-native.
+* [Roverz ★14](https://github.com/mongrov/roverz) - A native mobile chat client library for Rocket.Chat on both iOS and Android.
 * [Posters\_Galore\_Android ★11](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
 * [Quick-Sample ★9](https://github.com/innFactory/react-native-quick-sample) - A small and simple example app with navigation, data persistence, redux, listview and animation.
 * [Magento 2 Mobile App ★9](https://github.com/troublediehard/magento-react-native) - Magento 2.x mobile app built with React Native
