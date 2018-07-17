@@ -71,10 +71,9 @@ dotan-at-paracode.com.
 
 
 - [Conferences](#conferences)
-  - [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland)
-  - [React Alicante - Alicante, Spain](#react-alicante---alicante-spain)
-  - [ReactNext - Tel Aviv, Israel](#reactnext---tel-aviv-israel)
-  - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)  
+  - [Chain React Conf - USA](#chain-react-conf---usa)
+  - [React Conf BR - Brazil](#react-conf-br---brazil)
+  - [React Native EU - Poland](#react-native-eu---poland)
 - [Articles](#articles)
   - [Reference](#reference)
   - [Howtos](#howtos)
@@ -128,28 +127,19 @@ Conferences dedicated to React Native specifically. A listing of React
 general conferences can be found on the [ReactJS
 site](https://facebook.github.io/react/docs/conferences.html).
 
-### React Native EU - Wroclaw, Poland
-http://react-native.eu/
+### Chain React Conf - USA
 
-Workshops - September 3-4th, 2018\
-Conference - September 5-6th, 2018
+July 11-13, 2018 in Portland, OR - https://infinite.red/ChainReactConf
+Twitter: https://twitter.com/chainreactconf Email: conf@infinite.red
 
-### React Alicante - Alicante, Spain
-http://reactalicante.es/
+### React Conf BR - Brazil
 
-Workshops - September 13th, 2018\
-Conference - September 14-15th, 2018
+October 07, 2017 in São Paulo, SP - http://reactconfbr.com.br Facebook:
+https://www.facebook.com/reactconf Email: reactconfbr@gmail.com
 
-### ReactNext - Tel Aviv, Israel
-https://react-next.com/
+### React Native EU - Poland
 
-Conference - November 4th, 2018
-
-### React Berlin - Berlin, Germany
-https://reactday.berlin/
-
-Conference - November 30th, 2018
-
+Fall 2017 - http://react-native.eu/ Email: team@reactnative.eu
 
 ## Articles
 
@@ -174,6 +164,7 @@ Content published on the Web.
 * [Remote Push Notifications with OneSignal](https://medium.com/differential/react-native-push-notifications-with-onesignal-9db6a7d75e1e#.d0zob0pdw)
 * [Release React Native App to Android Play Store](https://shift.infinite.red/simple-react-native-android-releases-319dc5e29605)
 * [React Native & Apple TV today](https://medium.com/@7ynk3r/react-native-apple-tv-today-48beb398a1ab#.5pp5drlyy)
+* [Record and Upload Videos with React Native](https://medium.com/react-native-training/uploading-videos-from-react-native-c79f520b9ae1)
 
 ### Assorted
 
