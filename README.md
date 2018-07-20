@@ -164,7 +164,6 @@ Content published on the Web.
 * [Remote Push Notifications with OneSignal](https://medium.com/differential/react-native-push-notifications-with-onesignal-9db6a7d75e1e#.d0zob0pdw)
 * [Release React Native App to Android Play Store](https://shift.infinite.red/simple-react-native-android-releases-319dc5e29605)
 * [React Native & Apple TV today](https://medium.com/@7ynk3r/react-native-apple-tv-today-48beb398a1ab#.5pp5drlyy)
-* [Record and Upload Videos with React Native](https://medium.com/react-native-training/uploading-videos-from-react-native-c79f520b9ae1)
 
 ### Assorted
 
@@ -758,6 +757,7 @@ Components and native modules.
 * [react-native-css-modules ★15](https://github.com/kristerkari/react-native-css-modules) - Style React-Native components using CSS, Sass, Less or Stylus.
 * [rn-less ★14](https://github.com/blackmiaool/rn-less) - Style react-native with less (with VS Code extension support)
 * [styled-react-native](https://github.com/jsifalda/styled-react-native) - Advanced react native styling with simple method (style overwrites, component composition, enhanced style property). Full intro in [this Medium article](https://medium.com/@JSifalda/advanced-react-native-styling-with-a-few-lines-of-code-4b6a94385015).
+* [react-native-paint ★0](https://github.com/brankeye/react-native-paint) - A themeable abstraction over React Native StyleSheet. Read about it [here](https://medium.com/@brankeye/making-easily-themeable-react-native-stylesheets-bd8782b4e685).
 
 ### System
 
