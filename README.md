@@ -553,6 +553,7 @@ Components and native modules.
 * [react-native-custom-actionsheet ★14](https://github.com/valerybugakov/react-native-custom-actionsheet) - Fully customizable ActionSheet for React Native.
 * [react-native-multiselect ★13](https://github.com/robcalcroft/react-native-multiselect) - A simple multi select component with events and a flexible API.
 * [react-native-hijri-date-picker ★13](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.
+* [react-native-gl-image-filters ★12](https://github.com/GregoryNative/react-native-gl-image-filters) - React Native GL Filters for Image implementation.
 * [react-native-rebound-scrollview ★12](https://github.com/jaxchow/react-native-rebound-scrollview) - React Native Android ReboundScrollView implementation.
 * [react-native-imagewand ★12](https://github.com/NorthFoxz/react-native-imagewand) - image wand for react native
 * [react-native-gravatar ★12](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
@@ -988,7 +989,6 @@ Components and native modules.
 * [react-native-fbintent ★3](https://github.com/syarul/react-native-fbintent) - A React Native intent for Android Facebook App
 * [react-native-instagram ★3](https://github.com/watzak/react-native-instagram) - react-native instagram wrapper api (iOS)
 * [react-native-heyzap](https://github.com/react-native-contrib/react-native-heyzap)- Heyzap plugin for React Native
-* [react-native-launch-navigator](https://github.com/dpa99c/react-native-launch-navigator) - React Native module to launch popular navigation/ride apps from a single API (Android & iOS)
 
 ### Monetization
 
