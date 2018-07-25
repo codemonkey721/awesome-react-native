@@ -283,6 +283,7 @@ Components and native modules.
 * [react-native-masonry ★614](https://github.com/brh55/react-native-masonry) - A masonry~ish layout for rendering images.
 * [react-router-native ★594](https://github.com/jmurzy/react-router-native) - A routing library for React Native that strives for sensible API parity with [React Router](https://github.com/reactjs/react-router)
 * [react-native-bottom-sheet-behavior ★589](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - A react native wrapper for android BottomSheetBehavior.
+* [react-native-material-menu ★72](https://github.com/mxck/react-native-material-menu) - Pure JavaScript material menu component for React Native.
 * [react-native-modal-dropdown ★572](https://github.com/sohobloo/react-native-modal-dropdown) - A react-native dropdown/picker/selector component for both Android & iOS.
 * [react-native-calendar ★552](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
 * [react-native-photo-browser ★513](https://github.com/halilb/react-native-photo-browser) - Local and remote photo browser with captions, selections and grid view support.
@@ -553,7 +554,6 @@ Components and native modules.
 * [react-native-custom-actionsheet ★14](https://github.com/valerybugakov/react-native-custom-actionsheet) - Fully customizable ActionSheet for React Native.
 * [react-native-multiselect ★13](https://github.com/robcalcroft/react-native-multiselect) - A simple multi select component with events and a flexible API.
 * [react-native-hijri-date-picker ★13](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.
-* [react-native-gl-image-filters ★12](https://github.com/GregoryNative/react-native-gl-image-filters) - React Native GL Filters for Image implementation.
 * [react-native-rebound-scrollview ★12](https://github.com/jaxchow/react-native-rebound-scrollview) - React Native Android ReboundScrollView implementation.
 * [react-native-imagewand ★12](https://github.com/NorthFoxz/react-native-imagewand) - image wand for react native
 * [react-native-gravatar ★12](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
