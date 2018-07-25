@@ -283,7 +283,6 @@ Components and native modules.
 * [react-native-masonry ★614](https://github.com/brh55/react-native-masonry) - A masonry~ish layout for rendering images.
 * [react-router-native ★594](https://github.com/jmurzy/react-router-native) - A routing library for React Native that strives for sensible API parity with [React Router](https://github.com/reactjs/react-router)
 * [react-native-bottom-sheet-behavior ★589](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - A react native wrapper for android BottomSheetBehavior.
-* [react-native-material-menu ★72](https://github.com/mxck/react-native-material-menu) - Pure JavaScript material menu component for React Native.
 * [react-native-modal-dropdown ★572](https://github.com/sohobloo/react-native-modal-dropdown) - A react-native dropdown/picker/selector component for both Android & iOS.
 * [react-native-calendar ★552](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
 * [react-native-photo-browser ★513](https://github.com/halilb/react-native-photo-browser) - Local and remote photo browser with captions, selections and grid view support.
@@ -664,6 +663,7 @@ Components and native modules.
 * [detox ★2447](https://github.com/wix/detox) - Graybox End-to-End (functional) Tests and Automation Library for Mobile with first class support for React Native
 * [react-native-workers ★559](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
 * [react-native-mock ★464](https://github.com/RealOrangeOne/react-native-mock) - A fully mocked and test-friendly version of react native
+* [loki ★302](https://github.com/oblador/loki) - Visual Regression Testing for Storybook
 * [react-native-slowlog ★190](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
 * [react-native-zip-archive ★136](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
 * [react-native-tips ★104](https://github.com/frichti/react-native-tips) - This module is used to create easily some tips to help your new users to understand how works your app.
