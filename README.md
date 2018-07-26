@@ -428,6 +428,7 @@ Components and native modules.
 * [react-native-progressive-input ★77](https://github.com/khaiql/react-native-progressive-input) - TextInput with clear button and activity indicator, used as part of autocomplete list.
 * [react-native-android-wheel-picker ★77](https://github.com/ElekenAgency/ReactNativeWheelPicker) - Simple and flexible React native wheel picker for Android, including DatePicker and TimePicker.
 * [react-native-material-showcase-ios ★75](https://github.com/prscX/react-native-material-showcase-ios) - React Native Bridge for iOS aromajoin/material-showcase-ios. An elegant and beautiful showcase for iOS apps.
+* [react-native-material-menu ★72](https://github.com/mxck/react-native-material-menu) - Pure JavaScript material menu component for React Native.
 * [react-native-android-blurryoverlay ★71](https://github.com/kwaak/react-native-android-blurryoverlay) - A react native android package to show a blurry overlay.
 * [react-native-charts ★69](https://github.com/PrazAs/react-native-charts) - Delightfully-animated data visualization.
 * [react-native-textinput-utils ★69](https://github.com/DickyT/react-native-textinput-utils) - A react native extension which allows you to control TextInput better.
@@ -663,7 +664,6 @@ Components and native modules.
 * [detox ★2447](https://github.com/wix/detox) - Graybox End-to-End (functional) Tests and Automation Library for Mobile with first class support for React Native
 * [react-native-workers ★559](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
 * [react-native-mock ★464](https://github.com/RealOrangeOne/react-native-mock) - A fully mocked and test-friendly version of react native
-* [loki ★302](https://github.com/oblador/loki) - Visual Regression Testing for Storybook
 * [react-native-slowlog ★190](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
 * [react-native-zip-archive ★136](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
 * [react-native-tips ★104](https://github.com/frichti/react-native-tips) - This module is used to create easily some tips to help your new users to understand how works your app.
