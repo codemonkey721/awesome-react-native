@@ -71,6 +71,7 @@ dotan-at-paracode.com.
 
 
 - [Conferences](#conferences)
+  - [Chain React - Portland, OR USA](#chain-react---portland-or-usa)
   - [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland)
   - [React Alicante - Alicante, Spain](#react-alicante---alicante-spain)
   - [ReactNext - Tel Aviv, Israel](#reactnext---tel-aviv-israel)
@@ -127,6 +128,12 @@ list](https://github.com/jondot/awesome-react-native/graphs/contributors)\:)
 Conferences dedicated to React Native specifically. A listing of React
 general conferences can be found on the [ReactJS
 site](https://facebook.github.io/react/docs/conferences.html).
+
+### Chain React - Portland, OR USA
+http://chainreactconf.com
+
+Workshops - July 11th, 2018\
+Conference - July 12-13th, 2018
 
 ### React Native EU - Wroclaw, Poland
 http://react-native.eu/
@@ -197,7 +204,6 @@ Content published on the Web.
 * [An iOS Developer on React Native](https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0)
 * [React Native and WebRTC](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/)
 * [How to bridge a Swift view](http://browniefed.com/blog/2015/11/28/react-native-how-to-bridge-a-swift-view/)
-* [How to select the right React Native database](https://www.simform.com/react-native-database-selection-guide/)
 * [Building a Native SoundCloud Android app with Redux](https://wiredcraft.com/blog/native-soundcloud-android-app/) - discussing redux, code reuse and performance on Android.
 * [React Native Twitter exploding heart](http://browniefed.com/blog/2015/11/07/react-native-how-to-create-twitter-exploding-hearts/) - hardcore animations with Animation and ReactART
 * [Using AI to discover UI components](https://www.youtube.com/watch?v=_iiKl0BB6ho) - fun image processing / AI assisted process to discover and generate React Native UI
