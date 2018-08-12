@@ -436,6 +436,7 @@ Components and native modules.
 * [react-native-scl-alert ★80](https://github.com/rafaelmotta/react-native-scl-alert) - React Native implementation of the package SCLAlertView-Swift
 * [react-native-page-swiper ★79](https://github.com/fixt/react-native-page-swiper) - Page Swiper component for React Native.
 * [react-native-emoji-picker ★78](https://github.com/yonahforst/react-native-emoji-picker) - Simple Emoji picker for react-native with optional modal-like component
+* [react-native-sketch-canvas ★77](https://github.com/terrylinla/react-native-sketch-canvas) - A React Native component for drawing by touching on iOS and Android. (support drawing on image, text)
 * [react-native-progressive-input ★77](https://github.com/khaiql/react-native-progressive-input) - TextInput with clear button and activity indicator, used as part of autocomplete list.
 * [react-native-android-wheel-picker ★77](https://github.com/ElekenAgency/ReactNativeWheelPicker) - Simple and flexible React native wheel picker for Android, including DatePicker and TimePicker.
 * [react-native-material-showcase-ios ★75](https://github.com/prscX/react-native-material-showcase-ios) - React Native Bridge for iOS aromajoin/material-showcase-ios. An elegant and beautiful showcase for iOS apps.
@@ -475,8 +476,7 @@ Components and native modules.
 * [react-native-card-media ★50](https://github.com/dondoko-susumu/react-native-card-media) - Card media component & Support multiple image layout
 * [react-native-masked-view ★48](https://github.com/gilbox/react-native-masked-view) - A element for react-native
 * [react-native-touchable-bounce ★48](https://github.com/grabbou/react-native-touchable-bounce) - React Native Touchable Bounce
-* [react-native-adbannerview ★49](https://github.com/Purii/react-native-adbannerview) - React Native Bridge for ADBannerView
-* [react-native-bottom-action-sheet ★47](https://github.com/prscX/react-native-bottom-action-sheet) - React Native: Native Bottom Action Sheet
+* [react-native-adbannerview ★49](https://github.com/Purii/react-native-adbannerview) - React Native Bridge for ADBannerView  \* [react-native-bottom-action-sheet ★47](https://github.com/prscX/react-native-bottom-action-sheet) - React Native: Native Bottom Action Sheet
 * [react-native-fxblurview ★47](https://github.com/magus/react-native-fxblurview) - React Native wrapper for popular FXBlurView library for realtime, fine-tuned blur effects
 * [react-native-beautiful-image ★47](https://github.com/phuochau/react-native-beautiful-image) - The Beautiful Image component that supports fadeIn animation and shows placeholderSource if the main source can't be loaded.
 * [react-native-material-cards ★47](https://github.com/SiDevesh/React-Native-Material-Cards) - A material design card component, customizable and versatile.
