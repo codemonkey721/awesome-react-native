@@ -58,10 +58,10 @@ dotan-at-paracode.com.
 
 ## Recommended SDK for bug and crash reporting [Instabug](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=header)
 
-[![react-native](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/react-native/?utm\_source=awesomereact&utm\_medium=spon&utm\_content=banner)
+[![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40114739-4e0ff416-590e-11e8-9a29-55fb2d4cfebc.png)](https://try.instabug.com/react-native/?utm\_source=awesomereact&utm\_medium=spon&utm\_content=banner)
 
-> We highly recommend integrating Instabug’s framework as they compiled a lot of great features in their SDK that provides useful and rich data with each bug/crash report.
-> They removed the hassle of debugging as the SDK automatically attach screenshots, screen recordings, device details, network logs and repro-steps with each bug report which speeds up development process. [_learn more._ ](https://try.instabug.com/react-native/?utm\_source=awesomereact&utm\_medium=spon&utm\_content=learnmore)🚀
+> Instabug has just released their visual repro steps feature to enable you to trace all the views that the user interacted with before a bug or a crash occured. This will help you reproduce bugs and fix them 10x faster.<br>
+We highly recommend integrating Instabug’s framework as they compiled a lot of other great features providing you with useful and rich data attached to each bug or crash report. [_learn more._ ](https://try.instabug.com/react-native/?utm\_source=awesomereact&utm\_medium=spon&utm\_content=learnmore)🚀
 > [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomereact?pixel)](https://instabug.com)
 
 # Categories
@@ -74,7 +74,7 @@ dotan-at-paracode.com.
   - [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland)
   - [React Alicante - Alicante, Spain](#react-alicante---alicante-spain)
   - [ReactNext - Tel Aviv, Israel](#reactnext---tel-aviv-israel)
-  - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)  
+  - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)
 - [Articles](#articles)
   - [Reference](#reference)
   - [Howtos](#howtos)
@@ -163,7 +163,6 @@ Content published on the Web.
 
 * [How to upgrade React Navigation 1.x to 2.x](https://shift.infinite.red/upgrading-from-react-navigation-v1-to-v2-312d932329ba)
 * [How to add Firebase Auth with react native ★4](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_add_Firebase_Auth_with_react_native)
-* [How to use React Native Navigation v2 with Redux and Google Analytics](https://www.codingsavvy.com/2018/08/react-native-navigation-v2-with-redux.html)
 * [React-Navigation Drawer](https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc)
 * [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)
 * [Getting Started with React Native Development for Windows](https://shift.infinite.red/getting-started-with-react-native-development-for-windows-ba23a4be90b6#.n6vtqtikh)
@@ -661,6 +660,7 @@ Components and native modules.
 * [react-native-universal-modal ★16](https://github.com/bokuweb/react-native-universal-modal) - Universal simple modal component for React Native
 * [react-native-html ★11](https://github.com/turingou/react-native-html) - render html as react native custom elements
 * [react-native-responsive-fontsize ★2](https://github.com/heyman333/react-native-responsive-fontsize) - Responsive fontSize based on screen-size of the device in React-Native
+* [react-native-text-size ★10](https://github.com/aMarCruz/react-native-text-size) - Measure text accurately before laying it out and get font information from your App.
 * [rn-pdf-reader-js ★6](https://github.com/xcarpentier/rn-pdf-reader-js/blob/master/README.md) - A PDF reader, in JavaScript only, for Expo, Android capable, PDF.JS
 
 ### Analytics
