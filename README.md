@@ -74,7 +74,7 @@ We highly recommend integrating Instabug’s framework as they compiled a lot of
   - [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland)
   - [React Alicante - Alicante, Spain](#react-alicante---alicante-spain)
   - [ReactNext - Tel Aviv, Israel](#reactnext---tel-aviv-israel)
-  - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)
+  - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)  
 - [Articles](#articles)
   - [Reference](#reference)
   - [Howtos](#howtos)
@@ -622,6 +622,7 @@ Components and native modules.
 * [navbar-native ★83](https://github.com/redbaron76/navbar-native) - A new, fully customizable Navbar component for React-Native
 * [react-native-navigator ★74](https://github.com/thewei/react-native-navigator) - A simple router for react native
 * [react-native-navigation-bar ★58](https://github.com/beefe/react-native-navigation-bar) - react-native-navigation-bar
+* [react-native-easy-router ★44](https://github.com/sergeyshpadyrev/react-native-easy-router) - React Native router with easy-to-use API
 * [react-native-swiper-flatlist ★★ ★38](https://github.com/gusgard/react-native-swiper-flatlist) - 👆 React Native Swiper component implemented with FlatList
 * [react-native-url-handler ★37](https://github.com/exponentjs/react-native-url-handler) - Navigate to external URLs, handle in-app URLs, and access system URLs
 * [react-native-route-navigator ★27](https://github.com/Andr3wHur5t/react-native-route-navigator) - React-Native page navigation using URIs.
@@ -660,7 +661,6 @@ Components and native modules.
 * [react-native-universal-modal ★16](https://github.com/bokuweb/react-native-universal-modal) - Universal simple modal component for React Native
 * [react-native-html ★11](https://github.com/turingou/react-native-html) - render html as react native custom elements
 * [react-native-responsive-fontsize ★2](https://github.com/heyman333/react-native-responsive-fontsize) - Responsive fontSize based on screen-size of the device in React-Native
-* [react-native-text-size ★10](https://github.com/aMarCruz/react-native-text-size) - Measure text accurately before laying it out and get font information from your App.
 * [rn-pdf-reader-js ★6](https://github.com/xcarpentier/rn-pdf-reader-js/blob/master/README.md) - A PDF reader, in JavaScript only, for Expo, Android capable, PDF.JS
 
 ### Analytics
