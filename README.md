@@ -592,6 +592,7 @@ Components and native modules.
 * [react-native-progress-button ★7](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.
 * [react-native-date-range-picker ★7](https://github.com/lazaronixon/react-native-date-range-picker) - Simple date range picker extended from react-native-calendars 📆
 * [react-native-images-collage ★7](https://github.com/lukebrandonfarrell/react-native-images-collage) - Robust interactive image collage component for React Native.
+* [react-native-drawpad ★6](https://github.com/Partido-Asia/react-native-drawpad) - A pad for users to draw by touching
 * [react-native-navbar-color ★6](https://github.com/BhavanPatel/react-native-navbar-color) - Change Navigationbar Color in Android
 * [react-native-frame-loading ★6](https://github.com/heyman333/react-native-frame-loading) - The Loading indicator with frame by frame view animation
 * [react-native-censored ★5](https://github.com/redpandatronicsuk/react-native-censored) - React Native component to censor content.
@@ -622,7 +623,6 @@ Components and native modules.
 * [navbar-native ★83](https://github.com/redbaron76/navbar-native) - A new, fully customizable Navbar component for React-Native
 * [react-native-navigator ★74](https://github.com/thewei/react-native-navigator) - A simple router for react native
 * [react-native-navigation-bar ★58](https://github.com/beefe/react-native-navigation-bar) - react-native-navigation-bar
-* [react-native-easy-router ★44](https://github.com/sergeyshpadyrev/react-native-easy-router) - React Native router with easy-to-use API
 * [react-native-swiper-flatlist ★★ ★38](https://github.com/gusgard/react-native-swiper-flatlist) - 👆 React Native Swiper component implemented with FlatList
 * [react-native-url-handler ★37](https://github.com/exponentjs/react-native-url-handler) - Navigate to external URLs, handle in-app URLs, and access system URLs
 * [react-native-route-navigator ★27](https://github.com/Andr3wHur5t/react-native-route-navigator) - React-Native page navigation using URIs.
