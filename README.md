@@ -599,6 +599,7 @@ Components and native modules.
 * [react-native-loader-hud ★3](https://github.com/EdgeJay/react-native-loader-hud) - Loader animation library for React Native
 * [react-native-double-buffer ★3](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
 * [react-native-fontbase ★3](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
+* [react-native-item-select ★2](https://github.com/vicke4/react-native-item-select) - List or Grid style item(s) picker for React Native:iphone:
 * [react-native-easy-checkbox ★2](https://github.com/BhavanPatel/react-native-easy-checkbox) - Simple CheckBox for react-native
 * [react-native-scene-manager ★2](https://github.com/alinz/react-native-scene-manager) - Simple Scene Manager for React-Native
 * [react-native-create-new-file-ios ★1](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
@@ -1177,7 +1178,6 @@ Open source React Native apps and other examples.
 * [rndrawer-implemented-rnrouter ★49](https://github.com/efkan/rndrawer-implemented-rnrouter) - A react-native-drawer implemented example and scaffolding for react-native-router-flux
 * [iTunesConnect ★49](https://github.com/oney/iTunesConnect) - Unofficial iTunes Connect App
 * [Sequent ★47](https://github.com/sobstel/sequent) - short-term memory training game (W/ Redux).
-* [Hekla for Hacker News ★44](https://github.com/birkir/hekla) - Hackernews client with TypeScript, mobx-state-tree, native navigation and css modules.
 * [iOS app that transcript your voice with IBM Watson Cloud ★41](https://github.com/yrezgui/meowth-ios)
 * [MoeFM ★41](https://github.com/codeestX/MoeFM) - A light MusicPlayer build with React Native & Redux for both Android and iOS.
 * [Confreaks ★30](https://github.com/cabaret/confreaks-react-native)
