@@ -1099,12 +1099,11 @@ Get a head start on development with an existing seed.
 
 Libraries / SDK type additions for React Native development.
 
-* [React Native Elements ★12891](https://github.com/dabit3/React-Native-Elements) - a collection of React Native UI Elements and components.
-* [Shoutem UI ★3380](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem.
-* [React Native Paper ★1568](https://github.com/callstack/react-native-paper) - Material design for React Native.
-* [Panza ★227](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native.
-* [BlankApp UI ★60](https://github.com/blankapp/ui) - Highly customizable and theming components for React Native.
-* [React Native Common ★31](https://github.com/rghorbani/react-native-common) - UI & API Components Library for React Native.
+* [React Native Elements ★11165](https://github.com/dabit3/React-Native-Elements) - a collection of React Native UI Elements and components.
+* [Shoutem UI ★3380](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem
+* [Panza ★227](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
+* [BlankApp UI ★60](https://github.com/blankapp/ui) - Highly customizable and theming components for React Native
+* [React Native Common ★31](https://github.com/rghorbani/react-native-common) - UI & API Components Library for React Native
 
 ## Open Source Apps
 
@@ -1206,6 +1205,7 @@ Open source React Native apps and other examples.
 * [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 * [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone
 * [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
+* [Forex Rates](https://github.com/MicroPyramid/forex-rates-mobile-app) - Foreign exchange rates. currency rate converter. Historical exchange rates.
 
 ## Frameworks
 
