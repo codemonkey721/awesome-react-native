@@ -265,7 +265,6 @@ Components and native modules.
 * [react-native-gifted-listview ★1354](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrent features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
 * [react-native-viewpager ★1301](https://github.com/race604/react-native-viewpager) - ViewPager component for React Native
 * [react-native-parallax-scroll-view ★1280](https://github.com/jaysoo/react-native-parallax-scroll-view) - A ScrollView-like component with parallax and sticky header support.
-* [react-native-easy-grid ★1252](https://github.com/GeekyAnts/react-native-easy-grid) - Easy Responsive Grid Layout for React Native.
 * [react-virgin ★1247](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
 * [react-native-icons ★1158](https://github.com/corymsmith/react-native-icons) - Quick and easy icons in React Native [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
 * [react-native-datepicker ★1101](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS
@@ -866,7 +865,7 @@ Components and native modules.
 * [react-native-turbolinks ★47](https://github.com/lazaronixon/react-native-turbolinks) - React Native adapter for building hybrid apps with Turbolinks 5
 * [react-native-web-container ★33](https://github.com/danrigsby/react-native-web-container) - A wrapper around the react native WebView to add autoHeight, scrub html, etc
 * [react-native-browser-polyfill ★27](https://github.com/johanneslumpe/react-native-browser-polyfill) - A collection of polyfills for the react-native Javascript environment.
-* [react-native-inapp-browser ★23](https://github.com/DickyT/react-native-inapp-browser) - A in-app browser for react native apps.
+* [react-native-inappbrowser-reborn ★8](https://github.com/DickyT/react-native-inapp-browser) - InAppBrowser for React Native (Android & iOS)
 * [react-native-bridgeable-webview ★15](https://github.com/Intellicode/react-native-bridgeable-webview) - A react-native webview with bridge to react-native code
 * [react-native-cookiemanager ★15](https://github.com/beefe/react-native-cookiemanager) - react-native cookie manager library.
 * [react-native-html2native ★3](https://github.com/labithiotis/react-native-html-render) - A html render for react-native
