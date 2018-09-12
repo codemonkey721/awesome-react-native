@@ -631,6 +631,7 @@ Components and native modules.
 * [react-native-navigation-buttons ★2](https://github.com/shayne/react-native-navigation-buttons) - iOS navigation buttons for the React Native Navigator
 * [react-native-yynavigator ★1](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 * [react-native-invoke-app ★0](https://github.com/vicke4/react-native-invoke-app) - Bring React Native App to foreground from Headless JS
+* [sajjad-brick-list ★0](https://github.com/lvlrSajjad/sajjad-brick-list) - Staggered Or Masonary List View For React Native Written in pure js
 * [react-native-keyboard-sticky-view ★0](https://github.com/melihberberolu/React-Native-Keyboard-Sticky-View) - Keyboar Sticky View with animation and renderProps
 
 #### Navigation/Routing Articles
@@ -1320,10 +1321,6 @@ Assortment of conference and training videos.
 
 ## Releases
 
-* [Stable: 0.57.0](https://github.com/react-native-community/react-native-releases/blob/master/CHANGELOG.md#057)
-* [Next: latest](https://github.com/facebook/react-native/releases/latest)
-* [All Versions](https://facebook.github.io/react-native/versions)
-* [All Changelogs](https://github.com/react-native-community/react-native-releases/blob/master/CHANGELOG.md)
-* [Upgrading Versions](https://facebook.github.io/react-native/docs/upgrading.html)
+* [Stable: 0.51.0](https://github.com/facebook/react-native/releases/tag/v0.51.0)
 * [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
-
+* [Next: latest](https://github.com/facebook/react-native/releases/latest)
