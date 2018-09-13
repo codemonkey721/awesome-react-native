@@ -631,7 +631,6 @@ Components and native modules.
 * [react-native-navigation-buttons ★2](https://github.com/shayne/react-native-navigation-buttons) - iOS navigation buttons for the React Native Navigator
 * [react-native-yynavigator ★1](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 * [react-native-invoke-app ★0](https://github.com/vicke4/react-native-invoke-app) - Bring React Native App to foreground from Headless JS
-* [sajjad-brick-list ★0](https://github.com/lvlrSajjad/sajjad-brick-list) - Staggered Or Masonary List View For React Native Written in pure js
 * [react-native-keyboard-sticky-view ★0](https://github.com/melihberberolu/React-Native-Keyboard-Sticky-View) - Keyboar Sticky View with animation and renderProps
 
 #### Navigation/Routing Articles
@@ -911,6 +910,7 @@ Components and native modules.
 ### Storage
 
 * [realm ★2848](https://github.com/realm/realm-js) - An alternative mobile database to SQLite & key-value stores.
+* [WatermelonDB ★2751](https://github.com/Nozbe/WatermelonDB) - Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast.
 * [react-native-storage ★1796](https://github.com/sunnylqm/react-native-storage) - This is a local storage wrapper for both react-native(AsyncStorage) and browser(localStorage). ES6/babel is needed.
 * [react-native-sqlite-storage ★1302](https://github.com/andpor/react-native-sqlite-storage) - SQLite3 bindings for React Native (Android & iOS)
 * [react-native-simple-store ★645](https://github.com/jasonmerino/react-native-simple-store) - A minimalistic wrapper around React Native's AsyncStorage.
