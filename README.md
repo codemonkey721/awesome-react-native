@@ -397,6 +397,7 @@ Components and native modules.
 * [react-native-google-place-picker ★134](https://github.com/q6112345/react-native-google-place-picker) - React Native Wrapper of Google Place Picker for both Android and iOS.
 * [react-native-calendar-select ★132](https://github.com/Tinysymphony/react-native-calendar-select) - A component to select a date period from calendar modal, like Airbnb.
 * [react-native-android-statusbar ★131](https://github.com/NishanthShankar/react-native-android-statusbar) - A react native android package to control the status bar.
+* [react-native-status-bar-height ★63](https://github.com/ovr/react-native-status-bar-height) - A small library that helps you to get status bar height easily. It also support iPhone X.
 * [react-native-scaling-drawer ★131](https://github.com/melihberberolu/react-native-scaling-drawer) - React native scaling drawer.
 * [react-native-multi-slider ★130](https://github.com/JackDanielsAndCode/react-native-multi-slider) - Pure JS slider component with multiple markers for React Native
 * [react-native-pulse-loader ★130](https://github.com/mastermoo/react-native-pulse-loader) - Tinder like loader for your React Native app
@@ -603,7 +604,6 @@ Components and native modules.
 * [react-native-scene-manager ★2](https://github.com/alinz/react-native-scene-manager) - Simple Scene Manager for React-Native
 * [react-native-create-new-file-ios ★1](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
 * [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native
-* [react-native-counters ★0](https://github.com/yasaricli/react-native-counters) - Minus Plus Counter for React Native
 
 ### Navigation
 
