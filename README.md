@@ -397,7 +397,6 @@ Components and native modules.
 * [react-native-google-place-picker ★134](https://github.com/q6112345/react-native-google-place-picker) - React Native Wrapper of Google Place Picker for both Android and iOS.
 * [react-native-calendar-select ★132](https://github.com/Tinysymphony/react-native-calendar-select) - A component to select a date period from calendar modal, like Airbnb.
 * [react-native-android-statusbar ★131](https://github.com/NishanthShankar/react-native-android-statusbar) - A react native android package to control the status bar.
-* [react-native-status-bar-height ★63](https://github.com/ovr/react-native-status-bar-height) - A small library that helps you to get status bar height easily. It also support iPhone X.
 * [react-native-scaling-drawer ★131](https://github.com/melihberberolu/react-native-scaling-drawer) - React native scaling drawer.
 * [react-native-multi-slider ★130](https://github.com/JackDanielsAndCode/react-native-multi-slider) - Pure JS slider component with multiple markers for React Native
 * [react-native-pulse-loader ★130](https://github.com/mastermoo/react-native-pulse-loader) - Tinder like loader for your React Native app
@@ -775,6 +774,7 @@ Components and native modules.
 * [rn-less ★14](https://github.com/blackmiaool/rn-less) - Style react-native with less (with VS Code extension support)
 * [styled-react-native](https://github.com/jsifalda/styled-react-native) - Advanced react native styling with simple method (style overwrites, component composition, enhanced style property). Full intro in [this Medium article](https://medium.com/@JSifalda/advanced-react-native-styling-with-a-few-lines-of-code-4b6a94385015).
 * [react-native-paint ★0](https://github.com/brankeye/react-native-paint) - A themeable abstraction over React Native StyleSheet. Read about it [here](https://medium.com/@brankeye/making-easily-themeable-react-native-stylesheets-bd8782b4e685).
+* [emotion ★5321](https://github.com/emotion-js/emotion) - Style as a function of state.
 
 ### System
 
