@@ -463,7 +463,6 @@ Components and native modules.
 * [react-native-in-app-notification ★56](https://github.com/robcalcroft/react-native-in-app-notification) - Customisable in-app notification component for React Native
 * [react-native-streetview ★56](https://github.com/nesterapp/react-native-streetview) - Google's Panorama/StreetView component for iOS and Android.
 * [k-react-native-swipe-unlocker ★54](https://github.com/leowang721/k-react-native-swipe-unlocker) - A simple swipe unlock for React Native
-* [react-native-view-pdf ★54](https://github.com/rumax/react-native-PDFView) - PDF viewer for React Native
 * [react-native-download-button ★54](https://github.com/prscX/react-native-download-button) - React Native Download Button: with pretty cool animation
 * [react-native-phone-picker ★53](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
 * [react-native-3dcube-navigation ★53](https://github.com/zehfernandes/react-native-3dcube-navigation) - Page Swiper component with 3D cube transition (horizontal and vertical)
@@ -773,6 +772,7 @@ Components and native modules.
 * [react-native-theme ★93](https://github.com/apentle/react-native-theme) - Theme manager for react native project!
 * [react-native-css-modules ★15](https://github.com/kristerkari/react-native-css-modules) - Style React-Native components using CSS, Sass, Less or Stylus.
 * [rn-less ★14](https://github.com/blackmiaool/rn-less) - Style react-native with less (with VS Code extension support)
+* [react-native-prism ★10](https://github.com/tmpfs/prism) - Minimal, idiomatic style management for React Native
 * [styled-react-native](https://github.com/jsifalda/styled-react-native) - Advanced react native styling with simple method (style overwrites, component composition, enhanced style property). Full intro in [this Medium article](https://medium.com/@JSifalda/advanced-react-native-styling-with-a-few-lines-of-code-4b6a94385015).
 * [react-native-paint ★0](https://github.com/brankeye/react-native-paint) - A themeable abstraction over React Native StyleSheet. Read about it [here](https://medium.com/@brankeye/making-easily-themeable-react-native-stylesheets-bd8782b4e685).
 
