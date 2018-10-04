@@ -797,6 +797,7 @@ Components and native modules.
 * [react-native-barcodescanner ★467](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native - not maintained anymore - use react-native-camera.
 * [react-native-billing ★446](https://github.com/idehub/react-native-billing) - In-app purchase implementation for React Native on Android.
 * [react-native-location ★408](https://github.com/timfpark/react-native-location) - Native GPS location support for React Native.
+* [react-native-iap ★390](https://github.com/dooboolab/react-native-iap) - React-native native module for In-App Purchase.
 * [react-native-dotenv ★324](https://github.com/zetachang/react-native-dotenv) - A Babel preset let you import application configs from .env file (zero runtime dependency)
 * [react-native-social-share ★321](https://github.com/doefler/react-native-social-share) - Use the iOS native Twitter and Facebook share view from react native
 * [react-native-ibeacon ★319](https://github.com/geniuxconsulting/react-native-ibeacon) - iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don't work in the iOS simulator.
@@ -1017,7 +1018,6 @@ Components and native modules.
 
 * [react-native-animatable ★5106](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native
 * [react-native-interactable ★3653](https://github.com/wix/react-native-interactable) - experimental implementation of high performance interactable views in React Native
-* [react-native-reanimated ★612](https://github.com/kmagiera/react-native-reanimated) - React Native's Animated library reimplemented
 * [react-native-spruce ★337](https://github.com/prscX/react-native-spruce) - React Native Bridge for Spruce Animation Library
 * [react-native-gl-model-view ★181](https://github.com/rastapasta/react-native-gl-model-view) - Display and animate textured Wavefront .OBJ 3D models with 60fps (iOS)
 * [react-native-animated-sprite ★85](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
