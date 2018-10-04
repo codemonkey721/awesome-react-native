@@ -603,6 +603,7 @@ Components and native modules.
 * [react-native-scene-manager ★2](https://github.com/alinz/react-native-scene-manager) - Simple Scene Manager for React-Native
 * [react-native-create-new-file-ios ★1](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
 * [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native
+* [react-native-rate-modal ★2](https://github.com/omergulen/react-native-rate-modal) - Hackable "rate us" component for React Native.
 
 ### Navigation
 
@@ -774,7 +775,6 @@ Components and native modules.
 * [rn-less ★14](https://github.com/blackmiaool/rn-less) - Style react-native with less (with VS Code extension support)
 * [styled-react-native](https://github.com/jsifalda/styled-react-native) - Advanced react native styling with simple method (style overwrites, component composition, enhanced style property). Full intro in [this Medium article](https://medium.com/@JSifalda/advanced-react-native-styling-with-a-few-lines-of-code-4b6a94385015).
 * [react-native-paint ★0](https://github.com/brankeye/react-native-paint) - A themeable abstraction over React Native StyleSheet. Read about it [here](https://medium.com/@brankeye/making-easily-themeable-react-native-stylesheets-bd8782b4e685).
-* [emotion ★5321](https://github.com/emotion-js/emotion) - Style as a function of state.
 
 ### System
 
