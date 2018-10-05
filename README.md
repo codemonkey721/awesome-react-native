@@ -457,6 +457,7 @@ Components and native modules.
 * [react-native-scalable-image ★65](https://github.com/ihor/react-native-scalable-image) - React Native Image component which scales width or height automatically to keep the original aspect ratio.
 * [react-native-switch-selector ★65](https://github.com/App2Sales/react-native-switch-selector) - A custom Switch Selector component for Android and iOS.
 * [react-native-picker-select ★63](https://github.com/lawnstarter/react-native-picker-select) - A Picker component for React Native which emulates the native `<select>` interfaces for iOS and Android
+* [react-native-status-bar-height ★63](https://github.com/ovr/react-native-status-bar-height) - A small library that helps you to get status bar height easily. It also support iPhone X.
 * [react-native-zoom-image ★59](https://github.com/Tinysymphony/react-native-zoom-image) - An image viewer component for react-native, like twitter's image viewer.
 * [react-native-label-select ★57](https://github.com/Tinysymphony/react-native-label-select) - A modal selector for React Native with selected items displayed as labels.
 * [react-native-simple-picker ★57](https://github.com/puredazzle/react-native-simple-picker) - A simple react-native select picker
@@ -763,7 +764,6 @@ Components and native modules.
 ### Styling
 
 * [styled-components ★16254](https://github.com/styled-components/styled-components) - Style React and React Native with utilising tagged template literals.
-* [emotion ★5321](https://github.com/emotion-js/emotion) - Style as a function of state.
 * [react-native-extended-stylesheet ★1377](https://github.com/vitalets/react-native-extended-stylesheet) - Extend React Native stylesheet with variables, relative units, percents, math operations, scaling and other stuff.
 * [react-native-css ★729](https://github.com/sabeurthabti/react-native-css) - Style React-Native components with css and built in support for SASS.
 * [react-native-style-tachyons ★467](https://github.com/tachyons-css/react-native-style-tachyons) - functional, maintainable design for everyone based on tachyons.css.
