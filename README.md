@@ -1,4 +1,3 @@
-
 <br/>
 <br/>
 <br/>
@@ -58,69 +57,70 @@ dotan-at-paracode.com.
 
 ## Recommended SDK for bug and crash reporting [Instabug](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=header)
 
-[![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40114739-4e0ff416-590e-11e8-9a29-55fb2d4cfebc.png)](https://try.instabug.com/react-native/?utm\_source=awesomereact&utm\_medium=spon&utm\_content=banner)
+[![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40114739-4e0ff416-590e-11e8-9a29-55fb2d4cfebc.png)](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=banner)
 
 > Instabug has just released their visual repro steps feature to enable you to trace all the views that the user interacted with before a bug or a crash occured. This will help you reproduce bugs and fix them 10x faster.<br>
-We highly recommend integrating Instabug’s framework as they compiled a lot of other great features providing you with useful and rich data attached to each bug or crash report. [_learn more._ ](https://try.instabug.com/react-native/?utm\_source=awesomereact&utm\_medium=spon&utm\_content=learnmore)🚀
+> We highly recommend integrating Instabug’s framework as they compiled a lot of other great features providing you with useful and rich data attached to each bug or crash report. [_learn more._ ](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=learnmore)🚀
 > [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomereact?pixel)](https://instabug.com)
 
 # Categories
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
+
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
-- [Conferences](#conferences)
-  - [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland)
-  - [React Alicante - Alicante, Spain](#react-alicante---alicante-spain)
-  - [ReactNext - Tel Aviv, Israel](#reactnext---tel-aviv-israel)
-  - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)  
-- [Articles](#articles)
-  - [Reference](#reference)
-  - [Howtos](#howtos)
-  - [Assorted](#assorted)
-  - [Continuous Integration](#continuous-integration)
-  - [Internals](#internals)
-- [Components](#components)
-  - [UI](#ui)
-  - [Navigation](#navigation)
-    - [Navigation/Routing Articles](#navigationrouting-articles)
-    - [Navigation Demos](#navigation-demos)
-  - [Text & Rich Content](#text--rich-content)
-  - [Analytics](#analytics)
-  - [Utils & Infra](#utils--infra)
-  - [Forms](#forms)
-  - [Geolocation](#geolocation)
-  - [Internationalization](#internationalization)
-  - [Build & Development](#build--development)
-  - [Styling](#styling)
-  - [System](#system)
-  - [Web](#web)
-  - [Media](#media)
-  - [Storage](#storage)
-  - [Backend](#backend)
-  - [Integrations](#integrations)
-  - [Monetization](#monetization)
-  - [Animation](#animation)
-  - [Other Platforms](#other-platforms)
-- [Utilities](#utilities)
-- [Seeds](#seeds)
-- [Libraries](#libraries)
-- [Open Source Apps](#open-source-apps)
-- [Frameworks](#frameworks)
-- [Tutorials](#tutorials)
-- [Books](#books)
-- [Videos](#videos)
-  - [Talks](#talks)
-  - [Training & tutorials](#training--tutorials)
-- [Blogs](#blogs)
-- [Newsletters](#newsletters)
-- [Releases](#releases)
+* [Conferences](#conferences)
+  * [Chain React - Portland, OR USA](#chain-react---portland-or-usa)
+  * [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland)
+  * [React Alicante - Alicante, Spain](#react-alicante---alicante-spain)
+  * [ReactNext - Tel Aviv, Israel](#reactnext---tel-aviv-israel)
+  * [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)
+* [Articles](#articles)
+  * [Reference](#reference)
+  * [Howtos](#howtos)
+  * [Assorted](#assorted)
+  * [Continuous Integration](#continuous-integration)
+  * [Internals](#internals)
+* [Components](#components)
+  * [UI](#ui)
+  * [Navigation](#navigation)
+    * [Navigation/Routing Articles](#navigationrouting-articles)
+    * [Navigation Demos](#navigation-demos)
+  * [Text & Rich Content](#text--rich-content)
+  * [Analytics](#analytics)
+  * [Utils & Infra](#utils--infra)
+  * [Forms](#forms)
+  * [Geolocation](#geolocation)
+  * [Internationalization](#internationalization)
+  * [Build & Development](#build--development)
+  * [Styling](#styling)
+  * [System](#system)
+  * [Web](#web)
+  * [Media](#media)
+  * [Storage](#storage)
+  * [Backend](#backend)
+  * [Integrations](#integrations)
+  * [Monetization](#monetization)
+  * [Animation](#animation)
+  * [Other Platforms](#other-platforms)
+* [Utilities](#utilities)
+* [Seeds](#seeds)
+* [Libraries](#libraries)
+* [Open Source Apps](#open-source-apps)
+* [Frameworks](#frameworks)
+* [Tutorials](#tutorials)
+* [Books](#books)
+* [Videos](#videos)
+  * [Talks](#talks)
+  * [Training & tutorials](#training--tutorials)
+* [Blogs](#blogs)
+* [Newsletters](#newsletters)
+* [Releases](#releases)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Many thanks to everyone on the [contributor
-list](https://github.com/jondot/awesome-react-native/graphs/contributors)\:)
+list](https://github.com/jondot/awesome-react-native/graphs/contributors)\\:)
 
 ## Conferences
 
@@ -128,28 +128,38 @@ Conferences dedicated to React Native specifically. A listing of React
 general conferences can be found on the [ReactJS
 site](https://facebook.github.io/react/docs/conferences.html).
 
-### React Native EU - Wroclaw, Poland
-http://react-native.eu/
+### Chain React - Portland, OR USA
 
-Workshops - September 3-4th, 2018\
+<http://chainreactconf.com>
+
+Workshops - July 11th, 2018\\
+Conference - July 12-13th, 2018
+
+### React Native EU - Wroclaw, Poland
+
+<http://react-native.eu/>
+
+Workshops - September 3-4th, 2018\\
 Conference - September 5-6th, 2018
 
 ### React Alicante - Alicante, Spain
-http://reactalicante.es/
 
-Workshops - September 13th, 2018\
+<http://reactalicante.es/>
+
+Workshops - September 13th, 2018\\
 Conference - September 14-15th, 2018
 
 ### ReactNext - Tel Aviv, Israel
-https://react-next.com/
+
+<https://react-next.com/>
 
 Conference - November 4th, 2018
 
 ### React Berlin - Berlin, Germany
-https://reactday.berlin/
+
+<https://reactday.berlin/>
 
 Conference - November 30th, 2018
-
 
 ## Articles
 
@@ -163,6 +173,7 @@ Content published on the Web.
 
 * [How to upgrade React Navigation 1.x to 2.x](https://shift.infinite.red/upgrading-from-react-navigation-v1-to-v2-312d932329ba)
 * [How to add Firebase Auth with react native ★4](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_add_Firebase_Auth_with_react_native)
+* [How to use React Native Navigation v2 with Redux and Google Analytics](https://www.codingsavvy.com/2018/08/react-native-navigation-v2-with-redux.html)
 * [React-Navigation Drawer](https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc)
 * [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)
 * [Getting Started with React Native Development for Windows](https://shift.infinite.red/getting-started-with-react-native-development-for-windows-ba23a4be90b6#.n6vtqtikh)
@@ -175,6 +186,7 @@ Content published on the Web.
 * [Release React Native App to Android Play Store](https://shift.infinite.red/simple-react-native-android-releases-319dc5e29605)
 * [React Native & Apple TV today](https://medium.com/@7ynk3r/react-native-apple-tv-today-48beb398a1ab#.5pp5drlyy)
 * [Record and Upload Videos with React Native](https://medium.com/react-native-training/uploading-videos-from-react-native-c79f520b9ae1)
+* [How to Setup your First React Native app](https://hackernoon.com/react-native-how-to-setup-your-first-app-a36c450a8a2f)
 
 ### Assorted
 
@@ -197,6 +209,7 @@ Content published on the Web.
 * [An iOS Developer on React Native](https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0)
 * [React Native and WebRTC](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/)
 * [How to bridge a Swift view](http://browniefed.com/blog/2015/11/28/react-native-how-to-bridge-a-swift-view/)
+* [How to select the right React Native database](https://www.simform.com/react-native-database-selection-guide/)
 * [Building a Native SoundCloud Android app with Redux](https://wiredcraft.com/blog/native-soundcloud-android-app/) - discussing redux, code reuse and performance on Android.
 * [React Native Twitter exploding heart](http://browniefed.com/blog/2015/11/07/react-native-how-to-create-twitter-exploding-hearts/) - hardcore animations with Animation and ReactART
 * [Using AI to discover UI components](https://www.youtube.com/watch?v=_iiKl0BB6ho) - fun image processing / AI assisted process to discover and generate React Native UI
@@ -256,6 +269,7 @@ Components and native modules.
 * [gl-react-native ★1639](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
 * [react-native-progress ★1610](https://github.com/oblador/react-native-progress) - Progress indicators and spinners for React Native using ReactART.
 * [react-native-action-button ★1526](https://github.com/mastermoo/react-native-action-button) - A customizable Float Button Component for React Native
+* [react-native-modal ★1516](https://github.com/react-native-community/react-native-modal) - An enhanced, animated and customizable react-native modal
 * [nachos-ui ★1501](https://github.com/avocode/nachos-ui) - NACHOS UI kit for React Native. Pick from a bunch of pre-coded UI components ready for your next kick-ass app in JavaScript or React.
 * [react-native-foldview ★1449](https://github.com/jmurzy/react-native-foldview) - Animated FoldingCell implementation in React Native
 * [react-native-mapbox-gl ★1422](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
@@ -265,6 +279,7 @@ Components and native modules.
 * [react-native-gifted-listview ★1354](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrent features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
 * [react-native-viewpager ★1301](https://github.com/race604/react-native-viewpager) - ViewPager component for React Native
 * [react-native-parallax-scroll-view ★1280](https://github.com/jaysoo/react-native-parallax-scroll-view) - A ScrollView-like component with parallax and sticky header support.
+* [react-native-easy-grid ★1252](https://github.com/GeekyAnts/react-native-easy-grid) - Easy Responsive Grid Layout for React Native.
 * [react-virgin ★1247](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
 * [react-native-icons ★1158](https://github.com/corymsmith/react-native-icons) - Quick and easy icons in React Native [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
 * [react-native-datepicker ★1101](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS
@@ -306,7 +321,7 @@ Components and native modules.
 * [react-native-easy-toast ★452](https://github.com/crazycodeboy/react-native-easy-toast) - A react native module to show toast like android, it works on iOS and Android.
 * [react-native-parallax ★441](https://github.com/oblador/react-native-parallax) - Parallax effects for React Native using Animated API
 * [react-native-popover-haobtc ★437](https://github.com/jeanregisser/react-native-popover) - A component for react-native
-* [react-native-dialogs ★413](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for https://github.com/afollestad/material-dialogs
+* [react-native-dialogs ★413](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for <https://github.com/afollestad/material-dialogs>
 * [react-native-activity-view ★406](https://github.com/naoufal/react-native-activity-view) - iOS share and action sheets for React Native
 * [react-native-step-indicator ★406](https://github.com/24ark/react-native-step-indicator) - A simple react-native implementation of step indicator widget compatible with the ViewPager and ListView.
 * [react-native-sketch ★403](https://github.com/jgrancher/react-native-sketch) - A react-native &lt;Sketch /> component to draw with touch events.
@@ -383,7 +398,7 @@ Components and native modules.
 * [react-native-wheel-picker ★150](https://github.com/lesliesam/react-native-wheel-picker) - React native cross platform picker.
 * [react-native-hero ★149](https://github.com/brh55/react-native-hero) - A hero/banner component with support for dynamic or static images, dynamic sizing, color overlays, and more.
 * [react-native-shine-button ★148](https://github.com/prscX/react-native-shine-button) - React Native for Effects like shining
-* [react-native-code-verification *13](https://github.com/danchokobo/react-native-code-verification) - An UI module for user-side pincode verification.
+* [react-native-code-verification \*13](https://github.com/danchokobo/react-native-code-verification) - An UI module for user-side pincode verification.
 * [react-native-sdr](https://github.com/i6mi6/react-native-sdr) - Server Driven Rendering (SDR) component for React Native
 * [react-native-collapsing-toolbar ★147](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - wrapper for android CollapsingToolbarLayout
 * [react-native-checkbox ★144](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
@@ -436,7 +451,9 @@ Components and native modules.
 * [react-native-scl-alert ★80](https://github.com/rafaelmotta/react-native-scl-alert) - React Native implementation of the package SCLAlertView-Swift
 * [react-native-page-swiper ★79](https://github.com/fixt/react-native-page-swiper) - Page Swiper component for React Native.
 * [react-native-emoji-picker ★78](https://github.com/yonahforst/react-native-emoji-picker) - Simple Emoji picker for react-native with optional modal-like component
+* [react-native-sketch-canvas ★77](https://github.com/terrylinla/react-native-sketch-canvas) - A React Native component for drawing by touching on iOS and Android. (support drawing on image, text)
 * [react-native-progressive-input ★77](https://github.com/khaiql/react-native-progressive-input) - TextInput with clear button and activity indicator, used as part of autocomplete list.
+* [react-native-dialog ★77](https://github.com/mmazzarolo/react-native-dialog) - Pure JavaScript React-Native dialog
 * [react-native-android-wheel-picker ★77](https://github.com/ElekenAgency/ReactNativeWheelPicker) - Simple and flexible React native wheel picker for Android, including DatePicker and TimePicker.
 * [react-native-material-showcase-ios ★75](https://github.com/prscX/react-native-material-showcase-ios) - React Native Bridge for iOS aromajoin/material-showcase-ios. An elegant and beautiful showcase for iOS apps.
 * [react-native-material-menu ★72](https://github.com/mxck/react-native-material-menu) - Pure JavaScript material menu component for React Native.
@@ -464,11 +481,13 @@ Components and native modules.
 * [react-native-in-app-notification ★56](https://github.com/robcalcroft/react-native-in-app-notification) - Customisable in-app notification component for React Native
 * [react-native-streetview ★56](https://github.com/nesterapp/react-native-streetview) - Google's Panorama/StreetView component for iOS and Android.
 * [k-react-native-swipe-unlocker ★54](https://github.com/leowang721/k-react-native-swipe-unlocker) - A simple swipe unlock for React Native
+* [react-native-view-pdf ★54](https://github.com/rumax/react-native-PDFView) - PDF viewer for React Native
 * [react-native-download-button ★54](https://github.com/prscX/react-native-download-button) - React Native Download Button: with pretty cool animation
 * [react-native-phone-picker ★53](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
 * [react-native-3dcube-navigation ★53](https://github.com/zehfernandes/react-native-3dcube-navigation) - Page Swiper component with 3D cube transition (horizontal and vertical)
 * [react-native-open-maps ★53](https://github.com/brh55/react-native-open-maps) - A simple lib to open up the corresponding map application (Google or Apple Maps) from a set of coordinates (latitude & longitude) within react-native
 * [react-native-infinite-scrollview ★52](https://github.com/baspellis/react-native-infinite-scrollview) - ScrollView with infinite paged scrolling (no looping)
+* [react-native-slot-machine ★52](https://github.com/atlanteh/react-native-slot-machine) - A text slot machine component for react-native
 * [react-native-fs-modal ★51](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
 * [react-native-multiple-choice ★51](https://github.com/d-a-n/react-native-multiple-choice) - A cross-platform (iOS / Android) single and multiple-choice React Native component.
 * [react-native-swipeview ★51](https://github.com/rishabhbhatia/react-native-swipeview) - SwipeView component used to perform actions like swipe to delete, works on iOS and Android
@@ -476,14 +495,14 @@ Components and native modules.
 * [react-native-card-media ★50](https://github.com/dondoko-susumu/react-native-card-media) - Card media component & Support multiple image layout
 * [react-native-masked-view ★48](https://github.com/gilbox/react-native-masked-view) - A element for react-native
 * [react-native-touchable-bounce ★48](https://github.com/grabbou/react-native-touchable-bounce) - React Native Touchable Bounce
-* [react-native-adbannerview ★49](https://github.com/Purii/react-native-adbannerview) - React Native Bridge for ADBannerView  \* [react-native-bottom-action-sheet ★47](https://github.com/prscX/react-native-bottom-action-sheet) - React Native: Native Bottom Action Sheet
+* [react-native-adbannerview ★49](https://github.com/Purii/react-native-adbannerview) - React Native Bridge for ADBannerView
+* [react-native-bottom-action-sheet ★47](https://github.com/prscX/react-native-bottom-action-sheet) - React Native: Native Bottom Action Sheet
 * [react-native-fxblurview ★47](https://github.com/magus/react-native-fxblurview) - React Native wrapper for popular FXBlurView library for realtime, fine-tuned blur effects
 * [react-native-beautiful-image ★47](https://github.com/phuochau/react-native-beautiful-image) - The Beautiful Image component that supports fadeIn animation and shows placeholderSource if the main source can't be loaded.
 * [react-native-material-cards ★47](https://github.com/SiDevesh/React-Native-Material-Cards) - A material design card component, customizable and versatile.
 * [react-native-keyboard-accessory ★46](https://github.com/ardaogulcan/react-native-keyboard-accessory) - Keyboard Accessory (View, Navigation) Component. Sticky views on keyboard.
 * [react-native-radio-button-classic ★46](https://github.com/pressly/react-native-radio-button-classic) - Bring Classic Radio to React-Native
 * [react-native-image-intent ★46](https://github.com/sonnylazuardi/react-native-image-intent) - Image intent receiver for React Native android
-* [react-native-slot-machine ★46](https://github.com/atlanteh/react-native-slot-machine) - A text slot machine component for react-native
 * [react-native-thumbnail ★46](https://github.com/phuochau/react-native-thumbnail) - Get thumbnail from local media.
 * [react-native-date ★45](https://github.com/nucleartux/react-native-date) - React Native date and time pickers for Android
 * [react-native-drop-refresh ★45](https://github.com/Obooman/RCTRefreshControl) - A pull down to refresh control for react native.
@@ -533,6 +552,7 @@ Components and native modules.
 * [react-native-elastic-stack ★28](https://github.com/monterosalondon/react-native-elastic-stack) - ReactNative component that implements [elastic stack effect](https://tympanus.net/Development/ElasticStack/)
 * [react-native-nmrangeslider-ios ★26](https://github.com/Enrise/react-native-nmrangeslider-ios) - The NMRangeSlider component for React Native
 * [react-native-ibeacon-simulator ★26](https://github.com/williamtran29/react-native-ibeacon-simulator) - React Native Library to simulate device act as an iBeacon
+* [react-native-date-picker ★26](https://github.com/henninghall/react-native-date-picker) - A date picker component for Android and iOS 
 * [react-native-actionsheet-native ★25](https://github.com/slowpath/react-native-actionsheet) - Android ActionSheet support for React Native
 * [react-native-fab ★25](https://github.com/SiDevesh/React-Native-FAB) - A FAB button component for Android and iOS, customizable, simple and as per material design specs.
 * [react-native-markdown-editor ★25](https://github.com/kunall17/react-native-markdown-editor) - Markdown editor like github comment editor (contains preview, markdown buttons)
@@ -552,7 +572,7 @@ Components and native modules.
 * [react-native-comparison-slider ★20](https://github.com/charlot567/react-native-comparison-slider) - A simple component to display two image in comparison with a slide-over feature.
 * [react-native-simple-card-view ★20](https://github.com/talut/react-native-simple-card-view) - Easiest way to adding a card view on your screen.
 * [react-native-timepicker ★19](https://github.com/milasevicius/react-native-timepicker) - React Native timepicker for iOS
-* [react-native-store-view ★19](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects
+* [react-native-store-view ���19](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects
 * [react-native-custom-checkbox ★19](https://github.com/caroaguilar/react-native-custom-checkbox) - React Native checkbox that can be customize. Works for both Android and iOS.
 * [react-native-tilt ★19](https://github.com/psicotropicos/react-native-tilt) - Tilt effect with accelerometer for React Native components.
 * [react-native-walkthrough-tooltip ★19](https://github.com/CompanyCam/react-native-walkthrough-tooltip) - Highlight a component via tooltip/popover
@@ -593,6 +613,7 @@ Components and native modules.
 * [react-native-progress-button ★7](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.
 * [react-native-date-range-picker ★7](https://github.com/lazaronixon/react-native-date-range-picker) - Simple date range picker extended from react-native-calendars 📆
 * [react-native-images-collage ★7](https://github.com/lukebrandonfarrell/react-native-images-collage) - Robust interactive image collage component for React Native.
+* [react-native-drawpad ★6](https://github.com/Partido-Asia/react-native-drawpad) - A pad for users to draw by touching
 * [react-native-navbar-color ★6](https://github.com/BhavanPatel/react-native-navbar-color) - Change Navigationbar Color in Android
 * [react-native-frame-loading ★6](https://github.com/heyman333/react-native-frame-loading) - The Loading indicator with frame by frame view animation
 * [react-native-censored ★5](https://github.com/redpandatronicsuk/react-native-censored) - React Native component to censor content.
@@ -600,10 +621,20 @@ Components and native modules.
 * [react-native-loader-hud ★3](https://github.com/EdgeJay/react-native-loader-hud) - Loader animation library for React Native
 * [react-native-double-buffer ★3](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
 * [react-native-fontbase ★3](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
+* [react-native-item-select ★2](https://github.com/vicke4/react-native-item-select) - List or Grid style item(s) picker for React Native:iphone:
+* [react-native-masonry-brick-list ★3](https://github.com/lvlrSajjad/react-native-masonry-brick-list) - Staggered Or Masonary List View For React Native Written in pure js
 * [react-native-easy-checkbox ★2](https://github.com/BhavanPatel/react-native-easy-checkbox) - Simple CheckBox for react-native
 * [react-native-scene-manager ★2](https://github.com/alinz/react-native-scene-manager) - Simple Scene Manager for React-Native
+* [react-native-blur-overlay ★2](https://github.com/lvlrSajjad/react-native-blur-overlay) - React Native Blur Overlay Library For Ios And Android
 * [react-native-create-new-file-ios ★1](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
+* [react-native-rounded-navigation-drawer ★1](https://github.com/lvlrSajjad/react-native-rounded-navigation-drawer) - React Native Designed Navigation Drawer Library (Pure Js)
+* [react-native-expandable-fab-menu ★1](https://github.com/lvlrSajjad/react-native-expandable-fab-menu) - React Native Expandable Fab Menu Component (pure js)
+* [react-native-fancy-carousel-viewpager ★1](https://github.com/lvlrSajjad/react-native-fancy-carousel-viewpager) - React Native Designed View Pager Library (pure js)
 * [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native
+* [react-native-confirmation-code-field ★0](https://github.com/retyui/react-native-confirmation-code-field) - A React Native component to input confirmation code for both Android and IOS
+* [react-native-animated-bottom-tabbar ★0](https://github.com/lvlrSajjad/react-native-animated-bottom-tabbar) - Animated bottom Tab bar for react native
+* [react-native-counters ★0](https://github.com/yasaricli/react-native-counters) - Minus Plus Counter for React Native
+* [react-native-rate-modal ★2](https://github.com/omergulen/react-native-rate-modal) - Hackable "rate us" component for React Native.
 
 ### Navigation
 
@@ -623,6 +654,7 @@ Components and native modules.
 * [navbar-native ★83](https://github.com/redbaron76/navbar-native) - A new, fully customizable Navbar component for React-Native
 * [react-native-navigator ★74](https://github.com/thewei/react-native-navigator) - A simple router for react native
 * [react-native-navigation-bar ★58](https://github.com/beefe/react-native-navigation-bar) - react-native-navigation-bar
+* [react-native-easy-router ★44](https://github.com/sergeyshpadyrev/react-native-easy-router) - React Native router with easy-to-use API
 * [react-native-swiper-flatlist ★★ ★38](https://github.com/gusgard/react-native-swiper-flatlist) - 👆 React Native Swiper component implemented with FlatList
 * [react-native-url-handler ★37](https://github.com/exponentjs/react-native-url-handler) - Navigate to external URLs, handle in-app URLs, and access system URLs
 * [react-native-route-navigator ★27](https://github.com/Andr3wHur5t/react-native-route-navigator) - React-Native page navigation using URIs.
@@ -631,7 +663,9 @@ Components and native modules.
 * [react-native-router-sinux ★ ★4](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation.
 * [react-native-navigation-buttons ★2](https://github.com/shayne/react-native-navigation-buttons) - iOS navigation buttons for the React Native Navigator
 * [react-native-yynavigator ★1](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
+* [react-native-simple-slider ★1](https://github.com/NesChaiyapon/react-native-simple-slider) - This is a simple javascript slider component for react native
 * [react-native-invoke-app ★0](https://github.com/vicke4/react-native-invoke-app) - Bring React Native App to foreground from Headless JS
+* [sajjad-brick-list ★0](https://github.com/lvlrSajjad/sajjad-brick-list) - Staggered Or Masonary List View For React Native Written in pure js
 * [react-native-keyboard-sticky-view ★0](https://github.com/melihberberolu/React-Native-Keyboard-Sticky-View) - Keyboar Sticky View with animation and renderProps
 
 #### Navigation/Routing Articles
@@ -659,6 +693,7 @@ Components and native modules.
 * [react-native-hypertext ★20](https://github.com/agentcooper/react-native-hypertext) - React Native module to render hypertext (text with links)
 * [react-native-asciimage ★16](https://github.com/turley/react-native-asciimage) - An ASCIImage component for React Native
 * [react-native-universal-modal ★16](https://github.com/bokuweb/react-native-universal-modal) - Universal simple modal component for React Native
+* [react-native-text-size ★15](https://github.com/aMarCruz/react-native-text-size) - Measure text accurately before laying it out and get font information from your App.
 * [react-native-html ★11](https://github.com/turingou/react-native-html) - render html as react native custom elements
 * [react-native-responsive-fontsize ★2](https://github.com/heyman333/react-native-responsive-fontsize) - Responsive fontSize based on screen-size of the device in React-Native
 * [rn-pdf-reader-js ★6](https://github.com/xcarpentier/rn-pdf-reader-js/blob/master/README.md) - A PDF reader, in JavaScript only, for Expo, Android capable, PDF.JS
@@ -764,6 +799,7 @@ Components and native modules.
 ### Styling
 
 * [styled-components ★16254](https://github.com/styled-components/styled-components) - Style React and React Native with utilising tagged template literals.
+* [emotion ★5321](https://github.com/emotion-js/emotion) - Style as a function of state.
 * [react-native-extended-stylesheet ★1377](https://github.com/vitalets/react-native-extended-stylesheet) - Extend React Native stylesheet with variables, relative units, percents, math operations, scaling and other stuff.
 * [react-native-css ★729](https://github.com/sabeurthabti/react-native-css) - Style React-Native components with css and built in support for SASS.
 * [react-native-style-tachyons ★467](https://github.com/tachyons-css/react-native-style-tachyons) - functional, maintainable design for everyone based on tachyons.css.
@@ -773,6 +809,7 @@ Components and native modules.
 * [react-native-theme ★93](https://github.com/apentle/react-native-theme) - Theme manager for react native project!
 * [react-native-css-modules ★15](https://github.com/kristerkari/react-native-css-modules) - Style React-Native components using CSS, Sass, Less or Stylus.
 * [rn-less ★14](https://github.com/blackmiaool/rn-less) - Style react-native with less (with VS Code extension support)
+* [react-native-prism ★10](https://github.com/tmpfs/prism) - Minimal, idiomatic style management for React Native
 * [styled-react-native](https://github.com/jsifalda/styled-react-native) - Advanced react native styling with simple method (style overwrites, component composition, enhanced style property). Full intro in [this Medium article](https://medium.com/@JSifalda/advanced-react-native-styling-with-a-few-lines-of-code-4b6a94385015).
 * [react-native-paint ★0](https://github.com/brankeye/react-native-paint) - A themeable abstraction over React Native StyleSheet. Read about it [here](https://medium.com/@brankeye/making-easily-themeable-react-native-stylesheets-bd8782b4e685).
 
@@ -798,6 +835,7 @@ Components and native modules.
 * [react-native-barcodescanner ★467](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native - not maintained anymore - use react-native-camera.
 * [react-native-billing ★446](https://github.com/idehub/react-native-billing) - In-app purchase implementation for React Native on Android.
 * [react-native-location ★408](https://github.com/timfpark/react-native-location) - Native GPS location support for React Native.
+* [react-native-iap ★390](https://github.com/dooboolab/react-native-iap) - React-native native module for In-App Purchase.
 * [react-native-dotenv ★324](https://github.com/zetachang/react-native-dotenv) - A Babel preset let you import application configs from .env file (zero runtime dependency)
 * [react-native-social-share ★321](https://github.com/doefler/react-native-social-share) - Use the iOS native Twitter and Facebook share view from react native
 * [react-native-ibeacon ★319](https://github.com/geniuxconsulting/react-native-ibeacon) - iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don't work in the iOS simulator.
@@ -852,6 +890,7 @@ Components and native modules.
 * [react-native-push-with-gcm ★5](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)
 * [react-native-home-pressed ★3](https://github.com/evanjmg/react-native-home-pressed) - Listen to home and recent app events for Android
 * [react-native-device-info-pod ★2](https://github.com/mchinyakov/react-native-device-info) - Get device information using react-native
+* [rn-secure-storage ★1](https://github.com/talut/rn-secure-storage) - Secure Storage for React Native (Android & iOS)
 
 ### Web
 
@@ -866,7 +905,7 @@ Components and native modules.
 * [react-native-turbolinks ★47](https://github.com/lazaronixon/react-native-turbolinks) - React Native adapter for building hybrid apps with Turbolinks 5
 * [react-native-web-container ★33](https://github.com/danrigsby/react-native-web-container) - A wrapper around the react native WebView to add autoHeight, scrub html, etc
 * [react-native-browser-polyfill ★27](https://github.com/johanneslumpe/react-native-browser-polyfill) - A collection of polyfills for the react-native Javascript environment.
-* [react-native-inapp-browser ★23](https://github.com/DickyT/react-native-inapp-browser) - A in-app browser for react native apps.
+* [react-native-inappbrowser-reborn ★8](https://github.com/proyecto26/react-native-inappbrowser) - InAppBrowser for React Native (Android & iOS)
 * [react-native-bridgeable-webview ★15](https://github.com/Intellicode/react-native-bridgeable-webview) - A react-native webview with bridge to react-native code
 * [react-native-cookiemanager ★15](https://github.com/beefe/react-native-cookiemanager) - react-native cookie manager library.
 * [react-native-html2native ★3](https://github.com/labithiotis/react-native-html-render) - A html render for react-native
@@ -903,7 +942,7 @@ Components and native modules.
 * [react-native-audio-manager ★14](https://github.com/Tricy/react-native-audio-manager) - Audio player library for react native Android
 * [react-native-audio-player ★11](https://github.com/sh3rawi/react-native-audio-player) - A React Native module to play audio on Android
 * [react-native-mediaplayer ★11](https://github.com/chriselly/react-native-mediaplayer) - Simple full screen media player for React Native.
-* [react-native-simple-sound ★10](https://github.com/mikehedman/react-native-simple-sound) - Start, stop, and pause a sound. iOS only. Derived from https://github.com/zmxv/react-native-sound
+* [react-native-simple-sound ★10](https://github.com/mikehedman/react-native-simple-sound) - Start, stop, and pause a sound. iOS only. Derived from <https://github.com/zmxv/react-native-sound>
 * [react-native-true-sight ★7](https://github.com/ScreamZ/react-native-true-sight) - A cross-platform video player with customizable controls for React Native.
 * [react-native-media-capture ★4](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
 * [react-native-tone ★1](https://github.com/oliviachang29/react-native-tone) - Generates simple sine wave, specify a frequency and amplitude. Play sound indefinitely or for a specified time interval (iOS only).
@@ -911,6 +950,7 @@ Components and native modules.
 ### Storage
 
 * [realm ★2848](https://github.com/realm/realm-js) - An alternative mobile database to SQLite & key-value stores.
+* [WatermelonDB ★2961](https://github.com/Nozbe/WatermelonDB) - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast.
 * [react-native-storage ★1796](https://github.com/sunnylqm/react-native-storage) - This is a local storage wrapper for both react-native(AsyncStorage) and browser(localStorage). ES6/babel is needed.
 * [react-native-sqlite-storage ★1302](https://github.com/andpor/react-native-sqlite-storage) - SQLite3 bindings for React Native (Android & iOS)
 * [react-native-simple-store ★645](https://github.com/jasonmerino/react-native-simple-store) - A minimalistic wrapper around React Native's AsyncStorage.
@@ -1018,13 +1058,14 @@ Components and native modules.
 
 * [react-native-animatable ★5106](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native
 * [react-native-interactable ★3653](https://github.com/wix/react-native-interactable) - experimental implementation of high performance interactable views in React Native
+* [react-native-reanimated ★612](https://github.com/kmagiera/react-native-reanimated) - React Native's Animated library reimplemented
 * [react-native-spruce ★337](https://github.com/prscX/react-native-spruce) - React Native Bridge for Spruce Animation Library
 * [react-native-gl-model-view ★181](https://github.com/rastapasta/react-native-gl-model-view) - Display and animate textured Wavefront .OBJ 3D models with 60fps (iOS)
 * [react-native-animated-sprite ★85](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
 
 ### Other Platforms
 
-* [react-native-macos ★10453](https://github.com/ptmt/react-native-macos) - React Native for OS X
+* [react-native-macos ★10453](http://github.com/ptmt/react-native-macos) - React Native for OS X
 * [react-native-web ★9035](https://github.com/necolas/react-native-web) - React Native for Web
 * [reactxp ★6136](https://github.com/Microsoft/reactxp) - Library for cross-platform app development
 * [react-native-windows ★4029](https://github.com/ReactWindows/react-native-windows) - React Native for Universal Windows Platform
@@ -1074,6 +1115,7 @@ Get a head start on development with an existing seed.
 * [React Native Hackathon Starter ★568](https://github.com/dabit3/react-native-hackathon-starter) - React Native Starter Project, great for hackathons or rapid prototyping. Includes tabs, navigation, Redux, React Native Vector Icons, & React Native Elements
 * [React Native Seed ★406](https://github.com/GeekyAnts/react-native-seed) - A set of React Native Boilerplates to choose from. MobX or Redux for state-management, TypeScript or Flow for static type checking and CRNA or plain React Native for the stack - By the creators of Native Base.
 * [ReactNativeTS ★346](https://github.com/mrpatiwi/ReactNativeTS) - Boilerplate of a React Native project in Typescript.
+* [🚀 React Native Starter ★294](https://github.com/flatlogic/react-native-starter) - A powerful starter template that bootstraps development of your mobile application.
 * [react-native-auth-boilerplate ★253](https://github.com/hasura/react-native-auth-boilerplate) - A React Native boilerplate with authentication already implemented.
 * [react-native-babel ★241](https://github.com/roman01la/react-native-babel)
 * [react-native-starter by Ueno ★207](https://github.com/ueno-llc/react-native-starter) - Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
@@ -1088,11 +1130,13 @@ Get a head start on development with an existing seed.
 * [react-native-web-workspace ★43](https://github.com/agrcrobles/react-native-web-workspace) - A cross platform app with react in a monorepo
 * [React-Native-Starter-Pack ★39](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
 * [react-native-relay-example ★37](https://github.com/sibelius/react-native-relay-example) - React Native working with Relay
+* [TheCodingMachine boilerplate ★31](https://github.com/thecodingmachine/react-native-boilerplate) - React Native boilerplate that promotes a solid architecture via separation of concerns.
 * [Reactor ★27](https://github.com/Jerameel/Reactor) - A dynamic react-native starter template using redux and react-navigation.
 * [react-native-tabbed ★23](https://github.com/rxb/react-native-tabbed)
 * [MeteorNative Boilerplate ★22](https://github.com/redbaron76/MeteorNative) - a React Native and Meteor boilerplate with Redux.
 * [rn-mobx-template ★16](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
 * [react-native-boilerplate-chucknorris ★16](https://github.com/Ali-Ayyad/react-native-boilerplate-chucknorris) - A boilerplate for React Native + React Navigation + React Native Elements (iOS & Android)
+* [react-native-vanilla ★8](https://github.com/pavjacko/react-native-vanilla) - Most fundamental cross-platform project template based on react native. Includes latest iOS, tvOS, Android, Android TV, Web and Tizen platforms 
 * [react-native-template-super ★5](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
 
@@ -1100,11 +1144,12 @@ Get a head start on development with an existing seed.
 
 Libraries / SDK type additions for React Native development.
 
-* [React Native Elements ★11165](https://github.com/dabit3/React-Native-Elements) - a collection of React Native UI Elements and components.
-* [Shoutem UI ★3380](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem
-* [Panza ★227](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
-* [BlankApp UI ★60](https://github.com/blankapp/ui) - Highly customizable and theming components for React Native
-* [React Native Common ★31](https://github.com/rghorbani/react-native-common) - UI & API Components Library for React Native
+* [React Native Elements ★12891](https://github.com/dabit3/React-Native-Elements) - a collection of React Native UI Elements and components.
+* [Shoutem UI ★3380](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem.
+* [React Native Paper ★1568](https://github.com/callstack/react-native-paper) - Material design for React Native.
+* [Panza ★227](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native.
+* [BlankApp UI ★60](https://github.com/blankapp/ui) - Highly customizable and theming components for React Native.
+* [React Native Common ★31](https://github.com/rghorbani/react-native-common) - UI & API Components Library for React Native.
 
 ## Open Source Apps
 
@@ -1140,10 +1185,10 @@ Open source React Native apps and other examples.
 * [ReactNativeHackerNews ★239](https://github.com/jsdf/ReactNativeHackerNews)
 * [iOS Conference App made with React Native ★231](https://github.com/mikkoj/NortalTechDay)
 * [MagicMirror ★227](https://github.com/ajwhite/MagicMirror)
-* [HupuApp ★227](https://github.com/MelonRice/ReactNative-HupuJRS) - A Third-party Hupu App (http://bbs.hupu.com/) client implemented using React Native (Android and iOS).
+* [HupuApp ★227](https://github.com/MelonRice/ReactNative-HupuJRS) - A Third-party Hupu App (<http://bbs.hupu.com/>) client implemented using React Native (Android and iOS).
 * [Redux Demo ★221](https://github.com/chentsulin/react-native-counter-ios-android) - Minimal implement of redux counter example on ReactNative iOS and Android
 * [React Native Example, Geo and Location ★207](https://github.com/bgryszko/react-native-example)
-* [uestc-bbs-react-native ★207](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux
+* [uestc-bbs-react-native ★207](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for <http://bbs.uestc.edu.cn/> written in React Native with Redux
 * [React Native Embedded App ★206](https://github.com/dsibiski/react-native-embedded-app-example) -A collection of examples for using React Native in an existing iOS application
 * [Lumpen Radio ★182](https://github.com/jhabdas/lumpen-radio)
 * [BBC News (Unofficial) ★177](https://github.com/joeltrew/BBCNews-React-Native) - a BBC news app
@@ -1178,6 +1223,7 @@ Open source React Native apps and other examples.
 * [rndrawer-implemented-rnrouter ★49](https://github.com/efkan/rndrawer-implemented-rnrouter) - A react-native-drawer implemented example and scaffolding for react-native-router-flux
 * [iTunesConnect ★49](https://github.com/oney/iTunesConnect) - Unofficial iTunes Connect App
 * [Sequent ★47](https://github.com/sobstel/sequent) - short-term memory training game (W/ Redux).
+* [Hekla for Hacker News ★44](https://github.com/birkir/hekla) - Hackernews client with TypeScript, mobx-state-tree, native navigation and css modules.
 * [iOS app that transcript your voice with IBM Watson Cloud ★41](https://github.com/yrezgui/meowth-ios)
 * [MoeFM ★41](https://github.com/codeestX/MoeFM) - A light MusicPlayer build with React Native & Redux for both Android and iOS.
 * [Confreaks ★30](https://github.com/cabaret/confreaks-react-native)
@@ -1190,7 +1236,7 @@ Open source React Native apps and other examples.
 * [Text Blast ★18](https://github.com/SeshApp/text-blast-react-native) - iOS client for MMS text blasting app with analogous [ionic version](https://github.com/SeshApp/text-blast-ionic) for comparison
 * [NewYorkTimesTopStories ★14](https://github.com/vidyuthd/NYTimesTopStories-React-Native) - Read Topstories of NewYorkTimes using its api written for android in react-native.
 * [Roverz ★14](https://github.com/mongrov/roverz) - A native mobile chat client library for Rocket.Chat on both iOS and Android.
-* [Posters\_Galore\_Android ★11](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
+* [Posters_Galore_Android ★11](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
 * [Quick-Sample ★9](https://github.com/innFactory/react-native-quick-sample) - A small and simple example app with navigation, data persistence, redux, listview and animation.
 * [Magento 2 Mobile App ★9](https://github.com/troublediehard/magento-react-native) - Magento 2.x mobile app built with React Native
 * [Commit Strip (Unofficial) ★7](https://github.com/rizalibnu/commit-strip-react-native) - A CommitStrip.com reader built in React Native.
@@ -1198,14 +1244,18 @@ Open source React Native apps and other examples.
 * [Hello Bemans ★5](https://github.com/rapportyou/HelloBemans) - Health Trainer Connection App (Android Version)
 * [react-native-medium-clap-animation ★4](https://github.com/saketkumar95/react-native-medium-clap-animation) - Medium Clap Animation in React Native
 * [react-native-uber-clone ★4](https://github.com/saketkumar95/react-native-uber-clone) - Uber UI Clone with animations in react native
-* [iGap Plus ★4](https://github.com/RooyeKhat-Media/iGap-Plus) - iGap+ is a cross-platform messaging application (Currently Android , iOS and Windows UWP) and has been created using all latest modern technologies. iGap+ is designed to easily support additional platforms like [web](http://github.com/necolas/react-native-web) , [macOS](https://github.com/ptmt/react-native-macos) and [linux](https://github.com/status-im/react-native-desktop)
+* [iGap Plus ★4](https://github.com/RooyeKhat-Media/iGap-Plus) - iGap+ is a cross-platform messaging application (Currently Android , iOS and Windows UWP) and has been created using all latest modern technologies. iGap+ is designed to easily support additional platforms like web, macOS and linux.
 * [RNV2ex ★4](https://github.com/dyygtfx/RNV2ex) - react-native for v2ex
 * [GitHub Jobs Search App (Unofficial) ★3](https://github.com/rizalibnu/github-jobs-react-native) - A GitHub Jobs Search App built in React Native.
 * [Renote ★2](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes.
+* [Minimal Quotes ★1](https://github.com/insiderdev/minimal-quotes) - Mobile app that throws you random quotes in a super clean minimal version.
 * [Bristol Pound](http://blog.scottlogic.com/2017/11/22/developing-bristol-pound-an-open-source-react-native-app.html) - An app for the Bristol Pound, a UK-based local currency.
 * [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 * [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone
 * [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
+* [Cat-or-dog](https://github.com/punksta/Cat-or-dog) - Simple game with drag'n'drops and animations.
+* [Forex Rates](https://github.com/MicroPyramid/forex-rates-mobile-app) - Foreign exchange rates. currency rate converter. Historical exchange rates. Android and iOS.
+* [Smog Alert App](https://github.com/Bartozzz/smog-alert-app) – provides real-time air pollution data all around the world and shows nearby polluters.
 
 ## Frameworks
 
@@ -1250,17 +1300,21 @@ Walkthroughs and tutorials that help you learn React Native.
 * [The beauty of react-native -Build a stunning wallpaper app](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
 * [Adding and removing custom fonts in React Native IOS Android](https://medium.com/@danielskripnik/how-to-add-and-remove-custom-fonts-in-react-native-b2830084b0e4#.s73pqh4ez)
 * [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
+* [Building a Minimalist Weather App with React Native and Expo](https://blog.expo.io/building-a-minimalist-weather-app-with-react-native-and-expo-fe7066e02c09)
+* [Getting Started with Lottie, React Native and Expo](https://hackernoon.com/react-native-getting-started-with-lottie-and-expo-8b2105fbb496)
+* [How to integrate Redux into your application with React Native and Expo](https://medium.freecodecamp.org/how-to-integrate-redux-into-your-application-with-react-native-and-expo-ec37c9ca6033)
 
 ## Books
 
 Books - free and commercial (but only good ones).
 
 * [Programming React Native](https://leanpub.com/programming-react-native) - (Free) An in-depth React Native book that you should read after you've done a couple tutorials of the many out there.
-* [React Native Animation Book](http://browniefed.com/react-native-animation-book/) - (Free) React Native Animation
+* [React Native Animation Book](http://browniefed.com/react-native-animation-book/) - (Free) React Native Animation.
 
 Books - for sale.
 
-* [React Native In Action](https://www.manning.com/books/react-native-in-action) - Learn how to build applications using React Native from the ground up
+* [React Native In Action](https://www.manning.com/books/react-native-in-action) - Learn how to build applications using React Native from the ground up.
+* [React Native - Building Mobile Apps with JavaScript](https://www.packtpub.com/application-development/react-native-building-mobile-apps-javascript) - Your go-to guide to creating truly native iOS and Android mobile applications using React and JavaScript.
 
 ## Videos
 
@@ -1269,6 +1323,8 @@ Assortment of conference and training videos.
 ### Talks
 
 * [awesome-react-native-talks ★283](https://github.com/mightyCrow/awesome-react-native-talks) - A curated list of talks about React Native or topics related to React Native.
+* Chain React 2018: [Playlist](https://www.youtube.com/watch?v=UiPo9A9k7xc&t=0s&list=PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u)
+* Chain React 2017: [Playlist](https://www.youtube.com/watch?v=cz5BzwgATpc&list=PLFHvL21g9bk3RxJ1Ut5nR_uTZFVOxu522)
 * React Conf 2015: [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4)
 * React Conf 2015: [A Deep Dive into React Native](https://youtu.be/7rDsRXj9-cU)
 * F8 2015: [React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU)
@@ -1321,6 +1377,9 @@ Assortment of conference and training videos.
 
 ## Releases
 
-* [Stable: 0.51.0](https://github.com/facebook/react-native/releases/tag/v0.51.0)
-* [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
+* [Stable: 0.57.0](https://github.com/react-native-community/react-native-releases/blob/master/CHANGELOG.md#057)
 * [Next: latest](https://github.com/facebook/react-native/releases/latest)
+* [All Versions](https://facebook.github.io/react-native/versions)
+* [All Changelogs](https://github.com/react-native-community/react-native-releases/blob/master/CHANGELOG.md)
+* [Upgrading Versions](https://facebook.github.io/react-native/docs/upgrading.html)
+* [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
