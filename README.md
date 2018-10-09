@@ -740,6 +740,7 @@ Components and native modules.
 * [react-native-util ★11](https://github.com/exponentjs/react-native-util) - A fork of io.js's util module that works with React Native
 * [react-native-webpackager-server ★7](https://github.com/changfuguo/react-native-webpackager-server) - react native webpackager server
 * [react-native-fluxbone ★5](https://github.com/jgable/react-native-fluxbone) - A group of libraries that help with the FluxBone pattern in React Native
+* [react-native-cross-settings ★4](https://github.com/aMarCruz/react-native-cross-settings) - React Native Settings module for both Android & iOS.
 * [react-native-crypto ★4](https://github.com/mvayngrib/react-native-crypto) - implementation of crypto for React Native
 * [react-native-HsvToRgb ★3](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 * [react-native-tools ★0](https://github.com/kkennis/react-native-tools) - Tools for react native project development
@@ -770,7 +771,6 @@ Components and native modules.
 * [react-native-fused-location ★57](https://github.com/MustansirZia/react-native-fused-location) - Finest location for react-native on Android using the new Fused API.
 * [react-native-android-geolocation ★18](https://github.com/garysye/react-native-android-geolocation) - React Native Module to use Android Geolocation via Google Play API
 * [react-native-reverse-geo ★17](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
-* [react-native-cross-geolocation ★7](https://github.com/aMarCruz/react-native-cross-geolocation) - React Native Geolocation complatible module that uses the new Google Location API in Android devices.
 * [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
 
 ### Internationalization
