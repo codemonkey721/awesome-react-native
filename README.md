@@ -613,7 +613,6 @@ Components and native modules.
 * [react-native-progress-button ★7](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.
 * [react-native-date-range-picker ★7](https://github.com/lazaronixon/react-native-date-range-picker) - Simple date range picker extended from react-native-calendars 📆
 * [react-native-images-collage ★7](https://github.com/lukebrandonfarrell/react-native-images-collage) - Robust interactive image collage component for React Native.
-* [react-native-segment-control ★7](https://github.com/ainurb/react-native-segment-control) - A swipeable SegmentedControl component for React Native apps.
 * [react-native-drawpad ★6](https://github.com/Partido-Asia/react-native-drawpad) - A pad for users to draw by touching
 * [react-native-navbar-color ★6](https://github.com/BhavanPatel/react-native-navbar-color) - Change Navigationbar Color in Android
 * [react-native-frame-loading ★6](https://github.com/heyman333/react-native-frame-loading) - The Loading indicator with frame by frame view animation
@@ -690,6 +689,7 @@ Components and native modules.
 * [react-native-htmltext ★127](https://github.com/siuying/react-native-htmltext) - Use HTML like markup to create stylized text in react-native.
 * [react-native-html-webview ★103](https://github.com/almost/react-native-html-webview) - Display (possibly untrusted) HTML using a UIWebView in React Native.
 * [react-native-html-render ★96](https://github.com/soliury/react-native-html-render) - A html render for react-native
+* [react-native-file-viewer ★30](https://github.com/vinzscam/react-native-file-viewer) - Preview any type of file supported by the mobile device
 * [react-native-measure-text ★24](https://github.com/airamrguez/react-native-measure-text) - Measure text height without laying it out.
 * [react-native-hypertext ★20](https://github.com/agentcooper/react-native-hypertext) - React Native module to render hypertext (text with links)
 * [react-native-asciimage ★16](https://github.com/turley/react-native-asciimage) - An ASCIImage component for React Native
