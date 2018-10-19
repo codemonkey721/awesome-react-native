@@ -488,6 +488,7 @@ Components and native modules.
 * [react-native-open-maps ★53](https://github.com/brh55/react-native-open-maps) - A simple lib to open up the corresponding map application (Google or Apple Maps) from a set of coordinates (latitude & longitude) within react-native
 * [react-native-infinite-scrollview ★52](https://github.com/baspellis/react-native-infinite-scrollview) - ScrollView with infinite paged scrolling (no looping)
 * [react-native-slot-machine ★52](https://github.com/atlanteh/react-native-slot-machine) - A text slot machine component for react-native
+* [galio ★52](https://github.com/galio-org/galio) - A fresh react native UI framework.
 * [react-native-fs-modal ★51](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
 * [react-native-multiple-choice ★51](https://github.com/d-a-n/react-native-multiple-choice) - A cross-platform (iOS / Android) single and multiple-choice React Native component.
 * [react-native-swipeview ★51](https://github.com/rishabhbhatia/react-native-swipeview) - SwipeView component used to perform actions like swipe to delete, works on iOS and Android
@@ -689,7 +690,6 @@ Components and native modules.
 * [react-native-htmltext ★127](https://github.com/siuying/react-native-htmltext) - Use HTML like markup to create stylized text in react-native.
 * [react-native-html-webview ★103](https://github.com/almost/react-native-html-webview) - Display (possibly untrusted) HTML using a UIWebView in React Native.
 * [react-native-html-render ★96](https://github.com/soliury/react-native-html-render) - A html render for react-native
-* [react-native-file-viewer ★30](https://github.com/vinzscam/react-native-file-viewer) - Preview any type of file supported by the mobile device
 * [react-native-measure-text ★24](https://github.com/airamrguez/react-native-measure-text) - Measure text height without laying it out.
 * [react-native-hypertext ★20](https://github.com/agentcooper/react-native-hypertext) - React Native module to render hypertext (text with links)
 * [react-native-asciimage ★16](https://github.com/turley/react-native-asciimage) - An ASCIImage component for React Native
