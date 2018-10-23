@@ -635,7 +635,6 @@ Components and native modules.
 * [react-native-animated-bottom-tabbar ★0](https://github.com/lvlrSajjad/react-native-animated-bottom-tabbar) - Animated bottom Tab bar for react native
 * [react-native-counters ★0](https://github.com/yasaricli/react-native-counters) - Minus Plus Counter for React Native
 * [react-native-rate-modal ★2](https://github.com/omergulen/react-native-rate-modal) - Hackable "rate us" component for React Native.
-* [react-native-map-link ★127](https://github.com/includable/react-native-map-link) - Open a location in the maps app of the user's choice.
 
 ### Navigation
 
@@ -1172,6 +1171,7 @@ Open source React Native apps and other examples.
 * [react-native-sudoku ★514](https://github.com/nihgwu/react-native-sudoku) - a sudoku game written in React Native
 * [Boostnote ★492](https://github.com/BoostIO/boostnote-mobile) - Boostnote: open source note taking.
 * [react-native-hiapp ★468](https://github.com/BelinChung/react-native-hiapp) - A simple and Twitter like demo app written in react-native
+* [Manyverse](https://github.com/staltz/manyverse) – Social network off the grid (a Scuttlebutt Android client)
 * [react-native-basketball ★392](https://github.com/FaridSafi/react-native-basketball) - a clone of the Facebook Basketball game
 * [React Native Netflix ★392](https://github.com/mariodev12/react-native-netflix) - A Netflix-like app.
 * [what the thing? ★391](https://github.com/vigzmv/what_the_thing) - Point camera at things to learn how to say them in a different language.
