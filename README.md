@@ -643,7 +643,6 @@ Components and native modules.
 * [react-native-auth-screens](https://github.com/thomaswangio/auth-screens) - A series of Authentication Views for React Native: Sign In, Social Sign In Sign Up, and Forgot Password. Uses `react-native-gradient-buttons`.
 * [react-native-animated-flatlist](https://github.com/shakogegia/react-native-animated-flatlist) - Animated Flatlist for React Native.
 * [react-native-map-link ★131](https://github.com/includable/react-native-map-link) - Open a location in the maps app of the user's choice.
-* [react-native-svg-transformer ★4](https://github.com/kristerkari/react-native-svg-transformer) - Import SVG files inside React Native components. Uses the react-native-svg library to render SVG images.
 
 ### Navigation
 
@@ -1264,6 +1263,7 @@ Open source React Native apps and other examples.
 * [Forex Rates](https://github.com/MicroPyramid/forex-rates-mobile-app) - Foreign exchange rates. currency rate converter. Historical exchange rates. Android and iOS.
 * [Smog Alert App](https://github.com/Bartozzz/smog-alert-app) – provides real-time air pollution data all around the world and shows nearby polluters.
 * [Audio Book App](https://github.com/minhtc/sachnoiapp) – Completed Audiobook app with some cool animations.
+* [FastBuy](https://github.com/Bruno-Furtado/fastbuy-app) - App to manage the products from a dummy Store (built with React Native and Redux).
 
 ## Frameworks
 
