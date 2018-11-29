@@ -89,7 +89,6 @@ dotan-at-paracode.com.
         - [Navigation](#navigation)
             - [Navigation/Routing Articles](#navigationrouting-articles)
             - [Navigation Demos](#navigation-demos)
-        - [Deep Linking](#deep-linking)
         - [Text & Rich Content](#text--rich-content)
         - [Analytics](#analytics)
         - [Utils & Infra](#utils--infra)
@@ -644,6 +643,7 @@ Components and native modules.
 * [react-native-auth-screens](https://github.com/thomaswangio/auth-screens) - A series of Authentication Views for React Native: Sign In, Social Sign In Sign Up, and Forgot Password. Uses `react-native-gradient-buttons`.
 * [react-native-animated-flatlist](https://github.com/shakogegia/react-native-animated-flatlist) - Animated Flatlist for React Native.
 * [react-native-map-link ★131](https://github.com/includable/react-native-map-link) - Open a location in the maps app of the user's choice.
+* [swipeable-modal-react-native](https://github.com/bzurkow/swipeable-modal-react-native) - A 'pop-up' modal that can be swiped away left or right to run different functions.
 
 ### Navigation
 
@@ -689,10 +689,6 @@ Components and native modules.
 * [Navigator Demo ★188](https://github.com/h87kg/NavigatorDemo)
 * [ExNavRelay ★23](https://github.com/sibelius/ExNavRelay) - React Native + Ex-navigation + Relay integration template
 * [React Native Example App: Navigation](http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/)
-
-### Deep Linking
-
-* [react-native-deep-link ★36](https://github.com/Starotitorov/react-native-deep-link) - React Native library to handle deep links
 
 ### Text & Rich Content
 
