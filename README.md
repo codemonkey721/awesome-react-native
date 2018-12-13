@@ -646,6 +646,7 @@ Components and native modules.
 * [react-native-map-link ★131](https://github.com/includable/react-native-map-link) - Open a location in the maps app of the user's choice.
 * [react-native-svg-transformer ★4](https://github.com/kristerkari/react-native-svg-transformer) - Import SVG files inside React Native components. Uses the react-native-svg library to render SVG images.
 * [swipeable-modal-react-native](https://github.com/bzurkow/swipeable-modal-react-native) - A 'pop-up' modal that can be swiped away left or right to run different functions.
+* [react-native-bouncing-ball ★8](https://github.com/hankzhuo/react-native-bouncing-ball) - React Native component bouncing ball for both iOS and Android.
 
 ### Navigation
 
@@ -1273,7 +1274,6 @@ Open source React Native apps and other examples.
 * [Spectrum](https://github.com/withspectrum/spectrum/tree/alpha/mobile) - The community platform for the future.
 * [FastBuy](https://github.com/Bruno-Furtado/fastbuy-app) - App to manage the products from a dummy Store (built with React Native and Redux).
 * [Hydropuzzle](https://github.com/hydropuzzle/hydropuzzle) - Stylish puzzle adventure game.
-* [Github-Gist](https://github.com/Arjun-sna/react-native-githubgist-client) - React native mobile application for github gist
 
 ## Frameworks
 
