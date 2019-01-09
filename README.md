@@ -962,7 +962,6 @@ Components and native modules.
 * [react-native-true-sight ★18](https://github.com/ScreamZ/react-native-true-sight) - A cross-platform video player with customizable controls for React Native.
 * [react-native-media-capture ★6](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
 * [react-native-tone ★7](https://github.com/oliviachang29/react-native-tone) - Generates simple sine wave, specify a frequency and amplitude. Play sound indefinitely or for a specified time interval (iOS only).
-* [react-native-safe-image ★13](https://github.com/xcarpentier/react-native-safe-image) - Really light React-Native package to handle fallback when image is on error
 
 ### Storage
 
@@ -1110,6 +1109,7 @@ Useful React Native tooling.
 * [rsx ★29](https://github.com/react-native-contrib/rsx) - An alternative to the `react-native` CLI tool
 * [ADB Auto Restarter ★8](https://github.com/mahanhaz/adb-auto-restarter) - Restart ADB service Automatically in case of crashing while debugging app with device .
 * [rn-nodeify ★6](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
+* [react-native-ruler ★3](https://github.com/lfkwtz/react-native-ruler) - A devtool for measuring pixel dimensions on your React Native screens
 * [BuilderX](https://builderx.io/) - A design tool which writes React Native code for you , Desktop Mac app to replace your traditional UX design tools.
 * [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
 * [Storybook](https://storybook.js.org) - UI development environment for your React components
