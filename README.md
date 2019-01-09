@@ -593,6 +593,7 @@ Components and native modules.
 * [react-native-avatar-gravatar ★18](https://github.com/niborb/react-native-gravatar) - React Native Gravatar component
 * [react-native-custom-actionsheet ★21](https://github.com/valerybugakov/react-native-custom-actionsheet) - Fully customizable ActionSheet for React Native.
 * [react-native-multiselect ★15](https://github.com/robcalcroft/react-native-multiselect) - A simple multi select component with events and a flexible API.
+* [react-native-select-multiple  ★58](https://github.com/tableflip/react-native-select-multiple) -A simple and easy to use component for multiple selection of item from List.
 * [react-native-hijri-date-picker ★13](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.
 * [react-native-pin-view ★48](https://github.com/talut/react-native-pin-view) - Easy, convenient, quick-forming PinView component. It runs smoothly for both IOS and Android.
 * [react-native-rebound-scrollview ★12](https://github.com/jaxchow/react-native-rebound-scrollview) - React Native Android ReboundScrollView implementation.
@@ -1093,7 +1094,6 @@ Components and native modules.
 Useful React Native tooling.
 
 * [react-native-debugger ★4017](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
-* [rn-diff-purge ★64](https://github.com/pvinis/rn-diff-purge) - The easiest way to upgrade React Native versions. You can find diffs for every React Native version, that are created by diffing the previous version with a newly created app in the new version.
 * [haul ★2711](https://github.com/callstack-io/haul) - command line tool for developing React Native apps
 * [rnpm ★2408](https://github.com/rnpm/rnpm) - react native package manager
 * [generact ★1125](https://github.com/diegohaz/generact) - CLI that generates components based on existing ones no matter how you structure your app
