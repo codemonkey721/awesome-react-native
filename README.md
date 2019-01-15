@@ -1109,7 +1109,6 @@ Useful React Native tooling.
 * [rsx ★29](https://github.com/react-native-contrib/rsx) - An alternative to the `react-native` CLI tool
 * [ADB Auto Restarter ★8](https://github.com/mahanhaz/adb-auto-restarter) - Restart ADB service Automatically in case of crashing while debugging app with device .
 * [rn-nodeify ★6](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
-* [react-native-ruler ★3](https://github.com/lfkwtz/react-native-ruler) - A devtool for measuring pixel dimensions on your React Native screens
 * [BuilderX](https://builderx.io/) - A design tool which writes React Native code for you , Desktop Mac app to replace your traditional UX design tools.
 * [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
 * [Storybook](https://storybook.js.org) - UI development environment for your React components
@@ -1274,6 +1273,7 @@ Open source React Native apps and other examples.
 * [Spectrum](https://github.com/withspectrum/spectrum/tree/alpha/mobile) - The community platform for the future.
 * [FastBuy](https://github.com/Bruno-Furtado/fastbuy-app) - App to manage the products from a dummy Store (built with React Native and Redux).
 * [Hydropuzzle](https://github.com/hydropuzzle/hydropuzzle) - Stylish puzzle adventure game.
+* [Lyrics King](https://github.com/SKempin/Lyrics-King-React-Native) - Minimalist and stylish lyrics search app.
 
 ## Frameworks
 
