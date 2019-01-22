@@ -613,7 +613,6 @@ Components and native modules.
 * [react-native-link ★8](https://github.com/650Industries/react-native-link) - A link component
 * [react-native-custom-picker ★15](https://github.com/budiadiono/react-native-custom-picker) - React native customizable picker component.
 * [react-native-stylesheet-xg ★8](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
-* [react-native-draggable-grid ★7](https://github.com/SHISME/react-native-draggable-grid) - A React Native draggable and sortable grid component write by typescript.
 * [react-native-loading ★7](https://github.com/alcat2008/react-native-loading) - A lightweight loading for your React Native app.
 * [react-native-progress-button ★10](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.
 * [react-native-date-range-picker ★25](https://github.com/lazaronixon/react-native-date-range-picker) - Simple date range picker extended from react-native-calendars 📆
@@ -1154,6 +1153,7 @@ Get a head start on development with an existing seed.
 * [react-native-vanilla ★35](https://github.com/pavjacko/react-native-vanilla) - Most fundamental cross-platform project template based on react native. Includes latest iOS, tvOS, Android, Android TV, Web and Tizen platforms
 * [react-native-template-super ★7](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
+* [React Native Starter Kit](https://github.com/instamobile/react-native-starter-kit) - React Native starter kit with user onboarding elements, including Firebase Auth and Facebook Login integration.
 
 ## Libraries
 
