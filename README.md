@@ -829,6 +829,7 @@ Components and native modules.
 * [react-native-prism ★10](https://github.com/tmpfs/prism) - Minimal, idiomatic style management for React Native
 * [styled-react-native](https://github.com/jsifalda/styled-react-native) - Advanced react native styling with simple method (style overwrites, component composition, enhanced style property). Full intro in [this Medium article](https://medium.com/@JSifalda/advanced-react-native-styling-with-a-few-lines-of-code-4b6a94385015).
 * [react-native-paint ★5](https://github.com/brankeye/react-native-paint) - A themeable abstraction over React Native StyleSheet. Read about it [here](https://medium.com/@brankeye/making-easily-themeable-react-native-stylesheets-bd8782b4e685).
+* [binstorm ★5](https://github.com/binbytes/binstorm) - BinStorm is a React Native styling utility for rapidly building custom user interfaces. Read about it [here](https://docs-binstorm.binbytes.com/).
 
 ### System
 
@@ -1153,7 +1154,6 @@ Get a head start on development with an existing seed.
 * [react-native-vanilla ★35](https://github.com/pavjacko/react-native-vanilla) - Most fundamental cross-platform project template based on react native. Includes latest iOS, tvOS, Android, Android TV, Web and Tizen platforms
 * [react-native-template-super ★7](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
-* [React Native Starter Kit](https://github.com/instamobile/react-native-starter-kit) - React Native starter kit with user onboarding elements, including Firebase Auth and Facebook Login integration.
 
 ## Libraries
 
