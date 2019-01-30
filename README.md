@@ -654,7 +654,6 @@ Components and native modules.
 * [react-native-picker-module *1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker. 
 * [rn-actionsheet-module *0](https://github.com/talut/rn-actionsheet-module) - BottomsheetDialog & ActionSheetIOS with same props and usage.
 * [react-native-countries *1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
-* [react-native-progress-steps *0](https://github.com/colbymillerdev/react-native-progress-steps) - A simple and fully customizable React Native component that implements a progress stepper UI.
 
 
 ### Navigation
@@ -1406,6 +1405,7 @@ Assortment of conference and training videos.
 * [Spencer Carli](https://medium.com/@spencer_carli)
 * [Official React Native Blog](http://facebook.github.io/react-native/blog/)
 * [reactnative.gallery](https://reactnative.gallery/) - Show and tell for React Native developers
+* [Red Shift - Infinite Red](https://shift.infinite.red/) - Lots of React Native content
 
 ## Newsletters
 
