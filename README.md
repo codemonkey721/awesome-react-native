@@ -280,7 +280,6 @@ Components and native modules.
 * [react-native-mapbox-gl ★1663](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
 * [react-native-fast-image ★2240](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component.
 * [react-native-spinkit ★1585](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
-* [victory-native ★1264](https://github.com/FormidableLabs/victory-native) - victory-native is a collection of components to help you create charts, bar graphs etc.
 * [react-native-chart ★1464](https://github.com/onefold/react-native-chart) - react-native-chart is a simple module for adding line charts, area charts, or bar charts to your React Native app.
 * [react-native-gifted-listview ★1443](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrent features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
 * [react-native-viewpager ★1350](https://github.com/race604/react-native-viewpager) - ViewPager component for React Native
@@ -655,6 +654,7 @@ Components and native modules.
 * [react-native-picker-module *1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker. 
 * [rn-actionsheet-module *0](https://github.com/talut/rn-actionsheet-module) - BottomsheetDialog & ActionSheetIOS with same props and usage.
 * [react-native-countries *1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
+* [react-native-progress-steps *0](https://github.com/colbymillerdev/react-native-progress-steps) - A simple and fully customizable React Native component that implements a progress stepper UI.
 
 
 ### Navigation
