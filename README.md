@@ -654,6 +654,7 @@ Components and native modules.
 * [react-native-picker-module *1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker. 
 * [rn-actionsheet-module *0](https://github.com/talut/rn-actionsheet-module) - BottomsheetDialog & ActionSheetIOS with same props and usage.
 * [react-native-countries *1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
+* [react-native-suggester *3](httpshttps://github.com/xcarpentier/react-native-suggester) - React-Native package to decorate TextInput and get suggestions with good UX.
 
 
 ### Navigation
@@ -1405,7 +1406,6 @@ Assortment of conference and training videos.
 * [Spencer Carli](https://medium.com/@spencer_carli)
 * [Official React Native Blog](http://facebook.github.io/react-native/blog/)
 * [reactnative.gallery](https://reactnative.gallery/) - Show and tell for React Native developers
-* [Red Shift - Infinite Red](https://shift.infinite.red/) - Lots of React Native content
 
 ## Newsletters
 
