@@ -106,6 +106,7 @@ dotan-at-paracode.com.
         - [Integrations](#integrations)
         - [Monetization](#monetization)
         - [Animation](#animation)
+        - [Extension](#extension)
         - [Other Platforms](#other-platforms)
     - [Utilities](#utilities)
     - [Seeds](#seeds)
@@ -334,7 +335,6 @@ Components and native modules.
 * [react-native-carousel ★406](https://github.com/nick/react-native-carousel) - Simple carousel component for react-native
 * [react-native-star-rating ★489](https://github.com/djchie/react-native-star-rating) - A React Native component for generating and displaying interactive star ratings
 * [react-native-radio-buttons ★399](https://github.com/ArnaudRinquin/react-native-radio-buttons) - A react component to implement custom radio buttons-like behaviors: multiple options, only on can be selected at once.
-* [react-native-really-awesome-button ★370](https://github.com/rcaferati/react-native-really-awesome-button) - RNRAB is a 3D at 60fps, progress enabled, extendable, production ready component that renders an awesome animated set of UI buttons.
 * [react-native-gesture-password ★410](https://github.com/spikef/react-native-gesture-password) - A gesture password component for React Native
 * [react-native-invertible-scroll-view ★388](https://github.com/exponentjs/react-native-invertible-scroll-view) - An invertible ScrollView for React Native
 * [react-native-copilot ★595](https://github.com/okgrow/react-native-copilot) - Step-by-step walkthrough for your react native app
@@ -1095,6 +1095,11 @@ Components and native modules.
 * [react-native-gl-model-view ★210](https://github.com/rastapasta/react-native-gl-model-view) - Display and animate textured Wavefront .OBJ 3D models with 60fps (iOS)
 * [react-native-animated-sprite ★104](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
 
+### Extension
+
+* [React Native Android Widget Proof of Concept ★127](https://github.com/netbeast/react-native-android-widget-poc) - Android Widget Proof of Concept in React Native
+* [React Native Today Widget ★190](https://github.com/matejkriz/react-native-today-widget) - iOS Today Widget Extension in React Native
+
 ### Other Platforms
 
 * [react-native-macos ★10453](http://github.com/ptmt/react-native-macos) - React Native for OS X
@@ -1306,7 +1311,6 @@ Open source React Native apps and other examples.
 Walkthroughs and tutorials that help you learn React Native.
 
 * [Fully-immersive, hands-on, and fun learning experience for React Native ★825](https://github.com/jondot/ReactNativeKatas)
-* [React Native Android Widget Proof of Concept ★110](https://github.com/netbeast/react-native-android-widget-poc)
 * [React Native with Django backend ★12](https://github.com/shunpochang/connect_love_mobile_demo)
 * [Setting up background tasks that run periodically when app is closed in React Native](https://hackernoon.com/easy-os-background-tasks-in-react-native-bc4476c48b8a)
 * [Animate React Native UI Elements](https://egghead.io/courses/animate-react-native-ui-elements)
