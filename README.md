@@ -191,6 +191,7 @@ Content published on the Web.
 * [React Native & Apple TV today](https://medium.com/@7ynk3r/react-native-apple-tv-today-48beb398a1ab#.5pp5drlyy)
 * [Record and Upload Videos with React Native](https://medium.com/react-native-training/uploading-videos-from-react-native-c79f520b9ae1)
 * [How to Setup your First React Native app](https://hackernoon.com/react-native-how-to-setup-your-first-app-a36c450a8a2f)
+* [Using React Native With TypeScript](https://medium.com/@jan.hesters/using-typescript-with-react-native-946aa4b4ae6f)
 
 ### Assorted
 
@@ -1078,7 +1079,7 @@ Components and native modules.
 * [react-native-heyzap](https://github.com/react-native-contrib/react-native-heyzap)- Heyzap plugin for React Native
 * [react-native-launch-navigator](https://github.com/dpa99c/react-native-launch-navigator) - React Native module to launch popular navigation/ride apps from a single API (Android & iOS)
 * [react-native-fitness ★17](https://github.com/OvalMoney/react-native-fitness) - A React Native module to interact with Apple Healthkit and Google Fit
-* [react-native-agora +190](https://github.com/syanbo/react-native-agora) - A React Native Agora WebRTC Wrapper.
+
 ### Monetization
 
 * [react-native-admob ★713](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners.
