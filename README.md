@@ -191,7 +191,6 @@ Content published on the Web.
 * [React Native & Apple TV today](https://medium.com/@7ynk3r/react-native-apple-tv-today-48beb398a1ab#.5pp5drlyy)
 * [Record and Upload Videos with React Native](https://medium.com/react-native-training/uploading-videos-from-react-native-c79f520b9ae1)
 * [How to Setup your First React Native app](https://hackernoon.com/react-native-how-to-setup-your-first-app-a36c450a8a2f)
-* [Using React Native With TypeScript](https://medium.com/@jan.hesters/using-typescript-with-react-native-946aa4b4ae6f)
 
 ### Assorted
 
@@ -772,6 +771,7 @@ Components and native modules.
 * [react-native-HsvToRgb ★3](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 * [react-native-tools ★0](https://github.com/kkennis/react-native-tools) - Tools for react native project development
 * [react-native-call-observer](https://github.com/liamse/react-native-call-observer) - Helps to observe call status like incoming, ended, and connected (iOS).
+* [react-native-iphone-se-helper ★0](https://github.com/heyman333/react-native-iphone-se-helper) - utils for developing iphone SE size.
 
 ### Forms
 
