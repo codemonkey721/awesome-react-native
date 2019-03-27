@@ -191,6 +191,9 @@ Content published on the Web.
 * [React Native & Apple TV today](https://medium.com/@7ynk3r/react-native-apple-tv-today-48beb398a1ab#.5pp5drlyy)
 * [Record and Upload Videos with React Native](https://medium.com/react-native-training/uploading-videos-from-react-native-c79f520b9ae1)
 * [How to Setup your First React Native app](https://hackernoon.com/react-native-how-to-setup-your-first-app-a36c450a8a2f)
+* [How To Build a News Reader App with React Native and NewsAPI](https://medium.com/crowdbotics/how-to-build-a-news-reader-app-with-react-native-and-newsapi-8508f48f2b43)
+* [How to Build a Real Time Logo Detection App with React Native](https://medium.com/crowdbotics/how-to-build-a-real-time-logo-detection-app-with-react-native-google-vision-api-and-crowdbotics-9ed65fbcd15)
+* [Build a Chatbot with Dialogflow and React Native](https://blog.jscrambler.com/build-a-chatbot-with-dialogflow-and-react-native/)
 
 ### Assorted
 
@@ -223,6 +226,8 @@ Content published on the Web.
 * [React Native's Layout Animation is Awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e)
 * [Avoiding the Keyboard](https://shift.infinite.red/avoiding-the-keyboard-in-react-native-56d05b9a1e81#.g1lwixck6)
 * [How To Use OpenCV In React Native For Image Processing](https://brainhub.eu/blog/opencv-react-native-image-processing/)
+* [Using Styled Components with React Native](https://medium.com/swlh/using-styled-components-with-react-native-de645fcf4787)
+* [Create a React Native Image Recognition App with Google Vision API](https://blog.jscrambler.com/create-a-react-native-image-recognition-app-with-google-vision-api/)
 
 ### Continuous Integration
 
@@ -231,6 +236,7 @@ Content published on the Web.
 * [How to automate Android build process on Bitrise CI](https://medium.com/@hesam.kamalan/how-to-automate-android-build-process-on-bitrise-ci-71ae3a94362e#.fryuiays4)
 * [fastlane for React Native iOS & Android app DevOps](https://medium.com/react-native-training/fastlane-for-react-native-ios-android-app-devops-8ca85bee614e)
 * [The simplest way to automate delivery of your React Native Application](https://jtway.co/the-simplest-way-to-automate-delivery-of-your-react-native-application-f37f2c71eb1d)
+* [21 Useful Open Source Packages for React Native](https://medium.com/crowdbotics/21-useful-open-source-packages-for-react-native-807f65a818a1)
 
 ### Internals
 
@@ -606,7 +612,6 @@ Components and native modules.
 * [react-native-seekbar-android ★10](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
 * [react-native-timeline-theme ★25](https://github.com/tomzaku/react-native-timeline-theme) - Collection of TimeLine theme. This package only use flexbox(without absolute) & FlatList
 * [react-native-quiltview ★9](https://github.com/mmslate/react-native-quiltview) - Native iOS UICollectionView wrapper with RFQuiltLayout for React Native
-* [react-native-units ★2](https://github.com/alexfoxy/react-native-units) - A collection of useful units and a simple grid implementation for responsive layouts in React Native.
 * [react-native-relative-units ★9](https://github.com/benzhe/react-native-relative-units) - Relative units for React Native
 * [react-native-simple-button ★9](https://github.com/remobile/react-native-simple-button) - A simple react-native button
 * [react-native-coachmasks ★10](https://github.com/TranLuongTuanAnh/react-native-coachmasks) - react-native-coachmark! It helps you easily create Coach Marks to enhance user experience!
@@ -655,7 +660,6 @@ Components and native modules.
 * [react-native-picker-module *1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker. 
 * [rn-actionsheet-module *0](https://github.com/talut/rn-actionsheet-module) - BottomsheetDialog & ActionSheetIOS with same props and usage.
 * [react-native-countries *1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
-
 
 
 ### Navigation
