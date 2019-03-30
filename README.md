@@ -165,20 +165,6 @@ Conference - November 4th, 2018
 
 Conference - November 30th, 2018
 
-### App.js Conf - Krakow, Poland
-
-<https://appjs.co/>
-
-Conference - April 4th, 2019
-Workshops - April 5th, 2019
-
-### Chain React - Portland, OR USA
-
-<https://infinite.red/ChainReactConf>
-
-Workshops- July 10th, 2019
-Conference - July 11th-12th, 2019
-
 ## Articles
 
 Content published on the Web.
@@ -668,6 +654,7 @@ Components and native modules.
 * [react-native-picker-module *1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker. 
 * [rn-actionsheet-module *0](https://github.com/talut/rn-actionsheet-module) - BottomsheetDialog & ActionSheetIOS with same props and usage.
 * [react-native-countries *1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
+* [react-native-recyclerlist ★1515](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and Web with support for complex layouts.
 
 
 ### Navigation
