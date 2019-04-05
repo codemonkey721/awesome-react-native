@@ -1134,6 +1134,7 @@ Useful React Native tooling.
 * [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
 * [exponent](https://expo.io/) - Use React Native without XCode (a previewer app + local server infrastructure)
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
+* [Appitr IDE](https://www.appitr.com/) - Online React Native IDE with boilerplate wizard.
 
 ## Seeds
 
@@ -1151,7 +1152,6 @@ Get a head start on development with an existing seed.
 * [react-native-auth-boilerplate ★302](https://github.com/hasura/react-native-auth-boilerplate) - A React Native boilerplate with authentication already implemented.
 * [react-native-babel ★241](https://github.com/roman01la/react-native-babel)
 * [react-native-starter by Ueno ★311](https://github.com/ueno-llc/react-native-starter) - Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
-* [react-native-vanilla ★185](https://github.com/pavjacko/react-native-vanilla) - 🚀🚀🚀 Build universal cross-platform apps with React Native. Includes latest `iOS`, `tvOS`, `Android`, `Android TV`, `Android Wear`, `Web`, `Tizen TV`, `Tizen Watch`, `LG webOS`, `macOS/OSX`, `Windows` and `KaiOS` platforms
 * [react-native-es6-reflux ★145](https://github.com/filp/react-native-es6-reflux)
 * [react-native-redux ★160](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
 * [react-native-hot-redux-starter ★135](https://github.com/adampash/react-native-hot-redux-starter)
@@ -1168,6 +1168,7 @@ Get a head start on development with an existing seed.
 * [MeteorNative Boilerplate ★23](https://github.com/redbaron76/MeteorNative) - a React Native and Meteor boilerplate with Redux.
 * [rn-mobx-template ★17](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
 * [react-native-boilerplate-chucknorris ★15](https://github.com/Ali-Ayyad/react-native-boilerplate-chucknorris) - A boilerplate for React Native + React Navigation + React Native Elements (iOS & Android)
+* [react-native-vanilla ★35](https://github.com/pavjacko/react-native-vanilla) - Most fundamental cross-platform project template based on react native. Includes latest iOS, tvOS, Android, Android TV, Web and Tizen platforms
 * [react-native-template-super ★7](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
 * [React Native Starter Kit](https://github.com/instamobile/react-native-starter-kit) - React Native starter kit with user onboarding elements, including Firebase Auth and Facebook Login integration.
