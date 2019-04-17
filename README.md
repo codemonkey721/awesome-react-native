@@ -625,6 +625,7 @@ Components and native modules.
 * [react-native-frame-loading ★9](https://github.com/heyman333/react-native-frame-loading) - The Loading indicator with frame by frame view animation
 * [react-native-censored ★8](https://github.com/redpandatronicsuk/react-native-censored) - React Native component to censor content.
 * [react-native-animated-styles ★7](https://github.com/ericpkerr/react-native-animated-styles) - Easily animate/transition react components between two style states.
+* [react-native-easy-content-loader ★6](https://github.com/sarmad1995/react-native-easy-content-loader) - React-Native light weight skeleton content loading.
 * [react-native-loader-hud ★3](https://github.com/EdgeJay/react-native-loader-hud) - Loader animation library for React Native
 * [react-native-double-buffer ★3](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
 * [react-native-fontbase ★3](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
@@ -880,7 +881,6 @@ Components and native modules.
 * [react-native-sensor-manager ★172](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
 * [react-native-unified-contacts ★120](https://github.com/joshuapinter/react-native-unified-contacts) - React Native iOS 9+ Contacts (ios)
 * [react-native-pinch ★130](https://github.com/localz/react-native-pinch) - SSL pinning for react native
-* [react-native-ssl-pinning ★20](https://github.com/MaxToyberman/react-native-ssl-pinning) - React Native SSL pinning using OkHttp 3 on Android, and AFNetworking on iOS
 * [react-native-haptic ★137](https://github.com/charlesvinette/react-native-haptic) - iOS 10 + haptic feedback for React Native applications
 * [react-native-discovery ★89](https://github.com/yonahforst/react-native-discovery) - Discover nearby devics using BLE. Turn iOS and Android devices into beacons
 * [react-native-addressbook ★81](https://github.com/rt2zz/react-native-addressbook) - AddressBook module for react-native
