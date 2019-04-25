@@ -689,6 +689,7 @@ Components and native modules.
 * [react-native-keyboard-sticky-view ★7](https://github.com/melihberberolu/React-Native-Keyboard-Sticky-View) - Keyboar Sticky View with animation and renderProps
 * [react-native-header-scroll-view ★3](https://github.com/jonsamp/react-native-header-scroll-view) - iOS-style large header scroll view.
 * [react-native-hotspot ★2](https://github.com/lawnstarter/react-native-hotspot) - A React Native component that displays hotspots over desired components to help lead your users through an onboarding flow or direct them towards new UI elements
+* [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view) - React Native Module to select item picker modal.
 
 #### Navigation/Routing Articles
 
@@ -1299,7 +1300,6 @@ Open source React Native apps and other examples.
 * [Teaset ★1575](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS(ES6) components, focusing on content display and action control.
 * [Awesome React Native Meteor ★152](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 * [React Native Diagnose ★13](https://github.com/netbeast/react-native-diagnose) - A framework to test a React Native app during runtime and production
-* [first-born ★106](https://github.com/99xt/first-born) - A UI framework with pre-built components that render separately according to the underlying mobile platform.
 
 ## Tutorials
 
