@@ -654,7 +654,7 @@ Components and native modules.
 * [react-native-picker-module *1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker. 
 * [rn-actionsheet-module *0](https://github.com/talut/rn-actionsheet-module) - BottomsheetDialog & ActionSheetIOS with same props and usage.
 * [react-native-countries *1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
-* [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view) - React Native Module to select item picker modal.
+
 
 ### Navigation
 
@@ -689,7 +689,6 @@ Components and native modules.
 * [react-native-keyboard-sticky-view ★7](https://github.com/melihberberolu/React-Native-Keyboard-Sticky-View) - Keyboar Sticky View with animation and renderProps
 * [react-native-header-scroll-view ★3](https://github.com/jonsamp/react-native-header-scroll-view) - iOS-style large header scroll view.
 * [react-native-hotspot ★2](https://github.com/lawnstarter/react-native-hotspot) - A React Native component that displays hotspots over desired components to help lead your users through an onboarding flow or direct them towards new UI elements
-
 
 #### Navigation/Routing Articles
 
@@ -1145,6 +1144,7 @@ Get a head start on development with an existing seed.
 * [Snowflake ★4321](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
 * [native-starter-kit ★1506](https://github.com/start-react/native-starter-kit) - A Starter Kit for React Native + NativeBase + React Navigation + Redux + CodePush Apps (iOS & Android)
 * [React Native Meteor Boilerplate ★615](https://github.com/spencercarli/react-native-meteor-boilerplate)
+* [react-native-easy-starter](https://github.com/HarishJangra/react-native-easy-starter) - A React-native starter kit using Latest React and React-Native, easy-peasy, code-push, react-native-paper, hooks workflow, contextapis , theming support and much more (android + ios)
 * [React Native Hackathon Starter ★732](https://github.com/dabit3/react-native-hackathon-starter) - React Native Starter Project, great for hackathons or rapid prototyping. Includes tabs, navigation, Redux, React Native Vector Icons, & React Native Elements
 * [React Native Seed ★504](https://github.com/GeekyAnts/react-native-seed) - A set of React Native Boilerplates to choose from. MobX or Redux for state-management, TypeScript or Flow for static type checking and CRNA or plain React Native for the stack - By the creators of Native Base.
 * [ReactNativeTS ★353](https://github.com/mrpatiwi/ReactNativeTS) - Boilerplate of a React Native project in Typescript.
