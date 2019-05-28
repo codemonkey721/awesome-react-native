@@ -516,6 +516,7 @@ Components and native modules.
 * [react-native-simple-stepper ★60](https://github.com/testshallpass/react-native-simple-stepper) - A super simple react-native implementation of the UIStepper iOS control.
 * [react-native-viewport ★43](https://github.com/pjjanak/react-native-viewport) - Viewport dimensions for react-native
 
+
 * [react-native-progress-circular ★43](https://github.com/andy9775/React-Native-CircularProgress) - A pure React Native Component for circular progress bars for both iOS and Android.
 * [react-native-simpledialog-android ★41](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
 * [react-native-tween-animation ★43](https://github.com/kirkness/react-native-tween-animation) - A simple react native state tween animation module.
@@ -840,7 +841,6 @@ Components and native modules.
 * [styled-react-native](https://github.com/jsifalda/styled-react-native) - Advanced react native styling with simple method (style overwrites, component composition, enhanced style property). Full intro in [this Medium article](https://medium.com/@JSifalda/advanced-react-native-styling-with-a-few-lines-of-code-4b6a94385015).
 * [react-native-paint ★5](https://github.com/brankeye/react-native-paint) - A themeable abstraction over React Native StyleSheet. Read about it [here](https://medium.com/@brankeye/making-easily-themeable-react-native-stylesheets-bd8782b4e685).
 * [binstorm ★5](https://github.com/binbytes/binstorm) - BinStorm is a React Native styling utility for rapidly building custom user interfaces. Read about it [here](https://docs-binstorm.binbytes.com/).
-* [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - A react native styling system based on TailwindCSS.
 
 ### System
 
@@ -1129,7 +1129,6 @@ Useful React Native tooling.
 * [BuilderX](https://builderx.io/) - A design tool which writes React Native code for you , Desktop Mac app to replace your traditional UX design tools.
 * [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
 * [Storybook](https://storybook.js.org) - UI development environment for your React components
-* [AppHub](https://apphub.io/) - Update React Native apps, instantly
 * [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
 * [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
 * [exponent](https://expo.io/) - Use React Native without XCode (a previewer app + local server infrastructure)
