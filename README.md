@@ -734,6 +734,7 @@ Components and native modules.
 * [react-native-segment-io-analytics ★68](https://github.com/smore-inc/react-native-segment-io-analytics) - A React Native Segment wrapper!
 * [react-native-td ★26](https://github.com/quipper/react-native-td) - An unofficial React Native SDK for Treasure Data.
 * [react-native-ux-cam ★32](https://github.com/negativetwelve/react-native-ux-cam) - React Native wrapper for uxcam.com.
+* [react-native-flurry-sdk ★15](https://github.com/flurry/react-native-flurry-sdk) - Official React Native wrapper for Flurry SDK. Supports Android, iOS and tvOS.
 
 ### Utils & Infra
 
@@ -1129,6 +1130,7 @@ Useful React Native tooling.
 * [BuilderX](https://builderx.io/) - A design tool which writes React Native code for you , Desktop Mac app to replace your traditional UX design tools.
 * [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
 * [Storybook](https://storybook.js.org) - UI development environment for your React components
+* [AppHub](https://apphub.io/) - Update React Native apps, instantly
 * [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
 * [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
 * [exponent](https://expo.io/) - Use React Native without XCode (a previewer app + local server infrastructure)
