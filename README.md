@@ -194,6 +194,7 @@ Content published on the Web.
 
 ### Assorted
 
+* [Best Practices for Building a Large Scale React Application](https://buttercms.com/blog/best-practices-for-building-a-large-scale-react-application)
 * [React Native - Nic or Not App](https://shift.infinite.red/cage-against-the-machine-a419b6980424)
 * [Versioning React Native Application in elegant way (cross-platformely) ★10](https://github.com/szhigunov/react-native-npm-version)
 * [React and React Native State Museum](https://hackernoon.com/the-react-state-museum-a278c726315)
@@ -1102,7 +1103,6 @@ Components and native modules.
 * [react-native-windows ★5547](https://github.com/ReactWindows/react-native-windows) - React Native for Universal Windows Platform
 * [react-native-tvos-controller ★15](https://github.com/ycinfinity/react-native-tvos-controller) - TvOS remote controller module for react native.
 * [react-native-watchkit ★1](https://github.com/MystK/react-native-watchkit) - react native for WatchKit
-* [@areslabs/alita ★392](https://github.com/areslabs/alita) - react native for mini-program(微信小程序)
 
 ## Utilities
 
