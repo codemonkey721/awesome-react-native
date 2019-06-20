@@ -598,6 +598,7 @@ Components and native modules.
 * [react-native-focus-scroll ★26](https://github.com/c-bata/react-native-focus-scroll) - react-native-focus-scroll can detect which children are focused when scrolling.
 * [react-native-dropbox-chooser ★21](https://github.com/tinycreative/react-native-dropbox-chooser) - React Native dropbox chooser module
 * [react-native-draggable-calendar ★34](https://github.com/SmallStoneSK/react-native-draggable-calendar) - A calendar component supporting dragging.
+* [react-native-echarts-wrapper ★24](https://github.com/tomLadder/react-native-echarts-wrapper) - Powerful ECharts wrapper build for React Native
 * [react-native-ichart ★22](https://github.com/AdonRain/react-native-ichart) - ichart for react-native
 * [react-native-comparison-slider ★25](https://github.com/charlot567/react-native-comparison-slider) - A simple component to display two image in comparison with a slide-over feature.
 * [react-native-simple-card-view ★23](https://github.com/talut/react-native-simple-card-view) - Easiest way to adding a card view on your screen.
@@ -1130,7 +1131,6 @@ Components and native modules.
 * [react-native-admob ★713](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners.
 * [react-native-stripe-api ★155](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for Stripe Rest API
 * [react-native-revmob ★15](https://github.com/RevMob/react-native-revmob) - RevMob wrapper for React Native.
-* [react-native-apay ★2](https://github.com/busfor/react-native-apay) - React Native bridge for Apple Pay
 
 ### Animation
 
