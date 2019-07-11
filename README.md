@@ -247,6 +247,7 @@ Content published on the Web.
 
 ### Continuous Integration
 
+* [Distributing beta builds with Fastlane on Android and iOS](https://github.com/thecodingmachine/react-native-boilerplate/blob/master/docs/beta%20builds.md)
 * [Deploying a React Native App with Fastlane](https://dbanck.svbtle.com/deploying-a-react-native-app-with-fastlane)
 * [Continuous Integration for React Native Apps With Fastlane and Bitrise (iOS)](http://blog.thebakery.io/continuous-integration-for-react-native-applications-with-fastlane-and-bitrise-ios-version/)
 * [How to automate Android build process on Bitrise CI](https://medium.com/@hesam.kamalan/how-to-automate-android-build-process-on-bitrise-ci-71ae3a94362e#.fryuiays4)
@@ -339,6 +340,7 @@ Components and native modules.
 * [react-native-tabs ★687](https://github.com/aksonov/react-native-tabs) - React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)
 * [react-native-search-bar ★671](https://github.com/umhan35/react-native-search-bar) - The native search bar for react native.
 * [react-native-timeline-listview ★665](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App
+* [react-native-toastboard](https://github.com/MAKARD/react-native-toastboard) - The simplest way to show notification.
 * [apsl-react-native-button ★653](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 * [react-native-popup-menu ★653](https://github.com/instea/react-native-popup-menu) - Extensible popup menu component for React Native.
 * [react-native-qrcode ★644](https://github.com/cssivision/react-native-qrcode) - react-native qrcode generator
@@ -825,6 +827,7 @@ Components and native modules.
 * [react-native-form ★138](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!
 * [react-reactive-forms ★106](https://github.com/bietkul/react-reactive-form) - Angular like reactive forms in React.
 * [react-native-forms ★86](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms.
+* [react-native-formawesome](https://github.com/MAKARD/react-native-formawesome) - Complex and simple forms builder.
 * [react-native-from-builder ★69](https://github.com/bietkul/react-native-form-builder) - Handle your forms in a smart way.
 * [foect ★37](https://github.com/unexge/foect) - Simple form validation library for React Native
 * [react-native-fm-form ★13](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes
@@ -1135,6 +1138,7 @@ Components and native modules.
 * [react-native-revmob ★15](https://github.com/RevMob/react-native-revmob) - RevMob wrapper for React Native.
 * [react-native-google-pay ★2](https://github.com/busfor/react-native-google-pay) - Accept Payments with Google Pay for React Native apps.
 * [react-native-apay ★2](https://github.com/busfor/react-native-apay) - React Native bridge for Apple Pay
+* [react-native-square-in-app-payments ★18](https://github.com/square/in-app-payments-react-native-plugin) - Square React Native plugin for In-App Payments SDK.
 
 ### Animation
 
@@ -1205,6 +1209,7 @@ Get a head start on development with an existing seed.
 * [React Native Seed ★504](https://github.com/GeekyAnts/react-native-seed) - A set of React Native Boilerplates to choose from. MobX or Redux for state-management, TypeScript or Flow for static type checking and CRNA or plain React Native for the stack - By the creators of Native Base.
 * [🚀 React Native Starter ★388](https://github.com/flatlogic/react-native-starter) - A powerful starter template that bootstraps development of your mobile application.
 * [ReactNativeTS ★353](https://github.com/mrpatiwi/ReactNativeTS) - Boilerplate of a React Native project in Typescript.
+* [react-native-boilerplate ★335](https://github.com/thecodingmachine/react-native-boilerplate) - React Native boilerplate that promotes a solid architecture via separation of concerns.
 * [react-native-starter by Ueno ★311](https://github.com/ueno-llc/react-native-starter) - Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
 * [react-native-babel ★241](https://github.com/roman01la/react-native-babel)
 * [react-native-vanilla ★185](https://github.com/pavjacko/react-native-vanilla) - 🚀🚀🚀 Build universal cross-platform apps with React Native. Includes latest `iOS`, `tvOS`, `Android`, `Android TV`, `Android Wear`, `Web`, `Tizen TV`, `Tizen Watch`, `LG webOS`, `macOS/OSX`, `Windows` and `KaiOS` platforms
@@ -1212,7 +1217,6 @@ Get a head start on development with an existing seed.
 * [react-native-redux ★160](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
 * [react-native-es6-reflux ★145](https://github.com/filp/react-native-es6-reflux)
 * [react-native-hot-redux-starter ★135](https://github.com/adampash/react-native-hot-redux-starter)
-* [TheCodingMachine boilerplate ★102](https://github.com/thecodingmachine/react-native-boilerplate) - React Native boilerplate that promotes a solid architecture via separation of concerns.
 * [Rhinos-app ★81](https://github.com/rhinos-app/rhinos-app-dev) - Cross-platform React Native boilerplate (iOS, Android, Web) built on react-native-web.
 * [react-native-web-boilerplate ★72](https://github.com/agrcrobles/react-native-web-boilerplate) - A react-native-web stateless hmr boilerplate
 * [react-native-boilerplate ★61](https://github.com/pcofilada/react-native-boilerplate) - Simple boilerplate for mobile development using React Native and Redux
