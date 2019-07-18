@@ -331,7 +331,8 @@ Components and native modules.
 * [react-native-svg-charts ★764](https://github.com/JesperLekland/react-native-svg-charts) - One library to rule all charts for React Native
 * [react-native-masonry ★758](https://github.com/brh55/react-native-masonry) - A masonry~ish layout for rendering images.
 * [react-native-credit-card-input ★742](https://github.com/sbycrosz/react-native-credit-card-input) - 💳 💳 Easy (and good looking) credit-card input for your React Native Project
-* [rn-placeholder ★734](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web!)
+* [rn-placeholder ★1139](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web!)
+* [action-sheet-rn ★1](https://github.com/mfrachet/action-sheet-rn) - Probably the most declarative API for ActionSheets in React Native
 * [react-native-sglistview ★731](https://github.com/sghiassy/react-native-sglistview) - A memory minded implementation of React Native's ListView
 * [react-native-modal-dropdown ★708](https://github.com/sohobloo/react-native-modal-dropdown) - A react-native dropdown/picker/selector component for both Android & iOS.
 * [react-native-button ★707](https://github.com/ide/react-native-button)
@@ -691,10 +692,7 @@ Components and native modules.
 * [react-native-animated-loader](https://github.com/vikrantnegi/react-native-animated-loader) - A React Native Loader Component which uses Airbnb's Lottie for beautiful loader animations.
 * [rn-verifcode](https://github.com/xcarpentier/rn-verifcode) - React-Native component to input confirmation code for both Android and IOS
 * [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view) - React Native Module to select item picker modal.
-* [view-on-steroids](https://github.com/vko-online/pane) - React-Native View component with inline styles.
-* [rn-material-textinput](https://github.com/akshit5230/React-Native-Material-TextInput) - A simple TextInput wrapper for material styling in iOS and Android with Customizable styles & Animated label.
-* [rn-action-picker](https://github.com/akshit5230/rn-action-picker) - A simple action picker for iOS and Android. Renders Native ActionSheetIOS Component in iOS and custom ActionSheet lookalike component in Android.
-* [rn-collapsible-section](https://github.com/akshit5230/React-Native-Collapsible-Section) - A collapsible section / section list with customizable section body and child body. Supports both iOS and Android.
+* [view-on-steroids](https://github.com/vko-online/pane) - React-Native View component with inline styles
 
 ### Navigation
 
