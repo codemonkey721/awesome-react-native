@@ -692,6 +692,7 @@ Components and native modules.
 * [rn-verifcode](https://github.com/xcarpentier/rn-verifcode) - React-Native component to input confirmation code for both Android and IOS
 * [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view) - React Native Module to select item picker modal.
 * [view-on-steroids](https://github.com/vko-online/pane) - React-Native View component with inline styles
+* [react-native-dots-pagination ★3](https://github.com/tsepeti/react-native-dots-pagination) - A simple dot paging for React Native.
 
 ### Navigation
 
@@ -1212,7 +1213,6 @@ Get a head start on development with an existing seed.
 * [react-native-babel ★241](https://github.com/roman01la/react-native-babel)
 * [react-native-vanilla ★185](https://github.com/pavjacko/react-native-vanilla) - 🚀🚀🚀 Build universal cross-platform apps with React Native. Includes latest `iOS`, `tvOS`, `Android`, `Android TV`, `Android Wear`, `Web`, `Tizen TV`, `Tizen Watch`, `LG webOS`, `macOS/OSX`, `Windows` and `KaiOS` platforms
 * [react-native-template-typescript ★183](https://github.com/emin93/react-native-template-typescript) - Clean and minimalist React Native template for a quick start with TypeScript.
-* [react-native-template-airbnb](https://github.com/iboldurev/react-native-template-airbnb) - Clean and minimalist React Native template for a quick start with Airbnb (Flow, Prettier).
 * [react-native-redux ★160](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
 * [react-native-es6-reflux ★145](https://github.com/filp/react-native-es6-reflux)
 * [react-native-hot-redux-starter ★135](https://github.com/adampash/react-native-hot-redux-starter)
