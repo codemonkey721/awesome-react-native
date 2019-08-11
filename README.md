@@ -692,7 +692,6 @@ Components and native modules.
 * [rn-verifcode](https://github.com/xcarpentier/rn-verifcode) - React-Native component to input confirmation code for both Android and IOS
 * [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view) - React Native Module to select item picker modal.
 * [view-on-steroids](https://github.com/vko-online/pane) - React-Native View component with inline styles
-* [react-native-dots-pagination ★3](https://github.com/tsepeti/react-native-dots-pagination) - A simple dot paging for React Native.
 
 ### Navigation
 
@@ -847,7 +846,7 @@ Components and native modules.
 * [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
 
 ### Internationalization
-
+* [fbt ★3202](https://github.com/facebookincubator/fbt) - A JavaScript Internationalization Framework
 * [react-native-localize ★603](https://github.com/react-native-community/react-native-localize) - React Native Localize
 * [react-native-globalize ★192](https://github.com/joshswan/react-native-globalize) - Globalization helper for React Native
 
