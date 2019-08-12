@@ -180,6 +180,20 @@ Workshops - April 5th, 2019
 Workshops - July 10th, 2019
 Conference - July 11th-12th, 2019
 
+### React Native EU - Wroclaw, Poland
+<https://react-native.eu/>
+
+Workshops - September 4th, 2019
+Conference - September 5th-6th, 2019
+
+### React Berlin - Berlin, Germany
+
+<https://reactday.berlin/>
+
+Workshops - December 4th-5th, 2019
+Conference - December 6th, 2019
+
+
 ## Articles
 
 Content published on the Web.
@@ -846,7 +860,7 @@ Components and native modules.
 * [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
 
 ### Internationalization
-* [fbt ★3202](https://github.com/facebookincubator/fbt) - A JavaScript Internationalization Framework
+
 * [react-native-localize ★603](https://github.com/react-native-community/react-native-localize) - React Native Localize
 * [react-native-globalize ★192](https://github.com/joshswan/react-native-globalize) - Globalization helper for React Native
 
