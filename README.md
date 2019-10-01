@@ -208,6 +208,7 @@ Content published on the Web.
 
 ### Howtos
 
+* [Add client-side indecent content checking to your React Native app using NSFWJS and TensorFlowJS](https://shift.infinite.red/nsfw-js-for-react-native-a37c9ba45fe9)
 * [How to add Firebase Auth with React Native ★4](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_add_Firebase_Auth_with_react_native)
 * [How to upgrade React Navigation 1.x to 2.x](https://shift.infinite.red/upgrading-from-react-navigation-v1-to-v2-312d932329ba)
 * [How to use React Native Navigation v2 with Redux and Google Analytics](https://www.codingsavvy.com/2018/08/react-native-navigation-v2-with-redux.html)
@@ -803,7 +804,6 @@ Components and native modules.
 * [react-native-universal-modal ★16](https://github.com/bokuweb/react-native-universal-modal) - Universal simple modal component for React Native
 * [react-native-html ★11](https://github.com/turingou/react-native-html) - render html as react native custom elements
 * [rn-pdf-reader-js ★6](https://github.com/xcarpentier/rn-pdf-reader-js/blob/master/README.md) - A PDF reader, in JavaScript only, for Expo, Android capable, PDF.JS
-* [@typeskill/typer ★4](https://github.com/typeskill/typer) - The Operational-Transform Based (React) Native Rich Text Library
 
 ### Analytics
 
