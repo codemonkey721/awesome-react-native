@@ -545,6 +545,7 @@ Components and native modules.
 * [react-native-status-bar-height ★73](https://github.com/ovr/react-native-status-bar-height) - A small library that helps you to get status bar height easily. It also support iPhone X.
 * [react-native-color-wheel ★72](https://github.com/netbeast/react-native-color-wheel) - A react native reusable color picker wheel
 * [react-native-scrollview-lazyload ★71](https://github.com/IskenHuang/react-native-scrollview-lazyload) - react-native scrollview with image lazy load
+* [react-native-pure-navigation-bar ★71](https://github.com/gaoxiaosong/react-native-pure-navigation-bar) - A fully customizable navigation bar in React Native.
 * [react-native-material-cards ★70](https://github.com/SiDevesh/React-Native-Material-Cards) - A material design card component, customizable and versatile.
 * [react-native-item-cell ★69](https://github.com/APSL/react-native-item-cell) - React Native default style iOS item cell
 * [react-native-calendario ★69](https://github.com/maggialejandro/react-native-calendario) - React Native Calendar DatePicker
@@ -1196,7 +1197,6 @@ Components and native modules.
 
 * [React Native Today Widget ★190](https://github.com/matejkriz/react-native-today-widget) - iOS Today Widget Extension in React Native
 * [React Native Android Widget Proof of Concept ★127](https://github.com/netbeast/react-native-android-widget-poc) - Android Widget Proof of Concept in React Native
-* [React Native Floating Bubble ★14](https://github.com/hybriteq/react-native-floating-bubble) - A simple Facebook Chat Head like bubble for react native
 
 ### Other Platforms
 
