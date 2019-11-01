@@ -82,6 +82,7 @@ _Understand How Your React-Native App is Doing with Real-Time Contextual Insight
     - [Chain React - Portland, OR USA](#chain-react---portland-or-usa-1)
     - [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland-1)
     - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany-1)
+    - [ReactEurope - Paris, France](#reacteurope---paris-france)
   - [Articles](#articles)
     - [Reference](#reference)
     - [Howtos](#howtos)
@@ -197,6 +198,12 @@ Conference - September 5th-6th, 2019
 Workshops - December 4th-5th, 2019
 Conference - December 6th, 2019
 
+### ReactEurope - Paris, France
+
+<https://www.react-europe.org/>
+
+Conference - May 14th-15, 2020
+Workshops - May 12th-13th, 2020
 
 ## Articles
 
@@ -733,7 +740,6 @@ Components and native modules.
 * [react-native-eva-icons](https://github.com/artyorsh/react-native-eva-icons) - [Eva Icons](https://github.com/akveo/eva-icons) implementation for React Native based on react-native-svg elements.
 * [react-native-dots-pagination ★3](https://github.com/tsepeti/react-native-dots-pagination) - A simple dot paging for React Native.
 * [react-native-gesture-detector](https://github.com/mxmzb/react-native-gesture-detector) - Easily create and detect custom, complex gestures on React Native.
-* [react-native-wizard](https://github.com/talut/react-native-wizard) - Easily navigate your user for next step. Quick-forming Wizard component.
 
 ### Navigation
 
