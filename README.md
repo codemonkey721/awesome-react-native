@@ -82,7 +82,6 @@ _Understand How Your React-Native App is Doing with Real-Time Contextual Insight
     - [Chain React - Portland, OR USA](#chain-react---portland-or-usa-1)
     - [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland-1)
     - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany-1)
-    - [ReactEurope - Paris, France](#reacteurope---paris-france)
   - [Articles](#articles)
     - [Reference](#reference)
     - [Howtos](#howtos)
@@ -198,12 +197,6 @@ Conference - September 5th-6th, 2019
 Workshops - December 4th-5th, 2019
 Conference - December 6th, 2019
 
-### ReactEurope - Paris, France
-
-<https://www.react-europe.org/>
-
-Conference - May 14th-15, 2020
-Workshops - May 12th-13th, 2020
 
 ## Articles
 
@@ -1046,7 +1039,7 @@ Components and native modules.
 * [react-native-audio ★798](https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps.
 * [react-native-camera-kit ★701](https://github.com/wix/react-native-camera-kit) - Advanced native camera and gallery components and device photos API.
 * [react-native-audio-streaming ★679](https://github.com/tlenclos/react-native-audio-streaming) - iOS & Android module to play an audio stream, with background support and media controls :speaker:
-* [react-native-video-processing ★528](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/filtering library for React-Native
+* [react-native-video-processing ★712](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/filtering library for React-Native
 * [react-native-track-player ★441](https://github.com/react-native-kit/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support and background mode for Android, iOS and Windows.
 * [react-native-camera-roll-picker ★312](https://github.com/jeanpan/react-native-camera-roll-picker) - A React Native component providing images selection from camera roll
 * [react-native-incall-manager ★272](https://github.com/zxcpoiu/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat like webrtc
