@@ -733,7 +733,6 @@ Components and native modules.
 * [react-native-eva-icons](https://github.com/artyorsh/react-native-eva-icons) - [Eva Icons](https://github.com/akveo/eva-icons) implementation for React Native based on react-native-svg elements.
 * [react-native-dots-pagination ★3](https://github.com/tsepeti/react-native-dots-pagination) - A simple dot paging for React Native.
 * [react-native-gesture-detector](https://github.com/mxmzb/react-native-gesture-detector) - Easily create and detect custom, complex gestures on React Native.
-* [react-native-timetable](https://github.com/gomjellie/react-native-timetable) - 📆 timetable library for React Native
 
 ### Navigation
 
@@ -1276,6 +1275,7 @@ Get a head start on development with an existing seed.
 * [react-native-boilerplate-chucknorris ★15](https://github.com/Ali-Ayyad/react-native-boilerplate-chucknorris) - A boilerplate for React Native + React Navigation + React Native Elements (iOS & Android)
 * [react-native-template-super ★7](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
+* [react-native-community-maps ★3](https://github.com/yonahforst/react-native-community-maps) - Boilerplate app for browsing user-generated photos on a map
 * [React Native Starter Kit](https://github.com/instamobile/react-native-starter-kit) - React Native starter kit with user onboarding elements, including Firebase Auth and Facebook Login integration.
 * [Awesome React Native Boilerplates](https://github.com/appitr/awesome-react-native-boilerplates) - Effective start for your development with the most popular react-native navigation and UI libraries                                                                                                   
 * [react-int](https://github.com/leafOfTree/react-int) - A simple way to use react/react-native with redux and redux-saga.
