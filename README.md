@@ -852,7 +852,6 @@ Components and native modules.
 * [react-native-fluxbone ★5](https://github.com/jgable/react-native-fluxbone) - A group of libraries that help with the FluxBone pattern in React Native
 * [react-native-cross-settings ★5](https://github.com/aMarCruz/react-native-cross-settings) - React Native Settings module for both Android & iOS.
 * [react-native-HsvToRgb ★3](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
-* [react-native-use-persist-storage ★3](https://github.com/visuallylab/react-native-use-persist-storage) - Persist and rehydrate your context(state) using React Hooks
 * [react-native-tools ★0](https://github.com/kkennis/react-native-tools) - Tools for react native project development
 * [react-native-call-observer](https://github.com/liamse/react-native-call-observer) - Helps to observe call status like incoming, ended, and connected (iOS).
 * [react-native-iphone-se-helper ★0](https://github.com/heyman333/react-native-iphone-se-helper) - utils for developing iphone SE size.
@@ -1468,7 +1467,7 @@ Books - for sale.
 Assortment of conference and training videos.
 
 ### Talks
-
+* Chain React 2019: [React Native Only Playlist](https://www.youtube.com/playlist?list=PLq2wBqKQbpCqVKqZwysoo2MEDwVX7auhX)
 * [awesome-react-native-talks ★312](https://github.com/mightyCrow/awesome-react-native-talks) - A curated list of talks about React Native or topics related to React Native.
 * [Actually Building Things In React Native , Jani Eväkallio, Futurice](https://www.youtube.com/watch?v=ZqKYk0aTaYk)
 * [Using Redux, Jonas Ohlsson, State](https://www.youtube.com/watch?v=Ola8U-SpL6U)
