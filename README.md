@@ -438,6 +438,7 @@ Components and native modules.
 * [react-native-simple-router ★255](https://github.com/react-native-simple-router-community/react-native-simple-router) - A community maintained router component for React Native
 * [react-native-cacheable-image ★255](https://github.com/jayesbe/react-native-cacheable-image) - A filesystem cacheable image component for react-native
 * [react-native-segmented-control-tab ★252](https://github.com/kirankalyan5/react-native-segmented-control-tab) react-native-segmented-control-tab (for Android/iOS)
+* [react-native-modal-selector ★249](https://github.com/peacechen/react-native-modal-selector) - A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections. 
 * [react-native-keyboardevents ★247](https://github.com/johanneslumpe/react-native-keyboardevents) - Monitors keyboard show/hide notifications
 * [react-native-multiselect ★246](https://github.com/toystars/react-native-multiple-select) - Simple multi-select component for react-native.
 * [react-native-cardview ★239](https://github.com/Kishanjvaghela/react-native-cardview) - CardView for react-native (All Android version and iOS)
@@ -1328,7 +1329,6 @@ Open source React Native apps and other examples.
 * [React Native Embedded App ★218](https://github.com/dsibiski/react-native-embedded-app-example) -A collection of examples for using React Native in an existing iOS application
 * [React Native Example, Geo and Location ★216](https://github.com/bgryszko/react-native-example)
 * [uestc-bbs-react-native ★216](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for <http://bbs.uestc.edu.cn/> written in React Native with Redux
-* [Sh\*\*t! I Smoke ★209](https://github.com/amaurymartiny/shoot-i-smoke) - Know how many cigarettes you smoke based on the pollution of your location.
 * [PxView ★198](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS
 * [BBC News (Unofficial) ★187](https://github.com/joeltrew/BBCNews-React-Native) - a BBC news app
 * [HackerBuzz ★179](https://github.com/RCiesielczuk/HackerBuzz-ReactNative) - a Hacker News reader.
