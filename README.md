@@ -438,7 +438,6 @@ Components and native modules.
 * [react-native-simple-router ★255](https://github.com/react-native-simple-router-community/react-native-simple-router) - A community maintained router component for React Native
 * [react-native-cacheable-image ★255](https://github.com/jayesbe/react-native-cacheable-image) - A filesystem cacheable image component for react-native
 * [react-native-segmented-control-tab ★252](https://github.com/kirankalyan5/react-native-segmented-control-tab) react-native-segmented-control-tab (for Android/iOS)
-* [react-native-modal-selector ★249](https://github.com/peacechen/react-native-modal-selector) - A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections. 
 * [react-native-keyboardevents ★247](https://github.com/johanneslumpe/react-native-keyboardevents) - Monitors keyboard show/hide notifications
 * [react-native-multiselect ★246](https://github.com/toystars/react-native-multiple-select) - Simple multi-select component for react-native.
 * [react-native-cardview ★239](https://github.com/Kishanjvaghela/react-native-cardview) - CardView for react-native (All Android version and iOS)
@@ -739,6 +738,7 @@ Components and native modules.
 
 * [react-navigation ★14233](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
 * [react-native-navigation ★9325](https://github.com/wix/react-native-navigation) - App-wide support for 100% native navigation with an easy cross-platform interface.
+- [react-native-navigation-hooks ★109](https://github.com/underscopeio/react-native-navigation-hooks) - A set of React hooks for React Native Navigation.
 * [react-native-router-flux ★7720](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API
 * [kittenTricks ★4227](https://github.com/akveo/kittenTricks) - A react native mobile starter kit with over 40 screens and theme hot reload support
 * [native-navigation ★3060](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
