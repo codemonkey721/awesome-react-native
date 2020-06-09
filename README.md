@@ -681,6 +681,7 @@ Components and native modules.
 * [react-native-custom-picker ★15](https://github.com/budiadiono/react-native-custom-picker) - React native customizable picker component.
 * [react-native-confirmation-code-field ★15](https://github.com/retyui/react-native-confirmation-code-field) - A React Native component to input confirmation code for both Android and IOS
 * [react-native-android-circles ★14](https://github.com/kwaak/react-native-android-circles) - A react native android package to show a circle progress view.
+* [react-native-anchor-point ★14](https://github.com/sueLan/react-native-anchor-point) - Make the fancy 3D transform easier in react native
 * [react-native-code-verification ★13](https://github.com/danchokobo/react-native-code-verification) - An UI module for user-side pincode verification.
 * [react-native-hijri-date-picker ★13](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.
 * [react-native-imagewand ★13](https://github.com/NorthFoxz/react-native-imagewand) - image wand for react native
@@ -709,7 +710,6 @@ Components and native modules.
 * [react-native-segment-control ★7](https://github.com/ainurb/react-native-segment-control) - A swipeable SegmentedControl component for React Native apps.
 * [react-native-animated-styles ★7](https://github.com/ericpkerr/react-native-animated-styles) - Easily animate/transition react components between two style states.
 * [react-native-hide-modal ★6](https://github.com/heyman333/react-native-hide-modal) - Modal component that can be hidden
-* [react-native-hole-view ★6](https://github.com/ibitcy/react-native-hole-view) - Component for cutting out click-through holes in any view. Perfect for making tutorial-like overlay
 * [react-native-masonry-brick-list ★5](https://github.com/lvlrSajjad/react-native-masonry-brick-list) - Staggered Or Masonary List View For React Native Written in pure js
 * [react-native-blur-overlay ★5](https://github.com/lvlrSajjad/react-native-blur-overlay) - React Native Blur Overlay Library For Ios And Android
 * [react-native-rate-modal ★5](https://github.com/omergulen/react-native-rate-modal) - Hackable "rate us" component for React Native.
