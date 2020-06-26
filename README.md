@@ -1013,7 +1013,6 @@ Components and native modules.
 * [react-native-phone-call ★76](https://github.com/tiaanduplessis/react-native-phone-call) - A simple way to initiate a phone call in React Native
 * [react-native-calendar-reminders ★69](https://github.com/wmcmahan/React-Native-CalendarReminders) - React Native module for IOS EventKit Reminders
 * [react-native-bluetooth-state ★61](https://github.com/frostney/react-native-bluetooth-state) - Answering the question of "Is my bluetooth on?" in React Native
-* [react-native-google-nearby-messages ★14](https://github.com/mrousavy/react-native-google-nearby-messages) - Communicate with nearby devices using Bluetooth, BLE, WiFi and near-ultrasonic audio by using the Google Nearby Messages API
 * [react-native-barcode-scanner ★60](https://github.com/lifuzu/ReactNativeBarcodeScanner) - Barcode scanner for React Native
 * [react-native-haptic-feedback ★60](https://github.com/mkuczera/react-native-haptic-feedback) - Trigger Haptic Native Feedback on iOS and Android
 * [react-native-clipboard ★58](https://github.com/silentcloud/react-native-clipboard) - React Native component for getting or setting clipboard content
@@ -1127,6 +1126,7 @@ Components and native modules.
 * [react-native-pouchdb ★38](https://github.com/carbureted/react-native-pouchdb) - Run pouchdb in React Native!
 * [react-native-level-fs ★20](https://github.com/tradle/react-native-level-fs) - fs for react-native using level-filesystem and asyncstorage-down
 * [react-native-mongoose ★17](https://github.com/remobile/react-native-mongoose) - A AsyncStorage based mongoose like storage for react-native
+* [react-native-leveldown](https://github.com/andymatuschak/react-native-leveldown) - Native LevelDB bindings for React Native
 
 ### Backend
 
