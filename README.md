@@ -283,6 +283,7 @@ Content published on the Web.
 
 ### Continuous Integration
 
+* [How to build and deploy React Native apps for iOS and Android automatically with Appcircle CI/CD](https://appcircle.io/blog/guide-to-automated-mobile-ci-cd-for-react-native-appcircle/)
 * [Distributing beta builds with Fastlane on Android and iOS](https://github.com/thecodingmachine/react-native-boilerplate/blob/master/docs/beta%20builds.md)
 * [Deploying a React Native App with Fastlane](https://dbanck.svbtle.com/deploying-a-react-native-app-with-fastlane)
 * [Continuous Integration for React Native Apps With Fastlane and Bitrise (iOS)](http://blog.thebakery.io/continuous-integration-for-react-native-applications-with-fastlane-and-bitrise-ios-version/)
@@ -869,7 +870,6 @@ Components and native modules.
 * [react-native-html-parser ★38](https://github.com/g6ling/react-native-html-parser) - parse html in react-native
 * [pixels-catcher ★26](https://github.com/rumax/react-native-PixelsCatcher) - Library for testing React Native UI components and screens
 * [react-native-aes ★24](https://github.com/mvayngrib/react-native-aes) - AES in react-native
-* [react-native-network-logger ★20](https://github.com/alexbrazier/react-native-network-logger) - An HTTP network request monitor for React Native including an in-app interface.
 * [react-native-hour-format ★20](https://github.com/SoftwareMansion/react-native-hour-format) - Get hour format from OS settings.
 * [react-native-des ★20](https://github.com/remobile/react-native-des) - A des crypto for react-native
 * [react-native-babel-jest ★15](https://github.com/apentle/react-native-babel-jest) - Simple testing configuration for React Native with Jest
