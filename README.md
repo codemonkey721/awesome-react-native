@@ -583,6 +583,7 @@ Components and native modules.
 * [react-native-adbannerview ★52](https://github.com/Purii/react-native-adbannerview) - React Native Bridge for ADBannerView
 * [react-native-fxblurview ★52](https://github.com/magus/react-native-fxblurview) - React Native wrapper for popular FXBlurView library for realtime, fine-tuned blur effects
 * [react-native-beautiful-image ★52](https://github.com/phuochau/react-native-beautiful-image) - The Beautiful Image component that supports fadeIn animation and shows placeholderSource if the main source can't be loaded.
+* [react-native-360-image-viewer ★100](https://github.com/phuochau/react-native-360-image-viewer) - The component helps to simulate 360 degrees image from multiple images.
 * [react-native-fs-modal ★51](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
 * [react-native-toast-native ★51](https://github.com/onemolegames/react-native-toast-native) React Native Toast component for both Android and iOS.
 * [react-native-masked-view ★50](https://github.com/gilbox/react-native-masked-view) - A element for react-native
@@ -1126,7 +1127,6 @@ Components and native modules.
 * [react-native-pouchdb ★38](https://github.com/carbureted/react-native-pouchdb) - Run pouchdb in React Native!
 * [react-native-level-fs ★20](https://github.com/tradle/react-native-level-fs) - fs for react-native using level-filesystem and asyncstorage-down
 * [react-native-mongoose ★17](https://github.com/remobile/react-native-mongoose) - A AsyncStorage based mongoose like storage for react-native
-* [react-native-leveldown](https://github.com/andymatuschak/react-native-leveldown) - Native LevelDB bindings for React Native
 
 ### Backend
 
