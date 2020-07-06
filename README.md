@@ -244,7 +244,6 @@ Content published on the Web.
 
 ### Assorted
 
-* [React Native Twitter Clone](https://www.cosmicjs.com/apps/react-native-twitter-clone) - React Native Twitter Clone powered by the Cosmic Headless CMS. [Read about how it was built](https://www.cosmicjs.com/blog/how-to-make-a-simple-twitter-clone-with-react-native).
 * [Versioning React Native Application in elegant way (cross-platformely) ★10](https://github.com/szhigunov/react-native-npm-version)
 * [Best Practices for Building a Large Scale React Application](https://buttercms.com/blog/best-practices-for-building-a-large-scale-react-application)
 * [React Native - Nic or Not App](https://shift.infinite.red/cage-against-the-machine-a419b6980424)
@@ -281,6 +280,7 @@ Content published on the Web.
 * [Building Stylistic UIs with Emotion-JS for React Native](https://heartbeat.fritz.ai/how-to-use-emotion-js-with-react-native-fccac9c78779)
 * [Getting Started with Firestore and React Native](https://blog.jscrambler.com/getting-started-with-firestore-and-react-native/)
 * [React Native: Native Modules made for React developers](https://blog.photoeditorsdk.com/react-native-native-modules-made-for-react-developers-59ca93c41541) - on the developer experience with 3rd-party libraries for RN 0.60+
+* [Flutter vs React Native - Choosing your approach](https://buttercms.com/blog/flutter-vs-react-native-choosing-your-approach) - Comparison article to help you choose the best approach depending on your project and experience.
 
 ### Continuous Integration
 
