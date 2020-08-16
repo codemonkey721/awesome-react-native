@@ -393,7 +393,6 @@ Components and native modules.
 * [react-native-popover-haobtc ★514](https://github.com/jeanregisser/react-native-popover) - A component for react-native
 * [react-native-dropdown ★507](https://github.com/alinz/react-native-dropdown) - A better Select dropdown menu for react-native
 * [react-native-star-rating ★489](https://github.com/djchie/react-native-star-rating) - A React Native component for generating and displaying interactive star ratings
-* [react-native-rating-element ★8](https://github.com/ui-ninja/react-native-rating-element) - A react native rating system supporting: decimal point's rating, direction aware icons like bottom to top or right to left etc, custom icons from Ionicons, custom images and record rating given by users.
 * [react-native-parallax ★479](https://github.com/oblador/react-native-parallax) - Parallax effects for React Native using Animated API
 * [react-native-sketch ★467](https://github.com/jgrancher/react-native-sketch) - A react-native &lt;Sketch /> component to draw with touch events.
 * [react-native-dialogs ★463](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for <https://github.com/afollestad/material-dialogs>
@@ -611,6 +610,7 @@ Components and native modules.
 * [react-native-grading ★43](https://github.com/Tinysymphony/react-native-grading) - React Native Component for grading scores using ReactART.
 * [react-native-auto-typing-text ★43](https://github.com/phuongla/react-native-auto-typing-text) - An auto typing text component for react-native
 * [react-native-slack-webhook ★42](https://github.com/xcarpentier/react-native-slack-webhook) - Follow some activities (new user, payment,...) from your app via Slack and this webhook lib.
+* [react-native-responsive-linechart ★41](https://github.com/N1ghtly/react-native-responsive-linechart) - Draw Line and Area charts easily. Works responsively.
 * [react-native-simpledialog-android ★41](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
 * [react-native-toolkit ★41](https://github.com/marty-wang/react-native-toolkit) - A collection of common UI components for react native mobile apps.
 * [react-native-draggable-grid ★41](https://github.com/SHISME/react-native-draggable-grid) - A React Native draggable and sortable grid component write by typescript.
