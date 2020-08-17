@@ -610,7 +610,6 @@ Components and native modules.
 * [react-native-grading ★43](https://github.com/Tinysymphony/react-native-grading) - React Native Component for grading scores using ReactART.
 * [react-native-auto-typing-text ★43](https://github.com/phuongla/react-native-auto-typing-text) - An auto typing text component for react-native
 * [react-native-slack-webhook ★42](https://github.com/xcarpentier/react-native-slack-webhook) - Follow some activities (new user, payment,...) from your app via Slack and this webhook lib.
-* [react-native-responsive-linechart ★41](https://github.com/N1ghtly/react-native-responsive-linechart) - Draw Line and Area charts easily. Works responsively.
 * [react-native-simpledialog-android ★41](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
 * [react-native-toolkit ★41](https://github.com/marty-wang/react-native-toolkit) - A collection of common UI components for react native mobile apps.
 * [react-native-draggable-grid ★41](https://github.com/SHISME/react-native-draggable-grid) - A React Native draggable and sortable grid component write by typescript.
@@ -1074,7 +1073,8 @@ Components and native modules.
 * [react-native-camera ★6227](https://github.com/lwansbrough/react-native-camera) - Camera component
 * [react-native-video ★3470](https://github.com/brentvatne/react-native-video) - A Video component for react-native
 * [react-native-sound ★1556](https://github.com/zmxv/react-native-sound) - React Native module for playing sound clips
-* [react-native-audio ★798](https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps.
+* [react-native-audio ★798](https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps. (no longer maintained)
+* [react-native-community/react-native-audio-toolkit ★764](https://github.com/react-native-community/react-native-audio-toolkit) - Audio playback and recording is for react-native. In addition to basic functionality, many useful features are implemented such as seeking, looping and streaming audio files over the network.
 * [react-native-camera-kit ★701](https://github.com/wix/react-native-camera-kit) - Advanced native camera and gallery components and device photos API.
 * [react-native-audio-streaming ★679](https://github.com/tlenclos/react-native-audio-streaming) - iOS & Android module to play an audio stream, with background support and media controls :speaker:
 * [react-native-video-processing ★712](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/filtering library for React-Native
