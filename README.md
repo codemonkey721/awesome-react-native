@@ -885,6 +885,7 @@ Components and native modules.
 * [react-native-tools ★0](https://github.com/kkennis/react-native-tools) - Tools for react native project development
 * [react-native-call-observer](https://github.com/liamse/react-native-call-observer) - Helps to observe call status like incoming, ended, and connected (iOS).
 * [react-native-iphone-se-helper ★0](https://github.com/heyman333/react-native-iphone-se-helper) - utils for developing iphone SE size.
+* [react-native-native-log ★0](https://github.com/JessicaYeh/react-native-native-log) - A React Native log function that under the hood calls native logs.
 * [react-native-mov-to-mp4 ★44](https://github.com/taltultc/react-native-mov-to-mp4) - utils for Converting mov file to mp4 for cross-platform playback compatibility.
 
 ### Forms
@@ -1205,7 +1206,6 @@ Components and native modules.
 * [react-native-realtimestorage-ios ★8](https://github.com/realtime-framework/RCTRealtimeCloudStorage) - The Realtime Framework Cloud Storage client for React-Native
 * [react-native-axmall-alipay ★7](https://github.com/szq4119/react-native-alipay) - react-native alipay
 * [react-native-youtube-oauth ★7](https://github.com/indatawetrust/react-native-youtube-oauth) - react-native interface to login to youtube (iOS)
-* [react-native-intercom-native ★7](https://github.com/mateioprea/react-native-intercom) - native based Intercom implementation for React Native
 * [react-native-hawk ★5](https://github.com/andyscott/react-native-hawk) - Hawk wrapper for react-native
 * [react-native-sumup ★5](https://github.com/APSL/react-native-sumup) - A React Native implementation of SumupSDK.
 * [react-native-instagram ★5](https://github.com/watzak/react-native-instagram) - react-native instagram wrapper api (iOS)
