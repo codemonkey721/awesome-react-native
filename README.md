@@ -1157,6 +1157,7 @@ Components and native modules.
 * [react-native-http ★13](https://github.com/iktw/react-native-jwt) - React native http
 * [react-native-async-http ★5](https://github.com/szq4119/react-native-async-http) - React Native component for async-http
 * [react-native-nchan ★3](https://github.com/indatawetrust/react-native-nchan) - Nchan (pub/sub server) module for React Native
+* [react-native-blob-courier ★8](https://github.com/edeckers/react-native-blob-courier) - Efficiently download and upload blobs on native thread
 
 ### Integrations
 
@@ -1459,7 +1460,6 @@ Open source React Native apps and other examples.
 * [Teaset ★1575](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS(ES6) components, focusing on content display and action control.
 * [Awesome React Native Meteor ★152](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 * [first-born ★106](https://github.com/99xt/first-born) - A UI framework with pre-built components that render separately according to the underlying mobile platform.
-* [OsmiCSX ★48](https://github.com/OsmiCSX/osmicsx) - An utility React Native style framework for rapidly building custom user interfaces.
 * [React Native Diagnose ★13](https://github.com/netbeast/react-native-diagnose) - A framework to test a React Native app during runtime and production
 
 ## Tutorials
