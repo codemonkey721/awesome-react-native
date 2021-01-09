@@ -307,6 +307,7 @@ Components and native modules.
 ### UI
 
 * [lottie-react-native ★10415](https://github.com/airbnb/lottie-react-native) - A mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
+* [react-icomoon](https://github.com/aykutkardas/react-icomoon) - With React-Icomoon you can easily use the icons you have selected or created in icomoon. 📦 Zero Dependencies and Lightweight. 
 * [react-native-vector-icons ★9985](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
 * [react-native-maps ★8388](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
 * [react-native-swiper ★6955](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
@@ -1284,7 +1285,6 @@ Useful React Native tooling.
 * [exponent](https://expo.io/) - Use React Native without XCode (a previewer app + local server infrastructure)
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
 * [react-hook-hooker](https://github.com/fjcaetano/react-hook-hooker) - A nifty little HOC to add hooks to your React components.
-* [React Native Elements Playground 🚀](https://react-native-elements.js.org/) - Tinker with `react-native-elements` components in the web.
 
 ## Seeds
 
