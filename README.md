@@ -307,7 +307,6 @@ Components and native modules.
 ### UI
 
 * [lottie-react-native ★10415](https://github.com/airbnb/lottie-react-native) - A mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
-* [react-icomoon](https://github.com/aykutkardas/react-icomoon) - With React-Icomoon you can easily use the icons you have selected or created in icomoon. 📦 Zero Dependencies and Lightweight. 
 * [react-native-vector-icons ★9985](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
 * [react-native-maps ★8388](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
 * [react-native-swiper ★6955](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
@@ -1415,6 +1414,7 @@ Open source React Native apps and other examples.
 * [Magento 2 Mobile App ★47](https://github.com/troublediehard/magento-react-native) - Magento 2.x mobile app built with React Native
 * [iOS app that transcript your voice with IBM Watson Cloud ★41](https://github.com/yrezgui/meowth-ios)
 * [Splitcloud ★35](https://github.com/egm0121/splitcloud-app) - Share listening to two songs at the same time from Soundcloud (by splitting right/left channels).
+* [ZudVPN ★32](https://github.com/zudvpn/ZudVPN) - Deploy private VPN on major Cloud Providers with [ZudVPN](https://www.zudvpn.com)
 * [Todo List ★31](https://github.com/rishabhbhatia/react-native-todo) - Todo-List app using SwipeView with ES6 standards for iOS and Android.
 * [Paramap ★30](https://github.com/twist900/paramap) - Accessability map. React-native with Redux and Firebase. iOS and Android.
 * [Confreaks ★29](https://github.com/cabaret/confreaks-react-native)
