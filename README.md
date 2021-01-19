@@ -886,6 +886,7 @@ Components and native modules.
 * [react-native-call-observer](https://github.com/liamse/react-native-call-observer) - Helps to observe call status like incoming, ended, and connected (iOS).
 * [react-native-iphone-se-helper ★0](https://github.com/heyman333/react-native-iphone-se-helper) - utils for developing iphone SE size.
 * [react-native-mov-to-mp4 ★44](https://github.com/taltultc/react-native-mov-to-mp4) - utils for Converting mov file to mp4 for cross-platform playback compatibility.
+* [react-native-test-runner ★1](https://github.com/acostalima/react-native-test-runner) - Run unit and integration tests in React Native's environment.
 
 ### Forms
 
@@ -1414,7 +1415,6 @@ Open source React Native apps and other examples.
 * [Magento 2 Mobile App ★47](https://github.com/troublediehard/magento-react-native) - Magento 2.x mobile app built with React Native
 * [iOS app that transcript your voice with IBM Watson Cloud ★41](https://github.com/yrezgui/meowth-ios)
 * [Splitcloud ★35](https://github.com/egm0121/splitcloud-app) - Share listening to two songs at the same time from Soundcloud (by splitting right/left channels).
-* [ZudVPN ★32](https://github.com/zudvpn/ZudVPN) - Deploy private VPN on major Cloud Providers with [ZudVPN](https://www.zudvpn.com)
 * [Todo List ★31](https://github.com/rishabhbhatia/react-native-todo) - Todo-List app using SwipeView with ES6 standards for iOS and Android.
 * [Paramap ★30](https://github.com/twist900/paramap) - Accessability map. React-native with Redux and Firebase. iOS and Android.
 * [Confreaks ★29](https://github.com/cabaret/confreaks-react-native)
