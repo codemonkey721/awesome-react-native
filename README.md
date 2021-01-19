@@ -886,7 +886,6 @@ Components and native modules.
 * [react-native-call-observer](https://github.com/liamse/react-native-call-observer) - Helps to observe call status like incoming, ended, and connected (iOS).
 * [react-native-iphone-se-helper ★0](https://github.com/heyman333/react-native-iphone-se-helper) - utils for developing iphone SE size.
 * [react-native-mov-to-mp4 ★44](https://github.com/taltultc/react-native-mov-to-mp4) - utils for Converting mov file to mp4 for cross-platform playback compatibility.
-* [react-native-test-runner ★1](https://github.com/acostalima/react-native-test-runner) - Run unit and integration tests in React Native's environment.
 
 ### Forms
 
@@ -1158,6 +1157,7 @@ Components and native modules.
 * [react-native-http ★13](https://github.com/iktw/react-native-jwt) - React native http
 * [react-native-async-http ★5](https://github.com/szq4119/react-native-async-http) - React Native component for async-http
 * [react-native-nchan ★3](https://github.com/indatawetrust/react-native-nchan) - Nchan (pub/sub server) module for React Native
+* [fetch ★10](https://github.com/react-native-community/fetch) - A fetch API polyfill for React Native with text streaming support.
 
 ### Integrations
 
