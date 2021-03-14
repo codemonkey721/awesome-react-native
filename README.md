@@ -1284,7 +1284,6 @@ Useful React Native tooling.
 * [exponent](https://expo.io/) - Use React Native without XCode (a previewer app + local server infrastructure)
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
 * [react-hook-hooker](https://github.com/fjcaetano/react-hook-hooker) - A nifty little HOC to add hooks to your React components.
-* [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - An open source Localization CLI tool for finding i18n keys in project files.
 
 ## Seeds
 
@@ -1453,6 +1452,8 @@ Open source React Native apps and other examples.
 * [TensorFlow.js Starter](https://github.com/t73liu/tfjs-starter) - TensorFlow.js starter app using MobileNet to predict image class. [Blog post](https://t73liu.github.io/posts/experimenting-with-tfjs/) for additional context.
 * [Art Museum](https://github.com/pedrobern/react-native-art-museums-app) - Browse through the endless Harvard's Art Museum collection.
 * [NMF.earth ★14](https://github.com/NotMyFaultEarth/nmf-app) - Calculate, understand and reduce your carbon footprint. Available for Android and iOS, using Expo, Redux Toolkit and Typescript.
+* [Post Card App ★1](https://github.com/adarsh0d/postcardApp) - Create old style post card and share on whatsapp as image. Built with Expo and available for android.
+
 
 ## Frameworks
 
