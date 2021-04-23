@@ -366,6 +366,7 @@ Components and native modules.
 * [react-native-tinder-swipe-cards ★881](https://github.com/meteor-factory/react-native-tinder-swipe-cards) - Tinder card style swiping.
 * [react-native-slider ★845](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript component for react-native
 * [react-native-pathjs-charts ★842](https://github.com/capitalone/react-native-pathjs-charts) - Android and iOS charts based on react-native-svg and paths-js
+* [react-native-flash-message ★810](https://github.com/lucasferreira/react-native-flash-message#readme) - React Native flashbar and top notification alert utility
 * [react-native-svg-charts ★764](https://github.com/JesperLekland/react-native-svg-charts) - One library to rule all charts for React Native
 * [react-native-masonry ★758](https://github.com/brh55/react-native-masonry) - A masonry~ish layout for rendering images.
 * [react-native-credit-card-input ★742](https://github.com/sbycrosz/react-native-credit-card-input) - 💳 💳 Easy (and good looking) credit-card input for your React Native Project
@@ -1341,7 +1342,6 @@ Libraries / SDK type additions for React Native development.
 
 Open source React Native apps and other examples.
 
-* [Artsy](https://github.com/artsy/eigen) - The mobile app for [artsy.net](https://artsy.net). Discover fine Art. The Art world in your Pocket.
 * [f8app ★13070](https://github.com/fbsamples/f8app) - Official F8 (Facebook Developer Conference) app of 2017. See [blog post](http://makeitopen.com/blog/2017/12/04/blog-post-f82017-open-source.html).
 * [30-days-of-react-native ★5192](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native examples (inspired by 30DaysofSwift)
 * [react-native-nw-react-calculator ★4624](https://github.com/benoitvallon/react-native-nw-react-calculator) - A mobile, desktop and website App with the same code
